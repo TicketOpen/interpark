@@ -1,4 +1,4 @@
-[interpark]
+[ticket]
 title = "인터파크 티켓"
 url = "http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&pageno=0&stext=&KindOfGoods=&Genre=&sort="
 entrySelector = "tbody > tr"
@@ -7,7 +7,7 @@ linkSelector = "td.subject a"
 contentSelector = "td[class='date']"
 waitUntil = "networkidle"
 
-[interpark_m]
+[ticket_m]
 title = "인터파크 티켓 모바일"
 url = "http://mticket.interpark.com/Notice/"
 entrySelector = "div[class='list'] div.item"
