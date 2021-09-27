@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Sep 2021 14:39:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 15:43:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -89,13 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006978_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2021힐링Live콘서트 - 청주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40787</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40787</guid>
-            <pubDate>Mon, 27 Sep 2021 01:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.27
+            <title><![CDATA[쏜애플 콘서트 ＇수성의 하루＇ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40786</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40786</guid>
+            <pubDate>Mon, 27 Sep 2021 15:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.28
                                     <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008770_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008684_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
