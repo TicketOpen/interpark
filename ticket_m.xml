@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 04:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 05:38:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안드라스 쉬프 피아노 리사이틀 - 울산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40800</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40800</guid>
+            <pubDate>Tue, 28 Sep 2021 05:38:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.09.30
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092720185504.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 창업 3차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40799</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.10.01
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092415504572.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 노을 연말 투어 콘서트 ［노을이 내린 밤］ - 고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40790</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40790</guid>
-            <pubDate>Mon, 27 Sep 2021 05:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092318371160.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
