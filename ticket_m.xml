@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 07:39:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 08:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 오노프 콘서트 V. 최백호 X 박주원 X 유채훈 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40806</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40806</guid>
+            <pubDate>Tue, 28 Sep 2021 08:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092816512162.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[창작뮤지컬 〈메이사의 노래〉 언택트 공연 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40805</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.09.30
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007832_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track.36 백아 단독 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40796</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40796</guid>
-            <pubDate>Mon, 27 Sep 2021 09:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.09.29
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092518364541.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
