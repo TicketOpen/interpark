@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 01:48:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 02:50:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40818</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40818</guid>
+            <pubDate>Thu, 30 Sep 2021 02:50:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005689_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[아트센터인천 콘서트 오페라 시리즈 Ⅱ 〈박쥐〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40817</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40817</guid>
+            <pubDate>Thu, 30 Sep 2021 02:50:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092810450210.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬〈알사탕〉-제주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40816</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.10.06
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007693_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이찬원 첫번째 팬콘서트 ‘Chan’s Time’ 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40808</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40808</guid>
-            <pubDate>Wed, 29 Sep 2021 03:43:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008728_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 ＂비밀의 문＂ - 고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40807</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40807</guid>
-            <pubDate>Wed, 29 Sep 2021 01:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.05
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092713302478.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
