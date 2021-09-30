@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 04:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 05:39:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬〈엔딩 노트〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40821</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40821</guid>
+            <pubDate>Thu, 30 Sep 2021 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20210930020241.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이승윤, 정홍일, 이무진 싱어게인 TOP3 전국투어 콘서트 - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40820</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40820</guid>
+            <pubDate>Thu, 30 Sep 2021 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093010111775.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬〈하데스타운〉 최초 한국 공연 (MUSICAL HADESTOWN) 4차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40819</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40819</guid>
+            <pubDate>Thu, 30 Sep 2021 05:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005196_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈헤드윅〉 마지막 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40818</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.10.05
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092816092887.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈우주대스타〉 앵콜 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40811</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40811</guid>
-            <pubDate>Wed, 29 Sep 2021 05:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008498_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 배우 김소향 콘서트 〈향:하다〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40810</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40810</guid>
-            <pubDate>Wed, 29 Sep 2021 05:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092801204616.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40809</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40809</guid>
-            <pubDate>Wed, 29 Sep 2021 05:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007693_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
