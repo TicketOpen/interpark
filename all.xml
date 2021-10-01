@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 05:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 06:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40845&amp;groupno=40845&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40845&amp;groupno=40845&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 01 Oct 2021 06:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.06(수)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[유니버설발레단 <호두까기인형> 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40844&amp;groupno=40844&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40844&amp;groupno=40844&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 01 Oct 2021 06:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07(목)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2021 노을 연말 투어 콘서트 ［노을이 내린 밤］ - 대전 티켓오픈 안.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40843&amp;groupno=40843&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[21.09.30(목)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈엑스칼리버〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40826&amp;groupno=40826&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40826&amp;groupno=40826&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 30 Sep 2021 08:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.07(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40845</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40845</guid>
+            <pubDate>Fri, 01 Oct 2021 06:48:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092916062494.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈V 에버 애프터〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40825&amp;groupno=40825&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40825&amp;groupno=40825&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 30 Sep 2021 08:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.05(화)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[유니버설발레단 <호두까기인형> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40844</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40844</guid>
+            <pubDate>Fri, 01 Oct 2021 06:48:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 노을 연말 투어 콘서트 ［노을이 내린 밤］ - 대전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2021.10.07
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093012005623.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 폴킴 전국투어 콘서트 〈투성이〉 투어 및 티켓 오픈일정 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40833</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40833</guid>
-            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211001015909.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니버설발레단 〈호두까기인형〉 - 고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40832</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40832</guid>
-            <pubDate>Fri, 01 Oct 2021 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008775_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
