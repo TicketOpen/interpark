@@ -4,9 +4,90 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 04:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 05:38:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 노을 연말 투어 콘서트 ［노을이 내린 밤］ - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40843</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40843</guid>
+            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211001022048.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈소품 장례식〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40841</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40841</guid>
+            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.01
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008904_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 ＇뮤지컬 〈블랙메리포핀스〉 앵콜＇ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40840</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40840</guid>
+            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093015533921.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 그레이트 콘서트 시리즈 〈라포엠 ＆ 라비던스〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40839</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40839</guid>
+            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100113351436.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40838</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40838</guid>
+            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093017133654.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 울산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40836</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40836</guid>
+            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093015062234.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 창원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40835</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40835</guid>
+            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093012441279.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈시카고〉 - 안동 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40834</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40834</guid>
+            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093012005623.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 폴킴 전국투어 콘서트 〈투성이〉 투어 및 티켓 오픈일정 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40833</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40833</guid>
+            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.12
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211001015909.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유니버설발레단 〈호두까기인형〉 - 고양 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40832</link>
@@ -15,87 +96,6 @@
             <content:encoded><![CDATA[2021.10.01
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008775_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[카더가든 단독 공연 〈2주의 가든 : 11〉 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40831</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40831</guid>
-            <pubDate>Fri, 01 Oct 2021 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.05
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008899_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[HYNN(박혜원) 콘서트 - 흰, 가을 산책 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40830</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40830</guid>
-            <pubDate>Fri, 01 Oct 2021 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093014394466.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈산타와 빈양말〉 - 국립중앙박물관 극장용 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40829</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40829</guid>
-            <pubDate>Fri, 01 Oct 2021 01:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093016320607.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE GREATEST:전율 정동하 X 소 향 - 서울 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40828</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40828</guid>
-            <pubDate>Fri, 01 Oct 2021 01:48:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092818083299.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈엑스칼리버〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40826</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40826</guid>
-            <pubDate>Thu, 30 Sep 2021 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005816_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈V 에버 애프터〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40825</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40825</guid>
-            <pubDate>Thu, 30 Sep 2021 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.05
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007215_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 뮤지컬 〈브라더스 까라마조프〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40824</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40824</guid>
-            <pubDate>Thu, 30 Sep 2021 06:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.05
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092712575205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔니오 모리꼬네 심포니 시네마 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40823</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40823</guid>
-            <pubDate>Thu, 30 Sep 2021 06:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008871_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[바리톤 김주택 뮤직 라이브러리 Act 1. The Classic 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40822</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40822</guid>
-            <pubDate>Thu, 30 Sep 2021 06:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092816140888.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
