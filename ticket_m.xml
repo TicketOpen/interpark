@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 14:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 15:45:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211001022048.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈소품 장례식〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40841</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40841</guid>
-            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.01
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008904_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2021 웰컴대학로-웰컴씨어터 ＇뮤지컬 〈블랙메리포핀스〉 앵콜＇ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40840</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40840</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2021.10.06
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093017133654.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 울산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40836</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40836</guid>
+            <pubDate>Fri, 01 Oct 2021 15:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093015062234.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
