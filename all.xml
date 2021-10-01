@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Oct 2021 08:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 09:42:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=40818&amp;groupno=40818&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 01 Oct 2021 07:38:47 GMT</pubDate>
             <content:encoded><![CDATA[21.10.01(금)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 추가티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40848&amp;groupno=40848&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40848&amp;groupno=40848&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 01 Oct 2021 09:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.05(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 대구 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -134,11 +141,13 @@
             <content:encoded><![CDATA[21.10.08(금)&nbsp;17:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈산타와 빈양말〉 - 국립중앙박물관 극장용 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40829&amp;groupno=40829&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40829&amp;groupno=40829&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 01 Oct 2021 01:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.08(금)&nbsp;12:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40848</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40848</guid>
+            <pubDate>Fri, 01 Oct 2021 09:42:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.05
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004532_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2021.10.06
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093017133654.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 울산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40836</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40836</guid>
-            <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021093015062234.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
