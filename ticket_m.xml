@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Oct 2021 04:51:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Oct 2021 05:38:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,7 +62,7 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211001022048.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 ＇뮤지컬 〈블랙메리포핀스〉 앵콜＇ 티켓오픈 안내]]></title>
+            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 ＇뮤지컬 〈블랙메리포핀스〉＇ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40840</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40840</guid>
             <pubDate>Fri, 01 Oct 2021 05:38:45 GMT</pubDate>
