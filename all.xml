@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 07:38:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 08:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈인사이드〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40863&amp;groupno=40863&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40863&amp;groupno=40863&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 05 Oct 2021 08:44:46 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.08(금)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이은결 〈THE ILLUSION〉- 고양 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40862&amp;groupno=40862&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.10.06(수)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40845&amp;groupno=40845&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40845&amp;groupno=40845&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 01 Oct 2021 06:48:43 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.06(수)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[연극 〈인사이드〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40863</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40863</guid>
+            <pubDate>Tue, 05 Oct 2021 08:44:56 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008304_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이은결 〈THE ILLUSION〉- 고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.10.13
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009146_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[코리안 심포니 오케스트라와 만나는〈시네마 클래식 데이〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40852</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40852</guid>
-            <pubDate>Tue, 05 Oct 2021 01:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
