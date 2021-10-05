@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 05:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 06:48:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레이어스 클래식 라이브 콘서트 2021 - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40861</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40861</guid>
+            <pubDate>Tue, 05 Oct 2021 06:48:44 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100511105287.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어린이베스트셀러 뮤지컬 〈누가 내머리에 똥쌌어？〉 - 원주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40860</link>
@@ -41,7 +50,7 @@
             <pubDate>Tue, 05 Oct 2021 02:48:24 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.06
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0002761_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[이은결〈MAGIC ＆ ILLUSION〉- 청주 티켓오픈 안내]]></title>
@@ -83,15 +92,6 @@
             <title><![CDATA[뮤지컬〈노트르담 드 파리〉- 프렌치 오리지널 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40851</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40851</guid>
-            <pubDate>Tue, 05 Oct 2021 01:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［Live Up!］ep.3 홍이삭 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40850</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40850</guid>
             <pubDate>Tue, 05 Oct 2021 01:40:44 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.08
                                     <span>14:00</span>]]></content:encoded>
