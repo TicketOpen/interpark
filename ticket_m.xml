@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 01:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 02:48:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈 필하모닉 & 리카르도 무티 Wiener Philharmoniker & Riccardo Muti 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40856</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40856</guid>
+            <pubDate>Tue, 05 Oct 2021 02:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이은결〈MAGIC ＆ ILLUSION〉 - 청주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40855</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40855</guid>
+            <pubDate>Tue, 05 Oct 2021 02:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100117251589.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40854</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40854</guid>
+            <pubDate>Tue, 05 Oct 2021 02:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈레베카〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40853</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.10.06
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092916123123.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 장민호 단독 콘서트 투어 “드라마” - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40846</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40846</guid>
-            <pubDate>Fri, 01 Oct 2021 07:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211005092932.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40845</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40845</guid>
-            <pubDate>Fri, 01 Oct 2021 06:48:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092916062494.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니버설발레단 <호두까기인형> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40844</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40844</guid>
-            <pubDate>Fri, 01 Oct 2021 06:48:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
