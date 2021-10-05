@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 03:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 04:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어린이베스트셀러 뮤지컬 〈누가 내머리에 똥쌌어？〉 - 원주 티켓오.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40860&amp;groupno=40860&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40860&amp;groupno=40860&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 05 Oct 2021 04:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07(목)&nbsp;10:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[몸으로만 알 수 있는 것들 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40859&amp;groupno=40859&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.10.06(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Seori 1st Concert 〈Seori in the night〉- 공연 취소 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40842&amp;groupno=40842&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40842&amp;groupno=40842&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 01 Oct 2021 05:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+            <title><![CDATA[어린이베스트셀러 뮤지컬 〈누가 내머리에 똥쌌어？〉 - 원주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40860</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40860</guid>
+            <pubDate>Tue, 05 Oct 2021 04:52:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[몸으로만 알 수 있는 것들 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.10.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 4차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40849</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40849</guid>
-            <pubDate>Tue, 05 Oct 2021 01:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004532_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
