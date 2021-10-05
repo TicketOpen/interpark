@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 02:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 03:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[몸으로만 알 수 있는 것들 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40859</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40859</guid>
+            <pubDate>Tue, 05 Oct 2021 03:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.05
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092923495630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[RE:SPES ANDONG 2021×롤링홀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40857</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40857</guid>
+            <pubDate>Tue, 05 Oct 2021 03:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.07
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211005120413.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빈 필하모닉 & 리카르도 무티 Wiener Philharmoniker & Riccardo Muti 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40856</link>
@@ -17,7 +35,7 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이은결〈MAGIC ＆ ILLUSION〉 - 청주 티켓오픈 안내]]></title>
+            <title><![CDATA[이은결〈MAGIC ＆ ILLUSION〉- 청주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40855</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40855</guid>
             <pubDate>Tue, 05 Oct 2021 02:48:24 GMT</pubDate>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.10.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004532_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40848</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40848</guid>
-            <pubDate>Fri, 01 Oct 2021 09:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004532_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40847</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40847</guid>
-            <pubDate>Fri, 01 Oct 2021 07:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.06
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021092916123123.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
