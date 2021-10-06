@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 01:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 02:49:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,7 +23,7 @@
             <pubDate>Tue, 05 Oct 2021 09:41:57 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.08
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100517202272.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211006111235.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Have A Nice Day - the Weekend 10/24(일) 7PM 회차 티켓오픈 안내]]></title>
