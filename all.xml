@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Oct 2021 08:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 09:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 SOMEDAY THEATRE CANTABILE 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40883&amp;groupno=40883&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40883&amp;groupno=40883&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 06 Oct 2021 09:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.07(목)&nbsp;17:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2021 SOMEDAY THEATRE CANTABILE ＃4 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40881&amp;groupno=40881&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,17 +134,10 @@
             <content:encoded><![CDATA[21.10.08(금)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[로드킬 인 더 씨어터 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40864&amp;groupno=40864&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40864&amp;groupno=40864&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 05 Oct 2021 09:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.08(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2021 SOMEDAY THEATRE CANTABILE 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40882</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40882</guid>
-            <pubDate>Wed, 06 Oct 2021 08:44:14 GMT</pubDate>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40883</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40883</guid>
+            <pubDate>Wed, 06 Oct 2021 09:42:15 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.07
                                     <span>17:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008578_p.gif" length="0" type="image/gif"/>
