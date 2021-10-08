@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 14:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 15:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -197,15 +197,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009281_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2021 웰컴대학로-웰컴씨어터 ＇뮤지컬 〈더 라스트맨〉 리딩공연＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40914</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40914</guid>
-            <pubDate>Fri, 08 Oct 2021 05:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100715483182.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021 노을 연말 투어 콘서트 ［노을이 내린 밤］- 서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40913</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40913</guid>
@@ -222,6 +213,15 @@
             <content:encoded><![CDATA[2021.10.14
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211008015756.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 거미 전국투어 콘서트 〈다시, Winter Ballad〉 - 서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40911</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40911</guid>
+            <pubDate>Fri, 08 Oct 2021 15:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100617404280.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
