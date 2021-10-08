@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 01:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 02:50:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈아가사 AGATHA〉 5차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40908</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40908</guid>
+            <pubDate>Fri, 08 Oct 2021 02:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006407_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈베로나의 두 신사〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40907</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40907</guid>
+            <pubDate>Fri, 08 Oct 2021 02:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.08
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100711504329.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[극단 벼랑끝날다의 〈Dramusician Concert〉 with 가수 바다 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40906</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.10.14
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008252_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[［대구］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40898</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40898</guid>
-            <pubDate>Thu, 07 Oct 2021 05:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100617275487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“ENCORE” The French Musical Concert (울산) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40897</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40897</guid>
-            <pubDate>Thu, 07 Oct 2021 05:39:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100620225024.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
