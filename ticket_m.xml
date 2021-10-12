@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 03:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 04:51:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈경종수정실록〉 5차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40925</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40925</guid>
+            <pubDate>Tue, 12 Oct 2021 04:51:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006978_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[안녕？ 손호영 〈Hello？ SHY〉 - 부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40924</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.10.15
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007810_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[안단테 더 포에트리_성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40915</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40915</guid>
-            <pubDate>Fri, 08 Oct 2021 05:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009281_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
