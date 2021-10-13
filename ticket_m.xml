@@ -4,17 +4,35 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 23:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 01:46:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[인기현상 1st 단독 콘서트 〈The 인기현상 : Launch Detected〉 - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40938</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40938</guid>
-            <pubDate>Tue, 12 Oct 2021 08:44:42 GMT</pubDate>
+            <title><![CDATA[뮤지컬 〈트레이스 유〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40941</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40941</guid>
+            <pubDate>Wed, 13 Oct 2021 01:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007110_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 우아한 클래식 〈노래의 나라 - 이탈리아〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40940</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40940</guid>
+            <pubDate>Wed, 13 Oct 2021 01:46:14 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.19
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211012044348.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101214492380.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈시카고〉 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40939</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40939</guid>
+            <pubDate>Wed, 13 Oct 2021 01:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101216395698.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[〈2021 VERY MERRY ZIGU DAY〉 (2021 베리메리 지구데이) 티켓오픈 안내]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.10.15
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/20/20009530_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 김희재 팬콘서트 ‘별, 그대’ 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40929</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40929</guid>
-            <pubDate>Tue, 12 Oct 2021 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.14
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009206_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40928</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40928</guid>
-            <pubDate>Tue, 12 Oct 2021 15:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007693_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
