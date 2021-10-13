@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:39:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 06:49:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 오르간 오딧세이 III. 크리스마스 판타지 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40950</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40950</guid>
+            <pubDate>Wed, 13 Oct 2021 06:49:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100721470483.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫 티켓오픈! 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40949</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.10.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101214492380.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시카고〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40939</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40939</guid>
-            <pubDate>Wed, 13 Oct 2021 01:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.19
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101216395698.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
