@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 14:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 15:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,15 +188,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101314395739.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어썸 뮤직 페스티벌 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40955</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40955</guid>
-            <pubDate>Thu, 14 Oct 2021 04:51:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.14
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009495_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2021 김창옥 토크콘서트 시즌 2 - 세종 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40954</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40954</guid>
@@ -222,6 +213,15 @@
             <content:encoded><![CDATA[2021.10.18
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006800_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈곤 투모로우〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40951</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40951</guid>
+            <pubDate>Thu, 14 Oct 2021 15:45:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101411144391.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
