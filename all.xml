@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 06:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬 ＇ 미니특공대 애니멀트론＇ 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40959&amp;groupno=40959&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40959&amp;groupno=40959&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 14 Oct 2021 06:48:36 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.20(수)&nbsp;09:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬〈엔딩 노트〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40958&amp;groupno=40958&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[&nbsp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈트레이스 유〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40941&amp;groupno=40941&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40941&amp;groupno=40941&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 13 Oct 2021 01:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.15(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[가족뮤지컬 ＇ 미니특공대 애니멀트론＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40959</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40959</guid>
+            <pubDate>Thu, 14 Oct 2021 06:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.20
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101322285405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬〈엔딩 노트〉 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -185,7 +194,7 @@
             <pubDate>Thu, 14 Oct 2021 02:49:23 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.15
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101218225430.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009696_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈미인〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.10.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100721470483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최현우 〈더 브레인 THE BRAIN〉 블록버스터급 멘탈매직쇼 첫 티켓오픈! 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40949</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40949</guid>
-            <pubDate>Wed, 13 Oct 2021 05:39:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101310320143.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
