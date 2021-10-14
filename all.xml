@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 07:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 08:45:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NELL’S SEASON 2021 encore - ‘Bits and pieces’ 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40960&amp;groupno=40960&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40960&amp;groupno=40960&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 14 Oct 2021 08:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.22(금)&nbsp;20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬 ＇ 미니특공대 애니멀트론＇ 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40959&amp;groupno=40959&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.10.18(월)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[세종문화회관] 네트워크 작업으로 인한 실시간 연동 판매 서비스 중.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40942&amp;groupno=40942&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40942&amp;groupno=40942&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 13 Oct 2021 01:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+            <title><![CDATA[NELL’S SEASON 2021 encore - ‘Bits and pieces’ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40960</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40960</guid>
+            <pubDate>Thu, 14 Oct 2021 08:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/21/21_34_40960.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 ＇ 미니특공대 애니멀트론＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.10.19
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101411144391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 오르간 오딧세이 III. 크리스마스 판타지 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40950</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40950</guid>
-            <pubDate>Wed, 13 Oct 2021 06:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100721470483.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
