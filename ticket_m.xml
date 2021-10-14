@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 04:51:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 05:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬〈엔딩 노트〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40958</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40958</guid>
+            <pubDate>Thu, 14 Oct 2021 05:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009213_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[［광주］2021 김연자 라이브 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40957</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40957</guid>
+            <pubDate>Thu, 14 Oct 2021 05:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101315224733.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［대구］2021 김연자 라이브 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40956</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40956</guid>
+            <pubDate>Thu, 14 Oct 2021 05:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101314395739.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어썸 뮤직 페스티벌 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40955</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.10.20
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101310320143.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈퍼밴드2 콘서트 - 광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40948</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40948</guid>
-            <pubDate>Wed, 13 Oct 2021 05:39:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101214423067.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈아가사 AGATHA〉 ［일정변경］ 5차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40947</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40947</guid>
-            <pubDate>Wed, 13 Oct 2021 04:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006407_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈오늘하루〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40946</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40946</guid>
-            <pubDate>Wed, 13 Oct 2021 04:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100916181126.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
