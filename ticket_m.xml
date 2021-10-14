@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 03:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 04:51:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어썸 뮤직 페스티벌 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40955</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40955</guid>
+            <pubDate>Thu, 14 Oct 2021 04:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.14
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009495_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 김창옥 토크콘서트 시즌 2 - 세종 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40954</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40954</guid>
+            <pubDate>Thu, 14 Oct 2021 04:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101223230873.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트 〉 - 부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40953</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.10.15
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100916181126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.8 〈임세모〉 - 온라인 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40945</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40945</guid>
-            <pubDate>Wed, 13 Oct 2021 04:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.14
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009539_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 레트로 k-뮤지컬 여성국극 라이징 in 안산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40944</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40944</guid>
-            <pubDate>Wed, 13 Oct 2021 04:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.15
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100822060432.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
