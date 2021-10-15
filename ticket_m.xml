@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 01:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 02:50:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈Is God Is〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40971</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40971</guid>
+            <pubDate>Fri, 15 Oct 2021 02:50:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.18
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101210272252.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬〈쿠로이 저택엔 누가 살고 있을까？〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40970</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40970</guid>
+            <pubDate>Fri, 15 Oct 2021 02:50:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101422353433.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼밴드2 콘서트 - 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40969</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40969</guid>
+            <pubDate>Fri, 15 Oct 2021 02:50:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101417265021.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[〈치즈CHEEZE 콘서트〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40968</link>
@@ -58,7 +85,7 @@
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40963</guid>
             <pubDate>Fri, 15 Oct 2021 01:44:34 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.20
-                                    <span>15:00</span>]]></content:encoded>
+                                    <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021100514111393.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.10.21
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101210572760.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 콘서트 ＇위에서 그러했듯이 아래에서도＇ - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40961</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40961</guid>
-            <pubDate>Thu, 14 Oct 2021 09:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.21
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101322265202.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NELL’S SEASON 2021 encore - ‘Bits and pieces’ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40960</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40960</guid>
-            <pubDate>Thu, 14 Oct 2021 08:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/21/21_34_40960.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 ＇ 미니특공대 애니멀트론＇ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40959</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40959</guid>
-            <pubDate>Thu, 14 Oct 2021 06:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101322285405.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
