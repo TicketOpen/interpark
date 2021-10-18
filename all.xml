@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 03:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 04:51:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40990&amp;groupno=40990&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40990&amp;groupno=40990&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 18 Oct 2021 04:51:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.21(목)&nbsp;11:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[인피니티 플라잉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40989&amp;groupno=40989&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.10.20(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 오노프 콘서트 V. 최백호 X 박주원 X 유채훈 추가회차 오픈 안.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40972&amp;groupno=40972&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40972&amp;groupno=40972&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 15 Oct 2021 05:38:35 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.22(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40990</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40990</guid>
+            <pubDate>Mon, 18 Oct 2021 04:51:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007832_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[인피니티 플라잉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.10.18
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007215_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈클림트 : 그 영혼의 시간속으로〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40980</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40980</guid>
-            <pubDate>Fri, 15 Oct 2021 08:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006549_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
