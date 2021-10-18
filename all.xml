@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 05:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 06:49:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하성운(HA SUNG WOON) Forest ＆ in 대구 공연 취소 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40992&amp;groupno=40992&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40992&amp;groupno=40992&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 18 Oct 2021 06:49:32 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[별은 빛나건만: 오페라 ＆ 크로스오버 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40991&amp;groupno=40991&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40991&amp;groupno=40991&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 18 Oct 2021 06:49:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.19(화)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40990&amp;groupno=40990&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,13 @@
             <content:encoded><![CDATA[21.10.20(수)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(2021 고양) 뮤지컬 루돌프와 산타클로스 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40974&amp;groupno=40974&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40974&amp;groupno=40974&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 15 Oct 2021 06:48:56 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.20(수)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[낭독뮤지컬 〈라스 올라스〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40973&amp;groupno=40973&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=40973&amp;groupno=40973&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 15 Oct 2021 06:48:56 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.20(수)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[별은 빛나건만: 오페라 ＆ 크로스오버 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40991</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40991</guid>
+            <pubDate>Mon, 18 Oct 2021 06:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009804_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.10.19
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211015060008.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈V 에버 애프터〉 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40981</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=40981</guid>
-            <pubDate>Fri, 15 Oct 2021 09:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.18
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007215_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
