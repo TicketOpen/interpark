@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 01:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 02:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol.9 〈케빈오〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41019</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41019</guid>
+            <pubDate>Wed, 20 Oct 2021 02:51:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101516292262.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol.9 〈케빈오〉 - 온라인 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41018</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41018</guid>
+            <pubDate>Wed, 20 Oct 2021 02:51:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101516265391.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 ＂비밀의 문＂ - 창원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41017</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41017</guid>
+            <pubDate>Wed, 20 Oct 2021 02:51:18 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101915184741.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시간을 파는 상점 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41016</link>
@@ -68,33 +95,6 @@
             <content:encoded><![CDATA[2021.10.22
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101319560181.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트릿 우먼 파이터 ［ON THE STAGE］ - 창원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41009</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41009</guid>
-            <pubDate>Tue, 19 Oct 2021 08:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101816290504.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트릿 우먼 파이터 ［ON THE STAGE］ - 광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41008</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41008</guid>
-            <pubDate>Tue, 19 Oct 2021 08:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101913195986.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트릿 우먼 파이터［ON THE STAGE］- 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41007</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41007</guid>
-            <pubDate>Tue, 19 Oct 2021 08:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101514510003.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
