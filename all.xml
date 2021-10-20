@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 07:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 08:45:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 폴킴 전국투어 콘서트 〈투성이〉 - 서울 추가티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41028&amp;groupno=41028&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41028&amp;groupno=41028&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 20 Oct 2021 08:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.22(금)&nbsp;17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41027&amp;groupno=41027&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41027&amp;groupno=41027&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 20 Oct 2021 08:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27(수)&nbsp;11:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈어쩌면 해피엔딩〉 Live 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41026&amp;groupno=41026&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[21.10.22(금)&nbsp;19:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[스트릿 우먼 파이터 ［ON THE STAGE］ - 창원 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41009&amp;groupno=41009&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41009&amp;groupno=41009&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 19 Oct 2021 08:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.22(금)&nbsp;17:00]]></content:encoded>
+            <title><![CDATA[2021 폴킴 전국투어 콘서트 〈투성이〉 - 서울 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41028</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41028</guid>
+            <pubDate>Wed, 20 Oct 2021 08:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009258_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[스트릿 우먼 파이터 ［ON THE STAGE］ - 광주 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41008&amp;groupno=41008&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41008&amp;groupno=41008&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 19 Oct 2021 08:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.22(금)&nbsp;16:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈레베카〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41027</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41027</guid>
+            <pubDate>Wed, 20 Oct 2021 08:45:24 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.27
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009146_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈어쩌면 해피엔딩〉 Live 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2021.10.21
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101516265391.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 ＂비밀의 문＂ - 창원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41017</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41017</guid>
-            <pubDate>Wed, 20 Oct 2021 02:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101915184741.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간을 파는 상점 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41016</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41016</guid>
-            <pubDate>Wed, 20 Oct 2021 01:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.21
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101514440831.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
