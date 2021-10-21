@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-21T17:09:07.010Z</updated>
+    <updated>2021-10-21T17:45:43.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (인터파크 티켓)]]></title>
         <id>https://TicketOpen.github.io/interpark/all.xml</id>
         <link href="https://TicketOpen.github.io/interpark/all.xml"/>
-        <updated>2021-10-21T17:09:01.808Z</updated>
+        <updated>2021-10-21T17:45:38.464Z</updated>
         <content type="html"><![CDATA[<td>쇼핑 서비스</td>
                   <td>2021-10-22 02:00~07:00 AM (KST)</td>]]></content>
     </entry>
@@ -16,7 +16,7 @@
         <title type="html"><![CDATA[undefined (인터파크 티켓)]]></title>
         <id>https://TicketOpen.github.io/interpark/all.xml</id>
         <link href="https://TicketOpen.github.io/interpark/all.xml"/>
-        <updated>2021-10-21T17:09:01.810Z</updated>
+        <updated>2021-10-21T17:45:38.465Z</updated>
         <content type="html"><![CDATA[<td>도서 서비스</td>
                   <td>2021-10-22 02:00~07:00 AM (KST)</td>]]></content>
     </entry>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[undefined (인터파크 티켓)]]></title>
         <id>https://TicketOpen.github.io/interpark/all.xml</id>
         <link href="https://TicketOpen.github.io/interpark/all.xml"/>
-        <updated>2021-10-21T17:09:01.812Z</updated>
+        <updated>2021-10-21T17:45:38.466Z</updated>
         <content type="html"><![CDATA[<td>티켓 서비스</td>
                   <td>2021-10-22 02:00~07:00 AM (KST)</td>]]></content>
     </entry>
@@ -32,7 +32,7 @@
         <title type="html"><![CDATA[undefined (인터파크 티켓)]]></title>
         <id>https://TicketOpen.github.io/interpark/all.xml</id>
         <link href="https://TicketOpen.github.io/interpark/all.xml"/>
-        <updated>2021-10-21T17:09:01.813Z</updated>
+        <updated>2021-10-21T17:45:38.467Z</updated>
         <content type="html"><![CDATA[<td>투어 서비스</td>
                   <td>2021-10-22 02:00~07:00 AM (KST)</td>]]></content>
     </entry>
@@ -40,7 +40,7 @@
         <title type="html"><![CDATA[undefined (인터파크 티켓)]]></title>
         <id>https://TicketOpen.github.io/interpark/all.xml</id>
         <link href="https://TicketOpen.github.io/interpark/all.xml"/>
-        <updated>2021-10-21T17:09:01.815Z</updated>
+        <updated>2021-10-21T17:45:38.469Z</updated>
         <content type="html"><![CDATA[<td>글로벌 서비스</td>
                   <td>2021-10-22 02:00~07:00 AM (KST)</td>]]></content>
     </entry>
