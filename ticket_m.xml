@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 23:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 01:51:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쇼팽으로 만나는 지브리 앙상블 베스트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41031</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41031</guid>
+            <pubDate>Thu, 21 Oct 2021 01:51:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.21
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101915300714.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 첼로의 성가 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41030</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41030</guid>
+            <pubDate>Thu, 21 Oct 2021 01:51:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102011354080.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 41 빌리어코스티 단독 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41029</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41029</guid>
+            <pubDate>Thu, 21 Oct 2021 01:51:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101913282543.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 폴킴 전국투어 콘서트 〈투성이〉 - 서울 추가티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41028</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.10.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101917062184.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 LEO Special LIVE ［I’m Still Here］ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41020</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41020</guid>
-            <pubDate>Wed, 20 Oct 2021 05:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010072_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.9 〈케빈오〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41019</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41019</guid>
-            <pubDate>Wed, 20 Oct 2021 02:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.21
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101516292262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.9 〈케빈오〉 - 온라인 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41018</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41018</guid>
-            <pubDate>Wed, 20 Oct 2021 02:51:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.21
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101516265391.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
