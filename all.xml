@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 05:39:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 06:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -149,7 +149,7 @@
             <pubDate>Thu, 21 Oct 2021 05:39:08 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.25
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211021023932.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021 황치열 콘서트 - 영화 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
