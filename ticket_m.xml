@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 06:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 07:39:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 산타와 빈양말 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41050</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41050</guid>
+            <pubDate>Fri, 22 Oct 2021 07:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.22
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101814313765.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 ‘세계문명탐험대-태양의나라이집트’ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41049</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41049</guid>
+            <pubDate>Fri, 22 Oct 2021 07:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.29
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211022040233.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트_고양 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41048</link>
@@ -23,7 +41,7 @@
             <pubDate>Fri, 22 Oct 2021 05:38:46 GMT</pubDate>
             <content:encoded><![CDATA[2021.10.29
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102112335920.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010169_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈줄리엣과 줄리엣〉 2차 티켓오픈 안내]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.10.26
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헐리우드 인 크리스마스 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41038</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41038</guid>
-            <pubDate>Thu, 21 Oct 2021 22:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021101512430454.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이승윤, 정홍일, 이무진 싱어게인 TOP3 전국투어 콘서트 - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41036</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41036</guid>
-            <pubDate>Thu, 21 Oct 2021 22:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211021023932.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
