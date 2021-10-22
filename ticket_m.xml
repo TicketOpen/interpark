@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 23:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 01:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬〈헤드윅〉 - 인천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41043</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41043</guid>
+            <pubDate>Fri, 22 Oct 2021 01:51:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102116354857.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너드커넥션 쇼케이스 〈New Century Masterpiece Cinema〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41042</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41042</guid>
+            <pubDate>Fri, 22 Oct 2021 01:51:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.28
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102116431080.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스마스 지브리 탱고 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41041</link>
@@ -21,7 +39,7 @@
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41040</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41040</guid>
             <pubDate>Thu, 21 Oct 2021 22:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.27
+            <content:encoded><![CDATA[2021.10.26
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.10.25
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008304_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[짱구페스티벌 ＇짱구야 캠핑가자!＇ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=873</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=873</guid>
-            <pubDate>Thu, 21 Oct 2021 22:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.30
-                                    <span>00:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009976_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 첼로의 성가 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41030</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41030</guid>
-            <pubDate>Thu, 21 Oct 2021 22:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102011354080.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
