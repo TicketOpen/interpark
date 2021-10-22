@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 04:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 05:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트_고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41048</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41048</guid>
+            <pubDate>Fri, 22 Oct 2021 05:38:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102017050399.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈팬레터〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41047</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41047</guid>
+            <pubDate>Fri, 22 Oct 2021 05:38:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102112335920.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈줄리엣과 줄리엣〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41046</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41046</guid>
+            <pubDate>Fri, 22 Oct 2021 05:38:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008852_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[T-ARA 2021 FAN PARTY 〈Hi Queen＇s - Return of the Queen〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41044</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.10.25
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211021023932.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 황치열 콘서트 - 영화 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41035</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41035</guid>
-            <pubDate>Thu, 21 Oct 2021 22:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.25
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102107424669.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강형호 단독 콘서트 〈ID: PITTA〉 추가 회차 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41034</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41034</guid>
-            <pubDate>Thu, 21 Oct 2021 22:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009248_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[포르테 디 콰트로 토크콘서트: 그땐그랬지 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41033</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41033</guid>
-            <pubDate>Thu, 21 Oct 2021 22:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009245_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
