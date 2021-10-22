@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 07:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 08:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=41006&amp;groupno=41006&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 22 Oct 2021 04:52:28 GMT</pubDate>
             <content:encoded><![CDATA[21.10.22(금)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신진지휘자 초청음악회 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41051&amp;groupno=41051&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41051&amp;groupno=41051&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 22 Oct 2021 08:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27(수)&nbsp;13:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 산타와 빈양말 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -134,11 +141,13 @@
             <content:encoded><![CDATA[21.10.22(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈인사이드〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41032&amp;groupno=41032&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41032&amp;groupno=41032&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 21 Oct 2021 22:41:57 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.25(월)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[신진지휘자 초청음악회 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41051</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41051</guid>
+            <pubDate>Fri, 22 Oct 2021 08:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.27
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102116200743.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 산타와 빈양말 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2021.10.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010149_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[발레 트리플 빌 Ballet Triple Bill 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41040</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41040</guid>
-            <pubDate>Thu, 21 Oct 2021 22:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.26
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
