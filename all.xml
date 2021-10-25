@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 06:50:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 07:39:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol.14 〈권순관〉 - 온라인 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41062&amp;groupno=41062&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41062&amp;groupno=41062&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 25 Oct 2021 07:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27(수)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol.14〈권순관〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41061&amp;groupno=41061&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41061&amp;groupno=41061&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 25 Oct 2021 07:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[21.10.27(수)&nbsp;11:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[연극 〈무희 - 무명이 되고자 했던 그녀〉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41060&amp;groupno=41060&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[21.10.21(목)&nbsp;17:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[T-ARA 2021 FAN PARTY 〈Hi Queen＇s - Return of the Queen〉 티켓.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41044&amp;groupno=41044&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41044&amp;groupno=41044&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 22 Oct 2021 04:52:28 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27(수)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[온스타인웨이 Vol.14 〈권순관〉 - 온라인 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41062</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41062</guid>
+            <pubDate>Mon, 25 Oct 2021 07:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.27
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102016471850.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬〈헤드윅〉 - 인천 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41043&amp;groupno=41043&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41043&amp;groupno=41043&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 22 Oct 2021 01:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.05(금)&nbsp;18:00]]></content:encoded>
+            <title><![CDATA[온스타인웨이 Vol.14〈권순관〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41061</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41061</guid>
+            <pubDate>Mon, 25 Oct 2021 07:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.27
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102016421754.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 〈무희 - 무명이 되고자 했던 그녀〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2021.10.29
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009703_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[스트릿 우먼 파이터 ［ON THE STAGE］ - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41052</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41052</guid>
-            <pubDate>Mon, 25 Oct 2021 04:52:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.27
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102511040598.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신진지휘자 초청음악회 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41051</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41051</guid>
-            <pubDate>Fri, 22 Oct 2021 08:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.27
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102116200743.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
