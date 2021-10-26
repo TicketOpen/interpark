@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 08:45:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 09:47:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 SOMEDAY THEATRE LAST CANTABILE 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41079</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41079</guid>
+            <pubDate>Tue, 26 Oct 2021 09:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.27
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009661_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈작은아씨들〉  티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41078</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41078</guid>
+            <pubDate>Tue, 26 Oct 2021 09:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 폴킴 전국투어 콘서트 〈투성이〉 - 성남 추가티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41077</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41077</guid>
+            <pubDate>Tue, 26 Oct 2021 09:47:15 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.28
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009543_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[온앤오프(ONF) 2021 LIVE CONTACT :: CODE #1. ［REVERSE］ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41076</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.10.28
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102515492463.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘서트 ［올댓 트롯］ - 전주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41068</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41068</guid>
-            <pubDate>Tue, 26 Oct 2021 02:49:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102515132980.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20세기를 탐하다 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41067</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41067</guid>
-            <pubDate>Tue, 26 Oct 2021 02:49:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.27
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0002786_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[오픈연기안내] 〈치즈(CHEEZE)콘서트〉 - 안양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41066</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41066</guid>
-            <pubDate>Tue, 26 Oct 2021 02:49:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102609513239.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
