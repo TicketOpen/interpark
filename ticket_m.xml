@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 01:38:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 02:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol.8 〈박소은〉 - 온라인 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41085</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41085</guid>
+            <pubDate>Wed, 27 Oct 2021 02:49:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.28
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102117322653.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[off]온스타인웨이 Vol.8 〈박소은〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41084</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41084</guid>
+            <pubDate>Wed, 27 Oct 2021 02:49:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.28
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211027105814.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직드라마 당신만이 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41083</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41083</guid>
+            <pubDate>Wed, 27 Oct 2021 02:49:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.10.29
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102513501359.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈경종수정실록〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41082</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41082</guid>
+            <pubDate>Wed, 27 Oct 2021 02:49:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006978_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[별은 빛나건만: 오페라 ＆ 크로스오버 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41081</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2021.11.09
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211026030207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈잭더리퍼〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41075</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41075</guid>
-            <pubDate>Tue, 26 Oct 2021 05:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.03
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211026022308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시카고〉 - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41074</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41074</guid>
-            <pubDate>Tue, 26 Oct 2021 05:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.29
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102415063972.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) 5차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41073</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41073</guid>
-            <pubDate>Tue, 26 Oct 2021 05:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007693_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이날치 콘서트 〈수궁가〉 - 김해 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41072</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41072</guid>
-            <pubDate>Tue, 26 Oct 2021 03:43:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010348_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
