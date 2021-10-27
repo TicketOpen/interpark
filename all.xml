@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 03:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 04:52:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[21.10.28(목)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[off]온스타인웨이 Vol.8 〈박소은〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[온스타인웨이 Vol.8 〈박소은〉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41084&amp;groupno=41084&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41084&amp;groupno=41084&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 27 Oct 2021 02:48:55 GMT</pubDate>
@@ -143,7 +143,7 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102117322653.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[off]온스타인웨이 Vol.8 〈박소은〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[온스타인웨이 Vol.8 〈박소은〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41084</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41084</guid>
             <pubDate>Wed, 27 Oct 2021 02:49:03 GMT</pubDate>
