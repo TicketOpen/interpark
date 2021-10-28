@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 23:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 01:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 김창옥 토크콘서트 시즌 2 - 광주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41092</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41092</guid>
+            <pubDate>Thu, 28 Oct 2021 01:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102716294224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 바람이 불어오는 곳 2차 티켓오픈 안내 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41091</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41091</guid>
+            <pubDate>Thu, 28 Oct 2021 01:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102712424111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조수미 ＆ 이 무지치(I Musici)-익산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41090</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41090</guid>
+            <pubDate>Thu, 28 Oct 2021 01:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[창작뮤지컬 〈메이사의 노래〉 마지막(2차) 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41089</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.10.29
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102513501359.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈경종수정실록〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41082</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41082</guid>
-            <pubDate>Wed, 27 Oct 2021 02:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006978_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[별은 빛나건만: 오페라 ＆ 크로스오버 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41081</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41081</guid>
-            <pubDate>Wed, 27 Oct 2021 01:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.10.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102518121293.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예프게니 키신 피아노 리사이틀 오픈일정 변경안내 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41080</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41080</guid>
-            <pubDate>Wed, 27 Oct 2021 01:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010197_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
