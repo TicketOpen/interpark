@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 04:51:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 05:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트_부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41100</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41100</guid>
+            <pubDate>Thu, 28 Oct 2021 05:39:09 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102611332800.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 하동세계차(茶)엑스포 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=874</link>
@@ -80,22 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009699_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2021 김창옥 토크콘서트 시즌 2 - 광주 티켓오픈 안내]]></title>
+            <title><![CDATA[2021 김창옥 토크콘서트 시즌2 - 광주 앵콜 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41092</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41092</guid>
             <pubDate>Thu, 28 Oct 2021 01:38:47 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.02
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102716294224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 바람이 불어오는 곳 2차 티켓오픈 안내 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41091</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41091</guid>
-            <pubDate>Thu, 28 Oct 2021 01:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102712424111.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
