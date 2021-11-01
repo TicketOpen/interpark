@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 08:45:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 09:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track.38 정아로 단독 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41145</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41145</guid>
+            <pubDate>Mon, 01 Nov 2021 09:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102816342798.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41144</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.11.04
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007832_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[서울숲재즈페스티벌 2021 〈Live On For Rest - 온라인 공연〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41135</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41135</guid>
-            <pubDate>Mon, 01 Nov 2021 05:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102917034102.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
