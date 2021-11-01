@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 01:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 02:52:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol.11 〈나인〉 - 온라인 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41130</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41130</guid>
+            <pubDate>Mon, 01 Nov 2021 02:52:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102617041113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온스타인웨이 Vol.11 〈나인〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41129</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41129</guid>
+            <pubDate>Mon, 01 Nov 2021 02:52:21 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.02
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102617021471.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈만복이네 떡집〉 - 여주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41128</link>
@@ -77,24 +95,6 @@
             <content:encoded><![CDATA[2021.11.02
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211029021217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈엑스칼리버〉 - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41115</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41115</guid>
-            <pubDate>Fri, 29 Oct 2021 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.02
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102818545220.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트_인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41113</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41113</guid>
-            <pubDate>Fri, 29 Oct 2021 05:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102620193958.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
