@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 08:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 09:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PL (피엘) 연말 콘서트 HOLIDAYS 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41161&amp;groupno=41161&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41161&amp;groupno=41161&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 02 Nov 2021 09:43:45 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.09(화)&nbsp;20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈레베카〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41160&amp;groupno=41160&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.11.04(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김나영 콘서트［Free me］-Winter Festa 2021 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41143&amp;groupno=41143&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41143&amp;groupno=41143&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 01 Nov 2021 08:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.04(목)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[PL (피엘) 연말 콘서트 HOLIDAYS 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41161</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41161</guid>
+            <pubDate>Tue, 02 Nov 2021 09:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.09
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110214384738.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈레베카〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.11.10
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006977_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 용인 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41151</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41151</guid>
-            <pubDate>Tue, 02 Nov 2021 02:51:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110114124491.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
