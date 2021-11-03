@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 03:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 04:52:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41171</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41171</guid>
+            <pubDate>Wed, 03 Nov 2021 04:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010831_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈내게 빛나는 모든 것〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41170</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41170</guid>
+            <pubDate>Wed, 03 Nov 2021 04:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110216364410.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41169</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41169</guid>
+            <pubDate>Wed, 03 Nov 2021 04:52:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110221405373.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬＇엄마까투리＇ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41168</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.11.03
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102915054385.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PL (피엘) 연말 콘서트 HOLIDAYS 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41161</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41161</guid>
-            <pubDate>Tue, 02 Nov 2021 09:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.09
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110214384738.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41160</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41160</guid>
-            <pubDate>Tue, 02 Nov 2021 08:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009146_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극〈엘리펀트 송〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41159</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41159</guid>
-            <pubDate>Tue, 02 Nov 2021 08:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110216042495.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
