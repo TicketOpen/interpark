@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 04:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 05:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족오페라 마술피리 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41173</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41173</guid>
+            <pubDate>Wed, 03 Nov 2021 05:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102516075695.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이승윤, 정홍일, 이무진 싱어게인 TOP3전국투어 콘서트 - 광주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41172</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41172</guid>
+            <pubDate>Wed, 03 Nov 2021 05:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.04
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110310042586.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41171</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.11.08
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110209502635.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카즈미 타테이시 트리오 내한 10주년 기념공연-지브리, 재즈를 만나다-(부산) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41163</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41163</guid>
-            <pubDate>Wed, 03 Nov 2021 01:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.08
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110209475193.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIVECONNECT STAGE vol.13 소소한 라이브 with 굴뚝새＆심가을 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41162</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41162</guid>
-            <pubDate>Wed, 03 Nov 2021 01:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102915054385.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
