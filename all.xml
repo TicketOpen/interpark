@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 14:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 15:46:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,15 +188,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006842_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[가족오페라 마술피리 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41173</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41173</guid>
-            <pubDate>Wed, 03 Nov 2021 05:39:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021102516075695.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이승윤, 정홍일, 이무진 싱어게인 TOP3전국투어 콘서트 - 광주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41172</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41172</guid>
@@ -222,6 +213,15 @@
             <content:encoded><![CDATA[2021.11.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110216364410.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈쇼미더머니10 콘서트: THE CLIMAX〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41169</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41169</guid>
+            <pubDate>Wed, 03 Nov 2021 15:46:30 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.10
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110221405373.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
