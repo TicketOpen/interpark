@@ -4,22 +4,29 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 01:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 02:51:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 〈개와 고양이의 시간〉 추가티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41206&amp;groupno=41206&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41206&amp;groupno=41206&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 05 Nov 2021 01:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.05(금)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈은하철도의 밤〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41208&amp;groupno=41208&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41208&amp;groupno=41208&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 05 Nov 2021 02:51:08 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.11(목)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 온 스테이지 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41207&amp;groupno=41207&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41207&amp;groupno=41207&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 05 Nov 2021 02:51:08 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.05(금)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈V 에버 애프터〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41205&amp;groupno=41205&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41205&amp;groupno=41205&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 05 Nov 2021 01:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지]]></content:encoded>
+            <content:encoded><![CDATA[21.11.05(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[＜유니온＞2021 봄 작가, 겨울 무대 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -127,27 +134,30 @@
             <content:encoded><![CDATA[21.11.10(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 크리스마스 콘서트 - 대전 ［VARIOUS］ 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41188&amp;groupno=41188&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41188&amp;groupno=41188&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 04 Nov 2021 04:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.11(목)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈은하철도의 밤〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41208</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41208</guid>
+            <pubDate>Fri, 05 Nov 2021 02:51:20 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.11
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110315393295.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈개와 고양이의 시간〉 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41206</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41206</guid>
-            <pubDate>Fri, 05 Nov 2021 01:40:58 GMT</pubDate>
+            <title><![CDATA[뮤지컬 온 스테이지 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41207</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41207</guid>
+            <pubDate>Fri, 05 Nov 2021 02:51:20 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.05
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21006977_p.gif" length="0" type="image/gif"/>
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110118112243.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈V 에버 애프터〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41205</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41205</guid>
             <pubDate>Fri, 05 Nov 2021 01:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span>추후공지</span>]]></content:encoded>
+            <content:encoded><![CDATA[2021.11.05
+                                    <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007215_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
@@ -212,15 +222,6 @@
             <content:encoded><![CDATA[2021.11.11
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110214133795.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 5차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41197</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41197</guid>
-            <pubDate>Thu, 04 Nov 2021 08:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004532_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
