@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 05:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 06:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬〈스푸트니크〉 리딩공연 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41246</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41246</guid>
+            <pubDate>Mon, 08 Nov 2021 06:50:17 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.09
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍대광 콘서트［우리가 다시 만난 날］ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41245</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.11.12
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110316524309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 부활 크리스마스 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41234</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41234</guid>
-            <pubDate>Fri, 05 Nov 2021 08:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
