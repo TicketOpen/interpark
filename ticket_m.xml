@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 02:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 03:44:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울숲재즈페스티벌 2021 〈SEOUL FOREST JAZZ in THEATRE〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41279</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41279</guid>
+            <pubDate>Thu, 11 Nov 2021 03:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110918565564.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈옥상 위 카우보이〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41278</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.11.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/19/19018229_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아날로그 정통 체력극 〈신바람 난 삼대〉 12월 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41268</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41268</guid>
-            <pubDate>Thu, 11 Nov 2021 02:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.12
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/20/20009530_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
