@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 03:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 04:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쇼미더머니10 부산 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41340&amp;groupno=41340&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41340&amp;groupno=41340&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 16 Nov 2021 04:52:45 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.23(화)&nbsp;18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[창작뮤지컬 〈메이사의 노래〉 마지막 공연 _ 온라인 생중계 티켓 오.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41339&amp;groupno=41339&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.11.19(금)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이찬원 첫번째 팬콘서트 ‘Chan’s Time’ - 대구 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41323&amp;groupno=41323&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41323&amp;groupno=41323&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 15 Nov 2021 06:49:56 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.19(금)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[쇼미더머니10 부산 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41340</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41340</guid>
+            <pubDate>Tue, 16 Nov 2021 04:52:54 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.23
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작뮤지컬 〈메이사의 노래〉 마지막 공연 _ 온라인 생중계 티켓 오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.11.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111515063211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41329</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41329</guid>
-            <pubDate>Mon, 15 Nov 2021 09:43:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.16
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110917481347.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
