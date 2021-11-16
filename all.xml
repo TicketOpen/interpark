@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 06:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 07:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[행복한 콘서트, 2021년 겨울 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41346&amp;groupno=41346&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41346&amp;groupno=41346&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 16 Nov 2021 07:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.22(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 윤하 연말 콘서트 ＇End Theory＇ 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41345&amp;groupno=41345&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41345&amp;groupno=41345&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 16 Nov 2021 07:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.19(금)&nbsp;16:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[창작뮤지컬 〈메이사의 노래〉 - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41344&amp;groupno=41344&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[21.11.19(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[데이브레이크 ‘× ÷ SHOW 시즌 3’ : 3배의 즐거움을 함께 나누자 .. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41329&amp;groupno=41329&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41329&amp;groupno=41329&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 15 Nov 2021 09:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.16(화)&nbsp;18:00]]></content:encoded>
+            <title><![CDATA[행복한 콘서트, 2021년 겨울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41346</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41346</guid>
+            <pubDate>Tue, 16 Nov 2021 07:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.22
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111614494555.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ROMANTIC DAY 2021 - 로맨틱팩토리 11주년 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41328&amp;groupno=41328&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41328&amp;groupno=41328&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 15 Nov 2021 09:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18(목)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[2021 윤하 연말 콘서트 ＇End Theory＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41345</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41345</guid>
+            <pubDate>Tue, 16 Nov 2021 07:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211116035952.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창작뮤지컬 〈메이사의 노래〉 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2021.11.16
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021110902053774.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 정승환의 안녕 겨울 : 다시 여기, 우리 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41335</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41335</guid>
-            <pubDate>Tue, 16 Nov 2021 02:51:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.22
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111609134605.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스핏 파이어 그릴〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41334</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41334</guid>
-            <pubDate>Tue, 16 Nov 2021 01:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010371_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
