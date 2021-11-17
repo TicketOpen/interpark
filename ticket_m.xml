@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 23:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 01:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬〈시카고〉 - 진주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41351</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41351</guid>
+            <pubDate>Wed, 17 Nov 2021 01:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111615474288.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉 - 울산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41350</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41350</guid>
+            <pubDate>Wed, 17 Nov 2021 01:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111614352160.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈라스트 세션〉 Freud＇s Last Session 1차 티켓오픈 안내 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41349</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41349</guid>
+            <pubDate>Wed, 17 Nov 2021 01:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.23
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211117091030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오존 단독 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41348</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41348</guid>
+            <pubDate>Wed, 17 Nov 2021 01:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111616132562.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 Soundberry Theater ＃4 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41347</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2021.11.18
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009993_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈엔딩 노트〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41341</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41341</guid>
-            <pubDate>Tue, 16 Nov 2021 05:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009213_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼미더머니10 부산 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41340</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41340</guid>
-            <pubDate>Tue, 16 Nov 2021 04:52:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창작뮤지컬 〈메이사의 노래〉 마지막 공연 _ 온라인 생중계 티켓 오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41339</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41339</guid>
-            <pubDate>Tue, 16 Nov 2021 02:51:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011081_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈세종, 1446〉 여주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41338</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41338</guid>
-            <pubDate>Tue, 16 Nov 2021 02:51:27 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.18
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
