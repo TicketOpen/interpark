@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 09:43:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 10:44:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[21.11.19(금)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[［MPMG ACADEMY 기획공연］ 위아영(WeAreYoung) 7시 라디오 - 눈이 .. (인터파크 티켓)]]></title>
+            <title><![CDATA[［MPMG ACADEMY 기획공연］ 위아영 (WeAreYoung)의 7시 라디오 - 눈.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41359&amp;groupno=41359&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41359&amp;groupno=41359&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 17 Nov 2021 09:43:12 GMT</pubDate>
@@ -143,7 +143,7 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011146_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[［MPMG ACADEMY 기획공연］ 위아영(WeAreYoung) 7시 라디오 - 눈이 내리는 밤(가제) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[［MPMG ACADEMY 기획공연］ 위아영 (WeAreYoung)의 7시 라디오 - 눈이 내리는 밤에 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41359</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41359</guid>
             <pubDate>Wed, 17 Nov 2021 09:43:20 GMT</pubDate>
