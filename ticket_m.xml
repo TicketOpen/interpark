@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 08:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 09:43:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LUCY 두 번째 콘서트 〈All kind of〉 추가티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41360</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41360</guid>
+            <pubDate>Wed, 17 Nov 2021 09:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011146_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[［MPMG ACADEMY 기획공연］ 위아영(WeAreYoung) 7시 라디오 - 눈이 내리는 밤(가제) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41359</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41359</guid>
+            <pubDate>Wed, 17 Nov 2021 09:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211117063524.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［MPMG ACADEMY 기획공연］＇WeekenDream＇ 위아더나잇 (We Are The Night) X cott (콧) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41358</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41358</guid>
+            <pubDate>Wed, 17 Nov 2021 09:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.19
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211117064057.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 장민호 단독 콘서트 투어 ＂드라마＂ - 수원 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41357</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2021.11.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111615474288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉 - 울산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41350</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41350</guid>
-            <pubDate>Wed, 17 Nov 2021 01:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.19
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111614352160.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈라스트 세션〉 Freud＇s Last Session 1차 티켓오픈 안내 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41349</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41349</guid>
-            <pubDate>Wed, 17 Nov 2021 01:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211117091030.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오존 단독 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41348</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41348</guid>
-            <pubDate>Wed, 17 Nov 2021 01:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.19
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111616132562.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
