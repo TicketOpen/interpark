@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈친정엄마와 2박3일〉 - 용인 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41389</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41389</guid>
+            <pubDate>Fri, 19 Nov 2021 06:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.23
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111814440534.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 시야제한석 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41388</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41388</guid>
+            <pubDate>Fri, 19 Nov 2021 06:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.22
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008252_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2021 이승철 전국투어 콘서트 “우리, 이제 만나요” - 광주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41387</link>
@@ -14,7 +32,7 @@
             <pubDate>Fri, 19 Nov 2021 05:39:16 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.22
                                     <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111715033221.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011775_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2021 진영 팬미팅 ［Stay, Jinyoung］ 티켓오픈 안내]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.11.23
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111810584729.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈멸화군〉 4차(마지막) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41379</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41379</guid>
-            <pubDate>Thu, 18 Nov 2021 23:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.23
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007516_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더 라스트맨〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41378</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41378</guid>
-            <pubDate>Thu, 18 Nov 2021 23:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.19
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011425_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
