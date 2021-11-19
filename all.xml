@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 23:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 01:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈디아길레프〉 프리뷰 티켓 오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41381&amp;groupno=41381&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41381&amp;groupno=41381&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 19 Nov 2021 01:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.26(금)&nbsp;15:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[이찬원 첫번째 팬콘서트 ‘Chan’s Time’ - 고양 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41380&amp;groupno=41380&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.11.22(월)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈더 라스트맨〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41363&amp;groupno=41363&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41363&amp;groupno=41363&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 18 Nov 2021 01:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.19(금)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈디아길레프〉 프리뷰 티켓 오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41381</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41381</guid>
+            <pubDate>Fri, 19 Nov 2021 01:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211119090943.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이찬원 첫번째 팬콘서트 ‘Chan’s Time’ - 고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.11.24
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111713540328.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 장범준 연말공연 〈잠이 오질 않네요〉- 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41371</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41371</guid>
-            <pubDate>Thu, 18 Nov 2021 05:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111810584400.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
