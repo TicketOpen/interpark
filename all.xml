@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 03:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 04:52:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[먼데이키즈 콘서트 ‘나비의 꿈 ; 다시 꾸는 꿈’ - 부산 티켓오픈 .. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41384&amp;groupno=41384&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41384&amp;groupno=41384&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 19 Nov 2021 04:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.25(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈 콘서트 ‘나비의 꿈 ; 다시 꾸는 꿈’ - 서울 티켓오픈 .. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41383&amp;groupno=41383&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41383&amp;groupno=41383&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 19 Nov 2021 04:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.26(금)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[연극 〈알마게스트〉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41382&amp;groupno=41382&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[21.11.25(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021 이승철 전국투어 콘서트 “우리, 이제 만나요” - 부산 티켓오.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41366&amp;groupno=41366&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41366&amp;groupno=41366&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 18 Nov 2021 02:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[먼데이키즈 콘서트 ‘나비의 꿈 ; 다시 꾸는 꿈’ - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41384</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41384</guid>
+            <pubDate>Fri, 19 Nov 2021 04:52:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211119013125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021 조명섭 단독콘서트〈달밤음악회〉- 원주 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41365&amp;groupno=41365&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41365&amp;groupno=41365&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 18 Nov 2021 02:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.22(월)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[먼데이키즈 콘서트 ‘나비의 꿈 ; 다시 꾸는 꿈’ - 서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41383</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41383</guid>
+            <pubDate>Fri, 19 Nov 2021 04:52:25 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211119013042.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 〈알마게스트〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2021.11.19
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111817283429.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41374</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41374</guid>
-            <pubDate>Thu, 18 Nov 2021 05:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009146_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021-22 Forestella Concert - The Royal in Daegu 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41373</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41373</guid>
-            <pubDate>Thu, 18 Nov 2021 05:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.01
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111714073568.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
