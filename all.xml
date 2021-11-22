@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 14:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 15:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -215,13 +215,13 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008673_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[［부산］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 앵콜 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41392</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41392</guid>
-            <pubDate>Mon, 22 Nov 2021 01:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.22
+            <title><![CDATA[가족뮤지컬 〈출동! 슈퍼윙스 : 빅콘서트〉 - 청주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41391</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41391</guid>
+            <pubDate>Mon, 22 Nov 2021 15:46:58 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.23
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111810523225.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011866_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
