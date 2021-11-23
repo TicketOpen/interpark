@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 07:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 08:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 연극 〈마우스피스〉 추가티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41417</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41417</guid>
+            <pubDate>Tue, 23 Nov 2021 08:46:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008042_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[안녕하신가영 EP 발매기념 단독 콘서트 ‘가장(　　)자리에서’ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41416</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.11.25
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/20/20008619_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 ‘노트르담 드 파리’ 프렌치 오리지널 - 대구 추가회차 오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41406</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41406</guid>
-            <pubDate>Tue, 23 Nov 2021 02:51:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008971_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
