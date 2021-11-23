@@ -4,9 +4,72 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 04:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 05:39:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈더데빌〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41414</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41414</guid>
+            <pubDate>Tue, 23 Nov 2021 05:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010870_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 6차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41413</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41413</guid>
+            <pubDate>Tue, 23 Nov 2021 05:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21004532_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[풍류대장 전국투어 콘서트 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41412</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41412</guid>
+            <pubDate>Tue, 23 Nov 2021 05:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211123020413.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먼데이키즈 콘서트 ‘나비의꿈 ; 다시 꾸는 꿈’ - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41411</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41411</guid>
+            <pubDate>Tue, 23 Nov 2021 05:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211123020332.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤종신 콘서트 ‘BIRDMAN’ - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41410</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41410</guid>
+            <pubDate>Tue, 23 Nov 2021 05:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211123020220.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 노을 연말 투어 콘서트 ［노을이 내린 밤］ - 익산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41409</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41409</guid>
+            <pubDate>Tue, 23 Nov 2021 05:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈더 드레서〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41408</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41408</guid>
+            <pubDate>Tue, 23 Nov 2021 05:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/20/20008619_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 ‘노트르담 드 파리’ 프렌치 오리지널 - 대구 추가회차 오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41406</link>
@@ -33,69 +96,6 @@
             <content:encoded><![CDATA[2021.11.25
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009863_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <슈퍼클로젯> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41403</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41403</guid>
-            <pubDate>Tue, 23 Nov 2021 01:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정동원콘서트 ‘성탄총동원’ (1st JEONG DONG WON’S CHRISTMAS CONCERT) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41402</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41402</guid>
-            <pubDate>Tue, 23 Nov 2021 01:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112218173487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41401</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41401</guid>
-            <pubDate>Mon, 22 Nov 2021 07:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008252_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 백지영 전국투어 콘서트 〈BAEK HUG〉 - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41400</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41400</guid>
-            <pubDate>Mon, 22 Nov 2021 07:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.26
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111821065938.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤종신 콘서트 ＇BIRDMAN’ - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41399</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41399</guid>
-            <pubDate>Mon, 22 Nov 2021 03:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211122120123.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤종신 콘서트 ＇BIRDMAN’ - 서울 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41398</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41398</guid>
-            <pubDate>Mon, 22 Nov 2021 03:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211122115642.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬〈헤드윅〉 - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41397</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41397</guid>
-            <pubDate>Mon, 22 Nov 2021 02:52:54 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021111918023302.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
