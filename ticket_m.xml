@@ -4,16 +4,25 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 07:39:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 08:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41433</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41433</guid>
+            <pubDate>Wed, 24 Nov 2021 08:45:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 더원 콘서트 - 부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41432</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41432</guid>
             <pubDate>Wed, 24 Nov 2021 07:39:47 GMT</pubDate>
             <content:encoded><![CDATA[2021.11.25
-                                    <span>20:00</span>]]></content:encoded>
+                                    <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112414104734.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.12.02
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007693_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈리차드3세〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41423</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41423</guid>
-            <pubDate>Wed, 24 Nov 2021 05:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.02
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211124020749.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
