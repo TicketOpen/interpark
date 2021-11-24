@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 06:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 07:39:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,20 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=41352&amp;groupno=41352&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 24 Nov 2021 06:49:30 GMT</pubDate>
             <content:encoded><![CDATA[21.11.24(수)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021 더원 콘서트 - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41432&amp;groupno=41432&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41432&amp;groupno=41432&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 24 Nov 2021 07:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.25(목)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 창원 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41431&amp;groupno=41431&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41431&amp;groupno=41431&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 24 Nov 2021 07:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[21.11.29(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈엘리펀트송〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -127,18 +141,22 @@
             <content:encoded><![CDATA[21.11.25(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈더데빌〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41414&amp;groupno=41414&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41414&amp;groupno=41414&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 23 Nov 2021 05:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.30(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2021 더원 콘서트 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41432</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41432</guid>
+            <pubDate>Wed, 24 Nov 2021 07:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112414104734.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈빌리 엘리어트〉 6차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41413&amp;groupno=41413&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41413&amp;groupno=41413&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 23 Nov 2021 05:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.30(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 창원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41431</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41431</guid>
+            <pubDate>Wed, 24 Nov 2021 07:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112410591062.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 〈엘리펀트송〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -211,24 +229,6 @@
             <content:encoded><![CDATA[2021.12.02
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211124020749.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[라이브스트리밍] 뮤지컬 〈잭더리퍼〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41422</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41422</guid>
-            <pubDate>Wed, 24 Nov 2021 05:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.26
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프랑스 오리지널팀 내한 공연 “앙코르” (대구) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41420</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41420</guid>
-            <pubDate>Wed, 24 Nov 2021 04:52:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.24
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112411571935.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
