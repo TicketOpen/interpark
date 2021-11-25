@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 23:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 01:41:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 에델 라인클랑 Last concert  네 남자이야기 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41436</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41436</guid>
+            <pubDate>Thu, 25 Nov 2021 01:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.25
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112216282782.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[노리플라이 콘서트 ‘오래전 그 멜로디 : Bookend’ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41435</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.12.17
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112409163141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021-22 김재환 콘서트 ［歡迎 : 환영］ in DAEGU 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41426</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41426</guid>
-            <pubDate>Wed, 24 Nov 2021 05:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112409204857.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
