@@ -4,16 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 14:40:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 15:47:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=41374&amp;groupno=41374&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=41374&amp;groupno=41374&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 25 Nov 2021 05:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.25(목)&nbsp;14:00]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[‘Goodbye, Hello’ in NELL’S ROOM 2021 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41453&amp;groupno=41453&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -213,15 +206,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211125041634.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［얼리버드］빛: 영국 테이트미술관 특별전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=879</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=879</guid>
-            <pubDate>Thu, 25 Nov 2021 07:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.25
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012165_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2021 정승환의 안녕 겨울 : 다시 여기, 우리 - 서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41443</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41443</guid>
@@ -229,6 +213,15 @@
             <content:encoded><![CDATA[2021.11.26
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012062_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 Apink Fanmeeting ［Pink Eve］ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41442</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41442</guid>
+            <pubDate>Thu, 25 Nov 2021 15:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211125015921.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
