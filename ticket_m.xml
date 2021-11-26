@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 08:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 09:43:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 M.I.SEA 힙합 콘서트 - 제주 티켓오픈]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41472</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41472</guid>
+            <pubDate>Fri, 26 Nov 2021 09:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.12.01
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112412592446.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 M.I.SEA 힙합 콘서트 - 고양 티켓오픈]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41471</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41471</guid>
+            <pubDate>Fri, 26 Nov 2021 09:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112610555970.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021 연극 〈마우스피스〉 3차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41470</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.12.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011182_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 수원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41462</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41462</guid>
-            <pubDate>Fri, 26 Nov 2021 04:53:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112410242307.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 최현우 〈THE BRAIN〉 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41461</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41461</guid>
-            <pubDate>Fri, 26 Nov 2021 04:53:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009924_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
