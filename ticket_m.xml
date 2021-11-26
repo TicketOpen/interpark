@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 05:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 06:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이치현과 벗님들 ＆ 김범룡 크리스마스 디너쇼 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41467</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41467</guid>
+            <pubDate>Fri, 26 Nov 2021 06:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112514360575.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈쿠로이 저택엔 누가 살고 있을까？〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41466</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41466</guid>
+            <pubDate>Fri, 26 Nov 2021 06:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.11.30
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010018_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41465</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.12.02
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011305_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[〈COUNTDOWN FANTASY 2021-2022 - 2회차〉 티켓오픈 안내 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41457</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41457</guid>
-            <pubDate>Fri, 26 Nov 2021 02:51:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112515580938.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[〈COUNTDOWN FANTASY 2021-2022 - 1회차〉 티켓오픈 안내 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41456</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41456</guid>
-            <pubDate>Fri, 26 Nov 2021 02:51:56 GMT</pubDate>
-            <content:encoded><![CDATA[2021.11.30
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112515535861.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
