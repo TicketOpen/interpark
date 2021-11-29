@@ -4,9 +4,26 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 23:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 01:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감각주의: 모네를 느끼다 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=881</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=881</guid>
+            <pubDate>Mon, 29 Nov 2021 01:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012188_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[［티켓오픈연기］ 정동원콘서트 ‘성탄총동원’ (1st JEONG DONG WON’S CHRISTMAS CONCERT) 티켓오픈 연기]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41473</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41473</guid>
+            <pubDate>Mon, 29 Nov 2021 01:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span>추후공지</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012222_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 M.I.SEA 힙합 콘서트 - 제주 티켓오픈]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41472</link>
@@ -78,24 +95,6 @@
             <content:encoded><![CDATA[2021.11.30
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211126020102.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬〈하데스타운〉 최초 한국 공연 (MUSICAL HADESTOWN) 새해 1월 시즌, 6차 티켓 오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41464</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41464</guid>
-            <pubDate>Fri, 26 Nov 2021 05:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21005196_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈앤ANNE〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41463</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41463</guid>
-            <pubDate>Fri, 26 Nov 2021 05:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011182_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
