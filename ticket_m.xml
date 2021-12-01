@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 03:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 04:53:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5959 LIVE : 초승 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41503</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41503</guid>
+            <pubDate>Wed, 01 Dec 2021 04:53:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.06
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈헤드윅〉 - 대구 OP석 추가오픈 안내 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41502</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41502</guid>
+            <pubDate>Wed, 01 Dec 2021 04:53:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021113010220810.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<박상원 콘트라바쓰> 1차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41501</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.12.01
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112403280728.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 고양 추가회차 오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41492</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41492</guid>
-            <pubDate>Tue, 30 Nov 2021 05:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.01
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010815_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 김희재 팬콘서트 ‘별, 그대’ - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41491</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41491</guid>
-            <pubDate>Tue, 30 Nov 2021 05:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112919073065.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
