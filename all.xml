@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 01:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 02:55:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<박상원 콘트라바쓰> 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41501&amp;groupno=41501&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41501&amp;groupno=41501&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 01 Dec 2021 02:55:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.07(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SOMEDAY PLEROMA 2021 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41500&amp;groupno=41500&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41500&amp;groupno=41500&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 01 Dec 2021 02:55:16 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.01(수)&nbsp;20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[세종문화회관] 네트워크 작업으로 인한 실시간 연동 판매 서비스 중.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41499&amp;groupno=41499&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[21.12.01(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[임리라 피아노 독주회 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41483&amp;groupno=41483&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41483&amp;groupno=41483&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 30 Nov 2021 01:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.03(금)&nbsp;09:00]]></content:encoded>
+            <title><![CDATA[<박상원 콘트라바쓰> 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41501</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41501</guid>
+            <pubDate>Wed, 01 Dec 2021 02:55:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211201114114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[［여수］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41482&amp;groupno=41482&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41482&amp;groupno=41482&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 30 Nov 2021 01:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.01(수)&nbsp;10:00]]></content:encoded>
+            <title><![CDATA[SOMEDAY PLEROMA 2021 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41500</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41500</guid>
+            <pubDate>Wed, 01 Dec 2021 02:55:27 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.01
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011913_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 순천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2021.12.06
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021112919073065.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤종신 콘서트 ＇BIRDMAN’ - 수원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41490</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41490</guid>
-            <pubDate>Tue, 30 Nov 2021 05:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211130015603.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moon(혜원)의 크리스마스 원더랜드 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41489</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41489</guid>
-            <pubDate>Tue, 30 Nov 2021 03:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211130123252.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
