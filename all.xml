@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 23:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 01:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[세종문화회관] 네트워크 작업으로 인한 실시간 연동 판매 서비스 중.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41499&amp;groupno=41499&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41499&amp;groupno=41499&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 01 Dec 2021 01:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 순천 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41498&amp;groupno=41498&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41498&amp;groupno=41498&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 01 Dec 2021 01:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.03(금)&nbsp;09:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[김창옥 토크콘서트 시즌2 - 목포 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41497&amp;groupno=41497&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,13 @@
             <content:encoded><![CDATA[21.12.01(수)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(2022 전주) 팥죽할멈과 호랑이 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41481&amp;groupno=41481&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41481&amp;groupno=41481&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 30 Nov 2021 01:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.02(목)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(2022 창원) 팥죽할멈과 호랑이 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41480&amp;groupno=41480&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41480&amp;groupno=41480&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 30 Nov 2021 01:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.02(목)&nbsp;09:00]]></content:encoded>
+            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 순천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41498</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41498</guid>
+            <pubDate>Wed, 01 Dec 2021 01:45:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.03
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021113014434023.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김창옥 토크콘서트 시즌2 - 목포 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.12.02
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211130123252.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시네마 재즈 스케이프 in Christmas 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41488</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41488</guid>
-            <pubDate>Tue, 30 Nov 2021 03:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211130123142.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
