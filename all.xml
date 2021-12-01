@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 14:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 15:46:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,15 +134,6 @@
             <content:encoded><![CDATA[21.12.07(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[［얼리버드］ 2022 퓰리처상 사진전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=882</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=882</guid>
-            <pubDate>Wed, 01 Dec 2021 08:46:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.01
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012432_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[서울윈드오케스트라 제109회 정기연주회 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41512</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41512</guid>
@@ -222,6 +213,15 @@
             <content:encoded><![CDATA[2021.12.07
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211201015940.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5959 LIVE : 초승 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41503</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41503</guid>
+            <pubDate>Wed, 01 Dec 2021 15:45:59 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.06
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
