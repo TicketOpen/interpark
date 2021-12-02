@@ -4,9 +4,72 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 04:53:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 05:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS교향악단 신년음악회 - 이천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41526</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41526</guid>
+            <pubDate>Thu, 02 Dec 2021 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈더 라스트맨〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41525</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41525</guid>
+            <pubDate>Thu, 02 Dec 2021 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.06
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011425_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈환상동화〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41524</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41524</guid>
+            <pubDate>Thu, 02 Dec 2021 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011643_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2021-22 백지영 전국투어 콘서트 〈BAEK HUG〉 - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41523</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41523</guid>
+            <pubDate>Thu, 02 Dec 2021 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120118380686.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 거미 전국투어 콘서트 〈다시, Winter Ballad〉 - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41522</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41522</guid>
+            <pubDate>Thu, 02 Dec 2021 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120120445545.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 거미 전국투어 콘서트 〈다시, Winter Ballad〉 - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41521</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41521</guid>
+            <pubDate>Thu, 02 Dec 2021 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021113016382975.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트릿 우먼 파이터 ［ON THE STAGE］ - ENCORE 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41520</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41520</guid>
+            <pubDate>Thu, 02 Dec 2021 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120108165560.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빅재미 극단 Soulmate 이어달리기 - 〈운소도〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41519</link>
@@ -33,69 +96,6 @@
             <content:encoded><![CDATA[2021.12.03
                                     <span>17:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012373_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[YB콘서트 〈LIGHTS〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41516</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41516</guid>
-            <pubDate>Thu, 02 Dec 2021 02:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120115583346.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 부천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41515</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41515</guid>
-            <pubDate>Thu, 02 Dec 2021 02:53:06 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120116073191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［THE GREATEST:전율 정동하 X 소향 - 안양］ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41514</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41514</guid>
-            <pubDate>Thu, 02 Dec 2021 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120112504864.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판소리스케이프 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41513</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41513</guid>
-            <pubDate>Thu, 02 Dec 2021 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021113015314800.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울윈드오케스트라 제109회 정기연주회 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41512</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41512</guid>
-            <pubDate>Wed, 01 Dec 2021 08:46:34 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0002822_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[창작뮤지컬 〈메이사의 노래〉 - 부산 추가오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41511</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41511</guid>
-            <pubDate>Wed, 01 Dec 2021 07:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011333_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시카고〉 - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41510</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41510</guid>
-            <pubDate>Wed, 01 Dec 2021 07:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021113020131010.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
