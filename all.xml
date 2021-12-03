@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 08:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 09:43:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 이승환 콘서트 〈당신이 원하는 바로 그 콘서트〉- 춘천 티켓오.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41541&amp;groupno=41541&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41541&amp;groupno=41541&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 03 Dec 2021 09:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.07(화)&nbsp;15:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Great Adios 2021 with Letteamor 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41540&amp;groupno=41540&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.12.06(월)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈환상동화〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41524&amp;groupno=41524&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41524&amp;groupno=41524&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 02 Dec 2021 05:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.09(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2022 이승환 콘서트 〈당신이 원하는 바로 그 콘서트〉- 춘천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41541</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41541</guid>
+            <pubDate>Fri, 03 Dec 2021 09:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120311464928.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Great Adios 2021 with Letteamor 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.12.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120113220379.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［얼리버드］ 공룡대탐험 DINO PARK 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=883</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=883</guid>
-            <pubDate>Fri, 03 Dec 2021 01:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012558_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
