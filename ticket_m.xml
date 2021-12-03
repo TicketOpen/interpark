@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 07:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 08:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Great Adios 2021 with Letteamor 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41540</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41540</guid>
+            <pubDate>Fri, 03 Dec 2021 08:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.07
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120314315599.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쏜애플 콘서트 ＇불구경＇ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41539</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41539</guid>
+            <pubDate>Fri, 03 Dec 2021 08:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120315210703.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포레스텔라 조민규 첫 단독콘서트 ‘신세계 : PARANA’ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41538</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.12.06
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012558_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈리차드3세〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41531</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41531</guid>
-            <pubDate>Fri, 03 Dec 2021 01:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011939_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈라스트 세션〉 Freud’s Last Session 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41529</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41529</guid>
-            <pubDate>Thu, 02 Dec 2021 08:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011876_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
