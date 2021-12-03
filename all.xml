@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 14:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 15:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,15 +188,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012537_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[잇츠 홈쑈핑주식회사 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41535</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41535</guid>
-            <pubDate>Fri, 03 Dec 2021 05:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.03
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011370_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[연극 〈패션의 신〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41534</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41534</guid>
@@ -222,6 +213,15 @@
             <content:encoded><![CDATA[2021.12.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120113220379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［얼리버드］ 공룡대탐험 DINO PARK 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=883</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=883</guid>
+            <pubDate>Fri, 03 Dec 2021 15:44:32 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.06
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012558_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
