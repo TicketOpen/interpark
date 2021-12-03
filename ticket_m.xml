@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 01:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 02:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 김창옥 토크콘서트 시즌2 - 춘천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41533</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41533</guid>
+            <pubDate>Fri, 03 Dec 2021 02:52:48 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120116454965.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트_경기 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41532</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41532</guid>
+            <pubDate>Fri, 03 Dec 2021 02:52:48 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120113220379.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[［얼리버드］ 공룡대탐험 DINO PARK 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=883</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.12.07
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120118380686.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 거미 전국투어 콘서트 〈다시, Winter Ballad〉 - 전주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41522</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41522</guid>
-            <pubDate>Thu, 02 Dec 2021 05:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120120445545.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 거미 전국투어 콘서트 〈다시, Winter Ballad〉 - 대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41521</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41521</guid>
-            <pubDate>Thu, 02 Dec 2021 05:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.07
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021113016382975.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
