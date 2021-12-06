@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2021-12-05T23:41:47.526Z</updated>
+    <updated>2021-12-06T01:43:35.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -76,7 +76,7 @@
         <content type="html"><![CDATA[21.12.10(금)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[［얼리버드］ 공룡대탐험 DINO PARK 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[［1차 얼리버드］ 공룡대탐험 DINO PARK 티켓오픈 안내]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=883&amp;groupno=883&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=883&amp;groupno=883&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2021-12-03T01:40:41.408Z</updated>
