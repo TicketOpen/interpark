@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 04:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 05:40:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 거미 전국투어 콘서트 〈다시, Winter Ballad〉 - 김해 티켓오.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41547&amp;groupno=41547&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41547&amp;groupno=41547&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 06 Dec 2021 05:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.09(목)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[서울재즈위크 스페셜 : 2021 Happy End] 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41546&amp;groupno=41546&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.12.08(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[세틀뱅크] 신한은행 정기작업 안내(2021.12.19) (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41530&amp;groupno=41530&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41530&amp;groupno=41530&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 02 Dec 2021 09:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+            <title><![CDATA[2022 거미 전국투어 콘서트 〈다시, Winter Ballad〉 - 김해 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41547</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41547</guid>
+            <pubDate>Mon, 06 Dec 2021 05:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120220075741.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 아시테지 국제겨울축제 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.12.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012569_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 ARKO 예술과기술융합지원 선정작 〈The Modern 402〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41536</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41536</guid>
-            <pubDate>Fri, 03 Dec 2021 06:50:19 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012537_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
