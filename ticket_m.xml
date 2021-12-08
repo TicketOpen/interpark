@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 04:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:40:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 청주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41564</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41564</guid>
+            <pubDate>Wed, 08 Dec 2021 05:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120716183679.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈엔딩 노트〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41563</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41563</guid>
+            <pubDate>Wed, 08 Dec 2021 05:40:08 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009213_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[음악극 앤 - 고양 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41561</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.12.14
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120314565359.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상큼발랄 뮤지컬 〈슈샤인보이〉 마지막 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41553</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41553</guid>
-            <pubDate>Tue, 07 Dec 2021 07:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010852_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스핏파이어 그릴〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41552</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41552</guid>
-            <pubDate>Tue, 07 Dec 2021 07:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010371_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
