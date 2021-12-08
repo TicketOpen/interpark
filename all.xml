@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 14:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 15:47:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -179,24 +179,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009213_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[음악극 앤 - 고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41561</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41561</guid>
-            <pubDate>Wed, 08 Dec 2021 01:44:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012606_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 개세끼들 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41560</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41560</guid>
-            <pubDate>Wed, 08 Dec 2021 01:44:26 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.08
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012634_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2022 Brave Girls 1st CONCERT ［THE BRAVE GIRLS SHOW］티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41559</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41559</guid>
@@ -222,6 +204,24 @@
             <content:encoded><![CDATA[2021.12.23
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120713273780.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 Weverse Con ［New Era］ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41556</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41556</guid>
+            <pubDate>Wed, 08 Dec 2021 15:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.27
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012533_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41554</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41554</guid>
+            <pubDate>Wed, 08 Dec 2021 15:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120314565359.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
