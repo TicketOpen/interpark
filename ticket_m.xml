@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 04:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 05:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 추가좌석 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41574</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41574</guid>
+            <pubDate>Thu, 09 Dec 2021 05:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008252_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈뱀파이어 아더〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41573</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.12.15
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211208035311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 장윤정 라이브 콘서트 - 청주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41564</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41564</guid>
-            <pubDate>Wed, 08 Dec 2021 05:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120716183679.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
