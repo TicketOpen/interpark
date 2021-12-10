@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 23:42:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 01:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 임한별 단독 콘서트 “Christmas Cinema” - 서울 티켓오픈 안.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41581&amp;groupno=41581&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41581&amp;groupno=41581&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 10 Dec 2021 01:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.10(금)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 전태일 - 네이름은 무엇이냐 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41580&amp;groupno=41580&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41580&amp;groupno=41580&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 10 Dec 2021 01:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.10(금)&nbsp;09:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[더 왈츠 ＇The Origin＇ 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41579&amp;groupno=41579&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[21.12.10(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[12월 시스템 정기점검 공지 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41562&amp;groupno=41562&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41562&amp;groupno=41562&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 09 Dec 2021 22:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+            <title><![CDATA[2021 임한별 단독 콘서트 “Christmas Cinema” - 서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41581</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41581</guid>
+            <pubDate>Fri, 10 Dec 2021 01:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[음악극 앤 - 고양 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41561&amp;groupno=41561&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41561&amp;groupno=41561&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 09 Dec 2021 22:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.08(수)&nbsp;12:00]]></content:encoded>
+            <title><![CDATA[연극 전태일 - 네이름은 무엇이냐 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41580</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41580</guid>
+            <pubDate>Fri, 10 Dec 2021 01:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.10
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120815321093.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 왈츠 ＇The Origin＇ 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2021.12.13
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120717423901.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미라클라스 콘서트 RE:BOOT-익산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41570</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41570</guid>
-            <pubDate>Thu, 09 Dec 2021 22:42:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120415292874.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 스노우데이 2차 티켓오픈 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41568</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41568</guid>
-            <pubDate>Thu, 09 Dec 2021 22:42:02 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.10
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010359_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
