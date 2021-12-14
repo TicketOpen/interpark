@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 14:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 15:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,15 +170,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021121001021852.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밀레니엄심포니오케스트라 오작교 프로젝트 : 음악극 〈쌍룡스쿨〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41604</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41604</guid>
-            <pubDate>Mon, 13 Dec 2021 08:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.14
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012868_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2021 폴킴 전국투어 콘서트 〈투성이〉 - 창원 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41603</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41603</guid>
@@ -197,15 +188,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021121114321570.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 국립정동극장 신년음악회 〈虎氣 : 범의 기운〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41601</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41601</guid>
-            <pubDate>Mon, 13 Dec 2021 04:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.14
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012697_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[가족뮤지컬 <미니특공대 : 애니멀트론>-부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41600</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41600</guid>
@@ -222,6 +204,24 @@
             <content:encoded><![CDATA[2021.12.16
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011305_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈잭더리퍼〉 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41598</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41598</guid>
+            <pubDate>Tue, 14 Dec 2021 15:46:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021121311461797.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NEW신비아파트 뮤지컬 시즌4：비명동산의 초대장－대구 앵콜 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41597</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41597</guid>
+            <pubDate>Tue, 14 Dec 2021 15:46:49 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.15
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021121015453129.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
