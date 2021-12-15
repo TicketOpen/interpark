@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 03:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 04:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,7 +39,7 @@
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41606</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41606</guid>
             <pubDate>Tue, 14 Dec 2021 05:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.16
+            <content:encoded><![CDATA[2021.12.20
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011771_p.gif" length="0" type="image/gif"/>
         </item>
