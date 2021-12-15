@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 05:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 06:49:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -17,7 +17,7 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021120610582712.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연극 〈쉬어매드니스〉 - 서울 대학로 1월 티켓오픈 안내 안내]]></title>
+            <title><![CDATA[연극 <쉬어매드니스> - 서울 대학로 1월 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41612</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41612</guid>
             <pubDate>Wed, 15 Dec 2021 05:40:00 GMT</pubDate>
