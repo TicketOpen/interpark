@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 23:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 01:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈엉덩이 탐정〉 - 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41628</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41628</guid>
+            <pubDate>Fri, 17 Dec 2021 01:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.23
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021121516111433.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈엉덩이 탐정〉 - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41627</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41627</guid>
+            <pubDate>Fri, 17 Dec 2021 01:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.23
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021121516154246.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈클림트 : 그 영혼의 시간속으로〉 5차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41626</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2021.12.30
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211216012423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 캐치! 티니핑〈프린세스 다이어리〉- 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41617</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41617</guid>
-            <pubDate>Thu, 16 Dec 2021 01:42:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.21
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211216090627.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 캐치! 티니핑〈프린세스 다이어리〉- 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41616</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41616</guid>
-            <pubDate>Thu, 16 Dec 2021 01:42:20 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.21
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211216090539.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
