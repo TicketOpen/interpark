@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 01:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 02:56:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,15 +71,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021121516182265.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 장윤정 라이브 콘서트 - 목포 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41620</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41620</guid>
-            <pubDate>Thu, 16 Dec 2021 05:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.21
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021121516192308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 거미 전국투어 콘서트 〈다시, Winter Ballad〉 - 진주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41619</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41619</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2021.12.30
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211216012423.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캐치! 티니핑〈프린세스 다이어리〉- 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41617</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41617</guid>
+            <pubDate>Fri, 17 Dec 2021 02:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.21
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20211216090627.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
