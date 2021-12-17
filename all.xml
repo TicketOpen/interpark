@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 08:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 09:43:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈잭더리퍼〉 (1.15) 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41649&amp;groupno=41649&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41649&amp;groupno=41649&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 17 Dec 2021 09:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.20(월)&nbsp;09:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[장화 신은 고양이 비긴즈 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41648&amp;groupno=41648&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.12.17(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 ［바다탐험대 옥토넛 시즌2］ - 의정부 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41631&amp;groupno=41631&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41631&amp;groupno=41631&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 17 Dec 2021 04:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.22(수)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈잭더리퍼〉 (1.15) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41649</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41649</guid>
+            <pubDate>Fri, 17 Dec 2021 09:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.20
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013023_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[장화 신은 고양이 비긴즈 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.12.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010169_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 4차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41638</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41638</guid>
-            <pubDate>Fri, 17 Dec 2021 05:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008252_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
