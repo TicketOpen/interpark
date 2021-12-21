@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 04:54:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 05:40:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈가족이란 이름의 부족〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41666&amp;groupno=41666&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41666&amp;groupno=41666&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 21 Dec 2021 05:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[21.12.28(화)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[사운드바이사운드_권진아X아일 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41665&amp;groupno=41665&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.12.28(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈잭더리퍼〉 (1.15) 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41649&amp;groupno=41649&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41649&amp;groupno=41649&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 17 Dec 2021 09:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.20(월)&nbsp;09:00]]></content:encoded>
+            <title><![CDATA[연극 〈가족이란 이름의 부족〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41666</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41666</guid>
+            <pubDate>Tue, 21 Dec 2021 05:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122113271892.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사운드바이사운드_권진아X아일 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.12.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010870_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[빛：영국 테이트미술관 특별전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=884</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=884</guid>
-            <pubDate>Mon, 20 Dec 2021 05:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.21
-                                    <span>00:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013002_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
