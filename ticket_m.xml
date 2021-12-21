@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 02:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 03:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스트릿 우먼 파이터 ［ON THE STAGE］ - 인천  재예매 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41664</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41664</guid>
+            <pubDate>Tue, 21 Dec 2021 03:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.22
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122019563398.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청춘콘썰트vol1.［온라인］ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41663</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41663</guid>
+            <pubDate>Tue, 21 Dec 2021 03:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122013384507.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 인 하우스 아티스트 시리즈 I. 문태국 ＆  II. 신창용 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41662</link>
@@ -78,23 +96,6 @@
             <content:encoded><![CDATA[2021.12.24
                                     <span>13:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009703_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 임한별 단독 콘서트 “Christmas Cinema” - 서울 공연 연기안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41655</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41655</guid>
-            <pubDate>Mon, 20 Dec 2021 05:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span>추후공지</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 장윤정 라이브 콘서트 - 순천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41654</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41654</guid>
-            <pubDate>Mon, 20 Dec 2021 05:40:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021121715080314.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
