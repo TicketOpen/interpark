@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 02:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 03:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -193,7 +193,7 @@
             <pubDate>Tue, 21 Dec 2021 08:48:01 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.23
                                     <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122021083743.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012780_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 진주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
