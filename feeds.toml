@@ -52,3 +52,12 @@ titleSelector = "td.subject a"
 linkSelector = "td.subject a"
 contentSelector = "td.date"
 waitUntil = "networkidle"
+
+[ticket_festival]
+title = "인터파크 티켓 ─ 페스티벌"
+url = "http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&pageno=1&KindOfGoods=TICKET&Genre=&sort=WriteDate&stext=%C6%E4%BD%BA%C6%BC%B9%FA"
+entrySelector = "tbody tr"
+titleSelector = "td.subject a"
+linkSelector = "td.subject a"
+contentSelector = "td.date"
+waitUntil = "networkidle"
