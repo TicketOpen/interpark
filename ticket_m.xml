@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 04:50:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 05:35:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 KIM JAE JOONG J-PARTY 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41708</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41708</guid>
+            <pubDate>Tue, 28 Dec 2021 05:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[2021.12.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애니메이션 심포니 오케스트라 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41707</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2021.12.29
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013336_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 6차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41699</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41699</guid>
-            <pubDate>Mon, 27 Dec 2021 07:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.30
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007832_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
