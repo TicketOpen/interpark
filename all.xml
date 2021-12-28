@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 06:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 07:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미스트롯2 TOP4 2022 전국투어 콘서트 : 제주 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41709&amp;groupno=41709&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41709&amp;groupno=41709&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 28 Dec 2021 07:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.03(월)&nbsp;15:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 KIM JAE JOONG J-PARTY 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41708&amp;groupno=41708&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[21.12.30(목)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베이스 바리톤 길병민의 단독 콘서트 〈다시, 겨울〉 - 성남 티켓오.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41692&amp;groupno=41692&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41692&amp;groupno=41692&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 27 Dec 2021 02:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.28(화)&nbsp;18:00]]></content:encoded>
+            <title><![CDATA[미스트롯2 TOP4 2022 전국투어 콘서트 : 제주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41709</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41709</guid>
+            <pubDate>Tue, 28 Dec 2021 07:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.03
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 KIM JAE JOONG J-PARTY 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2021.12.29
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013289_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[조각난 뼈를 가진 여자와 어느 물리치료사 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41700</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41700</guid>
-            <pubDate>Mon, 27 Dec 2021 07:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013336_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[청춘콘썰트vol1.［온라인］ 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
