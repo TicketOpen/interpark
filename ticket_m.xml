@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 03:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 04:50:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,7 +62,7 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트롯페스타-대구 티켓오픈 안내]]></title>
+            <title><![CDATA[트롯페스타 : 박군.설운도.나태주 전국투어 콘서트 - 대구 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41702</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41702</guid>
             <pubDate>Tue, 28 Dec 2021 01:39:21 GMT</pubDate>
@@ -86,7 +86,7 @@
             <pubDate>Mon, 27 Dec 2021 07:35:38 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.29
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122416301839.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013336_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 6차 티켓오픈 안내]]></title>
