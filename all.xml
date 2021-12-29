@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 23:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 01:39:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[21.12.31(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미스트롯2 TOP4 2022 전국투어 콘서트 : 제주 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[2022 내일은 미스트롯2 TOP4 전국투어콘서트<소리꽃> : 제주 티켓오.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41709&amp;groupno=41709&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41709&amp;groupno=41709&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 28 Dec 2021 07:35:07 GMT</pubDate>
@@ -89,7 +89,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41700&amp;groupno=41700&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41700&amp;groupno=41700&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 27 Dec 2021 07:35:29 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29(수)&nbsp;14:00]]></content:encoded>
+            <content:encoded><![CDATA[21.12.31(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 6차 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -143,7 +143,7 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008042_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[미스트롯2 TOP4 2022 전국투어 콘서트 : 제주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[2022 내일은 미스트롯2 TOP4 전국투어콘서트<소리꽃> : 제주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41709</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41709</guid>
             <pubDate>Tue, 28 Dec 2021 07:35:18 GMT</pubDate>
@@ -212,7 +212,7 @@
             <pubDate>Tue, 28 Dec 2021 01:39:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013324_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[트롯페스타 : 박군.설운도.나태주 전국투어 콘서트 - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
