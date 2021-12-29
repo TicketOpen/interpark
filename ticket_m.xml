@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 01:39:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 02:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -41,7 +41,7 @@
             <pubDate>Tue, 28 Dec 2021 02:52:19 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30
                                     <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122711265309.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013390_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈더 라스트맨〉 3차 티켓오픈 안내]]></title>
@@ -68,7 +68,7 @@
             <pubDate>Tue, 28 Dec 2021 01:39:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122714425722.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013372_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[엔니오 모리꼬네를 위하여 티켓오픈 안내]]></title>
@@ -77,7 +77,7 @@
             <pubDate>Tue, 28 Dec 2021 01:39:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122713184552.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013427_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 젠틀맨스가이드 - 이천 티켓오픈 안내]]></title>
@@ -95,7 +95,7 @@
             <pubDate>Tue, 28 Dec 2021 01:39:21 GMT</pubDate>
             <content:encoded><![CDATA[2021.12.30
                                     <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122314414695.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013356_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
