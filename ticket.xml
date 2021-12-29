@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2021-12-29T03:38:53.641Z</updated>
+    <updated>2021-12-29T04:49:50.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피아니스트 허효정의 인문학 리사이틀 Ⅲ 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41711&amp;groupno=41711&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41711&amp;groupno=41711&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2021-12-29T04:49:01.303Z</updated>
+        <content type="html"><![CDATA[22.01.04(화)&nbsp;15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021 연극 〈마우스피스〉 추가티켓오픈 안내]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41710&amp;groupno=41710&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -123,12 +130,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41695&amp;groupno=41695&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2021-12-27T05:35:06.895Z</updated>
         <content type="html"><![CDATA[21.12.30(목)&nbsp;15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주 〈일상으로의 초대〉적재, 정승환, 10CM... 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41694&amp;groupno=41694&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41694&amp;groupno=41694&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2021-12-27T05:35:06.895Z</updated>
-        <content type="html"><![CDATA[21.12.29(수)&nbsp;19:00]]></content>
     </entry>
 </feed>
