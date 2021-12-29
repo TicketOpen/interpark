@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 08:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 09:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［공연 취소 안내］ 2021-22 김재환 콘서트 ［歡迎 : 환영］ in BUSA.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41720&amp;groupno=41720&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41720&amp;groupno=41720&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 29 Dec 2021 09:38:06 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[［공연 취소 안내］ 2021-22 김재환 콘서트 ［歡迎 : 환영］ in DAEG.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41719&amp;groupno=41719&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,14 +134,7 @@
             <content:encoded><![CDATA[21.12.30(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 젠틀맨스가이드 - 이천 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41703&amp;groupno=41703&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41703&amp;groupno=41703&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 28 Dec 2021 01:39:12 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.30(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[［공연 취소 안내］ 2021-22 김재환 콘서트 ［歡迎 : 환영］ in DAEGU 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[［공연 취소 안내］ 2021-22 김재환 콘서트 ［歡迎 : 환영］ in DAEGU (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41719</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41719</guid>
             <pubDate>Wed, 29 Dec 2021 08:42:38 GMT</pubDate>
