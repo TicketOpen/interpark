@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 06:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 07:35:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어른이 뮤지컬 〈난쟁이들〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41729&amp;groupno=41729&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41729&amp;groupno=41729&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 30 Dec 2021 07:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.04(화)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[세틀뱅크] 신한은행 뱅킹시스템 업그레이드에 따른 업무중단 안내(2.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41728&amp;groupno=41728&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41728&amp;groupno=41728&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 30 Dec 2021 07:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[비엔나 익센트릭 | VIENNA ECCENTRIC - 고양 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41727&amp;groupno=41727&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,13 @@
             <content:encoded><![CDATA[21.12.30(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피아니스트 허효정의 인문학 리사이틀 Ⅲ 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41711&amp;groupno=41711&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41711&amp;groupno=41711&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 29 Dec 2021 04:49:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.04(화)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 연극 〈마우스피스〉 추가티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41710&amp;groupno=41710&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41710&amp;groupno=41710&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 28 Dec 2021 09:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.31(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[어른이 뮤지컬 〈난쟁이들〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41729</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41729</guid>
+            <pubDate>Thu, 30 Dec 2021 07:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.04
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012967_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[비엔나 익센트릭 | VIENNA ECCENTRIC - 고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -212,15 +221,6 @@
             <content:encoded><![CDATA[2022.01.07
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/19/19018520_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41717</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41717</guid>
-            <pubDate>Wed, 29 Dec 2021 08:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122715290000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -349,6 +349,13 @@
             <content:encoded><![CDATA[21.10.15(금)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[어른이 뮤지컬 〈난쟁이들〉 2차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41729&amp;groupno=41729&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41729&amp;groupno=41729&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 30 Dec 2021 07:35:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.04(화)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈레베카〉 마지막 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41725&amp;groupno=41725&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41725&amp;groupno=41725&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -466,13 +473,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41684&amp;groupno=41684&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Sat, 25 Dec 2021 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[21.12.29(수)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈잭더리퍼〉 -  대구 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41683&amp;groupno=41683&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41683&amp;groupno=41683&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Sat, 25 Dec 2021 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.27(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성시경 공식 팬클럽 ［PURPLE OCEAN KOREA］추가 모집 안내 티켓오픈.. (인터파크 티켓 ─ 팬클럽)]]></title>
