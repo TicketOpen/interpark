@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 14:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 15:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,15 +62,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007583_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[〈메이드 인 세운상가〉 - 2021 창작산실 올해의 신작 연극 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41730</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41730</guid>
-            <pubDate>Thu, 30 Dec 2021 08:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.31
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013429_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[어른이 뮤지컬 〈난쟁이들〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41729</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41729</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2022.01.05
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010936_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈레베카〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41725</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41725</guid>
+            <pubDate>Fri, 31 Dec 2021 15:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.05
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009146_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
