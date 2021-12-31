@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 04:50:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 05:35:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈라스트 세션〉 Freud’s Last Session 추가좌석 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41736</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41736</guid>
+            <pubDate>Fri, 31 Dec 2021 05:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.03
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011876_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 GOLDEN CHILD CONCERT ＇PLAY＇ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41734</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41734</guid>
+            <pubDate>Fri, 31 Dec 2021 05:35:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.05
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013421_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 대구 앵콜 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41733</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.01.05
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009146_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41724</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41724</guid>
-            <pubDate>Thu, 30 Dec 2021 01:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.03
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013441_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 내일은 미스트롯2 TOP4 전국투어콘서트〈소리꽃〉 : 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41723</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41723</guid>
-            <pubDate>Thu, 30 Dec 2021 01:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.03
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013436_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
