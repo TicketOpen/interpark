@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 02:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 03:39:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 대구 앵콜 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41733&amp;groupno=41733&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41733&amp;groupno=41733&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 31 Dec 2021 03:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.04(화)&nbsp;11:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 라이온 킹 인터내셔널 투어 - 서울 (Musical The Lion King) .. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41732&amp;groupno=41732&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.01.05(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 뮤지컬 〈미드나잇:액터뮤지션〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41715&amp;groupno=41715&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41715&amp;groupno=41715&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 29 Dec 2021 06:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.31(금)&nbsp;12:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 대구 앵콜 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41733</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41733</guid>
+            <pubDate>Fri, 31 Dec 2021 03:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.04
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122920034422.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 라이온 킹 인터내셔널 투어 - 서울 (Musical The Lion King) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -203,7 +212,7 @@
             <pubDate>Thu, 30 Dec 2021 01:38:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.03
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122911011643.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013441_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 내일은 미스트롯2 TOP4 전국투어콘서트〈소리꽃〉 : 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -212,16 +221,7 @@
             <pubDate>Thu, 30 Dec 2021 01:38:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.03
                                     <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 내일은 미스트롯2 TOP4 전국투어콘서트〈소리꽃〉 : 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41722</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41722</guid>
-            <pubDate>Thu, 30 Dec 2021 01:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.03
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013436_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -350,6 +350,13 @@
             <content:encoded><![CDATA[21.10.15(금)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 대구 앵콜 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41733&amp;groupno=41733&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41733&amp;groupno=41733&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 31 Dec 2021 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.04(화)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 라이온 킹 인터내셔널 투어 - 서울 (Musical The Lion King) .. (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41732&amp;groupno=41732&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41732&amp;groupno=41732&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -467,13 +474,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41686&amp;groupno=41686&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Sat, 25 Dec 2021 10:21:00 GMT</pubDate>
             <content:encoded><![CDATA[21.12.27(월)&nbsp;10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 수원 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41685&amp;groupno=41685&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=41685&amp;groupno=41685&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Sat, 25 Dec 2021 10:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.29(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성시경 공식 팬클럽 ［PURPLE OCEAN KOREA］추가 모집 안내 티켓오픈.. (인터파크 티켓 ─ 팬클럽)]]></title>
