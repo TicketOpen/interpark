@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 23:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 01:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미스터쇼(Mr.SHOW) 추가좌석(가변석) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41731</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41731</guid>
+            <pubDate>Fri, 31 Dec 2021 01:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.04
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007583_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[〈메이드 인 세운상가〉 - 2021 창작산실 올해의 신작 연극 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41730</link>
@@ -87,14 +96,6 @@
             <content:encoded><![CDATA[2021.12.31
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013413_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[［공연 취소 안내］ 2021-22 김재환 콘서트 ［歡迎 : 환영］ in DAEGU]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41719</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41719</guid>
-            <pubDate>Wed, 29 Dec 2021 08:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span>추후공지</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
