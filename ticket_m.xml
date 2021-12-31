@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 07:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 08:43:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 연극 〈마우스피스〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41737</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41737</guid>
+            <pubDate>Fri, 31 Dec 2021 08:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.07
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008042_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈라스트 세션〉 Freud’s Last Session 추가좌석 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41736</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.01.05
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010936_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41725</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41725</guid>
-            <pubDate>Thu, 30 Dec 2021 02:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009146_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
