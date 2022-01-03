@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 05:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 06:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41748</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41748</guid>
+            <pubDate>Mon, 03 Jan 2022 06:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021123016212333.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캐치！티니핑 〈프린세스 다이어리〉－서울 추가 티켓 오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41747</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41747</guid>
+            <pubDate>Mon, 03 Jan 2022 06:45:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.05
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011221_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 추가좌석 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41745</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.01.05
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021 연극 〈마우스피스〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41737</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41737</guid>
-            <pubDate>Fri, 31 Dec 2021 08:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.07
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008042_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈라스트 세션〉 Freud’s Last Session 추가좌석 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41736</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41736</guid>
-            <pubDate>Fri, 31 Dec 2021 05:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.03
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011876_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
