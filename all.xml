@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 01:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 02:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,7 +33,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41735&amp;groupno=41735&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41735&amp;groupno=41735&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 31 Dec 2021 05:35:00 GMT</pubDate>
-            <content:encoded><![CDATA[21.01.05(화)&nbsp;15:00]]></content:encoded>
+            <content:encoded><![CDATA[22.01.05(수)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 GOLDEN CHILD CONCERT ＇PLAY＇ 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -161,6 +161,15 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011876_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[2022 이승환 콘서트 〈당신이 원하는 바로 그 콘서트〉- 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41735</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41735</guid>
+            <pubDate>Mon, 03 Jan 2022 02:53:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.05
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 GOLDEN CHILD CONCERT ＇PLAY＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41734</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41734</guid>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.01.05
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021122719204508.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈엘리펀트송〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41726</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41726</guid>
-            <pubDate>Thu, 30 Dec 2021 02:51:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.05
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010936_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
