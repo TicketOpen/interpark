@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 06:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 07:36:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈팬레터〉 4차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41757</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41757</guid>
+            <pubDate>Tue, 04 Jan 2022 07:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21010169_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈리차드3세〉 마지막 및 추가좌석 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41756</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41756</guid>
+            <pubDate>Tue, 04 Jan 2022 07:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.07
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011939_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉- 제주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41755</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.01.05
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011221_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 추가좌석 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41745</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41745</guid>
-            <pubDate>Mon, 03 Jan 2022 05:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.06
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008252_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 6차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41744</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41744</guid>
-            <pubDate>Mon, 03 Jan 2022 05:35:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.06
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
