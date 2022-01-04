@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 04:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 05:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉- 제주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41755</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41755</guid>
+            <pubDate>Tue, 04 Jan 2022 05:35:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.07
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021123019062553.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 청주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41754</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41754</guid>
+            <pubDate>Tue, 04 Jan 2022 05:35:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.07
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2021123018574199.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[랑랑 피아노 리사이틀 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41753</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.01.06
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[‘풍류대장’ 전국투어 콘서트 - 고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41742</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41742</guid>
-            <pubDate>Mon, 03 Jan 2022 03:39:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220103120141.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘풍류대장’ 전국투어 콘서트 - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41741</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41741</guid>
-            <pubDate>Mon, 03 Jan 2022 03:39:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220103120109.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
