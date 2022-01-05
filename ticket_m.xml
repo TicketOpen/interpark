@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 07:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 08:44:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［안성］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41774</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41774</guid>
+            <pubDate>Wed, 05 Jan 2022 08:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.10
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022010515073361.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나르치스와 골드문트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41773</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41773</guid>
+            <pubDate>Wed, 05 Jan 2022 08:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.12
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022010515590311.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈그때도 오늘〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41772</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.01.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피아니스트 이혁 리사이틀 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41764</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41764</guid>
-            <pubDate>Wed, 05 Jan 2022 02:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.07
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈M〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41763</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41763</guid>
-            <pubDate>Wed, 05 Jan 2022 02:53:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022010422130181.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
