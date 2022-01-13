@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 06:46:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 07:39:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[첼리스트 심준호 리사이틀 ＂4 Cities＂ 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41853</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41853</guid>
+            <pubDate>Thu, 13 Jan 2022 07:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.14
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000464_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[Rock ＆ 樂 Concert Vol.39 LUCY 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41852</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.01.14
                                     <span>17:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000495_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈곤 투모로우〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41843</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41843</guid>
-            <pubDate>Wed, 12 Jan 2022 08:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.19
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009896_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
