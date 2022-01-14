@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 03:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 04:50:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시샘달 클라와의 산책 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41858&amp;groupno=41858&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41858&amp;groupno=41858&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 14 Jan 2022 04:49:44 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.17(월)&nbsp;09:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[세틀뱅크] 국민은행 대외 VPN 장비 교체 작업 안내(2022.01.20) (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41857&amp;groupno=41857&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.01.18(화)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2021-22 YB 전국투어 콘서트 〈LIGHTS〉 - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41840&amp;groupno=41840&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41840&amp;groupno=41840&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 12 Jan 2022 07:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.18(화)&nbsp;16:00]]></content:encoded>
+            <title><![CDATA[시샘달 클라와의 산책 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41858</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41858</guid>
+            <pubDate>Fri, 14 Jan 2022 04:49:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.17
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈엄마까투리 - 먹구렁이와 생일파티〉- 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -203,7 +212,7 @@
             <pubDate>Thu, 13 Jan 2022 04:49:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.17
                                     <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022010915341131.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000383_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌2 - 당진 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.01.18
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011221575610.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 최현우 〈The Brain〉 - 용인 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41847</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41847</guid>
-            <pubDate>Thu, 13 Jan 2022 01:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.17
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220113103721.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
