@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 08:45:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 09:40:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2am Concert 22 S/S 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41867&amp;groupno=41867&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41867&amp;groupno=41867&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 17 Jan 2022 09:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.01.19(수)&nbsp;20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[유니버설발레단 〈발레 춘향〉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41866&amp;groupno=41866&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.01.20(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 YANG JOON IL CONCERT “The First Dance” - 대구 티켓오픈 안.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41849&amp;groupno=41849&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41849&amp;groupno=41849&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 13 Jan 2022 04:49:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.17(월)&nbsp;19:00]]></content:encoded>
+            <title><![CDATA[2am Concert 22 S/S 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41867</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41867</guid>
+            <pubDate>Mon, 17 Jan 2022 09:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.19
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000327_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[유니버설발레단 〈발레 춘향〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.01.18
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000528_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉－오산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41854</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41854</guid>
-            <pubDate>Thu, 13 Jan 2022 08:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.18
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000547_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
