@@ -4,9 +4,54 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 23:38:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 01:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈더 라스트맨〉 4차 티켓 오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41872</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41872</guid>
+            <pubDate>Tue, 18 Jan 2022 01:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.18
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011425_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캐치！티니핑 〈프린세스 다이어리〉- 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41871</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41871</guid>
+            <pubDate>Tue, 18 Jan 2022 01:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.20
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011715463691.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캐치！티니핑 〈프린세스 다이어리〉－성남 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41870</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41870</guid>
+            <pubDate>Tue, 18 Jan 2022 01:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.20
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011715354893.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캐치！티니핑 〈프린세스 다이어리〉－고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41869</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41869</guid>
+            <pubDate>Tue, 18 Jan 2022 01:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.20
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011715072723.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉－고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41868</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41868</guid>
+            <pubDate>Tue, 18 Jan 2022 01:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.20
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011714361283.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2am Concert 22 S/S 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41867</link>
@@ -51,51 +96,6 @@
             <content:encoded><![CDATA[2022.01.25
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000430_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 추가좌석 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41861</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41861</guid>
-            <pubDate>Fri, 14 Jan 2022 07:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.18
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008252_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더모먼트〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41860</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41860</guid>
-            <pubDate>Fri, 14 Jan 2022 07:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011119_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈가족이란 이름의 부족〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41859</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41859</guid>
-            <pubDate>Fri, 14 Jan 2022 05:36:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013291_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈엄마까투리 - 먹구렁이와 생일파티〉- 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41856</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41856</guid>
-            <pubDate>Fri, 14 Jan 2022 01:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.18
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000528_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉－오산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41854</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41854</guid>
-            <pubDate>Mon, 17 Jan 2022 15:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.18
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000547_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
