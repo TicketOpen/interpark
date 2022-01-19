@@ -4,9 +4,63 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 04:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 05:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS교향악단 2022 화이트데이 콘체르토 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41894</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41894</guid>
+            <pubDate>Wed, 19 Jan 2022 05:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000492_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[KBS교향악단 오페라 카르멘 갈라 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41893</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41893</guid>
+            <pubDate>Wed, 19 Jan 2022 05:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000434_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[KBS교향악단 로맨틱 패키지 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41892</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41892</guid>
+            <pubDate>Wed, 19 Jan 2022 05:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cheeze 단독공연 〈Mood Film : Four seasons of love〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41891</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41891</guid>
+            <pubDate>Wed, 19 Jan 2022 05:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220119020046.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈프리다〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41890</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41890</guid>
+            <pubDate>Wed, 19 Jan 2022 05:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011818182838.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈프랑켄슈타인〉 추가좌석 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41889</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41889</guid>
+            <pubDate>Wed, 19 Jan 2022 05:32:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008252_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 부산앵콜 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41888</link>
@@ -14,7 +68,7 @@
             <pubDate>Wed, 19 Jan 2022 02:44:58 GMT</pubDate>
             <content:encoded><![CDATA[2022.01.21
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220119020321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[죽음을 대비하는 방법 ; 멸망편 티켓오픈 안내]]></title>
@@ -42,60 +96,6 @@
             <content:encoded><![CDATA[2022.01.21
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000150_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[<기타리스트 박규희와 함께하는 2022 KBS교향악단 실내악 시리즈 Ⅱ>  티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41883</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41883</guid>
-            <pubDate>Wed, 19 Jan 2022 02:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.19
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000520_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[<피아니스트 박종해와 함께하는 2022 KBS교향악단 실내악 시리즈 I> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41882</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41882</guid>
-            <pubDate>Wed, 19 Jan 2022 02:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.19
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000521_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41881</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41881</guid>
-            <pubDate>Tue, 18 Jan 2022 12:58:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.24
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011813001138.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022통영국제음악제-Vision in Diversity 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41879</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41879</guid>
-            <pubDate>Tue, 18 Jan 2022 12:58:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011721170591.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 안산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41878</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41878</guid>
-            <pubDate>Tue, 18 Jan 2022 12:58:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.20
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011712290310.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박진우 슈베르트 피아노 전곡 시리즈 II - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41877</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41877</guid>
-            <pubDate>Tue, 18 Jan 2022 12:58:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.24
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011713174359.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
