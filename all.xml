@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 07:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 09:36:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인터파크 시스템 작업공지 (2022.01.26) (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41909&amp;groupno=41909&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41909&amp;groupno=41909&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 20 Jan 2022 09:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 안산 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41908&amp;groupno=41908&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -125,13 +132,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41891&amp;groupno=41891&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 19 Jan 2022 05:32:48 GMT</pubDate>
             <content:encoded><![CDATA[22.01.21(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈프리다〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41890&amp;groupno=41890&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41890&amp;groupno=41890&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 19 Jan 2022 05:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.26(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 안산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
