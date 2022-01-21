@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 01:35:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 02:47:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김창옥 토크콘서트 시즌2 -  울산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41912</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41912</guid>
+            <pubDate>Fri, 21 Jan 2022 02:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012010255953.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈잭더리퍼〉 - 성남 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41911</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41911</guid>
+            <pubDate>Fri, 21 Jan 2022 02:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.28
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011811105912.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박진우 슈베르트 피아노 전곡 시리즈 II - 수원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41910</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41910</guid>
+            <pubDate>Fri, 21 Jan 2022 02:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.24
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000710_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 안산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41908</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.01.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000526_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이승윤 콘서트 ‘Docking’ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41900</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41900</guid>
-            <pubDate>Thu, 20 Jan 2022 01:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220120114020.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［청주］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41899</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41899</guid>
-            <pubDate>Wed, 19 Jan 2022 08:37:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.24
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022011916052967.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈칠칠〉 5차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41897</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41897</guid>
-            <pubDate>Thu, 20 Jan 2022 15:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009703_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
