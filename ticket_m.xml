@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 23:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 01:39:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 천안 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41928</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41928</guid>
+            <pubDate>Mon, 24 Jan 2022 01:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012117261869.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[〈2022 화이트데이 콘서트-스탠딩에그〉 - 안양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41927</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41927</guid>
+            <pubDate>Mon, 24 Jan 2022 01:39:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012009482365.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 이은미 전국투어 콘서트〈ACOUSTIC〉 - 부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41926</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.01.26
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012904_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 HYNN(박혜원) 전국투어 〈 HYNN FOREST〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41918</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41918</guid>
-            <pubDate>Fri, 21 Jan 2022 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.28
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220121020625.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 내일은 국민가수 TOP10 전국투어 콘서트 ＂탄생! 국가단＂ - 광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41917</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41917</guid>
-            <pubDate>Fri, 21 Jan 2022 05:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.28
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012017473801.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
