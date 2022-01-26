@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 02:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 03:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극<콜타임> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41955</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41955</guid>
+            <pubDate>Wed, 26 Jan 2022 03:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.28
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000828_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－수원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41954</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41954</guid>
+            <pubDate>Wed, 26 Jan 2022 03:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.28
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012422423520.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 ［바다탐험대 옥토넛 시즌2］ - 거제 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41953</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41953</guid>
+            <pubDate>Wed, 26 Jan 2022 03:35:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.01.28
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬〈출동! 슈퍼윙스 : 빅콘서트〉- 인천 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41952</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.01.28
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011425_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[SE SO NEON 2022 LIVE IN SEOUL 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41945</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41945</guid>
-            <pubDate>Wed, 26 Jan 2022 01:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.28
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012511131711.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고 싶은 인디 Ep.3 홍예진 단독 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41944</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41944</guid>
-            <pubDate>Wed, 26 Jan 2022 01:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.26
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012017201214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈젠틀맨스 가이드 : 사랑과 살인편〉 - 천안 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41943</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41943</guid>
-            <pubDate>Wed, 26 Jan 2022 01:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.28
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012513543480.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
