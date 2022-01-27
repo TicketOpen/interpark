@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 23:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 01:37:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 캐치！티니핑 〈프린세스 다이어리〉－창원앵콜 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41962</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41962</guid>
+            <pubDate>Thu, 27 Jan 2022 01:36:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.03
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012614583323.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스티안 짐머만 피아노 리사이틀 - 부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41961</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.02.07
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012514193371.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 한다콘서트 #2. 희망한다 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41951</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41951</guid>
-            <pubDate>Wed, 26 Jan 2022 01:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.04
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012411121263.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
