@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2022-01-28T08:39:01.425Z</updated>
+    <updated>2022-01-28T09:36:33.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 천안 티켓..]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41981&amp;groupno=41981&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41981&amp;groupno=41981&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-01-28T09:35:45.021Z</updated>
+        <content type="html"><![CDATA[22.02.07(월)&nbsp;10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[［당진］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41980&amp;groupno=41980&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41980&amp;groupno=41980&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-01-28T09:35:45.026Z</updated>
+        <content type="html"><![CDATA[22.02.07(월)&nbsp;10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 이승환 콘서트 〈당신이 원하는 바로 그 콘서트〉- 경기광주 티..]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41979&amp;groupno=41979&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41979&amp;groupno=41979&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-01-28T08:38:11.913Z</updated>
-        <content type="html"><![CDATA[22.02.03(목)&nbsp;15:00]]></content>
+        <content type="html"><![CDATA[22.02.04(금)&nbsp;15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한스 짐머 ＆ 존 윌리엄스 영화음악 콘서트 티켓오픈 안내]]></title>
@@ -116,19 +130,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41964&amp;groupno=41964&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-01-27T02:46:31.096Z</updated>
         <content type="html"><![CDATA[22.02.10(목)&nbsp;15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［ 2022 Theatre 이문세 ］- 강릉 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41963&amp;groupno=41963&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41963&amp;groupno=41963&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-01-27T02:46:31.100Z</updated>
-        <content type="html"><![CDATA[22.02.09(수)&nbsp;15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 캐치！티니핑 〈프린세스 다이어리〉－창원앵콜 티켓오픈 안..]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41962&amp;groupno=41962&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41962&amp;groupno=41962&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-01-27T01:36:34.040Z</updated>
-        <content type="html"><![CDATA[22.02.03(목)&nbsp;09:00]]></content>
     </entry>
 </feed>

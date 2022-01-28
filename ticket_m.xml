@@ -4,15 +4,33 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 08:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 09:36:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 천안 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41981</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41981</guid>
+            <pubDate>Fri, 28 Jan 2022 09:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.07
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［당진］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41980</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41980</guid>
+            <pubDate>Fri, 28 Jan 2022 09:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.07
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012816324472.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 이승환 콘서트 〈당신이 원하는 바로 그 콘서트〉- 경기광주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41979</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41979</guid>
             <pubDate>Fri, 28 Jan 2022 08:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.03
+            <content:encoded><![CDATA[2022.02.04
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001036_p.gif" length="0" type="image/gif"/>
         </item>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.02.11
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012717542277.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채보훈 첫번째 팬미팅 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41971</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41971</guid>
-            <pubDate>Fri, 28 Jan 2022 02:48:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.01.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012810291413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 빅3＂행복한 만남＂콘서트(진성, 김용임, 강진)-고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41970</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41970</guid>
-            <pubDate>Fri, 28 Jan 2022 01:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.03
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001021_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
