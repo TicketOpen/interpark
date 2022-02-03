@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 03:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 04:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앙코르 산울림 고전극장 - 동물농장 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41984</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41984</guid>
+            <pubDate>Thu, 03 Feb 2022 04:44:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.07
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012817282404.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[［공연 취소 안내］ 2022 김재환 콘서트 ［歡迎 : 환영］ in SEONGNAM 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41983</link>
@@ -85,16 +94,7 @@
             <pubDate>Fri, 28 Jan 2022 05:32:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.04
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012714574839.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김창옥 토크콘서트 시즌2 - 창원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41974</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41974</guid>
-            <pubDate>Fri, 28 Jan 2022 03:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.04
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220128115505.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001035_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
