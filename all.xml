@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 01:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 03:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［공연 취소 안내］ 2022 김재환 콘서트 ［歡迎 : 환영］ in SEONGNA.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41983&amp;groupno=41983&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41983&amp;groupno=41983&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 03 Feb 2022 03:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[추후공지]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 이은미 전국투어 콘서트〈ACOUSTIC〉-서울 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41982&amp;groupno=41982&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,12 @@
             <content:encoded><![CDATA[22.02.03(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 ［바다탐험대 옥토넛 시즌2］ - 창원 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41965&amp;groupno=41965&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=41965&amp;groupno=41965&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 27 Jan 2022 04:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.03(목)&nbsp;12:00]]></content:encoded>
+            <title><![CDATA[［공연 취소 안내］ 2022 김재환 콘서트 ［歡迎 : 환영］ in SEONGNAM 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41983</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41983</guid>
+            <pubDate>Thu, 03 Feb 2022 03:36:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span>추후공지</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 이은미 전국투어 콘서트〈ACOUSTIC〉-서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +221,6 @@
             <content:encoded><![CDATA[2022.02.04
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220128115505.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 싯다르타 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41973</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41973</guid>
-            <pubDate>Fri, 28 Jan 2022 02:48:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000785_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
