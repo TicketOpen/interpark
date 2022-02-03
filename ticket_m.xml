@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:44:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 05:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) 10차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41985</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41985</guid>
+            <pubDate>Thu, 03 Feb 2022 05:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007693_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[앙코르 산울림 고전극장 - 동물농장 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41984</link>
@@ -86,15 +95,6 @@
             <content:encoded><![CDATA[2022.02.03
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001001_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[포르테 디 콰트로 콘서트 〈메타포닉〉 - 전주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41975</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41975</guid>
-            <pubDate>Fri, 28 Jan 2022 05:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001035_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
