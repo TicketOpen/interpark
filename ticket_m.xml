@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 06:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그날의,타이밍 시즌2 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41989</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41989</guid>
+            <pubDate>Thu, 03 Feb 2022 06:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.07
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그날의타이밍 시즌1 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41988</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41988</guid>
+            <pubDate>Thu, 03 Feb 2022 06:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.07
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블록버스터 영화음악 콘서트_성남 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41987</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41987</guid>
+            <pubDate>Thu, 03 Feb 2022 06:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012719155016.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈M〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41986</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41986</guid>
+            <pubDate>Thu, 03 Feb 2022 06:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.07
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000156_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) 10차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41985</link>
@@ -59,42 +95,6 @@
             <content:encoded><![CDATA[2022.02.07
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012816324472.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 이승환 콘서트 〈당신이 원하는 바로 그 콘서트〉- 경기광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41979</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41979</guid>
-            <pubDate>Fri, 28 Jan 2022 08:38:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.04
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001036_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한스 짐머 ＆ 존 윌리엄스 영화음악 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41978</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41978</guid>
-            <pubDate>Fri, 28 Jan 2022 05:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001061_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 - 대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41977</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41977</guid>
-            <pubDate>Fri, 28 Jan 2022 05:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.03
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000989_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 - 수원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41976</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41976</guid>
-            <pubDate>Fri, 28 Jan 2022 05:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001001_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
