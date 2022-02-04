@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 02:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 03:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디핀칼즈 레코즈 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41990</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41990</guid>
+            <pubDate>Fri, 04 Feb 2022 03:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.08
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020409524416.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그날의,타이밍 시즌2 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41989</link>
@@ -14,7 +23,7 @@
             <pubDate>Thu, 03 Feb 2022 06:41:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.07
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001114_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[그날의타이밍 시즌1 티켓오픈 안내]]></title>
@@ -23,7 +32,7 @@
             <pubDate>Thu, 03 Feb 2022 06:41:28 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.07
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001113_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[블록버스터 영화음악 콘서트_성남 티켓오픈 안내]]></title>
@@ -85,16 +94,7 @@
             <pubDate>Fri, 28 Jan 2022 09:35:54 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.07
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［당진］ 번개맨 뮤지컬 : 검은 번개맨의 정체는？ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41980</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41980</guid>
-            <pubDate>Fri, 28 Jan 2022 09:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.07
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022012816324472.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001069_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
