@@ -4,9 +4,63 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 08:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 09:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바이올리니스트 박지혜의 ＇인간vs인공지능＇ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42010</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42010</guid>
+            <pubDate>Fri, 04 Feb 2022 09:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.09
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220204061018.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 44 gnook(前 오왠) 단독 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42009</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42009</guid>
+            <pubDate>Fri, 04 Feb 2022 09:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.08
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020315080769.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 43 김마리 단독 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42008</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42008</guid>
+            <pubDate>Fri, 04 Feb 2022 09:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.08
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020315035050.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나만 알고 싶은 인디 Ep.4 김제형 단독 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42007</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42007</guid>
+            <pubDate>Fri, 04 Feb 2022 09:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.08
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020314582996.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈더모먼트〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42006</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42006</guid>
+            <pubDate>Fri, 04 Feb 2022 09:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.11
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011119_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극〈늘근도둑이야기〉 (3월~) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42005</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42005</guid>
+            <pubDate>Fri, 04 Feb 2022 09:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈스메르쟈코프〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42004</link>
@@ -42,60 +96,6 @@
             <content:encoded><![CDATA[2022.02.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000934_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈렛미플라이〉 프리뷰 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42000</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42000</guid>
-            <pubDate>Fri, 04 Feb 2022 07:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020315252972.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈밤이 깊었습니다〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41999</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41999</guid>
-            <pubDate>Fri, 04 Feb 2022 07:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.07
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001067_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김창옥 토크콘서트 시즌2 - 경기광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41998</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41998</guid>
-            <pubDate>Fri, 04 Feb 2022 06:34:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020411120423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 스텔라장 소극장 콘서트 “어떤 날들” 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41997</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41997</guid>
-            <pubDate>Fri, 04 Feb 2022 05:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020317472997.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈미오 프라텔로〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41996</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41996</guid>
-            <pubDate>Fri, 04 Feb 2022 05:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.10
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020411461072.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Forestella Concert - The Royal in Seoul ENCORE 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41995</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=41995</guid>
-            <pubDate>Fri, 04 Feb 2022 05:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.10
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020411112494.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
