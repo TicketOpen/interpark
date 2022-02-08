@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 03:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 04:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KBS교향악단 제783회 정기연주회 - 인천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42028</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42028</guid>
+            <pubDate>Tue, 08 Feb 2022 04:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000843_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 7차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42027</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42027</guid>
+            <pubDate>Tue, 08 Feb 2022 04:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.10
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 이달의 어썸 시즌2 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42026</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.02.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0002887_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[디오스 미오 (오 마이 갓!) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42019</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42019</guid>
-            <pubDate>Mon, 07 Feb 2022 07:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.10
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020711115395.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 전주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42018</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42018</guid>
-            <pubDate>Mon, 07 Feb 2022 07:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.09
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001198_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
