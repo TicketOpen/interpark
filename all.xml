@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 05:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 06:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[세틀뱅크] 씨티은행 시스템 점검 공지 (2022.02.13) (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42048&amp;groupno=42048&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42048&amp;groupno=42048&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 09 Feb 2022 06:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 주현미 콘서트 - 인천 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42047&amp;groupno=42047&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -125,13 +132,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42031&amp;groupno=42031&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 09 Feb 2022 01:43:11 GMT</pubDate>
             <content:encoded><![CDATA[22.02.11(금)&nbsp;09:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[밤하늘의별을 with my friends 첫 번째이야기 - 서울 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42030&amp;groupno=42030&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42030&amp;groupno=42030&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 09 Feb 2022 01:43:11 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 주현미 콘서트 - 인천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -410,7 +410,7 @@
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42025&amp;groupno=42025&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42025&amp;groupno=42025&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 08 Feb 2022 02:48:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.15(화)&nbsp;10:00]]></content:encoded>
+            <content:encoded><![CDATA[22.02.11(금)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 2차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
