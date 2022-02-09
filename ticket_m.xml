@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 07:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 08:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심포니 오브 메이플스토리 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42051</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42051</guid>
+            <pubDate>Wed, 09 Feb 2022 08:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020913294395.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［방역패스］크리스티안 짐머만 피아노 리사이틀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42050</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42050</guid>
+            <pubDate>Wed, 09 Feb 2022 08:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.10
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000003_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[엘 콘서트 시리즈 〈아무르 무지크〉 I. ＆ II. 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42049</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.02.14
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020818532038.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42038</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42038</guid>
-            <pubDate>Wed, 09 Feb 2022 02:48:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.10
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21009146_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 갈라 콘서트 〈COLORS〉 : 차지연 X 한지상 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42037</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42037</guid>
-            <pubDate>Wed, 09 Feb 2022 01:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.17
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001342_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
