@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 04:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 05:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 주현미 콘서트 - 인천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42047</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42047</guid>
+            <pubDate>Wed, 09 Feb 2022 05:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.11
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020712540357.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 연극〈친정엄마와 2박 3일〉 - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42046</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42046</guid>
+            <pubDate>Wed, 09 Feb 2022 05:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.11
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020816402477.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42045</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42045</guid>
+            <pubDate>Wed, 09 Feb 2022 05:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000970_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[믹스 앤 매치 : 서도밴드X김주리 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42044</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42044</guid>
+            <pubDate>Wed, 09 Feb 2022 05:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.10
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001279_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 NIEL ＆ CHANGJO FRIENDS FAN-CON 추가티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42043</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.02.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001285_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Connect with The Whales 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42035</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42035</guid>
-            <pubDate>Wed, 09 Feb 2022 01:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.10
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001371_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42033</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42033</guid>
-            <pubDate>Wed, 09 Feb 2022 01:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.11
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020519453481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42032</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42032</guid>
-            <pubDate>Wed, 09 Feb 2022 01:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.11
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020519353595.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42031</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42031</guid>
-            <pubDate>Wed, 09 Feb 2022 01:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.11
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020518333409.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
