@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 03:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 04:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극〈눈을 뜻하는 수백 가지 단어들〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42055&amp;groupno=42055&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42055&amp;groupno=42055&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 10 Feb 2022 04:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.11(금)&nbsp;16:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 창원 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42054&amp;groupno=42054&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.02.10(목)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 갈라 콘서트 〈COLORS〉 : 차지연 X 한지상 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42037&amp;groupno=42037&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42037&amp;groupno=42037&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 09 Feb 2022 01:43:11 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17(목)&nbsp;16:00]]></content:encoded>
+            <title><![CDATA[연극〈눈을 뜻하는 수백 가지 단어들〉 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42055</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42055</guid>
+            <pubDate>Thu, 10 Feb 2022 04:43:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.11
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 창원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.02.15
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000970_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[믹스 앤 매치 : 서도밴드X김주리 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42044</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42044</guid>
-            <pubDate>Wed, 09 Feb 2022 05:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.10
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001279_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
