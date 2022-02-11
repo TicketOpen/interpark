@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 01:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 02:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈스톤 THE STONE〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42062</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42062</guid>
+            <pubDate>Fri, 11 Feb 2022 02:48:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.18
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000880_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 당진 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42061</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42061</guid>
+            <pubDate>Fri, 11 Feb 2022 02:48:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021015103114.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토요스테이지 〈슈트라우스 스트레스〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42060</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.02.15
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020915462620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 킹아더 (Musical King Arthur) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42052</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42052</guid>
-            <pubDate>Thu, 10 Feb 2022 01:38:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.16
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220210102140.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심포니 오브 메이플스토리 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42051</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42051</guid>
-            <pubDate>Wed, 09 Feb 2022 08:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001413_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
