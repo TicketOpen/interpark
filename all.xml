@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 23:34:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 01:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마티네 콘서트 〈김정원의 낭만가도 “인연因緣”〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42083&amp;groupno=42083&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42083&amp;groupno=42083&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 14 Feb 2022 01:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.22(화)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[존노 - 디 아더 사이드 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42082&amp;groupno=42082&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.02.18(금)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[〈춘향_날개를 뜯긴 새〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42064&amp;groupno=42064&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42064&amp;groupno=42064&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Sat, 12 Feb 2022 07:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.14(월)&nbsp;10:00]]></content:encoded>
+            <title><![CDATA[마티네 콘서트 〈김정원의 낭만가도 “인연因緣”〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42083</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42083</guid>
+            <pubDate>Mon, 14 Feb 2022 01:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존노 - 디 아더 사이드 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.02.18
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220211031206.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CrossRoad Factory 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42072</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42072</guid>
-            <pubDate>Sat, 12 Feb 2022 07:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.16
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021110155475.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
