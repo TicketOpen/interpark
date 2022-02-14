@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:35:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 조명섭 콘서트 - 新나는! 〈달밤 음악회〉 - 청주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42090</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42090</guid>
+            <pubDate>Mon, 14 Feb 2022 09:34:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.16
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001424_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 윤지영 단독공연 〈나의 정원에서〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42089</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42089</guid>
+            <pubDate>Mon, 14 Feb 2022 09:34:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.17
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220214054304.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 김문정 콘서트 ［ONLY］ ‘Bon Voyage to the MOON’ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42088</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.02.18
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021015472382.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박현수 - 자화상 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42080</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42080</guid>
-            <pubDate>Fri, 11 Feb 2022 09:48:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.15
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0002897_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[〈선데이 브런치 콘서트〉 오마주 투 브람스 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42079</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42079</guid>
-            <pubDate>Fri, 11 Feb 2022 08:37:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020916370940.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
