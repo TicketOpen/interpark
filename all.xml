@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 08:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 09:36:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42045&amp;groupno=42045&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 15 Feb 2022 03:36:03 GMT</pubDate>
             <content:encoded><![CDATA[22.02.15(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈쉬어매드니스〉 - 서울 대학로 3월 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42106&amp;groupno=42106&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42106&amp;groupno=42106&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 15 Feb 2022 09:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.18(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈디아스포라 기행〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -134,11 +141,13 @@
             <content:encoded><![CDATA[22.02.17(목)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 김문정 콘서트 ［ONLY］ ‘Bon Voyage to the MOON’ 티켓오픈 .. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42088&amp;groupno=42088&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42088&amp;groupno=42088&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 14 Feb 2022 05:32:49 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[연극 〈쉬어매드니스〉 - 서울 대학로 3월 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42106</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42106</guid>
+            <pubDate>Tue, 15 Feb 2022 09:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.18
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/19/19018229_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈디아스포라 기행〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -201,7 +210,7 @@
             <pubDate>Tue, 15 Feb 2022 04:43:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.16
                                     <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001602_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -210,7 +219,7 @@
             <pubDate>Tue, 15 Feb 2022 04:43:52 GMT</pubDate>
             <content:encoded><![CDATA[2022.02.17
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220215055950.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알리＆민우혁의 〈특별한 하루〉 - 안양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2022.02.17
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021119481648.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 인천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42096</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42096</guid>
-            <pubDate>Tue, 15 Feb 2022 02:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.18
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
