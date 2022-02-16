@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 03:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 04:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 정동팔레트 〈금난새의 클래식 데이트_1회〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42111&amp;groupno=42111&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42111&amp;groupno=42111&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Feb 2022 04:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.17(목)&nbsp;10:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 대전 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42110&amp;groupno=42110&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.02.18(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유키 구라모토와 친구들 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42092&amp;groupno=42092&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42092&amp;groupno=42092&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 15 Feb 2022 01:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17(목)&nbsp;16:00]]></content:encoded>
+            <title><![CDATA[2022 정동팔레트 〈금난새의 클래식 데이트_1회〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42111</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42111</guid>
+            <pubDate>Wed, 16 Feb 2022 04:45:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.17
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022020717290105.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 대전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.02.17
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈엑스칼리버〉 TOPING Day 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42099</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42099</guid>
-            <pubDate>Tue, 15 Feb 2022 04:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.16
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001602_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
