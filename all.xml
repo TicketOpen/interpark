@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 08:39:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 09:47:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김희재 팬콘서트 ‘그리고 별, 그대’ 서울 앵콜 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42115&amp;groupno=42115&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42115&amp;groupno=42115&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 16 Feb 2022 09:47:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.02.18(금)&nbsp;12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 당진 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42114&amp;groupno=42114&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.02.17(목)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 인천 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42096&amp;groupno=42096&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42096&amp;groupno=42096&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 15 Feb 2022 02:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[김희재 팬콘서트 ‘그리고 별, 그대’ 서울 앵콜 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42115</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42115</guid>
+            <pubDate>Wed, 16 Feb 2022 09:47:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.18
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021616174322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 당진 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.02.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021415024864.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moon Byul 2nd Mini Concert [Directors's cut : 6equence] OFFLINE 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42103</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42103</guid>
-            <pubDate>Tue, 15 Feb 2022 05:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.24
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220215020310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
