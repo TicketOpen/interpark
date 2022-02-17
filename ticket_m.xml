@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://mticket.interpark.com/Notice/</id>
-    <title>인터파크 티켓 모바일</title>
-    <updated>2022-02-17T21:34:21.511Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>인터파크 티켓 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 17 Feb 2022 22:37:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈미오 프라텔로〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42124</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42124</guid>
+            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001335_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈내가 멜론을 얼마나 좋아하는데〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42122</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42122</guid>
+            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.22
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짙은 소극장 콘서트 ［2022 우연의 음악］ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42121</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42121</guid>
+            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021517093111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 봄에 내리는 젠틀레인-재즈로 듣는 로맨틱 팝 ＆ 가요- 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42120</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42120</guid>
+            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.22
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021413593257.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김다미 with 콜레기움 무지쿰 서울 ＇The Four Seasons＇ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42119</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42119</guid>
+            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 조병주와 친구들 콘서트 - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42118</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42118</guid>
+            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021615394003.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 조병주와 친구들 콘서트 - 천안 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42117</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42117</guid>
+            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021616152130.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤한의 화이트데이 콘서트 with 권서경 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42116</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42116</guid>
+            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.18
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001723_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[김희재 팬콘서트 ‘그리고 별, 그대’ 서울 앵콜 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42115</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42115</guid>
+            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.18
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001744_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 당진 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42114</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42114</guid>
+            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021613591909.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
