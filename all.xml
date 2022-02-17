@@ -1,857 +1,247 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>Combined feed</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 17:36:58 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뮤지컬 〈미오 프라텔로〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42124&amp;groupno=42124&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42124&amp;groupno=42124&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 17 Feb 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.21(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈내가 멜론을 얼마나 좋아하는데〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42122&amp;groupno=42122&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42122&amp;groupno=42122&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 17 Feb 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.22(화)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[짙은 소극장 콘서트 ［2022 우연의 음악］ 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42121&amp;groupno=42121&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42121&amp;groupno=42121&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 17 Feb 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.21(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 봄에 내리는 젠틀레인-재즈로 듣는 로맨틱 팝 ＆ 가요- 티켓오.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42120&amp;groupno=42120&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42120&amp;groupno=42120&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 17 Feb 2022 01:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.22(화)&nbsp;13:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김다미 with 콜레기움 무지쿰 서울 ＇The Four Seasons＇ 티켓오픈 .. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42119&amp;groupno=42119&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42119&amp;groupno=42119&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 17 Feb 2022 01:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.21(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 조병주와 친구들 콘서트 - 대전 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42118&amp;groupno=42118&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42118&amp;groupno=42118&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 17 Feb 2022 01:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.21(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 조병주와 친구들 콘서트 - 천안 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42117&amp;groupno=42117&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42117&amp;groupno=42117&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 17 Feb 2022 01:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.21(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤한의 화이트데이 콘서트 with 권서경 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42116&amp;groupno=42116&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42116&amp;groupno=42116&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 17 Feb 2022 01:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김희재 팬콘서트 ‘그리고 별, 그대’ 서울 앵콜 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42115&amp;groupno=42115&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42115&amp;groupno=42115&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Feb 2022 09:47:06 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 당진 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42114&amp;groupno=42114&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42114&amp;groupno=42114&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Feb 2022 08:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.21(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈아몬드〉 프리뷰 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42113&amp;groupno=42113&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42113&amp;groupno=42113&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Feb 2022 08:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BTS PERMISSION TO DANCE ON STAGE - SEOUL 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42112&amp;groupno=42112&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42112&amp;groupno=42112&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Feb 2022 05:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.03(목)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 정동팔레트 〈금난새의 클래식 데이트_1회〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42111&amp;groupno=42111&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42111&amp;groupno=42111&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Feb 2022 04:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17(목)&nbsp;10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 대전 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42110&amp;groupno=42110&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42110&amp;groupno=42110&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Feb 2022 02:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 청주 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42109&amp;groupno=42109&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42109&amp;groupno=42109&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Feb 2022 02:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Connect with 신현희＆디에이드 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42108&amp;groupno=42108&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42108&amp;groupno=42108&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Feb 2022 01:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17(목)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈쉬어매드니스〉 - 서울 대학로 3월 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42106&amp;groupno=42106&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42106&amp;groupno=42106&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 15 Feb 2022 09:35:17 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈디아스포라 기행〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42105&amp;groupno=42105&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42105&amp;groupno=42105&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 15 Feb 2022 05:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.15(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈미오 프라텔로〉 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42124</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42124</guid>
-            <pubDate>Thu, 17 Feb 2022 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001335_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈내가 멜론을 얼마나 좋아하는데〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42122</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42122</guid>
-            <pubDate>Thu, 17 Feb 2022 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙은 소극장 콘서트 ［2022 우연의 음악］ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42121</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42121</guid>
-            <pubDate>Thu, 17 Feb 2022 05:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021517093111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 봄에 내리는 젠틀레인-재즈로 듣는 로맨틱 팝 ＆ 가요- 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42120</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42120</guid>
-            <pubDate>Thu, 17 Feb 2022 01:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.22
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021413593257.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김다미 with 콜레기움 무지쿰 서울 ＇The Four Seasons＇ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42119</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42119</guid>
-            <pubDate>Thu, 17 Feb 2022 01:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 조병주와 친구들 콘서트 - 대전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42118</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42118</guid>
-            <pubDate>Thu, 17 Feb 2022 01:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021615394003.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 조병주와 친구들 콘서트 - 천안 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42117</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42117</guid>
-            <pubDate>Thu, 17 Feb 2022 01:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021616152130.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤한의 화이트데이 콘서트 with 권서경 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42116</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42116</guid>
-            <pubDate>Thu, 17 Feb 2022 01:32:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.18
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001723_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김희재 팬콘서트 ‘그리고 별, 그대’ 서울 앵콜 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42115</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42115</guid>
-            <pubDate>Wed, 16 Feb 2022 09:47:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.18
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001744_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 당진 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42114</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42114</guid>
-            <pubDate>Wed, 16 Feb 2022 08:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021613591909.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[STAGE X 온라인 연극 〈인사이드〉 (1.24) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41717&amp;groupno=41717&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41717&amp;groupno=41717&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.03(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[청춘콘썰트vol1.［온라인］ 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41663&amp;groupno=41663&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41663&amp;groupno=41663&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.23(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.15 〈최낙타〉 - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41439&amp;groupno=41439&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41439&amp;groupno=41439&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.26(금)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[STAGE X 온라인 뮤지컬 〈문스토리〉 (12.13) - 공연 실황 중계 티켓.. (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41396&amp;groupno=41396&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41396&amp;groupno=41396&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.23(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[창작뮤지컬 〈메이사의 노래〉 마지막 공연 _ 온라인 생중계 티켓 오.. (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41339&amp;groupno=41339&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41339&amp;groupno=41339&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18(목)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[WOODZ LIVE 2021 ‘The Invisible City’ - 온라인 생중계 티켓 티켓.. (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41282&amp;groupno=41282&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41282&amp;groupno=41282&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.18(목)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[콘서트 브랜디드 VOL.1 <팔로알토, 허클베리피, 저스디스, EK> - 온.. (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41252&amp;groupno=41252&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41252&amp;groupno=41252&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.10(수)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[창작뮤지컬 〈메이사의 노래〉 온라인 생중계 공연 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41229&amp;groupno=41229&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41229&amp;groupno=41229&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.08(월)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.13 〈시와〉 - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41186&amp;groupno=41186&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41186&amp;groupno=41186&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.04(목)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울숲재즈페스티벌 2021 〈Live On For Rest - 온라인 공연〉 티켓.. (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41135&amp;groupno=41135&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41135&amp;groupno=41135&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.03(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.11 〈나인〉 - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41130&amp;groupno=41130&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41130&amp;groupno=41130&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.02(화)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[STAGE X 온라인 뮤지컬 〈스모크〉 (11.29) - 공연 실황 중계 티켓오.. (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41107&amp;groupno=41107&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41107&amp;groupno=41107&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.01(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.9 〈BOYHOOD〉 - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41097&amp;groupno=41097&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41097&amp;groupno=41097&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.29(금)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.8 〈박소은〉 - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41085&amp;groupno=41085&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41085&amp;groupno=41085&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.28(목)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.14 〈권순관〉 - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41062&amp;groupno=41062&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41062&amp;groupno=41062&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.27(수)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.12 〈케빈오〉 - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41018&amp;groupno=41018&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41018&amp;groupno=41018&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.21(목)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온스타인웨이 Vol.10 <임세모> - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=40945&amp;groupno=40945&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=40945&amp;groupno=40945&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14(목)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ONEUS THEATRE : 적월도(赤月圖) - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=40905&amp;groupno=40905&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=40905&amp;groupno=40905&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.15(금)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈미오 프라텔로〉 1차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42124&amp;groupno=42124&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42124&amp;groupno=42124&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 17 Feb 2022 05:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.21(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈아몬드〉 프리뷰 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42113&amp;groupno=42113&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42113&amp;groupno=42113&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Feb 2022 08:38:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.23(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 대전 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42110&amp;groupno=42110&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42110&amp;groupno=42110&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Feb 2022 02:48:21 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 헬로카봇 시즌6 〈흔들흔들 댄스파티〉 - 청주 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42109&amp;groupno=42109&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42109&amp;groupno=42109&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 16 Feb 2022 02:48:21 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 - 대구 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42101&amp;groupno=42101&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42101&amp;groupno=42101&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 15 Feb 2022 05:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬＜레베카＞ - 여수 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42100&amp;groupno=42100&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42100&amp;groupno=42100&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 15 Feb 2022 05:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17(목)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈엑스칼리버〉 TOPING Day 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42099&amp;groupno=42099&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42099&amp;groupno=42099&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 15 Feb 2022 04:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.16(수)&nbsp;13:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 성남 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42098&amp;groupno=42098&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42098&amp;groupno=42098&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 15 Feb 2022 04:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17(목)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 인천 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42096&amp;groupno=42096&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42096&amp;groupno=42096&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 15 Feb 2022 02:48:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 인천 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42087&amp;groupno=42087&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42087&amp;groupno=42087&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 14 Feb 2022 05:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.15(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 7차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42084&amp;groupno=42084&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42084&amp;groupno=42084&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 14 Feb 2022 03:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17(목)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어른이 뮤지컬 〈난쟁이들〉 보여드림데이 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42078&amp;groupno=42078&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42078&amp;groupno=42078&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 11 Feb 2022 08:38:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.14(월)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 고양 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42075&amp;groupno=42075&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42075&amp;groupno=42075&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 11 Feb 2022 07:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.14(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 성남 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42074&amp;groupno=42074&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42074&amp;groupno=42074&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 11 Feb 2022 07:33:31 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.14(월)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42073&amp;groupno=42073&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42073&amp;groupno=42073&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 11 Feb 2022 06:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 싯다르타 2차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42071&amp;groupno=42071&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42071&amp;groupno=42071&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 11 Feb 2022 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.17(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈디아길레프〉 2차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42070&amp;groupno=42070&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42070&amp;groupno=42070&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 11 Feb 2022 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.16(수)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈리지〉 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42069&amp;groupno=42069&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42069&amp;groupno=42069&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 11 Feb 2022 05:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.16(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성시경 공식 팬클럽 ［PURPLE OCEAN KOREA］추가 모집 안내 티켓오픈.. (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41505&amp;groupno=41505&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41505&amp;groupno=41505&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.06(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브레이브걸스(Brave Girls) 공식 팬클럽 ＇Fearless＇ 1기 모집 티켓.. (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41179&amp;groupno=41179&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41179&amp;groupno=41179&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.08(월)&nbsp;17:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[성시경 공식 팬클럽 ［PURPLE OCEAN KOREA］ 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41102&amp;groupno=41102&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41102&amp;groupno=41102&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.01(월)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OnlyOneOf (온리원오브) 공식 팬클럽 ‘ultra lyOn’ 1기 본모집 티.. (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39699&amp;groupno=39699&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39699&amp;groupno=39699&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.04.22(목)&nbsp;12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[몬스타엑스（MONSTA X）공식팬클럽 ‘MONBEBE’ 6기 추가모집 티켓오.. (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39674&amp;groupno=39674&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39674&amp;groupno=39674&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.04.19(월)&nbsp;17:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강다니엘(KANGDANIEL) 공식 팬클럽 ‘DANITY’ 2기 모집 티켓오픈 안.. (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39603&amp;groupno=39603&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39603&amp;groupno=39603&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.04.05(월)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[OnlyOneOf (온리원오브) 공식 팬클럽 ‘ultra lyOn＇1기 모집 티켓오.. (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39476&amp;groupno=39476&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39476&amp;groupno=39476&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.03.19(금)&nbsp;12:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[몬스타엑스（MONSTA X）공식팬클럽 ‘MONBEBE’ 6기 모집 티켓오픈 .. (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39443&amp;groupno=39443&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39443&amp;groupno=39443&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[21.03.15(월)&nbsp;17:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폴킴 공식 팬클럽 - 폴인럽'21 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=38961&amp;groupno=38961&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=38961&amp;groupno=38961&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.30(월)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김재환 공식 팬클럽 WIN:D 2기 모집 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=37614&amp;groupno=37614&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=37614&amp;groupno=37614&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[20.02.17(월)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[X1 공식 유료 팬클럽 가입비 환불 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=37502&amp;groupno=37502&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=37502&amp;groupno=37502&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[추후공지]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤하 공식 팬클럽 〈Y.HOLICS 4기〉 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=36557&amp;groupno=36557&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=36557&amp;groupno=36557&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[19.10.28(월)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2019 정승환 팬클럽 창단식 - FIND US! 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=35781&amp;groupno=35781&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=35781&amp;groupno=35781&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[19.08.28(수)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[X1 공식 팬클럽 1기 모집 공지 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=35529&amp;groupno=35529&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=35529&amp;groupno=35529&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[19.07.22(월)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김재환 공식 팬클럽 WIN:D 1기 모집 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=34064&amp;groupno=34064&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=34064&amp;groupno=34064&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[19.02.15(금)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[하성운 (HA SUNG WOON) 공식 팬클럽 1기 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=33927&amp;groupno=33927&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=33927&amp;groupno=33927&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[19.02.01(금)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신화(SHINHWA)공식 팬클럽 신화창조 13기 모집 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=33807&amp;groupno=33807&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=33807&amp;groupno=33807&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[19.01.22(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아스트로(ASTRO) 공식 팬클럽 ‘AROHA’ 3기 추가 모집 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=33414&amp;groupno=33414&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=33414&amp;groupno=33414&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[18.12.10(월)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[옹성우 2022 국내 팬미팅 〈RE:MEET〉 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42065&amp;groupno=42065&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42065&amp;groupno=42065&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 11 Feb 2022 05:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.18(금)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[채보훈 첫번째 팬미팅 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41971&amp;groupno=41971&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41971&amp;groupno=41971&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.01.28(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 남우현 팬미팅 ［나무컴퍼니 신년워크샵］ 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41689&amp;groupno=41689&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41689&amp;groupno=41689&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.27(월)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 진영 팬미팅 ［Stay, Jinyoung］ 추가 회차 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41452&amp;groupno=41452&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41452&amp;groupno=41452&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.29(월)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 김형준 팬미팅 ［Diary］ 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41390&amp;groupno=41390&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41390&amp;groupno=41390&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.26(금)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 진영 팬미팅 ［Stay, Jinyoung］ 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41386&amp;groupno=41386&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41386&amp;groupno=41386&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.24(수)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022 우주소녀 팬미팅 ［WJ STAND-BY］ 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41321&amp;groupno=41321&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41321&amp;groupno=41321&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.12.06(월)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 크래비티 팬미팅 ［CRAVITY COLLECTION: C-DELIVERY］ 추가티켓.. (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41244&amp;groupno=41244&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41244&amp;groupno=41244&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.09(화)&nbsp;17:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021 크래비티 팬미팅 ［CRAVITY COLLECTION: C-DELIVERY］ 티켓오픈.. (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=40895&amp;groupno=40895&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=40895&amp;groupno=40895&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.25(월)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[바리톤 김주택 팬미팅 ＇Upfly＇ 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=40458&amp;groupno=40458&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=40458&amp;groupno=40458&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.08.18(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[런닝맨 2021 온라인 팬미팅 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=40286&amp;groupno=40286&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=40286&amp;groupno=40286&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.16(금)&nbsp;13:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[브레이브걸스 첫번째 팬미팅 ［ SUMMER QUEEN PARTY ］ 티켓오픈 안.. (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=40147&amp;groupno=40147&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=40147&amp;groupno=40147&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[21.06.28(월)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테너 김민석 첫 번째 팬미팅 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=38897&amp;groupno=38897&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=38897&amp;groupno=38897&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.13(금)&nbsp;16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[베이스 김바울 첫 번째 팬미팅 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=38886&amp;groupno=38886&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=38886&amp;groupno=38886&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[20.11.13(금)&nbsp;16:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김호중 팬미팅 〈우리 家 처음으로〉 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=38337&amp;groupno=38337&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=38337&amp;groupno=38337&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[20.08.05(수)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김호중 팬미팅 〈우리 家 처음으로〉 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=38308&amp;groupno=38308&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=38308&amp;groupno=38308&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[20.07.29(수)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2020 한승우 팬미팅 〈喜怒哀樂(희로애락)〉 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=37463&amp;groupno=37463&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=37463&amp;groupno=37463&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[20.01.31(금)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤하(YOUNHA) ‘Y.HOLICS’ 4기 팬미팅 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=37314&amp;groupno=37314&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=37314&amp;groupno=37314&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[20.01.16(목)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애니메이션 첼로 페스티벌: 디즈니 VS 지브리 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=42095&amp;groupno=42095&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=42095&amp;groupno=42095&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 15 Feb 2022 01:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[22.02.15(화)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어썸 뮤직 페스티벌 시즌3 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41476&amp;groupno=41476&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41476&amp;groupno=41476&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.30(화)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유러피안 재즈 페스티벌 2021 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41336&amp;groupno=41336&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41336&amp;groupno=41336&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.16(화)&nbsp;10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ASAC청소년극 〈B성년페스티벌〉 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41307&amp;groupno=41307&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41307&amp;groupno=41307&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.16(화)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울숲재즈페스티벌 2021 〈SEOUL FOREST JAZZ in THEATRE〉 티켓오.. (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41279&amp;groupno=41279&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41279&amp;groupno=41279&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.12(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울숲재즈페스티벌 2021 〈Live On For Rest - 온라인 공연〉 티켓.. (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41135&amp;groupno=41135&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41135&amp;groupno=41135&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.03(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울숲재즈페스티벌 2021 〈Live On For Rest〉 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41134&amp;groupno=41134&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41134&amp;groupno=41134&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.11.03(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어썸 뮤직 페스티벌 시즌2 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41094&amp;groupno=41094&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41094&amp;groupno=41094&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.28(목)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[짱구페스티벌 ＇짱구야 캠핑가자!＇ 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=873&amp;groupno=873&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=873&amp;groupno=873&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.30(토)&nbsp;00:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어썸 뮤직 페스티벌 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40955&amp;groupno=40955&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40955&amp;groupno=40955&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.14(목)&nbsp;17:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울숲재즈페스티벌 2021 추가티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40736&amp;groupno=40736&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40736&amp;groupno=40736&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.24(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[그랜드 민트 페스티벌 2021 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40660&amp;groupno=40660&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40660&amp;groupno=40660&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.14(화)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대구 〈일상으로의 초대〉 실내뮤직페스티벌 재오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40644&amp;groupno=40644&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40644&amp;groupno=40644&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울숲재즈페스티벌 2021 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40623&amp;groupno=40623&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40623&amp;groupno=40623&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.09(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울숲재즈페스티벌 2021 블라인드 티켓 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40586&amp;groupno=40586&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=40586&amp;groupno=40586&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.09.02(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애니메이션 첼로 페스티벌 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=39977&amp;groupno=39977&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=39977&amp;groupno=39977&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.06.02(수)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제15회 대구국제뮤지컬페스티벌 2차 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=39913&amp;groupno=39913&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=39913&amp;groupno=39913&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.05.25(화)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제15회 대구국제뮤지컬페스티벌 1차 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=39886&amp;groupno=39886&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=39886&amp;groupno=39886&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 03 Feb 2022 06:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[21.05.20(목)&nbsp;11:00]]></content:encoded>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://TicketOpen.github.io/interpark/all.xml</id>
+    <title>Combined feed</title>
+    <updated>2022-02-17T18:51:44.168Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:13.966Z</updated>
+        <content type="html"><![CDATA[<td>쇼핑 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:13.967Z</updated>
+        <content type="html"><![CDATA[<td>도서 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:13.969Z</updated>
+        <content type="html"><![CDATA[<td>티켓 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:13.972Z</updated>
+        <content type="html"><![CDATA[<td>투어 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:13.975Z</updated>
+        <content type="html"><![CDATA[<td>글로벌 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 온라인)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:23.646Z</updated>
+        <content type="html"><![CDATA[<td>쇼핑 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 온라인)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:23.647Z</updated>
+        <content type="html"><![CDATA[<td>도서 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 온라인)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:23.648Z</updated>
+        <content type="html"><![CDATA[<td>티켓 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 온라인)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:23.650Z</updated>
+        <content type="html"><![CDATA[<td>투어 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 온라인)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:23.651Z</updated>
+        <content type="html"><![CDATA[<td>글로벌 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:28.548Z</updated>
+        <content type="html"><![CDATA[<td>쇼핑 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:28.548Z</updated>
+        <content type="html"><![CDATA[<td>도서 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:28.549Z</updated>
+        <content type="html"><![CDATA[<td>티켓 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:28.549Z</updated>
+        <content type="html"><![CDATA[<td>투어 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:28.552Z</updated>
+        <content type="html"><![CDATA[<td>글로벌 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 팬클럽)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:33.367Z</updated>
+        <content type="html"><![CDATA[<td>쇼핑 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 팬클럽)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:33.368Z</updated>
+        <content type="html"><![CDATA[<td>도서 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 팬클럽)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:33.371Z</updated>
+        <content type="html"><![CDATA[<td>티켓 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 팬클럽)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:33.373Z</updated>
+        <content type="html"><![CDATA[<td>투어 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 팬클럽)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:33.374Z</updated>
+        <content type="html"><![CDATA[<td>글로벌 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 팬미팅)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:38.224Z</updated>
+        <content type="html"><![CDATA[<td>쇼핑 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 팬미팅)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:38.224Z</updated>
+        <content type="html"><![CDATA[<td>도서 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 팬미팅)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:38.228Z</updated>
+        <content type="html"><![CDATA[<td>티켓 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 팬미팅)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:38.229Z</updated>
+        <content type="html"><![CDATA[<td>투어 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 팬미팅)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:38.231Z</updated>
+        <content type="html"><![CDATA[<td>글로벌 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 페스티벌)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:43.474Z</updated>
+        <content type="html"><![CDATA[<td>쇼핑 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 페스티벌)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:43.476Z</updated>
+        <content type="html"><![CDATA[<td>도서 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 페스티벌)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:43.480Z</updated>
+        <content type="html"><![CDATA[<td>티켓 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 페스티벌)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:43.482Z</updated>
+        <content type="html"><![CDATA[<td>투어 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (인터파크 티켓 ─ 페스티벌)]]></title>
+        <id>https://TicketOpen.github.io/interpark/all.xml</id>
+        <link href="https://TicketOpen.github.io/interpark/all.xml"/>
+        <updated>2022-02-17T18:51:43.484Z</updated>
+        <content type="html"><![CDATA[<td>글로벌 서비스</td>
+                  <td>2022-02-18 03:00~07:00 AM (KST)</td>]]></content>
+    </entry>
+</feed>
