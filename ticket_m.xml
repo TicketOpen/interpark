@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 05:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 06:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어른이 뮤지컬 〈난쟁이들〉 4차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42133</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42133</guid>
+            <pubDate>Fri, 18 Feb 2022 06:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.22
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21012967_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈빈센트 반 고흐〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42132</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42132</guid>
+            <pubDate>Fri, 18 Feb 2022 06:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021815043676.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈스메르쟈코프〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42131</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42131</guid>
+            <pubDate>Fri, 18 Feb 2022 06:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.24
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001105_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[한예종 연극창작플랫폼 Ⅹ ASAC 청소년극 〈지수가 누구야〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42130</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.02.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001335_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈내가 멜론을 얼마나 좋아하는데〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42122</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42122</guid>
-            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220218010850.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짙은 소극장 콘서트 ［2022 우연의 음악］ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42121</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42121</guid>
-            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021517093111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 봄에 내리는 젠틀레인-재즈로 듣는 로맨틱 팝 ＆ 가요- 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42120</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42120</guid>
-            <pubDate>Thu, 17 Feb 2022 22:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.22
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021413593257.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
