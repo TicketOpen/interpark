@@ -4,9 +4,63 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 01:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 02:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소란데이 2022 천둥 번개 드러머, 편유일 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42141</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42141</guid>
+            <pubDate>Mon, 21 Feb 2022 02:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021817214864.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란데이 2022 이런 기분 저음이야, 서면호 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42140</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42140</guid>
+            <pubDate>Mon, 21 Feb 2022 02:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021817192322.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란데이 2022 여섯 줄의 마법사, 이태욱 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42139</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42139</guid>
+            <pubDate>Mon, 21 Feb 2022 02:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021817172964.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유자 왕 리사이틀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42138</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42138</guid>
+            <pubDate>Mon, 21 Feb 2022 02:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소란데이 2022 미니 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42137</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42137</guid>
+            <pubDate>Mon, 21 Feb 2022 02:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.23
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021817161036.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 갈라 콘서트 〈올 댓 뮤지컬 스타(All That Musical Star)〉 - 안양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42136</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42136</guid>
+            <pubDate>Mon, 21 Feb 2022 02:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021714205960.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임동혁 리사이틀 〈슈베르트를 위하여〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42135</link>
@@ -42,60 +96,6 @@
             <content:encoded><![CDATA[2022.02.23
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021815043676.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈스메르쟈코프〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42131</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42131</guid>
-            <pubDate>Fri, 18 Feb 2022 06:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.24
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001105_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[한예종 연극창작플랫폼 Ⅹ ASAC 청소년극 〈지수가 누구야〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42130</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42130</guid>
-            <pubDate>Fri, 18 Feb 2022 01:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021616554066.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pathe Live 〈인간 혐오자〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42129</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42129</guid>
-            <pubDate>Fri, 18 Feb 2022 01:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021415341707.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITA Live 〈오이디푸스〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42128</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42128</guid>
-            <pubDate>Fri, 18 Feb 2022 01:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021415205191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NT Live 〈북 오브 더스트〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42127</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42127</guid>
-            <pubDate>Fri, 18 Feb 2022 01:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001437_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 캐치! 티니핑〈프린세스 다이어리〉- 청주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42126</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42126</guid>
-            <pubDate>Fri, 18 Feb 2022 01:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.22
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021717081864.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
