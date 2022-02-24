@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 06:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 07:35:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[22.02.28(월)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극〈늘근도둑이야기〉 (3월~) 추가티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[연극〈늘근도둑이야기〉 4월 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42187&amp;groupno=42187&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42187&amp;groupno=42187&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 24 Feb 2022 06:42:05 GMT</pubDate>
@@ -143,7 +143,7 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002109_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극〈늘근도둑이야기〉 (3월~) 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[연극〈늘근도둑이야기〉 4월 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42187</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42187</guid>
             <pubDate>Thu, 24 Feb 2022 06:42:14 GMT</pubDate>
