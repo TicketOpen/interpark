@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 03:37:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 04:44:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[표현놀이극 방귀쟁이며느리 - 이천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=889</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=889</guid>
+            <pubDate>Fri, 25 Feb 2022 04:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42193</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42193</guid>
+            <pubDate>Fri, 25 Feb 2022 04:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.02
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022417560277.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 어쩌다 페스티벌 in 대구 장사익 X 고영열 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42192</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42192</guid>
+            <pubDate>Fri, 25 Feb 2022 04:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.28
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022409531077.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 어쩌다 페스티벌 in 대구 김주택 X 손태진 X 존노 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42191</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42191</guid>
+            <pubDate>Fri, 25 Feb 2022 04:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.02.28
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022410015984.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피아졸라, 바흐를 만나다 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42190</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.02.25
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001989_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈블러디 사일런스 : 류진 더 뱀파이어 헌터〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42185</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42185</guid>
-            <pubDate>Thu, 24 Feb 2022 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001535_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈렛미플라이〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42184</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42184</guid>
-            <pubDate>Thu, 24 Feb 2022 05:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.03
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001399_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[명품악극〈불효자는 웁니다〉 - 김해 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42183</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42183</guid>
-            <pubDate>Thu, 24 Feb 2022 01:47:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002104_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[‘풍류대장’ 전국투어 콘서트 AGAIN 서울 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42181</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42181</guid>
-            <pubDate>Wed, 23 Feb 2022 09:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022317083606.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
