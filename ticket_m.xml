@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 06:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 07:35:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아벨 콰르텟 제5회 정기연주회 〈친애하는 슈베르트〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42200</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42200</guid>
+            <pubDate>Fri, 25 Feb 2022 07:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022412350444.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이석훈 소극장 콘서트 〈다시, 쓰임〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42199</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42199</guid>
+            <pubDate>Fri, 25 Feb 2022 07:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.02
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022319253099.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈알사탕〉 - 화성 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42198</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.02.28
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022409531077.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 어쩌다 페스티벌 in 대구 김주택 X 손태진 X 존노 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42191</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42191</guid>
-            <pubDate>Fri, 25 Feb 2022 04:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.02.28
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022410015984.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피아졸라, 바흐를 만나다 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42190</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42190</guid>
-            <pubDate>Fri, 25 Feb 2022 03:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022310015341.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
