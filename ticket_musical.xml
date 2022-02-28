@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%B9%C2%C1%F6%C4%C3</id>
     <title>인터파크 티켓 ─ 뮤지컬</title>
-    <updated>2022-02-28T04:46:22.996Z</updated>
+    <updated>2022-02-28T05:34:24.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/webzine/paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 ＂비밀의 문＂ - 춘천 티켓..]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42209&amp;groupno=42209&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42209&amp;groupno=42209&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-02-28T05:33:58.689Z</updated>
+        <content type="html"><![CDATA[22.03.04(금)&nbsp;10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 안산 티켓오픈 안내]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42204&amp;groupno=42204&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -123,12 +130,5 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42156&amp;groupno=42156&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-02-22T01:39:45.124Z</updated>
         <content type="html"><![CDATA[22.02.24(목)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) 11차 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42151&amp;groupno=42151&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42151&amp;groupno=42151&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-02-21T08:39:11.501Z</updated>
-        <content type="html"><![CDATA[22.02.24(목)&nbsp;14:00]]></content>
     </entry>
 </feed>
