@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 05:34:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 06:47:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈M〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42215</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42215</guid>
+            <pubDate>Mon, 28 Feb 2022 06:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.04
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000156_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42214</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42214</guid>
+            <pubDate>Mon, 28 Feb 2022 06:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.03
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002231_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42213</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.03.03
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022418385359.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈웨스턴 스토리〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42202</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42202</guid>
-            <pubDate>Fri, 25 Feb 2022 09:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.02
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000934_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[해설과 함께하는 오페라 명작 시리즈 ＇오페라여행＇ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42201</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42201</guid>
-            <pubDate>Fri, 25 Feb 2022 08:38:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.02
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002153_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
