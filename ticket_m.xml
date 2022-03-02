@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 07:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 08:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명품악극〈불효자는 웁니다〉 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42234</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42234</guid>
+            <pubDate>Wed, 02 Mar 2022 08:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022814173886.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 Soundberry Theater 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42233</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.03.02
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000002_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[판페라 힐링콘서트 ＂삶의 소리＂ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42224</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42224</guid>
-            <pubDate>Wed, 02 Mar 2022 01:51:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
