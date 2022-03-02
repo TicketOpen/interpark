@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 01:52:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판페라 힐링콘서트 ＂삶의 소리＂ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42224</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42224</guid>
+            <pubDate>Wed, 02 Mar 2022 01:51:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 안성 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42223</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42223</guid>
+            <pubDate>Wed, 02 Mar 2022 01:51:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.04
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022517244850.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬〈출동! 슈퍼윙스 : 빅콘서트〉- 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42222</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42222</guid>
+            <pubDate>Wed, 02 Mar 2022 01:51:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.04
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022811085843.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수안 ＇시샘달＇ 발매 기념 쇼케이스 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42221</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.03.03
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002231_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42213</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42213</guid>
-            <pubDate>Mon, 28 Feb 2022 05:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.04
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022513301288.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이승윤 콘서트 ‘Docking’ 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42212</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42212</guid>
-            <pubDate>Mon, 28 Feb 2022 05:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.03
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000818_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 오르간 시리즈 I. 데이비드 티터링톤 오르간 리사이틀 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42211</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42211</guid>
-            <pubDate>Mon, 28 Feb 2022 05:33:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022218142530.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
