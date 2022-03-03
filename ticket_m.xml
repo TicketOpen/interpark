@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 06:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[음악극〈La Resistenza(라 레지스텐차) - 저항의 노래〉 - 군포 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42242</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42242</guid>
+            <pubDate>Thu, 03 Mar 2022 06:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.04
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002144_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42241</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42241</guid>
+            <pubDate>Thu, 03 Mar 2022 06:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013426_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[김연자 효(孝)콘서트 - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42240</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42240</guid>
+            <pubDate>Thu, 03 Mar 2022 06:42:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030310564576.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어린이날 콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 수원 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42239</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.03.03
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002203_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈아몬드〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42232</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42232</guid>
-            <pubDate>Wed, 02 Mar 2022 07:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001868_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 GUCKKASTEN CONCERT 〈GESTALT - Being in the world〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42231</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42231</guid>
-            <pubDate>Wed, 02 Mar 2022 07:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.04
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002336_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 부평 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42230</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42230</guid>
-            <pubDate>Wed, 02 Mar 2022 07:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022022814455265.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
