@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 23:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 01:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명품악극〈불효자는 웁니다〉 - 밀양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42269</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42269</guid>
+            <pubDate>Mon, 07 Mar 2022 01:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030415220194.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캐치！티니핑 〈프린세스 다이어리〉- 부산앵콜 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42268</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42268</guid>
+            <pubDate>Mon, 07 Mar 2022 01:50:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.07
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021808515249.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈또！오해영〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42267</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.03.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030311394779.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명품악극〈불효자는 웁니다〉 - 거제 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42259</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42259</guid>
-            <pubDate>Fri, 04 Mar 2022 07:33:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030410244042.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 벤 콘서트［우리는…ing］ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42258</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42258</guid>
-            <pubDate>Fri, 04 Mar 2022 05:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.15
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220304021301.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
