@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 06:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 07:35:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42279</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42279</guid>
+            <pubDate>Mon, 07 Mar 2022 07:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.16
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030715170341.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 빅마마 전국투어 콘서트 〈ReBorn〉- 서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42278</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42278</guid>
+            <pubDate>Mon, 07 Mar 2022 07:35:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030411253310.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 내일은 국민가수 TOP10 전국투어 콘서트 ＂탄생! 국가단＂ - 강릉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42277</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.03.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명품악극〈불효자는 웁니다〉 - 밀양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42269</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42269</guid>
-            <pubDate>Mon, 07 Mar 2022 01:50:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002512_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 캐치！티니핑 〈프린세스 다이어리〉- 부산앵콜 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42268</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42268</guid>
-            <pubDate>Mon, 07 Mar 2022 01:50:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.07
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022021808515249.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
