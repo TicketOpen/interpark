@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 07:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 08:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬〈레베카〉 - 창원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42281</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42281</guid>
+            <pubDate>Mon, 07 Mar 2022 08:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.10
+                                    <span>14:10</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030416545748.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 page(이가은) SPECIAL DINING CONCERT 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42280</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42280</guid>
+            <pubDate>Mon, 07 Mar 2022 08:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.11
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220307044029.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42279</link>
@@ -71,29 +89,11 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002175_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[국카스텐 딕펑스 〈2022 어쩌다 페스티벌 in 부산〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42272</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42272</guid>
-            <pubDate>Mon, 07 Mar 2022 03:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.10
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030417220782.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[앙상블 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42271</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42271</guid>
             <pubDate>Mon, 07 Mar 2022 03:38:03 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［창작공감: 작가］ 본 공연 - 금조 이야기 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42270</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42270</guid>
-            <pubDate>Mon, 07 Mar 2022 02:52:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
