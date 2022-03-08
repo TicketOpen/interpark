@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 06:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[존노〈디 아더 사이드(The Other Side)〉 앵콜 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42300</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42300</guid>
+            <pubDate>Tue, 08 Mar 2022 06:42:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030715023215.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 라이온 킹 인터내셔널 투어 - 부산(Musical The Lion King) 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42299</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.03.15
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030713420104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 김창옥 토크콘서트 시즌2 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42289</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42289</guid>
-            <pubDate>Tue, 08 Mar 2022 02:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.10
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002593_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
