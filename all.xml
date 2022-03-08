@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 03:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 04:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈스톤 THE STONE〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42294&amp;groupno=42294&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42294&amp;groupno=42294&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 08 Mar 2022 04:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.10(목)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈광주〉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42293&amp;groupno=42293&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.03.15(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈디아길레프〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42276&amp;groupno=42276&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42276&amp;groupno=42276&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 07 Mar 2022 05:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.10(목)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈스톤 THE STONE〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42294</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42294</guid>
+            <pubDate>Tue, 08 Mar 2022 04:46:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000880_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈광주〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -209,15 +218,6 @@
             <title><![CDATA[재즈 시리즈〈옥탑 재즈 Octave Jazz〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42285</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42285</guid>
-            <pubDate>Tue, 08 Mar 2022 02:49:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청년직장인을 위한〈퇴근길 콘서트〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42284</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42284</guid>
             <pubDate>Tue, 08 Mar 2022 02:49:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.11
                                     <span>14:00</span>]]></content:encoded>
@@ -350,6 +350,13 @@
             <content:encoded><![CDATA[21.10.14(목)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈스톤 THE STONE〉 2차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42294&amp;groupno=42294&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42294&amp;groupno=42294&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 08 Mar 2022 04:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.10(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈광주〉 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42293&amp;groupno=42293&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42293&amp;groupno=42293&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -467,13 +474,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42232&amp;groupno=42232&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 02 Mar 2022 07:34:23 GMT</pubDate>
             <content:encoded><![CDATA[22.03.08(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 부평 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42230&amp;groupno=42230&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42230&amp;groupno=42230&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 02 Mar 2022 07:34:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.07(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성시경 공식 팬클럽 ［PURPLE OCEAN KOREA］추가 모집 안내 티켓오픈.. (인터파크 티켓 ─ 팬클럽)]]></title>
