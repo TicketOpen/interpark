@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 01:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 03:00:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈빨래〉 4월 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42311</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42311</guid>
+            <pubDate>Thu, 10 Mar 2022 03:00:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21008475_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[국립현대무용단 ［구두점의 나라에서］ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42310</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42310</guid>
+            <pubDate>Thu, 10 Mar 2022 03:00:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030717080920.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈NEW 사랑을 이루어 드립니다〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42309</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42309</guid>
+            <pubDate>Thu, 10 Mar 2022 03:00:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030817340639.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정통 코믹 체력극 〈신바람 난 삼대〉 4월 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42308</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42308</guid>
+            <pubDate>Thu, 10 Mar 2022 03:00:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.11
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/20/20009530_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[어른이 뮤지컬 〈난쟁이들〉 긴급편성 3/16 구출 작전 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42307</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.03.11
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030810122594.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 문화가 있는 날 그림읽어주는 베토벤 이중섭 편 - 이천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42301</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42301</guid>
-            <pubDate>Tue, 08 Mar 2022 07:34:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[존노〈디 아더 사이드(The Other Side)〉 앵콜 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42300</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42300</guid>
-            <pubDate>Tue, 08 Mar 2022 06:42:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030715023215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 라이온 킹 인터내셔널 투어 - 부산(Musical The Lion King) 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42299</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42299</guid>
-            <pubDate>Tue, 08 Mar 2022 05:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001582_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 - 용인 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42298</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42298</guid>
-            <pubDate>Tue, 08 Mar 2022 05:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.10
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002578_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
