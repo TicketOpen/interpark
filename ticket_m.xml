@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 23:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 01:55:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제20회 한국소극장오페라축제 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42325</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42325</guid>
+            <pubDate>Fri, 11 Mar 2022 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.16
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍진호 콘서트 〈진호의 책방〉 - 김해 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42324</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42324</guid>
+            <pubDate>Fri, 11 Mar 2022 01:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031016491126.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오노프 콘서트 〈시즌 2〉 I. LUCY, 하림x정인x민서 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42323</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.03.16
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030919264612.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 빅마마 전국투어 콘서트 < ReBorn > - 울산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42315</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42315</guid>
-            <pubDate>Thu, 10 Mar 2022 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.17
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030919392852.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 빅마마 전국투어 콘서트 < ReBorn > - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42314</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42314</guid>
-            <pubDate>Thu, 10 Mar 2022 05:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030919215818.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
