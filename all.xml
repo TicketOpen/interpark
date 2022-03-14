@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 07:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 08:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 우아한 클래식 〈애니멀 파크 인 더 클래식〉 - 김해 티켓오픈 .. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42337&amp;groupno=42337&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42337&amp;groupno=42337&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 14 Mar 2022 08:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.21(월)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 성남 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42336&amp;groupno=42336&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.03.15(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[［문화가 있는날］남경주와 함께하는 올댓스테이지 : 뮤지컬 갈라쇼 .. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42318&amp;groupno=42318&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42318&amp;groupno=42318&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 10 Mar 2022 05:33:03 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.11(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2022 우아한 클래식 〈애니멀 파크 인 더 클래식〉 - 김해 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42337</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42337</guid>
+            <pubDate>Mon, 14 Mar 2022 08:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031414321547.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.03.14
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220311020042.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE6＇ - 오프라인 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42327</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42327</guid>
-            <pubDate>Fri, 11 Mar 2022 03:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.21
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220311120251.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
