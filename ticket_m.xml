@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 04:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 05:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,15 +80,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030713175848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 성시경 팬미팅 ＂사월＂ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42331</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42331</guid>
-            <pubDate>Mon, 14 Mar 2022 03:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.21
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031121474954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022 조명섭 콘서트 - 新나는!〈달밤 음악회〉-  군포 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42330</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42330</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2022.03.16
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002908_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[김창옥 토크콘서트 시즌2 - 성남(앵콜) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42329</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42329</guid>
+            <pubDate>Tue, 15 Mar 2022 05:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002688_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
