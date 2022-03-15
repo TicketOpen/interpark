@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 01:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 02:55:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,7 +110,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42322&amp;groupno=42322&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42322&amp;groupno=42322&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 10 Mar 2022 09:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16(수)&nbsp;14:00]]></content:encoded>
+            <content:encoded><![CDATA[추후공지]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈스메르쟈코프〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
