@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 05:34:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 06:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김선욱 피아노 리사이틀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42341</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42341</guid>
+            <pubDate>Tue, 15 Mar 2022 06:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.17
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031510541754.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마스크 연극 〈The Three〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42340</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42340</guid>
+            <pubDate>Tue, 15 Mar 2022 06:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031511142825.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[〈1차 티켓〉 레전더리 루이비통 트렁크展 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=890</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.03.17
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030713175848.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 조명섭 콘서트 - 新나는!〈달밤 음악회〉-  군포 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42330</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42330</guid>
-            <pubDate>Mon, 14 Mar 2022 03:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.16
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002908_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김창옥 토크콘서트 시즌2 - 성남(앵콜) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42329</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42329</guid>
-            <pubDate>Tue, 15 Mar 2022 05:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002688_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
