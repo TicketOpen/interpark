@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 06:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 07:35:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[싱어게인2 TOP10 전국투어 콘서트-천안 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42342&amp;groupno=42342&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42342&amp;groupno=42342&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 15 Mar 2022 07:34:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.18(금)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[김선욱 피아노 리사이틀 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42341&amp;groupno=42341&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,22 @@
             <content:encoded><![CDATA[22.03.14(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오노프 콘서트 〈시즌 2〉 I. LUCY, 하림x정인x민서 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42323&amp;groupno=42323&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42323&amp;groupno=42323&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 10 Mar 2022 09:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.11(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 4월 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42343</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42343</guid>
+            <pubDate>Tue, 15 Mar 2022 07:34:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007810_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[싱어게인2 TOP10 전국투어 콘서트-천안 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42342</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42342</guid>
+            <pubDate>Tue, 15 Mar 2022 07:34:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031417154611.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김선욱 피아노 리사이틀 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2022.03.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030810544690.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 장윤정 라이브 콘서트 - 성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42333</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42333</guid>
-            <pubDate>Mon, 14 Mar 2022 05:49:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031015275234.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 HYNN(박혜원) 전국투어 〈HYNN FOREST〉 - 성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42332</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42332</guid>
-            <pubDate>Mon, 14 Mar 2022 05:49:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.17
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030713175848.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
