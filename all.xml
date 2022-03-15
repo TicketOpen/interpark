@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 03:39:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 04:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈1차 티켓〉 레전더리 루이비통 트렁크展 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=890&amp;groupno=890&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=890&amp;groupno=890&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 15 Mar 2022 04:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.18(금)&nbsp;11:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 김해 티켓.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42338&amp;groupno=42338&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.03.15(화)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[CIX 1st Concert 〈REBEL〉 in SEOUL 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42320&amp;groupno=42320&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42320&amp;groupno=42320&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 10 Mar 2022 07:34:11 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.16(수)&nbsp;18:00]]></content:encoded>
+            <title><![CDATA[〈1차 티켓〉 레전더리 루이비통 트렁크展 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=890</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=890</guid>
+            <pubDate>Tue, 15 Mar 2022 04:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.18
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002355_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 김해 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.03.16
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002908_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김창옥 토크콘서트 시즌2 - 성남(앵콜) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42329</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42329</guid>
-            <pubDate>Fri, 11 Mar 2022 05:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002688_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
