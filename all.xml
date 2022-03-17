@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 03:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 04:46:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -167,7 +167,7 @@
             <pubDate>Wed, 16 Mar 2022 09:36:45 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.18
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031613443096.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002337_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈아몬드〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
