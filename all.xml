@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 07:35:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 08:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[심청전을 짓다 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42367&amp;groupno=42367&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42367&amp;groupno=42367&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 17 Mar 2022 07:34:15 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 08:40:19 GMT</pubDate>
             <content:encoded><![CDATA[22.03.21(월)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
@@ -137,7 +137,7 @@
             <title><![CDATA[심청전을 짓다 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42367</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42367</guid>
-            <pubDate>Thu, 17 Mar 2022 07:34:26 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 08:40:29 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.21
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031715325373.jpg" length="0" type="image/jpg"/>
