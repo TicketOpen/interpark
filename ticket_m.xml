@@ -4,9 +4,81 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 07:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 09:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[솔루션스 EP 발매 기념 콘서트 ＇TIME＇ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42389</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42389</guid>
+            <pubDate>Fri, 18 Mar 2022 09:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.24
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031715524739.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PEAKBOX 22-01 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42388</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42388</guid>
+            <pubDate>Fri, 18 Mar 2022 09:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.22
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031817190710.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허클베리피(Huckleberry P) - Storyteller 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42387</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42387</guid>
+            <pubDate>Fri, 18 Mar 2022 09:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.28
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031716245973.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［ 2022 Theatre 이문세 ］- 여수 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42386</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42386</guid>
+            <pubDate>Fri, 18 Mar 2022 09:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.25
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220318061010.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［ 2022 Theatre 이문세 ］- 인천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42385</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42385</guid>
+            <pubDate>Fri, 18 Mar 2022 09:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220318061104.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［ 2022 Theatre 이문세 ］- 성남 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42384</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42384</guid>
+            <pubDate>Fri, 18 Mar 2022 09:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220318061145.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［ 2022 Theatre 이문세 ］- 진주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42383</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42383</guid>
+            <pubDate>Fri, 18 Mar 2022 09:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220318061126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극〈눈을 뜻하는 수백 가지 단어들〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42382</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42382</guid>
+            <pubDate>Fri, 18 Mar 2022 09:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.22
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001171_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 YANG JOON IL CONCERT “The First Dance” - 서울 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42380</link>
@@ -24,78 +96,6 @@
             <content:encoded><![CDATA[2022.03.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/20/20003069_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 서울스프링실내악축제 0502 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42378</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42378</guid>
-            <pubDate>Fri, 18 Mar 2022 06:44:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003095_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 HYNN(박혜원) 전국투어 〈HYNN FOREST〉 - 고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42377</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42377</guid>
-            <pubDate>Fri, 18 Mar 2022 05:52:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.24
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031011054840.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팀 버튼 특별전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=892</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=892</guid>
-            <pubDate>Fri, 18 Mar 2022 05:52:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003102_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42376</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42376</guid>
-            <pubDate>Fri, 18 Mar 2022 05:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.24
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031720403939.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 - 고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42375</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42375</guid>
-            <pubDate>Fri, 18 Mar 2022 05:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.24
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031720503229.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 - 천안 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42374</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42374</guid>
-            <pubDate>Fri, 18 Mar 2022 05:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031720524088.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈블러디 사일런스 : 류진 더 뱀파이어 헌터〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42373</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42373</guid>
-            <pubDate>Fri, 18 Mar 2022 05:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001535_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[박유신 트리오의 클래식 라운지 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42372</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42372</guid>
-            <pubDate>Fri, 18 Mar 2022 05:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.21
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003003_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
