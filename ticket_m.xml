@@ -4,18 +4,9 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 02:58:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[박유신 트리오의 클래식 라운지 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42370</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42370</guid>
-            <pubDate>Fri, 18 Mar 2022 02:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.18
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003003_p.gif" length="0" type="image/gif"/>
-        </item>
         <item>
             <title><![CDATA[콰르텟 플러스 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42369</link>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2022.03.23
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031616003964.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 대구앵콜 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42361</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42361</guid>
+            <pubDate>Fri, 18 Mar 2022 02:58:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.21
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031616265625.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
