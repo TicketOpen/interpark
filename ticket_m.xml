@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 23:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[죽음을 대비하는 방법 ; 멸망편 - ENCORE 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42404</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42404</guid>
+            <pubDate>Tue, 22 Mar 2022 02:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼팽과 함께 떠나는 스페인 마요르카 기행 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42403</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42403</guid>
+            <pubDate>Tue, 22 Mar 2022 02:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032113040242.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피지컬 시어터 〈네이처 오브 포겟팅〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42402</link>
@@ -59,7 +77,7 @@
             <pubDate>Mon, 21 Mar 2022 06:45:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.23
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031819025144.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003193_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈바다탐험대 옥토넛 시즌2〉 - 군산 티켓오픈 안내]]></title>
@@ -68,7 +86,7 @@
             <pubDate>Mon, 21 Mar 2022 05:33:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.23
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031818434384.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003189_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 주현미 콘서트 - 고양 티켓오픈 안내]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.03.24
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022031514360578.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［Live Up!］ep.04 쏜애플 콘서트 - 구리 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42394</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42394</guid>
-            <pubDate>Mon, 21 Mar 2022 05:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022030513523987.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[B.I 1st Fan Meeting ［B.I OFFLINE］ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42393</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42393</guid>
-            <pubDate>Mon, 21 Mar 2022 05:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.04
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
