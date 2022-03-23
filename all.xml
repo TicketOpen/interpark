@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 07:38:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 08:44:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -185,7 +185,7 @@
             <pubDate>Wed, 23 Mar 2022 04:46:36 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.24
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032219210088.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003216_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022년 연극 〈친정엄마와 2박3일 - 안산〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
