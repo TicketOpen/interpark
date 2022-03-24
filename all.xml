@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 23:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:06:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국카스텐x딕펑스 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42421&amp;groupno=42421&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42421&amp;groupno=42421&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 24 Mar 2022 02:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[22.03.29(화)&nbsp;15:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[노래인생 60년 기념 이미자 음악회 - 울산 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42420&amp;groupno=42420&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.03.25(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쇼팽과 함께 떠나는 스페인 마요르카 기행 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42403&amp;groupno=42403&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42403&amp;groupno=42403&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 22 Mar 2022 02:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.25(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[국카스텐x딕펑스 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42421</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42421</guid>
+            <pubDate>Thu, 24 Mar 2022 02:05:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.29
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032313482805.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노래인생 60년 기념 이미자 음악회 - 울산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -176,7 +185,7 @@
             <pubDate>Wed, 23 Mar 2022 04:46:36 GMT</pubDate>
             <content:encoded><![CDATA[2022.03.25
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032310391557.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003362_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈장수상회〉 - 안산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.03.28
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032218015487.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국카스텐 딕펑스 〈2022 어쩌다 페스티벌 in 부산〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42411</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42411</guid>
-            <pubDate>Wed, 23 Mar 2022 04:46:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.28
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
