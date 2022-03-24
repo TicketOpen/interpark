@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 06:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 07:35:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드미트리 마슬레예프 피아노 리사이틀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42434</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42434</guid>
+            <pubDate>Thu, 24 Mar 2022 07:34:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.30
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003117_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 3차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42433</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.03.29
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032314563995.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 이승환 콘서트 〈당신이 원하는 바로 그 콘서트〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42424</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42424</guid>
-            <pubDate>Thu, 24 Mar 2022 04:46:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.29
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032316435011.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
