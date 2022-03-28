@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 04:47:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 05:36:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어린이 교육 뮤지컬 〈무지개랜드〉 - 세종 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42457</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42457</guid>
+            <pubDate>Mon, 28 Mar 2022 05:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.01
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032119475256.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 조명섭 콘서트 - 新나는! 〈달밤 음악회〉 - 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42456</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42456</guid>
+            <pubDate>Mon, 28 Mar 2022 05:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032416120311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조수미의 비엔나 왈츠 ＆ 폴카 ［ LOVE FROM VIENNA ］ - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42455</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42455</guid>
+            <pubDate>Mon, 28 Mar 2022 05:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032510471825.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼맨 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42454</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42454</guid>
+            <pubDate>Mon, 28 Mar 2022 05:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011972_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 fromis_9 1st fan meeting 〈fromis day〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42453</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.03.29
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001193_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[［피아졸라 서거 30주년］ 아디오스 피아졸라, 라이브 탱고 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42446</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42446</guid>
-            <pubDate>Fri, 25 Mar 2022 08:41:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220328012051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죽음의 집 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42445</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42445</guid>
-            <pubDate>Fri, 25 Mar 2022 08:41:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000673_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[매직드로잉 가족극 〈두들팝〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42444</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42444</guid>
-            <pubDate>Fri, 25 Mar 2022 07:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013289_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[［얼리버드］호안 미로：여인, 새, 별 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=894</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=894</guid>
-            <pubDate>Fri, 25 Mar 2022 07:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.03.28
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003403_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
