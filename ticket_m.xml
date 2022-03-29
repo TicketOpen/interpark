@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 06:46:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 어썸뮤직페스티벌 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42477</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42477</guid>
+            <pubDate>Tue, 29 Mar 2022 06:45:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.30
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032914071989.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지도를 읽는 시간 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42476</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42476</guid>
+            <pubDate>Tue, 29 Mar 2022 06:45:38 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.31
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003621_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[조항조＆진성 〈앙상블콘서트〉 - 창원 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42475</link>
@@ -74,24 +92,6 @@
             <title><![CDATA[이은결〈MAGIC＆ILLUSION〉 - 구리 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42468</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42468</guid>
-            <pubDate>Tue, 29 Mar 2022 02:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꼬마버스와 하하호호 노래자랑-구리 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42467</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42467</guid>
-            <pubDate>Tue, 29 Mar 2022 02:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족 넌버벌 공연 〈네네네〉-구리 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42466</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42466</guid>
             <pubDate>Tue, 29 Mar 2022 02:11:23 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.01
                                     <span>14:00</span>]]></content:encoded>
