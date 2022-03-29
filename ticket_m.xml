@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 08:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 09:39:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 45 안예은 단독 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42479</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42479</guid>
+            <pubDate>Tue, 29 Mar 2022 09:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.30
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032514470707.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재만 ＇mis＇ 발매 기념 쇼케이스 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42478</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42478</guid>
+            <pubDate>Tue, 29 Mar 2022 09:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.03.31
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003487_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 어썸뮤직페스티벌 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42477</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.04.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032814263418.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남진 孝 콘서트 with 윤수현, 영지 - 구리 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42469</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42469</guid>
-            <pubDate>Tue, 29 Mar 2022 02:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이은결〈MAGIC＆ILLUSION〉 - 구리 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42468</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42468</guid>
-            <pubDate>Tue, 29 Mar 2022 02:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
