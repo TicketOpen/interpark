@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 05:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 06:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42433&amp;groupno=42433&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 31 Mar 2022 04:45:40 GMT</pubDate>
             <content:encoded><![CDATA[22.03.31(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 해피콘서트 - 군포 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42497&amp;groupno=42497&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42497&amp;groupno=42497&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 31 Mar 2022 06:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.01(금)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈툭〉 2022 세월호 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -120,7 +127,7 @@
             <content:encoded><![CDATA[22.04.01(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 라이온 킹 인터내셔널 투어 - 부산(Musical The Lion King) 3.. (인터파크 티켓)]]></title>
+            <title><![CDATA[뮤지컬 라이온 킹 인터내셔널 투어 - 부산(Musical The Lion King) .. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42482&amp;groupno=42482&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42482&amp;groupno=42482&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 30 Mar 2022 05:33:55 GMT</pubDate>
@@ -134,11 +141,13 @@
             <content:encoded><![CDATA[22.04.05(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[그림읽어주는베토벤 클래식콘서트 세계명작극장〈플란다스의 개〉- .. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42480&amp;groupno=42480&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42480&amp;groupno=42480&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 30 Mar 2022 02:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.03.30(수)&nbsp;09:00]]></content:encoded>
+            <title><![CDATA[2022 해피콘서트 - 군포 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42497</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42497</guid>
+            <pubDate>Thu, 31 Mar 2022 06:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.01
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003456_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈툭〉 2022 세월호 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2022.04.05
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002318_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[［얼리버드］레드룸 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=895</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=895</guid>
-            <pubDate>Wed, 30 Mar 2022 07:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.01
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003677_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
@@ -392,7 +392,7 @@
             <content:encoded><![CDATA[22.04.04(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 라이온 킹 인터내셔널 투어 - 부산(Musical The Lion King) 3.. (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <title><![CDATA[뮤지컬 라이온 킹 인터내셔널 투어 - 부산(Musical The Lion King) .. (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42482&amp;groupno=42482&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42482&amp;groupno=42482&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 30 Mar 2022 05:34:21 GMT</pubDate>
