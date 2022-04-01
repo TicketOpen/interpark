@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 03:59:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 04:49:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 최현우 〈THE BRAIN〉 -  대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42505</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42505</guid>
+            <pubDate>Fri, 01 Apr 2022 04:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.06
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040111211005.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 가정의 달 스페셜 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42504</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.04.01
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003456_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈툭〉 2022 세월호 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42496</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42496</guid>
-            <pubDate>Thu, 31 Mar 2022 05:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022033104540215.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
