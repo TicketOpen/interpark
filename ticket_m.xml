@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 23:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 02:30:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_용인 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42503</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42503</guid>
+            <pubDate>Fri, 01 Apr 2022 02:29:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032917210920.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈돌아온다〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42502</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42502</guid>
+            <pubDate>Fri, 01 Apr 2022 02:29:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.06
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SURL(설) concert ＇preview of us＇ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42501</link>
@@ -14,7 +32,7 @@
             <pubDate>Thu, 31 Mar 2022 09:37:56 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.04
                                     <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022033017364259.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003775_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈프리다〉 티켓오픈 안내]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.04.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022033110405528.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘미라클 인터내셔널’ 7주년 창립 기념일 by. 마케팅팀 오마이걸 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42493</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42493</guid>
-            <pubDate>Thu, 31 Mar 2022 05:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.07
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022033020571301.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MONSTA X 6th OFFICIAL FANCLUB MONBEBE FAN-CONCERT <MX AGENT> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42492</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42492</guid>
-            <pubDate>Thu, 31 Mar 2022 05:34:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.08
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022032310542749.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
