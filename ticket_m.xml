@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 02:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 03:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 9차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42522</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42522</guid>
+            <pubDate>Mon, 04 Apr 2022 03:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.07
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[제43회 서울연극제 공식선정작 〈베로나의 두 신사〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42521</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42521</guid>
+            <pubDate>Mon, 04 Apr 2022 03:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040219034281.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 서울 앵콜 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42520</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42520</guid>
+            <pubDate>Mon, 04 Apr 2022 03:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.13
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040114124443.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 하남 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42519</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.04.06
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040110354053.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유러피안 재즈 트리오 디즈니 VS 지브리 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42511</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42511</guid>
-            <pubDate>Fri, 01 Apr 2022 08:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220401044114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명품악극<불효자는 웁니다> - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42510</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42510</guid>
-            <pubDate>Fri, 01 Apr 2022 07:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.05
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈넥스트 투 노멀〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42509</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42509</guid>
-            <pubDate>Fri, 01 Apr 2022 07:35:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003672_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
