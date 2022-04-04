@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 08:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:38:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얀 리시에츠키 피아노 리사이틀 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42529&amp;groupno=42529&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42529&amp;groupno=42529&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 04 Apr 2022 09:37:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.06(수)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[김도현 2nd 음악회 '봄' 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42528&amp;groupno=42528&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.04.06(수)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유러피안 재즈 트리오 디즈니 VS 지브리 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42511&amp;groupno=42511&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42511&amp;groupno=42511&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 01 Apr 2022 08:42:14 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.05(화)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[얀 리시에츠키 피아노 리사이틀 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42529</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42529</guid>
+            <pubDate>Mon, 04 Apr 2022 09:37:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.06
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003513_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[김도현 2nd 음악회 '봄' 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.04.13
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040114124443.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 하남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42519</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42519</guid>
-            <pubDate>Mon, 04 Apr 2022 02:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220404051132.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
