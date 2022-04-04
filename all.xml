@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 03:50:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 04:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -19,7 +19,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42521&amp;groupno=42521&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42521&amp;groupno=42521&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 04 Apr 2022 03:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.04(월)&nbsp;14:00]]></content:encoded>
+            <content:encoded><![CDATA[22.04.05(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 캐치! 티니핑 〈프린세스 다이어리〉 - 서울 앵콜 티켓오픈 .. (인터파크 티켓)]]></title>
@@ -75,7 +75,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42513&amp;groupno=42513&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42513&amp;groupno=42513&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 04 Apr 2022 02:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.08(금)&nbsp;15:00]]></content:encoded>
+            <content:encoded><![CDATA[22.04.08(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[PEAKBOX 22-02 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -147,7 +147,7 @@
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42521</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42521</guid>
             <pubDate>Mon, 04 Apr 2022 03:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.04
+            <content:encoded><![CDATA[2022.04.05
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040219034281.jpg" length="0" type="image/jpg"/>
         </item>
@@ -211,8 +211,8 @@
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42513</guid>
             <pubDate>Mon, 04 Apr 2022 02:15:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.08
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220404012914.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PEAKBOX 22-02 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -399,7 +399,7 @@
             <content:encoded><![CDATA[22.04.05(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈프리다〉 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <title><![CDATA[뮤지컬 <프리다> 마지막 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42500&amp;groupno=42500&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42500&amp;groupno=42500&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 31 Mar 2022 09:38:15 GMT</pubDate>
