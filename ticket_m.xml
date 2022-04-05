@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 02:08:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 03:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 내일은 미스트롯2 TOP4 전국투어콘서트 〈소리꽃〉 - 서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42535</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42535</guid>
+            <pubDate>Tue, 05 Apr 2022 03:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040410035752.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이승환 콘서트 〈당신이 원하는 바로 그 콘서트〉 - 수원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42534</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42534</guid>
+            <pubDate>Tue, 05 Apr 2022 03:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.06
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040118305622.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈볼륨업〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42533</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.04.07
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0002950_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 김문정 콘서트 ［ONLY］ ‘Bon Voyage to the MOON＇앵콜 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42525</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42525</guid>
-            <pubDate>Mon, 04 Apr 2022 06:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.06
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220404023523.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2nd 정동원棟동 이야기話화 전국투어 콘서트 - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42524</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42524</guid>
-            <pubDate>Mon, 04 Apr 2022 05:34:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.08
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220404020250.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
