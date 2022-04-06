@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 02:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 03:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 가곡 세기의 콘서트 ＃2 〈굿모닝 가곡〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42548</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42548</guid>
+            <pubDate>Wed, 06 Apr 2022 03:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040517293516.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[［문화가 있는 날］ 남경주와 함께하는 올댓스테이지 : 클래식 - 구리 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42547</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.04.08
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040415081472.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) - 전주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42539</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42539</guid>
-            <pubDate>Tue, 05 Apr 2022 05:34:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.12
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040122031061.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
