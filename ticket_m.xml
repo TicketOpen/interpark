@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:38:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[옥상달빛 어린이날 맞이 단독공연 〈어린이 될 시간!〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42559</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42559</guid>
+            <pubDate>Wed, 06 Apr 2022 09:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.11
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220406060209.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈마타하리〉 1차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42558</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.04.13
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040514063350.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈블러디 사일런스 : 류진 더 뱀파이어 헌터〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42549</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42549</guid>
-            <pubDate>Wed, 06 Apr 2022 05:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001535_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
