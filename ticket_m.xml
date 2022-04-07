@@ -4,11 +4,29 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 06:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 07:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[어린이날 100주년 기념 가족음악회 〈꼭 안아 줄래요〉 티켓오픈 안내]]></title>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 -군포 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42570</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42570</guid>
+            <pubDate>Thu, 07 Apr 2022 07:35:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.12
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040618163729.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 킹아더 (Musical King Arthur) 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42569</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42569</guid>
+            <pubDate>Thu, 07 Apr 2022 07:35:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.12
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001580_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이날 100주년 기념 가족음악회 <꼭 안아줄래요> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42568</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42568</guid>
             <pubDate>Thu, 07 Apr 2022 06:44:08 GMT</pubDate>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.04.12
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈빈센트 반 고흐〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42560</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42560</guid>
-            <pubDate>Thu, 07 Apr 2022 03:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.12
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001888_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[옥상달빛 어린이날 맞이 단독공연 〈어린이 될 시간!〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42559</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42559</guid>
-            <pubDate>Wed, 06 Apr 2022 09:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.11
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220406060209.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
