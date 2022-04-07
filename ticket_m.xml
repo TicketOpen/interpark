@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 23:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 02:04:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈빈센트 반 고흐〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42560</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42560</guid>
+            <pubDate>Thu, 07 Apr 2022 02:03:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.12
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001888_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[옥상달빛 어린이날 맞이 단독공연 〈어린이 될 시간!〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42559</link>
@@ -41,7 +50,7 @@
             <pubDate>Wed, 06 Apr 2022 07:35:35 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.08
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040420072063.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004203_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈비클래스〉 마지막 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.04.07
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011969_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[정동원棟동 이야기話화 2nd 전국투어 콘서트 - 광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42550</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42550</guid>
-            <pubDate>Wed, 06 Apr 2022 05:34:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.13
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040514063350.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
