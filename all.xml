@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 08:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 09:38:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 정동하 소극장콘서트 “OFF THE RECORD : The Rock” 티켓오픈 .. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42573&amp;groupno=42573&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42573&amp;groupno=42573&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 07 Apr 2022 09:37:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.11(월)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 창원 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42572&amp;groupno=42572&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -71,7 +78,7 @@
             <content:encoded><![CDATA[22.04.12(화)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <포텐독> 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[가족뮤지컬 〈포텐독：똥 밟았네〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42563&amp;groupno=42563&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42563&amp;groupno=42563&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 07 Apr 2022 03:08:01 GMT</pubDate>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.04.08(금)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈비클래스〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42555&amp;groupno=42555&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42555&amp;groupno=42555&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 06 Apr 2022 06:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.11(월)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[2022 정동하 소극장콘서트 “OFF THE RECORD : The Rock” 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42573</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42573</guid>
+            <pubDate>Thu, 07 Apr 2022 09:37:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004344_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 창원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -212,15 +221,6 @@
             <pubDate>Thu, 07 Apr 2022 05:34:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.12
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <포텐독> 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42563</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42563</guid>
-            <pubDate>Thu, 07 Apr 2022 03:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.12
-                                    <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -371,7 +371,7 @@
             <content:encoded><![CDATA[22.04.14(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <포텐독> 1차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <title><![CDATA[가족뮤지컬 〈포텐독：똥 밟았네〉 1차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42563&amp;groupno=42563&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42563&amp;groupno=42563&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 07 Apr 2022 03:08:31 GMT</pubDate>
