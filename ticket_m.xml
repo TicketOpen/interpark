@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 07:35:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 08:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 창원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42572</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42572</guid>
+            <pubDate>Thu, 07 Apr 2022 08:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KBS교향악단 2022 마스터즈 시리즈 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42571</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42571</guid>
+            <pubDate>Thu, 07 Apr 2022 08:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 -군포 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42570</link>
@@ -74,24 +92,6 @@
             <title><![CDATA[가족뮤지컬 <포텐독> 1차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42563</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42563</guid>
-            <pubDate>Thu, 07 Apr 2022 03:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.12
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동구문화체육센터 오브제 연극 〈자전거 여행〉 - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42562</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42562</guid>
-            <pubDate>Thu, 07 Apr 2022 03:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 - 울산첫공연 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42561</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42561</guid>
             <pubDate>Thu, 07 Apr 2022 03:08:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.12
                                     <span>09:00</span>]]></content:encoded>
