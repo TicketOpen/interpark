@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 08:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 09:37:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 47 참솜x정아로 콜라보 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42589</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42589</guid>
+            <pubDate>Fri, 08 Apr 2022 09:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.11
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040518175029.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 46 디에이드x마인드유 콜라보 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42588</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42588</guid>
+            <pubDate>Fri, 08 Apr 2022 09:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.11
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040518132833.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－용인 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42587</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42587</guid>
+            <pubDate>Fri, 08 Apr 2022 09:36:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.14
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 이승환 콘서트 〈당신이 원하는 바로 그 콘서트〉 - 전주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42586</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.04.15
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040711594362.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42579</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42579</guid>
-            <pubDate>Fri, 08 Apr 2022 03:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000875_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_대전 추가 좌석(가변석) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42578</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42578</guid>
-            <pubDate>Fri, 08 Apr 2022 03:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.13
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002325_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42577</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42577</guid>
-            <pubDate>Fri, 08 Apr 2022 02:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040111395120.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
