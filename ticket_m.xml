@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 07:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 08:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 정동하 소극장콘서트 “OFF THE RECORD : The Musical” 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42601</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42601</guid>
+            <pubDate>Mon, 11 Apr 2022 08:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004346_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈여도〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42600</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42600</guid>
+            <pubDate>Mon, 11 Apr 2022 08:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립극장 해외초청작 〈소프루〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42599</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42599</guid>
+            <pubDate>Mon, 11 Apr 2022 08:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040817332027.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 이승환의 온리발라드 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42598</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42598</guid>
+            <pubDate>Mon, 11 Apr 2022 08:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.12
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004360_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[기후비상사태: 리허설 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42597</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.04.18
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220411022807.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 부활 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42591</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42591</guid>
-            <pubDate>Mon, 11 Apr 2022 02:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈디아길레프〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42590</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42590</guid>
-            <pubDate>Mon, 11 Apr 2022 02:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.15
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011871_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track. 47 참솜x정아로 콜라보 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42589</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42589</guid>
-            <pubDate>Fri, 08 Apr 2022 09:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.11
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040518175029.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track. 46 디에이드x마인드유 콜라보 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42588</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42588</guid>
-            <pubDate>Fri, 08 Apr 2022 09:36:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.11
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022040518132833.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
