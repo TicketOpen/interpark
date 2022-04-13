@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 08:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 09:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -185,7 +185,7 @@
             <pubDate>Wed, 13 Apr 2022 08:42:38 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.18
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220413054750.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈스메르쟈코프〉 4차 티켓 오픈 안내 (인터파크 티켓 모바일)]]></title>
