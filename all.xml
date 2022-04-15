@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 02:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 03:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 앙코르 티켓.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42660&amp;groupno=42660&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42660&amp;groupno=42660&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 15 Apr 2022 03:49:48 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.15(금)&nbsp;15:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[앙상블 콘서트 : Strings Ⅱ 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42659&amp;groupno=42659&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.04.19(화)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방방곡곡 문화공감 국·공립 해설이 있는 전막발레 〈해적〉 티켓오.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42641&amp;groupno=42641&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42641&amp;groupno=42641&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 14 Apr 2022 02:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 앙코르 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42660</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42660</guid>
+            <pubDate>Fri, 15 Apr 2022 03:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.15
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041116441555.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앙상블 콘서트 : Strings Ⅱ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.04.18
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041316091753.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너의 이름은. 필름 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42649</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42649</guid>
-            <pubDate>Thu, 14 Apr 2022 05:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041111344913.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
