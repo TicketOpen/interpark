@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 23:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 02:31:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 캐치! 티니핑〈프린세스 다이어리〉- 부천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42676</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42676</guid>
+            <pubDate>Mon, 18 Apr 2022 02:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.20
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041515224162.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<스타크래프트 라이브 콘서트 : 앙코르> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42675</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42675</guid>
+            <pubDate>Mon, 18 Apr 2022 02:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.18
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/P0/P0002976_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[정동원棟동 이야기話화 2nd 전국투어 콘서트 - 서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42674</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42674</guid>
+            <pubDate>Mon, 18 Apr 2022 02:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.22
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220418085715.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SELECT SHOP〈십센치 X 죠지〉콘서트 - 진주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42673</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.04.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041314105409.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈돌아온다〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42665</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42665</guid>
-            <pubDate>Fri, 15 Apr 2022 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.20
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003759_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈웨스턴 스토리〉 마지막 티켓 오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42664</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42664</guid>
-            <pubDate>Fri, 15 Apr 2022 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000934_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈리지〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42663</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42663</guid>
-            <pubDate>Fri, 15 Apr 2022 05:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.20
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001599_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
