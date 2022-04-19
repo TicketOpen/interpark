@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 05:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 06:45:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로드씨어터 〈클럽 베를린〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42702</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42702</guid>
+            <pubDate>Tue, 19 Apr 2022 06:45:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.26
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041821155504.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 HYNN(박혜원) 전국투어 < HYNN FOREST> - 전주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42701</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.04.21
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041816134029.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[패밀리뮤지컬 헤이지니＆럭키강이 시즌2 “비밀의 문” - 광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42693</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42693</guid>
-            <pubDate>Tue, 19 Apr 2022 02:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.21
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041813230287.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
