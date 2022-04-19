@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 07:36:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 08:44:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42615&amp;groupno=42615&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 19 Apr 2022 05:41:32 GMT</pubDate>
             <content:encoded><![CDATA[22.04.19(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[〈Amigo : 박규희 x 박종성〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42705&amp;groupno=42705&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42705&amp;groupno=42705&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 19 Apr 2022 08:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.22(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022 케이시 콘서트  티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -134,11 +141,13 @@
             <content:encoded><![CDATA[22.04.21(목)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 박재정 콘서트 - 편지 1.5 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42688&amp;groupno=42688&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42688&amp;groupno=42688&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 18 Apr 2022 09:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20(수)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[〈Amigo : 박규희 x 박종성〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42705</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42705</guid>
+            <pubDate>Tue, 19 Apr 2022 08:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.22
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 케이시 콘서트 <May, Be> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -147,7 +156,7 @@
             <pubDate>Tue, 19 Apr 2022 07:36:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.21
                                     <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004698_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈포텐독：똥 밟았네〉 - 성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2022.04.19
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004707_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈넥스트 투 노멀〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42696</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42696</guid>
-            <pubDate>Tue, 19 Apr 2022 02:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003672_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
