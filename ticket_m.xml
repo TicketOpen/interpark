@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 23:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 02:40:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오디션 콘서트 〈서울 탭댄스 콩쿠르〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42708</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42708</guid>
+            <pubDate>Wed, 20 Apr 2022 02:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041816453657.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극〈세월호 학교〉2022 세월호 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42707</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42707</guid>
+            <pubDate>Wed, 20 Apr 2022 02:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004402_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 장수탕 선녀님 - 고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42706</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42706</guid>
+            <pubDate>Wed, 20 Apr 2022 02:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041817165914.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[〈Amigo : 박규희 x 박종성〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42705</link>
@@ -23,7 +50,7 @@
             <pubDate>Tue, 19 Apr 2022 07:36:06 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.21
                                     <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004698_p.gif" length="0" type="image/gif"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220420092048.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 〈포텐독：똥 밟았네〉 - 성남 티켓오픈 안내]]></title>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.04.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002411_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 -  고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42697</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42697</guid>
-            <pubDate>Tue, 19 Apr 2022 02:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.21
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈넥스트 투 노멀〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42696</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42696</guid>
-            <pubDate>Tue, 19 Apr 2022 15:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003672_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족음악극 〈세상에서 가장 용감한 강아지 하루〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42695</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42695</guid>
-            <pubDate>Tue, 19 Apr 2022 15:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.20
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004711_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
