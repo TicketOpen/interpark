@@ -4,9 +4,54 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 07:37:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 08:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈루루섬의 비밀〉 - 안산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42724</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42724</guid>
+            <pubDate>Wed, 20 Apr 2022 08:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.20
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041414161097.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극〈나쁘지 않은 날〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42723</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42723</guid>
+            <pubDate>Wed, 20 Apr 2022 08:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.25
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[［디뮤지엄］어쨌든, 사랑：Romantic Days 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=899</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=899</guid>
+            <pubDate>Wed, 20 Apr 2022 08:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.21
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004804_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[<아디오스 피아졸라, 라이브 탱고> - 안양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42722</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42722</guid>
+            <pubDate>Wed, 20 Apr 2022 08:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제14회 서울재즈페스티벌 2022 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42721</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42721</guid>
+            <pubDate>Wed, 20 Apr 2022 08:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.27
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220420050602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어린이를 위한 오페라 〈제페토 할아버지〉-안산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42720</link>
@@ -51,51 +96,6 @@
             <content:encoded><![CDATA[2022.04.26
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004071_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[SELECT SHOP<십센치 X 소수빈>콘서트 - 군포 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42715</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42715</guid>
-            <pubDate>Wed, 20 Apr 2022 06:47:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김준수x두번째달: 팔도유람 - 부천 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42714</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42714</guid>
-            <pubDate>Wed, 20 Apr 2022 05:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.20
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003656_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[클라라 주미강x김선욱 듀오 리사이틀 - 부천 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42713</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42713</guid>
-            <pubDate>Wed, 20 Apr 2022 05:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.21
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003739_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42711</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42711</guid>
-            <pubDate>Wed, 20 Apr 2022 05:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041910450855.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라흐마니노프 - 부천 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42710</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42710</guid>
-            <pubDate>Wed, 20 Apr 2022 05:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.21
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003623_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
