@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 07:36:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 08:45:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42658&amp;groupno=42658&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 21 Apr 2022 02:29:55 GMT</pubDate>
             <content:encoded><![CDATA[22.04.21(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[반고흐 인사이드 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=900&amp;groupno=900&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=900&amp;groupno=900&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 21 Apr 2022 08:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21(목)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈미오 프라텔로〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -134,11 +141,13 @@
             <content:encoded><![CDATA[22.04.27(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김준수x두번째달: 팔도유람 - 부천 추가티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42714&amp;groupno=42714&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42714&amp;groupno=42714&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 20 Apr 2022 08:44:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.21(목)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[반고흐 인사이드 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=900</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=900</guid>
+            <pubDate>Thu, 21 Apr 2022 08:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.21
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004929_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈미오 프라텔로〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2022.04.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220421032705.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제14회 서울재즈페스티벌 2022 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42721</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42721</guid>
-            <pubDate>Wed, 20 Apr 2022 08:44:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.27
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220420050602.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
