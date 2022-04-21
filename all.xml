@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 23:38:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 02:30:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈웃는 남자〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42658&amp;groupno=42658&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42658&amp;groupno=42658&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 21 Apr 2022 02:29:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이호재 무대 60년 기념 공연 - 질투 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42726&amp;groupno=42726&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42726&amp;groupno=42726&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 21 Apr 2022 02:29:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.21(목)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[The 3rd ASTROAD to Seoul ［STARGAZER］ 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42725&amp;groupno=42725&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -96,7 +110,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42714&amp;groupno=42714&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42714&amp;groupno=42714&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 20 Apr 2022 08:44:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20(수)&nbsp;11:00]]></content:encoded>
+            <content:encoded><![CDATA[22.04.21(목)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[클라라 주미강x김선욱 듀오 리사이틀 - 부천 추가티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -127,11 +141,13 @@
             <content:encoded><![CDATA[22.04.27(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[오디션 콘서트 〈서울 탭댄스 콩쿠르〉 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42708&amp;groupno=42708&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42708&amp;groupno=42708&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 20 Apr 2022 08:44:33 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.27(수)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[이호재 무대 60년 기념 공연 - 질투 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42726</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42726</guid>
+            <pubDate>Thu, 21 Apr 2022 02:30:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004787_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[The 3rd ASTROAD to Seoul ［STARGAZER］ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -140,7 +156,7 @@
             <pubDate>Wed, 20 Apr 2022 09:40:34 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.25
                                     <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041819502347.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004674_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극〈나쁘지 않은 날〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -194,7 +210,7 @@
             <pubDate>Wed, 20 Apr 2022 08:44:42 GMT</pubDate>
             <content:encoded><![CDATA[2022.04.22
                                     <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041916000007.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004889_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[HIGHLIGHT LIVE 2022 ［INTRO］ ONLINE 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +229,6 @@
             <content:encoded><![CDATA[2022.04.26
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004071_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[SELECT SHOP<십센치 X 소수빈>콘서트 - 군포 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42715</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42715</guid>
-            <pubDate>Wed, 20 Apr 2022 15:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
