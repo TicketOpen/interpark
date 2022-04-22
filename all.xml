@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 04:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 05:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마포아트센터 JAZZ REBOOT 〈 HARMONY 〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42737&amp;groupno=42737&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42737&amp;groupno=42737&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 22 Apr 2022 05:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.29(금)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42736&amp;groupno=42736&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42736&amp;groupno=42736&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 22 Apr 2022 05:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.04.26(화)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[리그 오브 레전드 디 오케스트라 : MSI 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42734&amp;groupno=42734&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,13 @@
             <content:encoded><![CDATA[22.04.27(수)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[어린이를 위한 오페라 〈제페토 할아버지〉-안산 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42720&amp;groupno=42720&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42720&amp;groupno=42720&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 21 Apr 2022 23:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.20(수)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 TOP10 전국투어 콘서트 - 일산 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42719&amp;groupno=42719&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42719&amp;groupno=42719&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 21 Apr 2022 23:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.25(월)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[마포아트센터 JAZZ REBOOT 〈 HARMONY 〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42737</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42737</guid>
+            <pubDate>Fri, 22 Apr 2022 05:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042018333687.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.04.25
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004674_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극〈나쁘지 않은 날〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42723</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42723</guid>
-            <pubDate>Thu, 21 Apr 2022 23:34:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.25
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
