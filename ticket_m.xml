@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 04:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 05:37:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <수박수영장> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42759</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42759</guid>
+            <pubDate>Mon, 25 Apr 2022 05:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.29
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 부천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42758</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42758</guid>
+            <pubDate>Mon, 25 Apr 2022 05:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.29
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정동원棟동 이야기話화 2nd 전국투어 콘서트 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42757</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42757</guid>
+            <pubDate>Mon, 25 Apr 2022 05:36:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.29
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041815192440.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 유해준 첫번째전국투어콘서트<미치게그리워서>광주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42756</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.04.28
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사유의 방 전시 연계 공연 : 사유하는 극장 - 요즘 것들의 사유 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42748</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42748</guid>
-            <pubDate>Mon, 25 Apr 2022 02:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041518222376.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고 싶은 인디 Ep.7 이준형 단독 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42747</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42747</guid>
-            <pubDate>Mon, 25 Apr 2022 02:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.27
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220425110609.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고 싶은 인디 Ep.6 이오늘 단독 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42746</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42746</guid>
-            <pubDate>Mon, 25 Apr 2022 02:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.26
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004961_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
