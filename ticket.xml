@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2022-04-26T04:03:04.156Z</updated>
+    <updated>2022-04-26T04:54:45.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42685&amp;groupno=42685&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-04-25T13:02:24.145Z</updated>
         <content type="html"><![CDATA[22.04.28(목)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 콘서트 〈오걸작-오선지 걸어가는 작곡가〉 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42777&amp;groupno=42777&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42777&amp;groupno=42777&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-04-26T04:53:52.737Z</updated>
+        <content type="html"><![CDATA[22.04.28(목)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 홍대광 소극장 콘서트 ＇빛의 정원＇ 티켓오픈 안내]]></title>
@@ -130,12 +137,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42760&amp;groupno=42760&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-04-25T06:46:31.197Z</updated>
         <content type="html"><![CDATA[22.04.28(목)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <수박수영장> 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42759&amp;groupno=42759&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42759&amp;groupno=42759&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-04-25T05:36:19.687Z</updated>
-        <content type="html"><![CDATA[22.04.29(금)&nbsp;10:00]]></content>
     </entry>
 </feed>
