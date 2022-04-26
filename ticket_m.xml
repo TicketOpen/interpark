@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:44:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무적의 삼총사 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42792</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42792</guid>
+            <pubDate>Tue, 26 Apr 2022 08:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042515023812.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 전상근 단독콘서트 “너와 나의 노래” 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42791</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42791</guid>
+            <pubDate>Tue, 26 Apr 2022 08:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042216590455.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서찰을 전하는 아이 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42790</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.05.13
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042517325751.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 차미 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42782</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42782</guid>
-            <pubDate>Tue, 26 Apr 2022 05:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002729_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 KIM SUNG KYU CONCERT - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42781</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42781</guid>
-            <pubDate>Tue, 26 Apr 2022 05:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042511360932.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
