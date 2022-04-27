@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 23:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 02:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[극단걸판 음악극 〈페스트〉  티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42796</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42796</guid>
+            <pubDate>Wed, 27 Apr 2022 02:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.28
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004964_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈빈센트 반 고흐〉 4차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42794</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42794</guid>
+            <pubDate>Wed, 27 Apr 2022 02:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.03
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001888_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[무적의 삼총사 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42792</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.05.04
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042214554682.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) - 고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42784</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42784</guid>
-            <pubDate>Tue, 26 Apr 2022 05:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042218120782.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국가곡 세기의 콘서트 #4. 〈친구〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42783</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42783</guid>
-            <pubDate>Tue, 26 Apr 2022 05:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042517325751.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
