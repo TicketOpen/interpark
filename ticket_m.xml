@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 04:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 05:54:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추억의 90-00 콘서트 〈어떤가요〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42810</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42810</guid>
+            <pubDate>Thu, 28 Apr 2022 05:53:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042714441199.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈은밀하게 위대하게:THE LAST〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42809</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.04.28
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003325_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈레베카〉 - 진주 추가 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42800</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42800</guid>
-            <pubDate>Wed, 27 Apr 2022 05:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.04.28
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22002428_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
