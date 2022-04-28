@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 08:43:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 09:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42685&amp;groupno=42685&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 25 Apr 2022 13:02:24 GMT</pubDate>
             <content:encoded><![CDATA[22.04.28(목)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 수원 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42815&amp;groupno=42815&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42815&amp;groupno=42815&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 28 Apr 2022 09:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.04(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 킹아더 (Musical King Arthur) 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -134,11 +141,13 @@
             <content:encoded><![CDATA[22.04.29(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[콩순이 뮤지컬 시즌2 〈우리들 음악회〉 -  안산 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42797&amp;groupno=42797&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42797&amp;groupno=42797&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 27 Apr 2022 05:05:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.04.29(금)&nbsp;10:00]]></content:encoded>
+            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 수원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42815</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42815</guid>
+            <pubDate>Thu, 28 Apr 2022 09:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042816304810.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 킹아더 (Musical King Arthur) 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2022.05.02
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220427054947.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 린고씨어터 내한_ Craft Series 2. 연극 〈장화 신은 고양이〉 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42805</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42805</guid>
-            <pubDate>Wed, 27 Apr 2022 05:05:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220427023748.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
