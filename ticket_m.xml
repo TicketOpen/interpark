@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 23:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 02:36:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈친정엄마와 2박 3일〉 - 여주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42818</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42818</guid>
+            <pubDate>Fri, 29 Apr 2022 02:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.04.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005160_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈태권, 날아올라〉 - 국립중앙박물관 극장용 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42817</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42817</guid>
+            <pubDate>Fri, 29 Apr 2022 02:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.03
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042813302143.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 M 소나타 시리즈 패키지 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42816</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42816</guid>
+            <pubDate>Fri, 29 Apr 2022 02:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042715531710.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 수원 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42815</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.05.03
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004419_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬〈미니특공대 : 애니멀트론〉- 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42808</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42808</guid>
-            <pubDate>Thu, 28 Apr 2022 03:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.04
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042716311363.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종문화회관 Sync Next 22 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42807</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42807</guid>
-            <pubDate>Thu, 28 Apr 2022 03:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220428093202.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영재국악회 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42806</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42806</guid>
-            <pubDate>Wed, 27 Apr 2022 09:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220427054947.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
