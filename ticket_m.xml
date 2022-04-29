@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 06:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 07:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］- 성남 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42825</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42825</guid>
+            <pubDate>Fri, 29 Apr 2022 07:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.03
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041813434350.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］- 고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42824</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42824</guid>
+            <pubDate>Fri, 29 Apr 2022 07:37:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022041813420613.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이은결 〈MAGIC ＆ ILLUSION〉 - 여수 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42823</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.05.04
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042715531710.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 수원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42815</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42815</guid>
-            <pubDate>Thu, 28 Apr 2022 09:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.04
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042816304810.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 킹아더 (Musical King Arthur) 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42814</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42814</guid>
-            <pubDate>Thu, 28 Apr 2022 08:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001580_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
