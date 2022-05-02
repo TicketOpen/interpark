@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 07:37:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 08:45:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈비더슈탄트〉 프리뷰 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42837</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42837</guid>
+            <pubDate>Mon, 02 May 2022 08:44:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.09
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220502051207.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 5차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42836</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.05.04
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042914253780.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈보이지 않는 손〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42827</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42827</guid>
-            <pubDate>Fri, 29 Apr 2022 08:44:50 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.06
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003374_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
