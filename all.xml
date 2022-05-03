@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 06:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 07:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈스메르쟈코프〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42858&amp;groupno=42858&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42858&amp;groupno=42858&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 03 May 2022 07:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.09(월)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[블루맨그룹 월드투어 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42857&amp;groupno=42857&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42857&amp;groupno=42857&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 03 May 2022 07:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.11(수)&nbsp;10:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[파리 오페라 발레 〈2022 에투알 갈라〉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42856&amp;groupno=42856&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[22.05.12(목)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 송가인 전국투어 콘서트 - 대구 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42840&amp;groupno=42840&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42840&amp;groupno=42840&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 02 May 2022 09:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.11(수)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈스메르쟈코프〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42858</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42858</guid>
+            <pubDate>Tue, 03 May 2022 07:36:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001105_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[2022 송가인 전국투어 콘서트 - 서울 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42839&amp;groupno=42839&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42839&amp;groupno=42839&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 02 May 2022 09:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.10(화)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[블루맨그룹 월드투어 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42857</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42857</guid>
+            <pubDate>Tue, 03 May 2022 07:36:32 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.11
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003599_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[파리 오페라 발레 〈2022 에투알 갈라〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2022.05.04
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001759_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 시네마 파라디소 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42846</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42846</guid>
-            <pubDate>Tue, 03 May 2022 02:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.09
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022050212121602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Ordinary 콘서트 〈부산〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42845</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42845</guid>
-            <pubDate>Mon, 02 May 2022 09:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.06
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220503013932.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
@@ -350,6 +350,13 @@
             <content:encoded><![CDATA[21.10.14(목)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈스메르쟈코프〉 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42858&amp;groupno=42858&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42858&amp;groupno=42858&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 03 May 2022 07:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.09(월)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) - 천안 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42852&amp;groupno=42852&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42852&amp;groupno=42852&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -467,13 +474,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42814&amp;groupno=42814&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 28 Apr 2022 08:43:28 GMT</pubDate>
             <content:encoded><![CDATA[22.05.04(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 수원 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42813&amp;groupno=42813&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=42813&amp;groupno=42813&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 28 Apr 2022 08:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.04(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[정승환 공식 팬클럽 US(어스) 2기 팬미팅 'LET US MEET' 티켓오픈 안.. (인터파크 티켓 ─ 팬클럽)]]></title>
