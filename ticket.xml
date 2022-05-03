@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2022-05-03T04:05:30.204Z</updated>
+    <updated>2022-05-03T04:56:23.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[짬콘서트 Ⅲ(더할 나위 없이, AUX 와 놀아보세) 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42848&amp;groupno=42848&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42848&amp;groupno=42848&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-05-03T04:55:30.839Z</updated>
+        <content type="html"><![CDATA[22.05.02(월)&nbsp;09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 대전 추가회차 티켓..]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42847&amp;groupno=42847&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -123,12 +130,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42831&amp;groupno=42831&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-05-02T02:53:47.140Z</updated>
         <content type="html"><![CDATA[22.05.09(월)&nbsp;10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 크레디아 클래식 클럽 - 존노, 정태양 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42830&amp;groupno=42830&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42830&amp;groupno=42830&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-04-29T09:39:28.853Z</updated>
-        <content type="html"><![CDATA[22.05.04(수)&nbsp;16:00]]></content>
     </entry>
 </feed>
