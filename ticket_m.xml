@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 07:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 08:44:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬［엄마까투리 - 마트에 간 꽁지］- 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42860</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42860</guid>
+            <pubDate>Tue, 03 May 2022 08:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005420_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[［ 2022 Theatre 이문세 ］- 진주 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42859</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42859</guid>
+            <pubDate>Tue, 03 May 2022 08:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003309_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈스메르쟈코프〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42858</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.05.06
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004652_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈렛미플라이〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42850</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42850</guid>
-            <pubDate>Tue, 03 May 2022 05:38:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001399_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 대전 추가회차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42847</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42847</guid>
-            <pubDate>Tue, 03 May 2022 02:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001759_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
