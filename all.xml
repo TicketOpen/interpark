@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 14:37:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 15:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,15 +188,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022050614014411.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[FUTURE FOOD · 혀가 느끼는 고민 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=901</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=901</guid>
-            <pubDate>Fri, 06 May 2022 07:36:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.06
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042721002031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘SHOWDOWN’ 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42880</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42880</guid>
@@ -222,6 +213,15 @@
             <content:encoded><![CDATA[2022.05.09
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005616_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 청춘소음 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42877</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42877</guid>
+            <pubDate>Fri, 06 May 2022 15:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005543_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
