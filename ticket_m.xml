@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 05:38:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 06:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘SHOWDOWN’ 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42880</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42880</guid>
+            <pubDate>Fri, 06 May 2022 06:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022050613270943.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 권진아 단독 공연 ‘The Dreamer’ 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42879</link>
@@ -23,7 +32,7 @@
             <pubDate>Fri, 06 May 2022 05:37:15 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.09
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022042914582610.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005616_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 청춘소음 1차 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.05.06
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022050413293368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈꼬마버스 타요〉 - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42869</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42869</guid>
-            <pubDate>Wed, 04 May 2022 07:36:27 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.09
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005558_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
