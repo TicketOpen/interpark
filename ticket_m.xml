@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 23:38:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 02:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42890</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42890</guid>
+            <pubDate>Mon, 09 May 2022 02:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000970_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[소리꾼 김준수의 〈별주부, 토끼를 만나다!〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42889</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42889</guid>
+            <pubDate>Mon, 09 May 2022 02:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.10
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005548_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[비둘기처럼 걷기 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42886</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.05.09
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005577_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42878</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42878</guid>
-            <pubDate>Fri, 06 May 2022 05:37:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005616_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 청춘소음 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42877</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42877</guid>
-            <pubDate>Fri, 06 May 2022 15:42:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005543_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
