@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 07:37:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 08:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 THE CRY ground 추가티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42900&amp;groupno=42900&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42900&amp;groupno=42900&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 09 May 2022 08:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.09(월)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 '3 STAR' 신유,홍자,양지원 - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42899&amp;groupno=42899&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42899&amp;groupno=42899&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 09 May 2022 08:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.12(목)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[최유리 EP 발매 기념 단독 콘서트 '욕심의 반대편으로' 티켓오픈 안.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42898&amp;groupno=42898&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[22.05.11(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈은하철도의 밤〉 앵콜 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42882&amp;groupno=42882&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42882&amp;groupno=42882&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 06 May 2022 07:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.13(금)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[2022 THE CRY ground 추가티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42900</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42900</guid>
+            <pubDate>Mon, 09 May 2022 08:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.09
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005116_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈유진과 유진〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42881&amp;groupno=42881&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42881&amp;groupno=42881&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 06 May 2022 07:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.13(금)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[2022 '3 STAR' 신유,홍자,양지원 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42899</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42899</guid>
+            <pubDate>Mon, 09 May 2022 08:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022050914083156.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최유리 EP 발매 기념 단독 콘서트 '욕심의 반대편으로' 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2022.05.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011956_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 데스노트 (The Musical Death Note) 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42890</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42890</guid>
-            <pubDate>Mon, 09 May 2022 02:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22000970_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[소리꾼 김준수의 〈별주부, 토끼를 만나다!〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42889</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42889</guid>
-            <pubDate>Mon, 09 May 2022 02:32:20 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.10
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005548_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
