@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%B9%CC%C6%C3</id>
     <title>인터파크 티켓 ─ 팬미팅</title>
-    <updated>2022-05-10T06:46:36.798Z</updated>
+    <updated>2022-05-10T07:37:33.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/webzine/paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 윤하(YOUNHA) 홀릭스 6기 팬미팅 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42911&amp;groupno=42911&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42911&amp;groupno=42911&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-05-10T07:37:23.844Z</updated>
+        <content type="html"><![CDATA[22.05.12(목)&nbsp;16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정승환 공식 팬클럽 US(어스) 2기 팬미팅 'LET US MEET' 티켓오픈 안..]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42592&amp;groupno=42592&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -123,12 +130,5 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=38886&amp;groupno=38886&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-04-21T23:34:44.190Z</updated>
         <content type="html"><![CDATA[20.11.13(금)&nbsp;16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김호중 팬미팅 〈우리 家 처음으로〉 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=38337&amp;groupno=38337&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=38337&amp;groupno=38337&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-04-21T23:34:44.191Z</updated>
-        <content type="html"><![CDATA[20.08.05(수)&nbsp;20:00]]></content>
     </entry>
 </feed>
