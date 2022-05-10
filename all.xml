@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 05:37:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 06:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［KB국민카드 스타샵 X 인천펜타포트락페스티벌 2022］ 블라인드 티.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42910&amp;groupno=42910&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42910&amp;groupno=42910&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 10 May 2022 06:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.12(목)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) - 진주 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42909&amp;groupno=42909&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.05.10(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[김창옥 토크콘서트 시즌2 - 수원 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42892&amp;groupno=42892&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42892&amp;groupno=42892&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 09 May 2022 05:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.12(목)&nbsp;10:00]]></content:encoded>
+            <title><![CDATA[［KB국민카드 스타샵 X 인천펜타포트락페스티벌 2022］ 블라인드 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42910</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42910</guid>
+            <pubDate>Tue, 10 May 2022 06:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022051013282776.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) - 진주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.05.18
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022050614135006.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 '3 STAR' 신유,홍자,양지원 - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42899</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42899</guid>
-            <pubDate>Mon, 09 May 2022 08:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022050914083156.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
@@ -728,6 +728,13 @@
             <content:encoded><![CDATA[20.08.05(수)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[［KB국민카드 스타샵 X 인천펜타포트락페스티벌 2022］ 블라인드 티.. (인터파크 티켓 ─ 페스티벌)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=42910&amp;groupno=42910&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=42910&amp;groupno=42910&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 10 May 2022 06:46:36 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.12(목)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2022 서울파크뮤직페스티벌 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=42731&amp;groupno=42731&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=42731&amp;groupno=42731&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -845,13 +852,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=41094&amp;groupno=41094&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 21 Apr 2022 23:34:52 GMT</pubDate>
             <content:encoded><![CDATA[21.10.28(목)&nbsp;18:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[짱구페스티벌 ＇짱구야 캠핑가자!＇ 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=873&amp;groupno=873&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=873&amp;groupno=873&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 21 Apr 2022 23:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[21.10.30(토)&nbsp;00:00]]></content:encoded>
         </item>
     </channel>
 </rss>
