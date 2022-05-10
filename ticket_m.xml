@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 07:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 08:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈민주주의 예행연습 DEMOCRACY REHEARSAL : 제1부.해방정국〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42912</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42912</guid>
+            <pubDate>Tue, 10 May 2022 08:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005650_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 윤하(YOUNHA) 홀릭스 6기 팬미팅 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42911</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.05.17
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004761_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[베어 더 뮤지컬(bare the musical) 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42902</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42902</guid>
-            <pubDate>Tue, 10 May 2022 01:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.17
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004644_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

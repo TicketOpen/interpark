@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 07:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 08:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈민주주의 예행연습 DEMOCRACY REHEARSAL : 제1부.해방정국〉 .. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42912&amp;groupno=42912&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42912&amp;groupno=42912&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 10 May 2022 08:43:14 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.11(수)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 윤하(YOUNHA) 홀릭스 6기 팬미팅 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42911&amp;groupno=42911&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.05.12(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[금난새의 클래식 데이트_3회 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42894&amp;groupno=42894&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=42894&amp;groupno=42894&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 09 May 2022 05:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.10(화)&nbsp;10:00]]></content:encoded>
+            <title><![CDATA[연극 〈민주주의 예행연습 DEMOCRACY REHEARSAL : 제1부.해방정국〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42912</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42912</guid>
+            <pubDate>Tue, 10 May 2022 08:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.11
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005650_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 윤하(YOUNHA) 홀릭스 6기 팬미팅 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.05.17
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004761_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[베어 더 뮤지컬(bare the musical) 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42902</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42902</guid>
-            <pubDate>Tue, 10 May 2022 01:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.17
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004644_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
