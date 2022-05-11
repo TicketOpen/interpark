@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 05:04:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 05:45:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈미오 프라텔로〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42920</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42920</guid>
+            <pubDate>Wed, 11 May 2022 05:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.16
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001335_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈모래시계〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42919</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.05.12
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005822_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) - 진주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42909</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42909</guid>
-            <pubDate>Tue, 10 May 2022 05:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022050916484145.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
