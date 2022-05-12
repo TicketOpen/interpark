@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 02:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 03:31:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소란 여름 콘서트 'Surf!' 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42926</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42926</guid>
+            <pubDate>Thu, 12 May 2022 03:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.19
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022051122083119.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 (G)I-DLE WORLD TOUR ［JUST ME ( )I-DLE］ IN SEOUL 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42925</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42925</guid>
+            <pubDate>Thu, 12 May 2022 03:30:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.19
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005280_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[제16회 대구국제뮤지컬페스티벌 1차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42924</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.05.12
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005828_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈빨래〉 26차 첫번째 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42914</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42914</guid>
-            <pubDate>Wed, 11 May 2022 02:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005675_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 윤하(YOUNHA) 홀릭스 6기 팬미팅 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42911</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42911</guid>
-            <pubDate>Tue, 10 May 2022 07:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.12
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005749_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
