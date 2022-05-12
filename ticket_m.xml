@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 07:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 08:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최현우의 아판타시아(Aphantasia) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42932</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42932</guid>
+            <pubDate>Thu, 12 May 2022 08:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.17
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022051216361829.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42931</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.05.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022050313272085.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈니진스키〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42922</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=42922</guid>
-            <pubDate>Thu, 12 May 2022 02:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.18
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003199_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
