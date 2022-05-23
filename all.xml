@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 02:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 03:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[［ 2022 Theatre 이문세 ］- 진주 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43040&amp;groupno=43040&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43040&amp;groupno=43040&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 23 May 2022 03:40:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.24(화)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[브런치 콘서트「11시 11분」 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43039&amp;groupno=43039&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.05.23(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈쉬어매드니스〉 6월 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43021&amp;groupno=43021&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43021&amp;groupno=43021&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Sun, 22 May 2022 02:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.20(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[［ 2022 Theatre 이문세 ］- 진주 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43040</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43040</guid>
+            <pubDate>Mon, 23 May 2022 03:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003309_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[브런치 콘서트「11시 11분」 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.05.25
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052011403602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈전설의 리틀 농구단〉 워밍업+전반전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43030</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43030</guid>
-            <pubDate>Sun, 22 May 2022 02:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.31
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022051914525646.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
