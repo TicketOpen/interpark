@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 04:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 05:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈마타하리〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43049</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43049</guid>
+            <pubDate>Tue, 24 May 2022 05:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004500_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 순천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43048</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43048</guid>
+            <pubDate>Tue, 24 May 2022 05:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.26
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006431_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[CLIMAX 클라이맥스 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43047</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.05.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003309_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[브런치 콘서트「11시 11분」 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43039</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43039</guid>
-            <pubDate>Mon, 23 May 2022 02:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.24
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022051716424458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김창옥 토크콘서트 시즌 2 - 안성 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43037</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43037</guid>
-            <pubDate>Mon, 23 May 2022 15:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.25
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006415_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
