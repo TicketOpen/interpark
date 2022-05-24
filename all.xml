@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 09:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 48 김제형 단독 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43053&amp;groupno=43053&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43053&amp;groupno=43053&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 24 May 2022 09:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.26(목)&nbsp;17:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 - 인천 티켓.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43052&amp;groupno=43052&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.05.24(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소프라노 한지혜 리사이틀 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43035&amp;groupno=43035&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43035&amp;groupno=43035&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Sun, 22 May 2022 02:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.25(수)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[누군가의 플레이리스트 Track. 48 김제형 단독 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43053</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43053</guid>
+            <pubDate>Tue, 24 May 2022 09:40:12 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.26
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052310432944.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 - 인천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.05.27
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052313102046.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <더 와일드의 변론 - 거짓의 쇠락, 도리안 그레이의 초상> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43043</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43043</guid>
-            <pubDate>Mon, 23 May 2022 05:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.27
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052021530019.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
