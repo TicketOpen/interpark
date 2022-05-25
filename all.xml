@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 04:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 04:56:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 대구 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43056&amp;groupno=43056&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43056&amp;groupno=43056&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 25 May 2022 04:55:17 GMT</pubDate>
+            <content:encoded><![CDATA[22.05.27(금)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[캡틴플래닛 콘서트 〈처음〉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43055&amp;groupno=43055&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.05.24(화)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈또！오해영〉 추가 티켓 오픈 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43038&amp;groupno=43038&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43038&amp;groupno=43038&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Sun, 22 May 2022 02:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.05.23(월)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43056</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43056</guid>
+            <pubDate>Wed, 25 May 2022 04:55:43 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052415492486.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캡틴플래닛 콘서트 〈처음〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.05.27
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006211_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[폴킴 팬미팅 〈2022 ㈜P.I.L 공개채용〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43046</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43046</guid>
-            <pubDate>Mon, 23 May 2022 09:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220523055507.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
