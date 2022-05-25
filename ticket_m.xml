@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 04:56:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 05:41:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애니메이션 첼로 페스티벌 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43058</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43058</guid>
+            <pubDate>Wed, 25 May 2022 05:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006492_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[포미니츠 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43057</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43057</guid>
+            <pubDate>Wed, 25 May 2022 05:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011956_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 대구 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43056</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.05.31
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004500_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 순천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43048</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43048</guid>
-            <pubDate>Tue, 24 May 2022 05:41:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.26
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006431_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[CLIMAX 클라이맥스 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43047</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43047</guid>
-            <pubDate>Mon, 23 May 2022 09:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.27
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006211_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
