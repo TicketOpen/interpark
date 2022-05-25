@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 14:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 15:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -71,31 +71,31 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006475_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43052</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43052</guid>
-            <pubDate>Tue, 24 May 2022 07:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.25
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006466_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[뮤지컬 〈마타하리〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43049</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43049</guid>
+            <pubDate>Wed, 25 May 2022 15:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004500_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43051</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43051</guid>
-            <pubDate>Tue, 24 May 2022 07:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.25
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006413_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[뮤지컬 〈알사탕〉 - 순천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43048</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43048</guid>
+            <pubDate>Wed, 25 May 2022 15:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.26
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006431_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 - 수원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43050</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43050</guid>
-            <pubDate>Tue, 24 May 2022 07:37:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.25
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006408_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[CLIMAX 클라이맥스 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43047</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43047</guid>
+            <pubDate>Wed, 25 May 2022 15:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006211_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
