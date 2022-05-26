@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 04:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 05:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 부산 추가 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43066</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43066</guid>
+            <pubDate>Thu, 26 May 2022 05:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006010_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) - 여수 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43065</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43065</guid>
+            <pubDate>Thu, 26 May 2022 05:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쉬어매드니스 - 대구 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43064</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.05.26
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006492_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[포미니츠 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43057</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43057</guid>
-            <pubDate>Wed, 25 May 2022 05:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.31
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011956_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43056</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43056</guid>
-            <pubDate>Wed, 25 May 2022 04:55:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006604_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
