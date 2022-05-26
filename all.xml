@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 04:04:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 04:56:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[쉬어매드니스 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[쉬어매드니스 - 대구 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43064&amp;groupno=43064&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43064&amp;groupno=43064&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 26 May 2022 02:36:31 GMT</pubDate>
@@ -134,7 +134,7 @@
             <content:encoded><![CDATA[22.05.26(목)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[쉬어매드니스 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[쉬어매드니스 - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43064</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43064</guid>
             <pubDate>Thu, 26 May 2022 02:36:41 GMT</pubDate>
