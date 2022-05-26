@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 07:37:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 08:47:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 <흔들흔들 댄스파티> - 인천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43070</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43070</guid>
+            <pubDate>Thu, 26 May 2022 08:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.02
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052612174027.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈터칭 더 보이드〉 : 연극열전9_세 번째 작품 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43069</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43069</guid>
+            <pubDate>Thu, 26 May 2022 08:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.02
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈클림트〉 4차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43068</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43068</guid>
+            <pubDate>Thu, 26 May 2022 08:46:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003730_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[로드씨어터 <클럽 라틴> 1차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43067</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.05.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006407_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 변진섭 전국투어 콘서트 : 변천사 - 서울 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43060</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43060</guid>
-            <pubDate>Thu, 26 May 2022 02:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052518465930.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소리음악극 보이야르의 노래 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43059</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43059</guid>
-            <pubDate>Thu, 26 May 2022 02:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.30
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052511344887.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라이브 인 브릭-부산체험전(신비한 브릭 사전 with 브릭라이브) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=905</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=905</guid>
-            <pubDate>Wed, 25 May 2022 13:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052311475343.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
