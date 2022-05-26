@@ -4,9 +4,63 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 23:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 02:37:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쉬어매드니스 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43064</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43064</guid>
+            <pubDate>Thu, 26 May 2022 02:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.30
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43063</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43063</guid>
+            <pubDate>Thu, 26 May 2022 02:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052509223800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <미니특공대 : 애니멀트론> - 천안 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43062</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43062</guid>
+            <pubDate>Thu, 26 May 2022 02:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052511432364.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피아니스트 김유정의 미드썸머나잇 시네마판타지 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43061</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43061</guid>
+            <pubDate>Thu, 26 May 2022 02:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052313511291.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 변진섭 전국투어 콘서트 : 변천사 - 서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43060</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43060</guid>
+            <pubDate>Thu, 26 May 2022 02:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.31
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052518465930.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소리음악극 보이야르의 노래 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43059</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43059</guid>
+            <pubDate>Thu, 26 May 2022 02:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.30
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052511344887.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라이브 인 브릭-부산체험전(신비한 브릭 사전 with 브릭라이브) 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=905</link>
@@ -42,60 +96,6 @@
             <content:encoded><![CDATA[2022.05.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052415492486.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캡틴플래닛 콘서트 〈처음〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43055</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43055</guid>
-            <pubDate>Wed, 25 May 2022 04:02:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.26
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006472_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈꼬마버스 타요〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43054</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43054</guid>
-            <pubDate>Wed, 25 May 2022 02:32:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.30
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052417030734.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track. 48 김제형 단독 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43053</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43053</guid>
-            <pubDate>Tue, 24 May 2022 09:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.26
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006475_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈마타하리〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43049</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43049</guid>
-            <pubDate>Wed, 25 May 2022 15:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004500_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 순천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43048</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43048</guid>
-            <pubDate>Wed, 25 May 2022 15:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.26
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006431_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[CLIMAX 클라이맥스 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43047</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43047</guid>
-            <pubDate>Wed, 25 May 2022 15:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.27
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006211_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
