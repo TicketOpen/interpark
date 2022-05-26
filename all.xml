@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 02:37:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 04:04:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -158,7 +158,7 @@
             <pubDate>Thu, 26 May 2022 02:36:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.27
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052511432364.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006513_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[피아니스트 김유정의 미드썸머나잇 시네마판타지 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -167,7 +167,7 @@
             <pubDate>Thu, 26 May 2022 02:36:41 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052313511291.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006407_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 변진섭 전국투어 콘서트 : 변천사 - 서울 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -221,7 +221,7 @@
             <pubDate>Wed, 25 May 2022 04:55:43 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.27
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052415492486.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006604_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
