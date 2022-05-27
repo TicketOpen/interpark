@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2022-05-27T06:01:42.024Z</updated>
+    <updated>2022-05-27T06:48:02.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43018&amp;groupno=43018&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-05-27T05:16:54.791Z</updated>
         <content type="html"><![CDATA[22.05.27(금)&nbsp;15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제이림 슈퍼노바 페스티벌 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43076&amp;groupno=43076&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43076&amp;groupno=43076&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-05-27T06:47:11.262Z</updated>
+        <content type="html"><![CDATA[22.05.30(월)&nbsp;13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈은밀하게 위대하게:THE LAST〉 마지막 티켓오픈 안내]]></title>
@@ -130,12 +137,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43059&amp;groupno=43059&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-05-26T02:36:31.789Z</updated>
         <content type="html"><![CDATA[22.05.30(월)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이브 인 브릭-부산체험전(신비한 브릭 사전 with 브릭라이브) 티켓..]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=905&amp;groupno=905&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=905&amp;groupno=905&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-05-25T13:09:47.563Z</updated>
-        <content type="html"><![CDATA[22.06.02(목)&nbsp;14:00]]></content>
     </entry>
 </feed>

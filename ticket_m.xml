@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 06:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제이림 슈퍼노바 페스티벌 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43076</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43076</guid>
+            <pubDate>Fri, 27 May 2022 06:47:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.05.30
+                                    <span>13:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005270_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈은밀하게 위대하게:THE LAST〉 마지막 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43075</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.05.31
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052518051018.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 부산 추가 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43066</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43066</guid>
-            <pubDate>Thu, 26 May 2022 05:42:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.05.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006010_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
