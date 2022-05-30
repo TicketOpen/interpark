@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 05:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 05:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -147,7 +147,7 @@
             <pubDate>Mon, 30 May 2022 05:02:35 GMT</pubDate>
             <content:encoded><![CDATA[2022.05.31
                                     <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052517064886.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220530020524.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.9 roon 단독 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
