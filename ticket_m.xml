@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 23:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 02:35:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알렌 워커 내한공연  〈WALKERVERSE : THE TOUR〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43088</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43088</guid>
+            <pubDate>Tue, 31 May 2022 02:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.07
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052522103208.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사랑 셋 : 이바겸단편프로젝트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43087</link>
@@ -14,7 +23,7 @@
             <pubDate>Mon, 30 May 2022 08:45:51 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.02
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022053012443962.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006732_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> 티켓오픈 안내]]></title>
@@ -59,7 +68,7 @@
             <pubDate>Mon, 30 May 2022 05:02:35 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.02
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022052716522572.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006772_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 이승환콘서트 <우리 그때>-부산티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.06.03
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003599_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[세종 어린이 시리즈 Ⅱ 가족음악극 <백조마을의 차이콥스키> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43078</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43078</guid>
-            <pubDate>Fri, 27 May 2022 09:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.03
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
