@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:50:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 06:49:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
             <pubDate>Thu, 02 Jun 2022 05:07:46 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.03
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220602034304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나만 알고 싶은 인디 Ep.11 조주＆정예원 콜라보 콘서트 티켓오픈 안내]]></title>
@@ -71,7 +71,7 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022053014213949.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈태양의 노래〉 마지막 안내]]></title>
+            <title><![CDATA[뮤지컬 〈태양의 노래〉 마지막 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43107</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43107</guid>
             <pubDate>Thu, 02 Jun 2022 05:07:46 GMT</pubDate>
