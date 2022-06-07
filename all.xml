@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 14:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 15:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,13 +13,6 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43118&amp;groupno=43118&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 07 Jun 2022 03:36:42 GMT</pubDate>
             <content:encoded><![CDATA[22.06.16(목)&nbsp;20:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SEVENTEEN WORLD TOUR ［BE THE SUN］- SEOUL 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42969&amp;groupno=42969&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42969&amp;groupno=42969&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 02 Jun 2022 22:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.07(화)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[THE DIE IS CASTTT; Capsule live 6 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -166,33 +159,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[V-LATED RELAY LIVE EP.4 SKANDALOUZ & F.O.B. 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43144</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43144</guid>
-            <pubDate>Tue, 07 Jun 2022 07:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.07
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006560_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[프라임필하모닉오케스트라 <쿨 썸머 청소년 음악회> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43142</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43142</guid>
-            <pubDate>Tue, 07 Jun 2022 07:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006970_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈서교동에서 죽다〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43141</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43141</guid>
-            <pubDate>Tue, 07 Jun 2022 05:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006887_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[[LiveUp!]ep.5 선우정아콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43140</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43140</guid>
@@ -236,6 +202,33 @@
             <content:encoded><![CDATA[2022.06.10
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001159_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <미아 파밀리아> 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43134</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43134</guid>
+            <pubDate>Tue, 07 Jun 2022 15:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.15
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004990_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 11차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43133</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43133</guid>
+            <pubDate>Tue, 07 Jun 2022 15:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.09
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 포항 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43131</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43131</guid>
+            <pubDate>Tue, 07 Jun 2022 15:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.09
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007065_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
