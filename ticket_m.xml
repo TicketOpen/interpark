@@ -4,9 +4,54 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 04:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 05:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈서교동에서 죽다〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43141</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43141</guid>
+            <pubDate>Tue, 07 Jun 2022 05:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006887_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[LiveUp!]ep.5 선우정아콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43140</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43140</guid>
+            <pubDate>Tue, 07 Jun 2022 05:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220607020906.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈이퀄〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43139</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43139</guid>
+            <pubDate>Tue, 07 Jun 2022 05:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.09
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006311_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈아머드 사우루스〉 - 고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43138</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43138</guid>
+            <pubDate>Tue, 07 Jun 2022 05:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.10
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022060221575876.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈킹키부츠〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43137</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43137</guid>
+            <pubDate>Tue, 07 Jun 2022 05:33:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006535_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연극〈늘근도둑이야기〉 7월 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43136</link>
@@ -51,51 +96,6 @@
             <content:encoded><![CDATA[2022.06.07
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022053017361155.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈미니특공대 : 애니멀트론〉 - 포항 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43131</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43131</guid>
-            <pubDate>Tue, 07 Jun 2022 02:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.09
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007065_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[양준모의 오페라 데이트_2회 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43130</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43130</guid>
-            <pubDate>Tue, 07 Jun 2022 02:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011989_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 크레디아 클래식 클럽 - 최성훈 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43129</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43129</guid>
-            <pubDate>Fri, 03 Jun 2022 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.09
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022060311140871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팔레트뮤직 #2 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43128</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43128</guid>
-            <pubDate>Fri, 03 Jun 2022 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.08
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022060316310595.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피아니스트 김재원 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43127</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43127</guid>
-            <pubDate>Fri, 03 Jun 2022 09:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006699_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
