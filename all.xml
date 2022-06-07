@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 06:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 07:36:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,27 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=42969&amp;groupno=42969&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 02 Jun 2022 22:36:12 GMT</pubDate>
             <content:encoded><![CDATA[22.06.07(화)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[V-LATED RELAY LIVE EP.4 SKANDALOUZ & F.O.B. 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43144&amp;groupno=43144&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43144&amp;groupno=43144&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 07 Jun 2022 07:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.07(화)&nbsp;19:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[길병민&최민우 듀오 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43143&amp;groupno=43143&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43143&amp;groupno=43143&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 07 Jun 2022 07:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.03(금)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[프라임필하모닉오케스트라 <쿨 썸머 청소년 음악회> 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43142&amp;groupno=43142&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43142&amp;groupno=43142&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 07 Jun 2022 07:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.07(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈서교동에서 죽다〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -127,25 +148,31 @@
             <content:encoded><![CDATA[22.06.07(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 듀오콘서트 with 정민성, 박기훈 (크로스오버뮤직 콘서트) 티켓.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43126&amp;groupno=43126&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43126&amp;groupno=43126&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 03 Jun 2022 06:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.08(수)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[2022 UNICON <국카스텐&크랙실버> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43145</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43145</guid>
+            <pubDate>Tue, 07 Jun 2022 07:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.09
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 듀오콘서트 with 정민성, 박기훈 (클래식) 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43125&amp;groupno=43125&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43125&amp;groupno=43125&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 03 Jun 2022 06:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.07(화)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[V-LATED RELAY LIVE EP.4 SKANDALOUZ & F.O.B. 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43144</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43144</guid>
+            <pubDate>Tue, 07 Jun 2022 07:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.07
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006560_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막 콘서트 - 서울 티켓오픈.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43124&amp;groupno=43124&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43124&amp;groupno=43124&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 03 Jun 2022 05:34:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.08(수)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[프라임필하모닉오케스트라 <쿨 썸머 청소년 음악회> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43142</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43142</guid>
+            <pubDate>Tue, 07 Jun 2022 07:35:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006970_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈서교동에서 죽다〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -209,33 +236,6 @@
             <content:encoded><![CDATA[2022.06.07
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006794_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <미아 파밀리아> 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43134</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43134</guid>
-            <pubDate>Tue, 07 Jun 2022 02:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.15
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004990_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈장수탕 선녀님〉 - 서울숲 11차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43133</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43133</guid>
-            <pubDate>Tue, 07 Jun 2022 02:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.09
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007404_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[일리야 라쉬코프스키, 라흐마니노프 3개의 피아노협주곡 - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43132</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43132</guid>
-            <pubDate>Tue, 07 Jun 2022 02:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.07
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022053017361155.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
