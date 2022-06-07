@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 03:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 04:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극〈늘근도둑이야기〉 7월 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43136</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43136</guid>
+            <pubDate>Tue, 07 Jun 2022 04:48:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22001159_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[[제5회 페미니즘 연극제] 화가난다 이거에요 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43135</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.06.07
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006699_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 듀오콘서트 with 정민성, 박기훈 (크로스오버뮤직 콘서트) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43126</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43126</guid>
-            <pubDate>Fri, 03 Jun 2022 06:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.08
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007063_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
