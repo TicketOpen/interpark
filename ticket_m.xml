@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:45:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43163</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43163</guid>
+            <pubDate>Wed, 08 Jun 2022 08:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007810_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[유니버설발레단 <더 발레리나 The Ballerina> 하남 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43162</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.06.09
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006727_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[얼 킴〈오렌지 입술의 소녀〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43153</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43153</guid>
-            <pubDate>Wed, 08 Jun 2022 04:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.09
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006562_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

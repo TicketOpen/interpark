@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 07:36:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 08:45:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43118&amp;groupno=43118&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 07 Jun 2022 03:36:42 GMT</pubDate>
             <content:encoded><![CDATA[22.06.16(목)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43163&amp;groupno=43163&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43163&amp;groupno=43163&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 08 Jun 2022 08:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.15(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유니버설발레단 <더 발레리나 The Ballerina> 하남 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -134,11 +141,13 @@
             <content:encoded><![CDATA[22.06.13(월)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 UNICON <국카스텐&크랙실버> 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43145&amp;groupno=43145&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43145&amp;groupno=43145&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 07 Jun 2022 08:47:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.13(월)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43163</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43163</guid>
+            <pubDate>Wed, 08 Jun 2022 08:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007810_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[유니버설발레단 <더 발레리나 The Ballerina> 하남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2022.06.09
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006727_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[얼 킴〈오렌지 입술의 소녀〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43153</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43153</guid>
-            <pubDate>Wed, 08 Jun 2022 04:53:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.09
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006562_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
