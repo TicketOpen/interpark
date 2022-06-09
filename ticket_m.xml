@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 07:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 08:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블록버스터 뮤지컬〈아머드 사우루스〉－청주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43178</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43178</guid>
+            <pubDate>Thu, 09 Jun 2022 08:46:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.10
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007185_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈겁쟁이 빌리〉 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43177</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43177</guid>
+            <pubDate>Thu, 09 Jun 2022 08:46:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.10
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007145_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <쓰릴 미> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43176</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43176</guid>
+            <pubDate>Thu, 09 Jun 2022 08:46:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.14
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022060916005118.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제4회 76 FESTIVAL 〈원무元霧〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43175</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.06.09
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006791_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <레 미제라블> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43167</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43167</guid>
-            <pubDate>Thu, 09 Jun 2022 02:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022060816045273.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_부산 앙코르 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43166</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43166</guid>
-            <pubDate>Thu, 09 Jun 2022 02:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022060514061133.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니버설발레단 〈더 발레리나〉 - 고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43165</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43165</guid>
-            <pubDate>Thu, 09 Jun 2022 02:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
