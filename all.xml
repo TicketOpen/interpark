@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 14:41:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 15:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,22 +213,22 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061018215936.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[PITTA 강형호 콘서트: Contrast 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43196</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43196</guid>
-            <pubDate>Fri, 10 Jun 2022 09:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.13
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005864_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[[ 2022 Theatre LEE MOON SAE in the PARK ] 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43194</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43194</guid>
+            <pubDate>Mon, 13 Jun 2022 15:50:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.21
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220613114821.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기타리스트 김영소 콘서트: Utopia 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43195</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43195</guid>
-            <pubDate>Fri, 10 Jun 2022 09:37:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.13
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005888_p.gif" length="0" type="image/gif"/>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2022 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43193</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43193</guid>
+            <pubDate>Mon, 13 Jun 2022 15:50:17 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007234_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
