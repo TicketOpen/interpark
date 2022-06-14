@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 08:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 10:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43118&amp;groupno=43118&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 07 Jun 2022 03:36:42 GMT</pubDate>
             <content:encoded><![CDATA[22.06.16(목)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Soundberry Festa' 22 얼리버드 티켓 오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43223&amp;groupno=43223&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43223&amp;groupno=43223&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 14 Jun 2022 10:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.15(수)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김창옥 토크콘서트 시즌 2 - 포항 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -141,11 +148,13 @@
             <content:encoded><![CDATA[22.06.14(화)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[피아니스트 오은철 콘서트: Green Road 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43205&amp;groupno=43205&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43205&amp;groupno=43205&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 14 Jun 2022 02:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.14(화)&nbsp;16:00]]></content:encoded>
+            <title><![CDATA[Soundberry Festa' 22 얼리버드 티켓 오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43223</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43223</guid>
+            <pubDate>Tue, 14 Jun 2022 10:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.15
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/22/22_34_43223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김창옥 토크콘서트 시즌 2 - 포항 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -227,15 +236,6 @@
             <content:encoded><![CDATA[2022.06.14
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007143_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 대전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43212</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43212</guid>
-            <pubDate>Tue, 14 Jun 2022 04:30:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007469_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 ASTRO AROHA FESTIVAL ＇GATE 6＇ - 온라인 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>

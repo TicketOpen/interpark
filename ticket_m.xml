@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 08:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 10:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soundberry Festa' 22 얼리버드 티켓 오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43223</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43223</guid>
+            <pubDate>Tue, 14 Jun 2022 10:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.15
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/22/22_34_43223.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김창옥 토크콘서트 시즌 2 - 포항 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43222</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.06.14
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007143_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[THE GREATEST : 전율 정동하X소향 - 대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43212</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43212</guid>
-            <pubDate>Tue, 14 Jun 2022 04:30:56 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007469_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
