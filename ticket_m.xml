@@ -4,9 +4,72 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 02:44:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 04:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 바캉스 - 진주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43232</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43232</guid>
+            <pubDate>Wed, 15 Jun 2022 04:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007210_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국가곡 세기의 콘서트 <#6. 아버지처럼> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43231</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43231</guid>
+            <pubDate>Wed, 15 Jun 2022 04:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061315485701.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How To Live 여락이들 With 신한카드 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43230</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43230</guid>
+            <pubDate>Wed, 15 Jun 2022 04:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061416463829.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매직드로잉 가족극 <두들팝> - 군포 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43229</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43229</guid>
+            <pubDate>Wed, 15 Jun 2022 04:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤직드라마 당신만이 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43228</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43228</guid>
+            <pubDate>Wed, 15 Jun 2022 04:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005476_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[5959 LIVE : 최낙타 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43227</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43227</guid>
+            <pubDate>Wed, 15 Jun 2022 04:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061510023614.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <서편제> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43226</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43226</guid>
+            <pubDate>Wed, 15 Jun 2022 04:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.17
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061510052523.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈V 에버 애프터〉 프리뷰 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43225</link>
@@ -33,69 +96,6 @@
             <content:encoded><![CDATA[2022.06.15
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/22/22_34_43223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김창옥 토크콘서트 시즌 2 - 포항 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43222</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43222</guid>
-            <pubDate>Tue, 14 Jun 2022 08:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.16
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061223301495.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말리의 어제보다 특별한 오늘 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43221</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43221</guid>
-            <pubDate>Tue, 14 Jun 2022 08:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061415503283.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Play Blue Note Masterpiece VOL5 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43219</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43219</guid>
-            <pubDate>Tue, 14 Jun 2022 07:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.16
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061012025500.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈센트를 위하여 - 킬리만자로의 표범 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43218</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43218</guid>
-            <pubDate>Tue, 14 Jun 2022 07:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.15
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007459_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[제4회 76 FESTIVAL 〈일등급인간〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43217</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43217</guid>
-            <pubDate>Tue, 14 Jun 2022 07:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.16
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007460_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43216</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43216</guid>
-            <pubDate>Tue, 14 Jun 2022 07:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061321364719.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로드씨어터 〈클럽 라틴〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43215</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43215</guid>
-            <pubDate>Tue, 14 Jun 2022 05:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006708_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
