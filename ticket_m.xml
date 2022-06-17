@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 06:45:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 07:36:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈터칭 더 보이드〉 : 연극열전9_세 번째 작품 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43278</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43278</guid>
+            <pubDate>Fri, 17 Jun 2022 07:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006446_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[캐리TV 러브콘서트 KPOP - 수원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43277</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43277</guid>
+            <pubDate>Fri, 17 Jun 2022 07:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007516_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 부천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43276</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43276</guid>
+            <pubDate>Fri, 17 Jun 2022 07:35:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.22
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061615171369.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코드 뮤직 페스티벌 CODE MUSIC FESTIVAL 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43275</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.06.22
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061611303897.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐리TV 러브콘서트 KPOP - 안양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43268</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43268</guid>
-            <pubDate>Fri, 17 Jun 2022 02:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007512_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈볼륨업〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43267</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43267</guid>
-            <pubDate>Thu, 16 Jun 2022 09:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.22
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004167_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈클림트〉 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43266</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43266</guid>
-            <pubDate>Thu, 16 Jun 2022 09:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003730_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
