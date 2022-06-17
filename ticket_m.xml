@@ -4,9 +4,63 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 10:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 02:36:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 HYNN(박혜원) 전국투어 <HYNN FOREST> - 서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43273</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43273</guid>
+            <pubDate>Fri, 17 Jun 2022 02:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022060216222733.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 민쩌미 <사랑해요 엄마!> - 창원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43272</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43272</guid>
+            <pubDate>Fri, 17 Jun 2022 02:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.22
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061522312127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43271</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43271</guid>
+            <pubDate>Fri, 17 Jun 2022 02:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.22
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061522352244.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43270</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43270</guid>
+            <pubDate>Fri, 17 Jun 2022 02:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.22
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061608502861.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <수박수영장> 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43269</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43269</guid>
+            <pubDate>Fri, 17 Jun 2022 02:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.22
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061611303897.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캐리TV 러브콘서트 KPOP - 안양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43268</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43268</guid>
+            <pubDate>Fri, 17 Jun 2022 02:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.20
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈볼륨업〉 4차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43267</link>
@@ -35,67 +89,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061614164019.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[낭만주의의 거장 <차이코프스키 & 라흐마니노프> 티켓오픈 안내]]></title>
+            <title><![CDATA[낭만주의 거장 <차이코프스키 & 라흐마니노프> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43264</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43264</guid>
             <pubDate>Thu, 16 Jun 2022 09:47:13 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061315485703.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How To Live 여락이들 With 신한카드 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43262</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43262</guid>
-            <pubDate>Thu, 16 Jun 2022 08:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.20
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220616052631.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심규선X유승우 <로맨스 in 부산> - SUDDENLY FESTIVAL 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43261</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43261</guid>
-            <pubDate>Thu, 16 Jun 2022 08:47:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.21
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈살아있는 자를 수선하기〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43260</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43260</guid>
-            <pubDate>Thu, 16 Jun 2022 07:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.22
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007171_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈넥스트 투 노멀〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43259</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43259</guid>
-            <pubDate>Thu, 16 Jun 2022 07:35:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003672_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈더 헬멧〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43258</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43258</guid>
-            <pubDate>Thu, 16 Jun 2022 05:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005131_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 7차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43257</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43257</guid>
-            <pubDate>Thu, 16 Jun 2022 05:37:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013426_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
