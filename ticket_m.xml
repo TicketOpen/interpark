@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 04:53:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:36:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유민 첫 번째 팬미팅 'YOU are on my MIND' 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43300</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43300</guid>
+            <pubDate>Mon, 20 Jun 2022 05:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061514123988.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 EPEX 1st FANMEETING MY ZENITH in SEOUL 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43299</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43299</guid>
+            <pubDate>Mon, 20 Jun 2022 05:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220620015948.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블루맨그룹 월드투어 마지막티켓 오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43298</link>
@@ -15,24 +33,6 @@
             <content:encoded><![CDATA[2022.06.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22003599_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Rock & 樂 Concert Vol.41 글렌체크 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43297</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43297</guid>
-            <pubDate>Mon, 20 Jun 2022 04:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.29
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rock & 樂 Concert Vol.40 아도이 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43296</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43296</guid>
-            <pubDate>Mon, 20 Jun 2022 04:52:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.29
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 이승환밴드 '914특공대' 티켓오픈 안내]]></title>
@@ -58,7 +58,7 @@
             <pubDate>Mon, 20 Jun 2022 02:29:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.20
                                     <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061719161130.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007471_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈실비아, 살다〉 2차 티켓오픈 안내]]></title>
