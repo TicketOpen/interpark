@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:49:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[육군 창작 뮤지컬 〈블루헬멧 : 메이사의 노래〉 - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43314</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43314</guid>
+            <pubDate>Tue, 21 Jun 2022 08:48:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061717274918.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 포항 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43313</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43313</guid>
+            <pubDate>Tue, 21 Jun 2022 08:48:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062115092328.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 진주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43312</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43312</guid>
+            <pubDate>Tue, 21 Jun 2022 08:48:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062115163343.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 영탁 단독 콘서트 “TAK SHOW” 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43311</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.06.22
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061615414866.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[플레이리스트 #김창완밴드 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43304</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43304</guid>
-            <pubDate>Tue, 21 Jun 2022 02:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061615454859.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 썸머 브리즈 : 권태은 런치송 프로젝트 with friends 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43303</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43303</guid>
-            <pubDate>Tue, 21 Jun 2022 02:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007330_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[블록버스터 영화음악 콘서트_부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43302</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43302</guid>
-            <pubDate>Tue, 21 Jun 2022 02:33:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007810_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
