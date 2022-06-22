@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 06:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 07:36:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ 2022 Theatre 이문세 ] - 고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43344</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43344</guid>
+            <pubDate>Wed, 22 Jun 2022 07:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220622040129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ 2022 Theatre 이문세 ] - 군산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43343</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43343</guid>
+            <pubDate>Wed, 22 Jun 2022 07:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220622040038.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ 2022 Theatre 이문세 ] - 안양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43342</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43342</guid>
+            <pubDate>Wed, 22 Jun 2022 07:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220622035638.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ 2022 Theatre 이문세 ] - 당진 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43341</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43341</guid>
+            <pubDate>Wed, 22 Jun 2022 07:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220622035545.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <팬레터> - 고양 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43339</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.06.24
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220622021626.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈카사노바〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43333</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43333</guid>
-            <pubDate>Wed, 22 Jun 2022 05:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061417301998.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[［부산］2022 김연자 라이브 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43331</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43331</guid>
-            <pubDate>Wed, 22 Jun 2022 05:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062016321506.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 안산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43330</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43330</guid>
-            <pubDate>Wed, 22 Jun 2022 05:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220622022134.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43329</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43329</guid>
-            <pubDate>Wed, 22 Jun 2022 05:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220622022211.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
