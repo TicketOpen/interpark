@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 04:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:00:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방방곡곡 민간우수 블랙스트링 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43353</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43353</guid>
+            <pubDate>Thu, 23 Jun 2022 04:59:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007601_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[Haus of Wonder 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43352</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.07.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220622040129.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 2022 Theatre 이문세 ] - 군산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43343</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43343</guid>
-            <pubDate>Wed, 22 Jun 2022 07:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220622040038.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
