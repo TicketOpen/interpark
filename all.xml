@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 14:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 15:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -161,51 +161,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011989_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[KBS교향악단 제782회 정기연주회 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43357</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43357</guid>
-            <pubDate>Thu, 23 Jun 2022 06:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006928_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS교향악단 제784회 정기연주회 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43356</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43356</guid>
-            <pubDate>Thu, 23 Jun 2022 06:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006914_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS교향악단 제783회 정기연주회 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43355</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43355</guid>
-            <pubDate>Thu, 23 Jun 2022 06:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006913_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS교향악단 제780회 정기연주회 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43354</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43354</guid>
-            <pubDate>Thu, 23 Jun 2022 06:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007112_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[방방곡곡 민간우수 블랙스트링 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43353</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43353</guid>
-            <pubDate>Thu, 23 Jun 2022 04:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007601_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[Haus of Wonder 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43352</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43352</guid>
@@ -222,6 +177,51 @@
             <content:encoded><![CDATA[2022.06.28
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062214425773.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시(Billie Eilish) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43350</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43350</guid>
+            <pubDate>Thu, 23 Jun 2022 15:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.06
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007866_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 민쩌미 <사랑해요 엄마!> - 대전 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43349</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43349</guid>
+            <pubDate>Thu, 23 Jun 2022 15:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062214335294.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신비아파트 뮤지컬 시즌5 : 감염된 도시의 비밀 - 청주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43348</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43348</guid>
+            <pubDate>Thu, 23 Jun 2022 15:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.28
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062214305283.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부천] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43347</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43347</guid>
+            <pubDate>Thu, 23 Jun 2022 15:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007953_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[［KB Pay X 인천펜타포트 락페스티벌 2022］일반 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43346</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43346</guid>
+            <pubDate>Thu, 23 Jun 2022 15:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.24
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005822_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈팬레터〉 온라인 공연 MD 패키지 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
