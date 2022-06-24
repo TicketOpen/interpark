@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:38:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마일러브위크엔드 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43374&amp;groupno=43374&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43374&amp;groupno=43374&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 24 Jun 2022 09:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.27(월)&nbsp;17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스탠딩에그 & 김나영 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43373&amp;groupno=43373&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43373&amp;groupno=43373&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 24 Jun 2022 09:37:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.22(수)&nbsp;18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[JazzWorks N3 - Getz/Gilberto 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43371&amp;groupno=43371&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,13 @@
             <content:encoded><![CDATA[22.06.23(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KBS교향악단 제783회 정기연주회 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43355&amp;groupno=43355&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43355&amp;groupno=43355&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 23 Jun 2022 06:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.23(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KBS교향악단 제780회 정기연주회 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43354&amp;groupno=43354&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43354&amp;groupno=43354&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 23 Jun 2022 06:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.23(목)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[스마일러브위크엔드 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43374</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43374</guid>
+            <pubDate>Fri, 24 Jun 2022 09:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.27
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062114415992.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 더원 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.06.27
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062210034099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <반짝반짝 달님이-버블버블 마법의 솜사탕> - 울산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43361</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43361</guid>
-            <pubDate>Fri, 24 Jun 2022 02:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.28
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈팬레터〉 온라인 공연 MD 패키지 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>

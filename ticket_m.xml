@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:38:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스마일러브위크엔드 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43374</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43374</guid>
+            <pubDate>Fri, 24 Jun 2022 09:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.27
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062114415992.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 더원 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43370</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.06.27
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062210034099.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <반짝반짝 달님이-버블버블 마법의 솜사탕> - 울산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43361</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43361</guid>
-            <pubDate>Fri, 24 Jun 2022 02:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.28
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
