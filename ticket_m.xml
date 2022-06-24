@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:45:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈난세〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43368</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43368</guid>
+            <pubDate>Fri, 24 Jun 2022 06:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.30
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005415_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬 <반짝반짝 달님이-버블버블 마법의 솜사탕> - 대전 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43367</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.06.29
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220624084840.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양준모의 오페라 데이트_2회 추가좌석 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43358</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43358</guid>
-            <pubDate>Thu, 23 Jun 2022 06:46:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.24
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011989_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
