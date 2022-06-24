@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 07:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 08:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 더원 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43370</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43370</guid>
+            <pubDate>Fri, 24 Jun 2022 08:45:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062413141481.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WET! Pool Party 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43369</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43369</guid>
+            <pubDate>Fri, 24 Jun 2022 08:45:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062410215196.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈난세〉 3차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43368</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.06.28
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 내일은 국민가수 콘서트 [마지막 이야기] - 서울앵콜 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43360</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43360</guid>
-            <pubDate>Thu, 23 Jun 2022 07:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062314062061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <나폴레옹> 헌정 콘서트 - 나폴레옹 사후 200주년 기념, 프랑스 오리지널팀 내한 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43359</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43359</guid>
-            <pubDate>Thu, 23 Jun 2022 07:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220624084840.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
