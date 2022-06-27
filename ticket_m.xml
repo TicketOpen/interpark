@@ -4,9 +4,63 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 23:36:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 02:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_창원 앙코르 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43381</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43381</guid>
+            <pubDate>Mon, 27 Jun 2022 02:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022061914470775.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손민수 리사이틀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43380</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43380</guid>
+            <pubDate>Mon, 27 Jun 2022 02:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008078_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[추다혜차지스 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43379</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43379</guid>
+            <pubDate>Mon, 27 Jun 2022 02:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007934_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 경기아트센터 레퍼토리 시즌 <가을겨울 시즌> 티켓오픈 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43378</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43378</guid>
+            <pubDate>Mon, 27 Jun 2022 02:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062214321187.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Rock & 樂 Concert Vol.41 글렌체크 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43377</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43377</guid>
+            <pubDate>Mon, 27 Jun 2022 02:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220627101033.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rock & 樂 Concert Vol.40 아도이 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43376</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43376</guid>
+            <pubDate>Mon, 27 Jun 2022 02:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220627100925.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스마일러브위크엔드 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43374</link>
@@ -42,60 +96,6 @@
             <content:encoded><![CDATA[2022.06.30
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005415_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <반짝반짝 달님이-버블버블 마법의 솜사탕> - 대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43367</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43367</guid>
-            <pubDate>Fri, 24 Jun 2022 05:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.29
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제4회 76 FESTIVAL 〈햄릿, 죽은 자는 말이 없다〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43366</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43366</guid>
-            <pubDate>Fri, 24 Jun 2022 05:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.28
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008002_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈시데레우스〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43365</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43365</guid>
-            <pubDate>Fri, 24 Jun 2022 05:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007400_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 펭수 펭미팅 <팔월愛> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43364</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43364</guid>
-            <pubDate>Fri, 24 Jun 2022 05:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.05
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062015061674.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <그때도 오늘> - 고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43363</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43363</guid>
-            <pubDate>Fri, 24 Jun 2022 04:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <알사탕> - 광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43362</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43362</guid>
-            <pubDate>Fri, 24 Jun 2022 02:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.27
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062210034099.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
