@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 02:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 04:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 슈퍼바이브페스티벌in퍼시픽리솜(제주) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43385</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43385</guid>
+            <pubDate>Mon, 27 Jun 2022 04:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.30
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062415243692.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 POP 빙수 JAZZ - Ku il Oh Trio 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43384</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43384</guid>
+            <pubDate>Mon, 27 Jun 2022 04:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062316333984.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 갈매기 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43383</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43383</guid>
+            <pubDate>Mon, 27 Jun 2022 04:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.04
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 RESFFECT FESTIVAL 리스펙 페스티벌 - 할인티켓 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43382</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43382</guid>
+            <pubDate>Mon, 27 Jun 2022 04:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.07
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007972_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2022_창원 앙코르 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43381</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.06.29
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220627100925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스마일러브위크엔드 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43374</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43374</guid>
-            <pubDate>Fri, 24 Jun 2022 09:37:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.27
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062114415992.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 더원 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43370</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43370</guid>
-            <pubDate>Fri, 24 Jun 2022 08:45:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062413141481.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WET! Pool Party 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43369</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43369</guid>
-            <pubDate>Fri, 24 Jun 2022 08:45:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.29
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062410215196.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈난세〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43368</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43368</guid>
-            <pubDate>Fri, 24 Jun 2022 06:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005415_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
