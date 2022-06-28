@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 23:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 02:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[블록버스터 영화음악 콘서트_전국투어 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43397</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43397</guid>
+            <pubDate>Tue, 28 Jun 2022 02:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062712525600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김창완 밴드 콘서트 -원주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43396</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43396</guid>
+            <pubDate>Tue, 28 Jun 2022 02:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.30
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유주(YUJU) 공식 팬클럽 'LUVU' 1기 모집 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43395</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.06.30
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062415102962.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조항조&진성 <앙상블 콘서트> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43386</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43386</guid>
-            <pubDate>Mon, 27 Jun 2022 06:49:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.29
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062410242737.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 슈퍼바이브페스티벌in퍼시픽리솜(제주) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43385</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43385</guid>
-            <pubDate>Mon, 27 Jun 2022 04:31:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062415243692.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
