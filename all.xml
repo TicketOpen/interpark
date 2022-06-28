@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 09:38:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 10:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43317&amp;groupno=43317&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 28 Jun 2022 05:42:44 GMT</pubDate>
             <content:encoded><![CDATA[22.06.28(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022 영탁 단독 콘서트 “TAK SHOW” 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43311&amp;groupno=43311&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43311&amp;groupno=43311&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 28 Jun 2022 10:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.28(화)&nbsp;20:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[MPMG ACADEMY 기획공연] NOW : H a lot (에이치얼랏) 티켓오픈 안내 (인터파크 티켓)]]></title>
