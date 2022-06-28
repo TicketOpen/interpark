@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 06:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 07:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) - 천안 추가 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43404</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43404</guid>
+            <pubDate>Tue, 28 Jun 2022 07:35:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005483_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[정명훈 & 원 코리아 오케스트라 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43403</link>
@@ -59,7 +68,7 @@
             <pubDate>Tue, 28 Jun 2022 05:42:53 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.01
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220628015151.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220628041321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블록버스터 영화음악 콘서트_전국투어 티켓오픈 안내]]></title>
@@ -77,7 +86,7 @@
             <pubDate>Tue, 28 Jun 2022 02:42:49 GMT</pubDate>
             <content:encoded><![CDATA[2022.06.30
                                     <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220628034624.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유주(YUJU) 공식 팬클럽 'LUVU' 1기 모집 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.07.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008203_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022메가썸머페스티벌 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43394</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43394</guid>
-            <pubDate>Mon, 27 Jun 2022 09:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
