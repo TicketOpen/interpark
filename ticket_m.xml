@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 07:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈어차피 혼자〉 프리뷰 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43416</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43416</guid>
+            <pubDate>Wed, 29 Jun 2022 07:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062910195851.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Interfuse in daegu ; 선우정아 & 스텔라장 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43415</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.06.29
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062318292699.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 지킬앤하이드 (Jekyll＆Hyde) - 천안 추가 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43404</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43404</guid>
-            <pubDate>Tue, 28 Jun 2022 07:35:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.29
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005483_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
