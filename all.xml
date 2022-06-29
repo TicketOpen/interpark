@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 23:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 02:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유지우 2022 첫 번째 단독 콘서트 COLOR PROJECT 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43409&amp;groupno=43409&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43409&amp;groupno=43409&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 29 Jun 2022 02:43:53 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.04(월)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[MPMG ACADEMY 기획공연] NOW : H a lot (에이치얼랏) 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43408&amp;groupno=43408&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.07.07(목)&nbsp;18:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 <꼬마버스 타요와 하하호호 노래자랑> 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43390&amp;groupno=43390&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43390&amp;groupno=43390&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 27 Jun 2022 07:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.04(월)&nbsp;10:00]]></content:encoded>
+            <title><![CDATA[유지우 2022 첫 번째 단독 콘서트 COLOR PROJECT 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43409</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43409</guid>
+            <pubDate>Wed, 29 Jun 2022 02:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062818542010.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MPMG ACADEMY 기획공연] NOW : H a lot (에이치얼랏) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.07.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062712525600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김창완 밴드 콘서트 -원주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43396</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43396</guid>
-            <pubDate>Tue, 28 Jun 2022 15:41:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.06.30
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220628034624.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 뮤지컬 <은하철도의 밤> (7.18 ~ 8.1) - 공연 실황 .. (인터파크 티켓 ─ 온라인)]]></title>
