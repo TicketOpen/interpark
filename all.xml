@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 02:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 04:24:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청춘힐링극,브라보마이라이프 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43412&amp;groupno=43412&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43412&amp;groupno=43412&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 29 Jun 2022 04:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[22.06.29(수)&nbsp;12:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이지 라이프 첫 내한공연 (EASY LIFE FIRST LIVE IN SEOUL) 티켓오픈.. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43411&amp;groupno=43411&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43411&amp;groupno=43411&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 29 Jun 2022 04:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.07(목)&nbsp;12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[유지우 2022 첫 번째 단독 콘서트 COLOR PROJECT 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43409&amp;groupno=43409&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[22.06.22(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈V 에버 애프터〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43392&amp;groupno=43392&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43392&amp;groupno=43392&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 27 Jun 2022 08:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.29(수)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[청춘힐링극,브라보마이라이프 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43412</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43412</guid>
+            <pubDate>Wed, 29 Jun 2022 04:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.06.29
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008003_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 <소실> 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43391&amp;groupno=43391&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43391&amp;groupno=43391&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 27 Jun 2022 08:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.07(목)&nbsp;18:00]]></content:encoded>
+            <title><![CDATA[이지 라이프 첫 내한공연 (EASY LIFE FIRST LIVE IN SEOUL) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43411</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43411</guid>
+            <pubDate>Wed, 29 Jun 2022 04:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.07
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062115593046.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유지우 2022 첫 번째 단독 콘서트 COLOR PROJECT 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2022.07.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062414571986.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕하신가영 단독콘서트 [6일의 썸머 - LIFESTYLE] 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43398</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43398</guid>
-            <pubDate>Tue, 28 Jun 2022 05:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220628041321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록버스터 영화음악 콘서트_전국투어 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43397</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43397</guid>
-            <pubDate>Tue, 28 Jun 2022 15:41:57 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062712525600.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[STAGE X 온라인 뮤지컬 <은하철도의 밤> (7.18 ~ 8.1) - 공연 실황 .. (인터파크 티켓 ─ 온라인)]]></title>
