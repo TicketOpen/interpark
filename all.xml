@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 06:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 07:35:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 <흔들흔들 댄스파티> - 여수 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43430&amp;groupno=43430&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43430&amp;groupno=43430&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 30 Jun 2022 07:34:40 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.04(월)&nbsp;11:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 송가인 전국투어 콘서트 - 광주 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43429&amp;groupno=43429&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.07.05(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Interfuse in daegu ; 선우정아 & 스텔라장 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43415&amp;groupno=43415&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43415&amp;groupno=43415&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 29 Jun 2022 05:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.01(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 <흔들흔들 댄스파티> - 여수 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43430</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43430</guid>
+            <pubDate>Thu, 30 Jun 2022 07:34:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.04
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 송가인 전국투어 콘서트 - 광주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.07.04
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062819561862.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <첫사랑> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43421</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43421</guid>
-            <pubDate>Thu, 30 Jun 2022 02:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008255_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[‘2022 임영웅 콘서트 [IM HERO] - 서울’ 온라인 라이브 스트리밍 .. (인터파크 티켓 ─ 온라인)]]></title>
@@ -350,6 +350,13 @@
             <content:encoded><![CDATA[21.10.28(목)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 <흔들흔들 댄스파티> - 여수 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43430&amp;groupno=43430&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43430&amp;groupno=43430&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 30 Jun 2022 07:35:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.04(월)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈번지점프를 하다〉 3차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43426&amp;groupno=43426&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43426&amp;groupno=43426&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -467,13 +474,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43365&amp;groupno=43365&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 24 Jun 2022 05:40:00 GMT</pubDate>
             <content:encoded><![CDATA[22.06.30(목)&nbsp;15:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <알사탕> - 광주 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43362&amp;groupno=43362&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43362&amp;groupno=43362&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 24 Jun 2022 02:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.06.27(월)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유주(YUJU) 공식 팬클럽 'LUVU' 1기 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
