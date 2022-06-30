@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 05:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 06:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 송가인 전국투어 콘서트 - 광주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43429</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43429</guid>
+            <pubDate>Thu, 30 Jun 2022 06:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.08
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022063013163013.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 송가인 전국투어 콘서트 - 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43428</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43428</guid>
+            <pubDate>Thu, 30 Jun 2022 06:48:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.07
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022063013131338.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈더 헬멧〉 마지막 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43427</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.07.01
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008255_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[도슨트 투어] 서울스카이 <나는 고래> 미디어아트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=908</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=908</guid>
-            <pubDate>Thu, 30 Jun 2022 02:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008270_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 아시아프＆히든아티스트 페스티벌 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=907</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=907</guid>
-            <pubDate>Thu, 30 Jun 2022 02:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.01
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008273_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
