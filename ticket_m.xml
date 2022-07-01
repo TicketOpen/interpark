@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 08:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 09:39:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Someday Festival 2022 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43451</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43451</guid>
+            <pubDate>Fri, 01 Jul 2022 09:38:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.11
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062915305597.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호안 미로 프라이빗 도슨트 투어 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=910</link>
@@ -22,7 +31,7 @@
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43450</guid>
             <pubDate>Fri, 01 Jul 2022 08:43:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.06
-                                    <span>22:00</span>]]></content:encoded>
+                                    <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220701053447.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.07.06
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022063015444051.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43442</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43442</guid>
-            <pubDate>Fri, 01 Jul 2022 08:43:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022063018180500.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
