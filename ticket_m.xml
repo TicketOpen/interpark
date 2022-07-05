@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 04:57:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 영탁 단독 콘서트 “TAK SHOW” - 인천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43477</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43477</guid>
+            <pubDate>Tue, 05 Jul 2022 05:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.07
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070113524336.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <급식왕 - 발가락 떡볶이의 비밀> - 수원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43476</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43476</guid>
+            <pubDate>Tue, 05 Jul 2022 05:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.07
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070214134374.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 영탁 단독 콘서트 “TAK SHOW” - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43475</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43475</guid>
+            <pubDate>Tue, 05 Jul 2022 05:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.13
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220705015743.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오픈일시변경] 뮤지컬 <미세스 다웃파이어> 1차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43474</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.07.08
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006558_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[이준호 2022 FAN-CON 〈Before Midnight〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43467</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43467</guid>
-            <pubDate>Mon, 04 Jul 2022 09:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.14
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220704061905.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악극 <붉은머리 안> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43466</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43466</guid>
-            <pubDate>Mon, 04 Jul 2022 08:45:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.11
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070415325544.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 김동현, 이솔로몬 조인콘서트 - 제주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43465</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43465</guid>
-            <pubDate>Mon, 04 Jul 2022 05:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008061_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
