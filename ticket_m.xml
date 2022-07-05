@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 02:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 04:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다니엘 로자코비치 바이올린 리사이틀 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43473</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43473</guid>
+            <pubDate>Tue, 05 Jul 2022 04:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.08
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008405_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[딴딴한 여름 2022 : 딴딴월드-부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43472</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43472</guid>
+            <pubDate>Tue, 05 Jul 2022 04:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.15
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220705122700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딴딴한 여름 2022 : 딴딴월드-서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43471</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43471</guid>
+            <pubDate>Tue, 05 Jul 2022 04:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220705122638.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2022_성남 앙코르 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43470</link>
@@ -59,7 +86,7 @@
             <pubDate>Mon, 04 Jul 2022 05:44:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.08
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022062316161243.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008061_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 <더데빌 콘서트(THE DEVIL CONCERT)> 티켓오픈 안내]]></title>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.07.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008473_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 안산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43463</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43463</guid>
-            <pubDate>Mon, 04 Jul 2022 05:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070106451661.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈이퀄〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43462</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43462</guid>
-            <pubDate>Mon, 04 Jul 2022 05:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006311_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈빈센트 리버〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43461</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43461</guid>
-            <pubDate>Mon, 04 Jul 2022 05:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.08
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007406_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
