@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2022-07-06T05:06:02.993Z</updated>
+    <updated>2022-07-06T05:45:21.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43350&amp;groupno=43350&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-07-05T02:45:02.036Z</updated>
         <content type="html"><![CDATA[22.07.06(수)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈비더슈탄트〉 본공연 2차 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43489&amp;groupno=43489&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43489&amp;groupno=43489&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-07-06T05:44:25.728Z</updated>
+        <content type="html"><![CDATA[22.07.11(월)&nbsp;15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이은결  - 춘천 티켓오픈 안내]]></title>
@@ -130,12 +137,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43472&amp;groupno=43472&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-07-05T04:12:13.143Z</updated>
         <content type="html"><![CDATA[22.07.15(금)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딴딴한 여름 2022 : 딴딴월드-서울 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43471&amp;groupno=43471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43471&amp;groupno=43471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-07-05T04:12:13.144Z</updated>
-        <content type="html"><![CDATA[22.07.14(목)&nbsp;20:00]]></content>
     </entry>
 </feed>
