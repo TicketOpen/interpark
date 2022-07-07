@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 02:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 04:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 문화가 있는 날 조윤범의 파워클래식 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43502</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43502</guid>
+            <pubDate>Thu, 07 Jul 2022 04:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <알사탕> - 과천 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43501</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.07.13
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070613081716.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈미아 파밀리아〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43492</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43492</guid>
-            <pubDate>Wed, 06 Jul 2022 07:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004990_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
