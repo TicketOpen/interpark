@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 06:46:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -203,7 +203,7 @@
             <pubDate>Wed, 06 Jul 2022 09:40:07 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.11
                                     <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070518142568.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이브레이크 ‘SUMMER MADNESS 2022 : SPARK’ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
