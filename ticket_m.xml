@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 06:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 07:36:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43528</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43528</guid>
+            <pubDate>Fri, 08 Jul 2022 07:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070615474341.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 성남 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43527</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43527</guid>
+            <pubDate>Fri, 08 Jul 2022 07:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070520250083.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43526</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43526</guid>
+            <pubDate>Fri, 08 Jul 2022 07:35:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.11
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008657_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[폴 인 클래식 콘서트(Fall in Classic Concert) 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43525</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.07.13
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070413552961.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기돈 크레머 ＆ 크레메라타 발티카 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43518</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43518</guid>
-            <pubDate>Fri, 08 Jul 2022 02:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.08
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008357_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[윤전일 Dance Emotion <사랑에 미치다> - 부천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43517</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43517</guid>
-            <pubDate>Fri, 08 Jul 2022 02:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.12
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이희문 <오방神과> - 부천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43516</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43516</guid>
-            <pubDate>Fri, 08 Jul 2022 02:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.12
-                                    <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
