@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 14:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 15:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,15 +53,6 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070517275627.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 산울림 고전극장 : 호호탕탕 옥루몽 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43524</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43524</guid>
-            <pubDate>Fri, 08 Jul 2022 05:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070512585077.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43523</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43523</guid>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2022.07.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006535_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[블루맨그룹 월드투어 부산공연 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43519</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43519</guid>
+            <pubDate>Fri, 08 Jul 2022 15:42:08 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.13
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070413552961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
