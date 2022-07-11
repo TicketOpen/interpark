@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 02:41:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 04:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로맨틱 코믹 체력극 〈신바람 삼대〉 8월 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43532</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43532</guid>
+            <pubDate>Mon, 11 Jul 2022 04:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.15
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/20/20009530_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 RESFFECT FESTIVAL 리스펙 페스티벌 - 공식티켓 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43531</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43531</guid>
+            <pubDate>Mon, 11 Jul 2022 04:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.21
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070822010093.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누군가의 플레이리스트 Track. 51 마인드유 단독 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43529</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.07.15
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006226_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈킹키부츠〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43520</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43520</guid>
-            <pubDate>Fri, 08 Jul 2022 05:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006535_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[블루맨그룹 월드투어 부산공연 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43519</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43519</guid>
-            <pubDate>Fri, 08 Jul 2022 15:42:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070413552961.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
