@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 08:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 09:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제16회 칠포재즈페스티벌2022 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43539</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43539</guid>
+            <pubDate>Mon, 11 Jul 2022 09:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071117373284.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크레디아 프롬스 - 조성진 그리고 쇼팽 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43538</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43538</guid>
+            <pubDate>Mon, 11 Jul 2022 09:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.15
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071115392436.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 뮤직 앤 센트 콘서트 - 경포 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43537</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.07.21
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070822010093.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누군가의 플레이리스트 Track. 51 마인드유 단독 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43529</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43529</guid>
-            <pubDate>Fri, 08 Jul 2022 09:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.11
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070512030477.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 고양 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43528</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43528</guid>
-            <pubDate>Fri, 08 Jul 2022 07:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.14
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070615474341.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
