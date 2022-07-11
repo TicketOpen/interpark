@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:01:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 05:42:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제 10회 부산국제코미디페스티벌 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=911</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=911</guid>
+            <pubDate>Mon, 11 Jul 2022 05:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070815300599.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비평가 3차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43534</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.07.21
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070517275627.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43523</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43523</guid>
-            <pubDate>Fri, 08 Jul 2022 05:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007810_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
