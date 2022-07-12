@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 07:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 08:46:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,7 +212,7 @@
             <pubDate>Tue, 12 Jul 2022 04:39:40 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.13
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071116215290.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008834_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시(Billie Eilish) 프로덕션 유보석 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
