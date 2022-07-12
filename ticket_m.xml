@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 04:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 05:50:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 김창옥 토크콘서트 시즌 2 - 강릉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43554</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43554</guid>
+            <pubDate>Tue, 12 Jul 2022 05:49:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.15
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071117025201.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립창극단 <나무, 물고기, 달> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43553</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43553</guid>
+            <pubDate>Tue, 12 Jul 2022 05:49:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070619323224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국립창극단 <귀토> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43552</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43552</guid>
+            <pubDate>Tue, 12 Jul 2022 05:49:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.14
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070619205379.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 정세운 콘서트 [Our Garden] 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43551</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43551</guid>
+            <pubDate>Tue, 12 Jul 2022 05:49:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.21
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220712015109.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스토니안 페스티벌 오케스트라 & 파보 예르비 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43550</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.07.15
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예브게니 코롤리오프＆서울시향 - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43544</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43544</guid>
-            <pubDate>Tue, 12 Jul 2022 02:56:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008558_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[예브게니 코롤리오프 피아노 리사이틀 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43543</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43543</guid>
-            <pubDate>Tue, 12 Jul 2022 02:56:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <수박수영장> 창원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43542</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43542</guid>
-            <pubDate>Tue, 12 Jul 2022 02:56:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.14
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071116132446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIVECONNECT STAGE with Clau :D x 변하은 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43541</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43541</guid>
-            <pubDate>Tue, 12 Jul 2022 02:56:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.14
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022070810514197.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
