@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA</id>
     <title>인터파크 티켓 ─ 페스티벌</title>
-    <updated>2022-07-13T07:36:25.276Z</updated>
+    <updated>2022-07-13T08:44:24.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/webzine/paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[메가필드뮤직페스티벌2022 - 얼리버드 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43572&amp;groupno=43572&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43572&amp;groupno=43572&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-07-13T08:44:23.434Z</updated>
+        <content type="html"><![CDATA[22.07.21(목)&nbsp;14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 조이올팍페스티벌 티켓오픈 안내]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43561&amp;groupno=43561&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -122,13 +129,6 @@
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43012&amp;groupno=43012&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43012&amp;groupno=43012&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-07-07T23:38:39.802Z</updated>
-        <content type="html"><![CDATA[22.05.20(금)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 경기클래식페스티벌-The New Beginning 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=42991&amp;groupno=42991&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=42991&amp;groupno=42991&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-07-07T23:38:39.803Z</updated>
         <content type="html"><![CDATA[22.05.20(금)&nbsp;14:00]]></content>
     </entry>
 </feed>
