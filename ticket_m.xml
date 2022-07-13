@@ -4,9 +4,54 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 23:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 02:44:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬쇼 〈핑크퐁과 아기상어의 월드투어쇼〉 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43560</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43560</guid>
+            <pubDate>Wed, 13 Jul 2022 02:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.15
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008862_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉 - 춘천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43559</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43559</guid>
+            <pubDate>Wed, 13 Jul 2022 02:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.18
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬 <고고다이노 우리동네공룡> - 부산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43558</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43558</guid>
+            <pubDate>Wed, 13 Jul 2022 02:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.19
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071118254232.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 민쩌미 <사랑해요 엄마!> - 광주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43557</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43557</guid>
+            <pubDate>Wed, 13 Jul 2022 02:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.19
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220713101810.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 순천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43556</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43556</guid>
+            <pubDate>Wed, 13 Jul 2022 02:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.19
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071114572632.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈터칭 더 보이드〉 : 연극열전9_세 번째 작품 3차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43555</link>
@@ -51,51 +96,6 @@
             <content:encoded><![CDATA[2022.07.21
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220712015109.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스토니안 페스티벌 오케스트라 & 파보 예르비 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43550</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43550</guid>
-            <pubDate>Tue, 12 Jul 2022 04:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.18
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도이치 캄머 필하모닉 & 파보 예르비 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43549</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43549</guid>
-            <pubDate>Tue, 12 Jul 2022 04:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.18
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[용인] 2022 남진 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43547</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43547</guid>
-            <pubDate>Tue, 12 Jul 2022 04:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008834_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[현대카드 슈퍼콘서트 26 빌리 아일리시(Billie Eilish) 프로덕션 유보석 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43546</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43546</guid>
-            <pubDate>Tue, 12 Jul 2022 04:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.13
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071211112972.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제5회 1번출구 연극제 - 8월 공연 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43545</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43545</guid>
-            <pubDate>Tue, 12 Jul 2022 15:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.15
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
