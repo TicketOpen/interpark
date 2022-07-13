@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 06:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 07:36:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,7 +26,7 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈난세〉 마지막티켓오픈 안내]]></title>
+            <title><![CDATA[뮤지컬 〈난세〉 마지막 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43569</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43569</guid>
             <pubDate>Wed, 13 Jul 2022 05:38:48 GMT</pubDate>
