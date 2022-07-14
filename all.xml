@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 06:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이스바리톤 권서경 리사이틀  티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43582&amp;groupno=43582&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43582&amp;groupno=43582&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 14 Jul 2022 06:46:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.22(금)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[태양의서커스 뉴 알레그리아 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43581&amp;groupno=43581&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -36,14 +43,7 @@
             <content:encoded><![CDATA[22.07.15(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[클라우스 메켈레 & 파리 오케스트라 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43577&amp;groupno=43577&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43577&amp;groupno=43577&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 14 Jul 2022 04:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.15(금)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[말리의 어제보다 특별한 오늘 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[뮤지컬〈말리의 어제보다 특별한 오늘〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43576&amp;groupno=43576&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43576&amp;groupno=43576&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 14 Jul 2022 04:29:09 GMT</pubDate>
@@ -134,6 +134,15 @@
             <content:encoded><![CDATA[22.07.19(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[베이스바리톤 권서경 리사이틀 <Way Home> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43582</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43582</guid>
+            <pubDate>Thu, 14 Jul 2022 06:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[태양의서커스 뉴 알레그리아 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43581</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43581</guid>
@@ -170,16 +179,7 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006708_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[클라우스 메켈레 & 파리 오케스트라 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43577</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43577</guid>
-            <pubDate>Thu, 14 Jul 2022 04:29:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220714120342.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[말리의 어제보다 특별한 오늘 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[뮤지컬〈말리의 어제보다 특별한 오늘〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43576</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43576</guid>
             <pubDate>Thu, 14 Jul 2022 04:29:21 GMT</pubDate>
@@ -350,6 +350,13 @@
             <content:encoded><![CDATA[21.10.28(목)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬〈말리의 어제보다 특별한 오늘〉 마지막 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43576&amp;groupno=43576&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43576&amp;groupno=43576&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 14 Jul 2022 06:46:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.15(금)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <알사탕> - 목포 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43571&amp;groupno=43571&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43571&amp;groupno=43571&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -467,13 +474,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43512&amp;groupno=43512&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 08 Jul 2022 02:44:41 GMT</pubDate>
             <content:encoded><![CDATA[22.07.13(수)&nbsp;10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <엘리자벳> 10주년 기념공연 1차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43511&amp;groupno=43511&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43511&amp;groupno=43511&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 08 Jul 2022 02:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.14(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유주(YUJU) 공식 팬클럽 'LUVU' 1기 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
