@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 06:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 07:37:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-대구 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43584&amp;groupno=43584&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43584&amp;groupno=43584&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 14 Jul 2022 07:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.22(금)&nbsp;17:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-부산 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43583&amp;groupno=43583&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43583&amp;groupno=43583&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 14 Jul 2022 07:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.22(금)&nbsp;16:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[베이스바리톤 권서경 리사이틀  티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43582&amp;groupno=43582&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[22.07.15(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 KIMJAEHWAN FANCONCERT - [I_MY_ME_MINE] 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43565&amp;groupno=43565&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43565&amp;groupno=43565&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 13 Jul 2022 05:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.27(수)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43584</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43584</guid>
+            <pubDate>Thu, 14 Jul 2022 07:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.22
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071315365054.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <아일랜더> 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43564&amp;groupno=43564&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43564&amp;groupno=43564&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 13 Jul 2022 05:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.19(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[케이팝 뮤직쇼 청춘스타 콘서트-부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43583</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43583</guid>
+            <pubDate>Thu, 14 Jul 2022 07:36:25 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.22
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071315413565.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이스바리톤 권서경 리사이틀 <Way Home> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2022.07.14
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220714105816.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리슨어게인 페스티벌 2022 <Listen Again Festival 2022> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43573</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43573</guid>
-            <pubDate>Thu, 14 Jul 2022 02:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.21
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220714090703.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메가필드뮤직페스티벌2022 - 얼리버드 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43572</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43572</guid>
-            <pubDate>Wed, 13 Jul 2022 08:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071219230717.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘2022 임영웅 콘서트 [IM HERO] - 서울’ 온라인 라이브 스트리밍 .. (인터파크 티켓 ─ 온라인)]]></title>
