@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈포미니츠〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43600&amp;groupno=43600&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43600&amp;groupno=43600&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 15 Jul 2022 07:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20(수)&nbsp;16:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[연극 <더 테이블 The Table> 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43599&amp;groupno=43599&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.07.22(금)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[베이스바리톤 권서경 리사이틀  티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43582&amp;groupno=43582&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43582&amp;groupno=43582&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 14 Jul 2022 06:46:02 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.22(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈포미니츠〉 마지막 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43600</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43600</guid>
+            <pubDate>Fri, 15 Jul 2022 07:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.20
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011956_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 <더 테이블 The Table> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.07.21
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006501_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더 와일드의 변론－거짓의 쇠락, 도리안 그레이의 초상〉 4차 티켓 오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43589</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43589</guid>
-            <pubDate>Fri, 15 Jul 2022 03:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006558_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[‘2022 임영웅 콘서트 [IM HERO] - 서울’ 온라인 라이브 스트리밍 .. (인터파크 티켓 ─ 온라인)]]></title>
@@ -350,6 +350,13 @@
             <content:encoded><![CDATA[21.10.28(목)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈포미니츠〉 마지막 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43600&amp;groupno=43600&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43600&amp;groupno=43600&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 15 Jul 2022 07:36:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.20(수)&nbsp;16:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈유진과 유진〉 마지막 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43598&amp;groupno=43598&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43598&amp;groupno=43598&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -467,13 +474,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43548&amp;groupno=43548&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 12 Jul 2022 04:39:58 GMT</pubDate>
             <content:encoded><![CDATA[22.07.12(화)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <수박수영장> 창원 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43542&amp;groupno=43542&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43542&amp;groupno=43542&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 12 Jul 2022 02:57:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.14(목)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유주(YUJU) 공식 팬클럽 'LUVU' 1기 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>

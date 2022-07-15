@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:37:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈포미니츠〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43600</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43600</guid>
+            <pubDate>Fri, 15 Jul 2022 07:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.20
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011956_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연극 <더 테이블 The Table> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43599</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.07.21
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006501_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈더 와일드의 변론－거짓의 쇠락, 도리안 그레이의 초상〉 4차 티켓 오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43589</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43589</guid>
-            <pubDate>Fri, 15 Jul 2022 03:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006558_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
