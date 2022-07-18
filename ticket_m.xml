@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 07:37:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 08:45:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,7 +86,7 @@
             <pubDate>Mon, 18 Jul 2022 02:44:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.19
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008896_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 서울국제음악제 : 게리 호프만, 일리야 라쉬코프스키 티켓오픈 안내]]></title>
