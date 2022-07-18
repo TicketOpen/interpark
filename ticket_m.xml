@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 02:44:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 04:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다(창원) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43609</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43609</guid>
+            <pubDate>Mon, 18 Jul 2022 04:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.25
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071512055402.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A I R 새가 먹던 사과를 먹는 사람 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43608</link>
@@ -41,7 +50,7 @@
             <pubDate>Mon, 18 Jul 2022 02:44:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.20
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220718125858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 미드나잇 액터뮤지션들과 함께하는 <한여름 낮의 쉼표> 티켓오픈 안내]]></title>
@@ -50,7 +59,7 @@
             <pubDate>Mon, 18 Jul 2022 02:44:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.18
                                     <span>13:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071409321395.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009021_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[［KB Pay X 인천펜타포트 락페스티벌 2022］캠핑권 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.07.20
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011956_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <더 테이블 The Table> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43599</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43599</guid>
-            <pubDate>Fri, 15 Jul 2022 06:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.20
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071416434873.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
