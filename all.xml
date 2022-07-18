@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 06:48:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 07:37:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 국민가수 박창근 전국투어 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43614&amp;groupno=43614&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43614&amp;groupno=43614&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 18 Jul 2022 07:36:23 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.22(금)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 장윤정 라이브 콘서트 - 수원 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43613&amp;groupno=43613&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.07.22(금)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈살아있는 자를 수선하기〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43597&amp;groupno=43597&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43597&amp;groupno=43597&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 15 Jul 2022 06:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.20(수)&nbsp;12:00]]></content:encoded>
+            <title><![CDATA[2022 국민가수 박창근 전국투어 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43614</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43614</guid>
+            <pubDate>Mon, 18 Jul 2022 07:36:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220718040040.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 장윤정 라이브 콘서트 - 수원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.07.28
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071417103882.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 장민호&이찬원 콘서트 “민원만족” - 서울 앵콜 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43605</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43605</guid>
-            <pubDate>Mon, 18 Jul 2022 02:44:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.20
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220718125858.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘2022 임영웅 콘서트 [IM HERO] - 서울’ 온라인 라이브 스트리밍 .. (인터파크 티켓 ─ 온라인)]]></title>
