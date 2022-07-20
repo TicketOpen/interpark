@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 08:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 09:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[관.객.모.집 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43655&amp;groupno=43655&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43655&amp;groupno=43655&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 20 Jul 2022 09:38:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.07.21(목)&nbsp;09:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[앨리스 인 베드 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43654&amp;groupno=43654&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.07.25(월)&nbsp;09:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[에릭 루 피아노 리사이틀 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43637&amp;groupno=43637&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43637&amp;groupno=43637&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 19 Jul 2022 09:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[22.07.27(수)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[관.객.모.집 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43655</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43655</guid>
+            <pubDate>Wed, 20 Jul 2022 09:38:18 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.21
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[앨리스 인 베드 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.07.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007433_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[금난새의 클래식 데이트_4회 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43645</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43645</guid>
-            <pubDate>Wed, 20 Jul 2022 05:01:41 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.21
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011955_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[‘2022 임영웅 콘서트 [IM HERO] - 서울’ 온라인 라이브 스트리밍 .. (인터파크 티켓 ─ 온라인)]]></title>
