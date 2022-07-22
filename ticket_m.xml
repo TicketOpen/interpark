@@ -4,9 +4,63 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 04:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:05:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 산울림 고전극장: 날개 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43684</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43684</guid>
+            <pubDate>Fri, 22 Jul 2022 05:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.22
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071820394482.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <파가니니> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43683</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43683</guid>
+            <pubDate>Fri, 22 Jul 2022 05:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클림트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43682</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43682</guid>
+            <pubDate>Fri, 22 Jul 2022 05:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.26
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072016233646.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－여수 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43681</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43681</guid>
+            <pubDate>Fri, 22 Jul 2022 05:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072016321482.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 서울국제음악제 SIMF오케스트라 개막음악회 : 모차르트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43680</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43680</guid>
+            <pubDate>Fri, 22 Jul 2022 05:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071417075300.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］-목포 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43679</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43679</guid>
+            <pubDate>Fri, 22 Jul 2022 05:04:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072213393247.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 김경호 전국투어콘서트 IN 청주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43678</link>
@@ -42,60 +96,6 @@
             <content:encoded><![CDATA[2022.07.22
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071814282215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고 싶은 인디 Ep.13 윤새 단독 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43674</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43674</guid>
-            <pubDate>Thu, 21 Jul 2022 09:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.22
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071814220664.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나만 알고 싶은 인디 Ep.12 정예원x은종 콜라보 콘서트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43673</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43673</guid>
-            <pubDate>Thu, 21 Jul 2022 09:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.22
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071814064845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 변진섭 전국투어 콘서트 : 변천사 - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43672</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43672</guid>
-            <pubDate>Thu, 21 Jul 2022 08:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.04
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072114591373.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[앰비규어스댄스컴퍼니 <얼이섞다> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43671</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43671</guid>
-            <pubDate>Thu, 21 Jul 2022 08:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009305_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[비평가 마지막 티켓 오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43670</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43670</guid>
-            <pubDate>Thu, 21 Jul 2022 07:35:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.26
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006107_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <나와 할아버지> - 군포 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43669</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43669</guid>
-            <pubDate>Thu, 21 Jul 2022 06:48:07 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.22
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009185_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
