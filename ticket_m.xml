@@ -4,11 +4,56 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 08:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 09:40:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뮤지컬 <라흐마니노프> 티켓오픈 안내]]></title>
+            <title><![CDATA[홍진호 콘서트 〈진호의 책방〉 - 고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43714</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43714</guid>
+            <pubDate>Mon, 25 Jul 2022 09:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－청주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43713</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43713</guid>
+            <pubDate>Mon, 25 Jul 2022 09:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072517562111.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이베스트셀러뮤지컬 누가 내머리에 똥쌌어? 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43712</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43712</guid>
+            <pubDate>Mon, 25 Jul 2022 09:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072515520741.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페이스브릭 여름방학 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43711</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43711</guid>
+            <pubDate>Mon, 25 Jul 2022 09:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072213144553.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군가의 플레이리스트 Track. 52 Lacuna(라쿠나) 단독 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43710</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43710</guid>
+            <pubDate>Mon, 25 Jul 2022 09:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220725055804.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <라흐마니노프> - 광명 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43709</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43709</guid>
             <pubDate>Mon, 25 Jul 2022 08:46:07 GMT</pubDate>
@@ -51,51 +96,6 @@
             <content:encoded><![CDATA[2022.07.28
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072217070169.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다(인천) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43704</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43704</guid>
-            <pubDate>Mon, 25 Jul 2022 04:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.01
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072013491287.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬배우 카이 단독 콘서트 <KAI ON MUSICAL:마음> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43703</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43703</guid>
-            <pubDate>Mon, 25 Jul 2022 04:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220725010010.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로 서울 2022 : Micro Seoul 2022 NFT Sound & Beer Festa - Pre Sale 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43702</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43702</guid>
-            <pubDate>Mon, 25 Jul 2022 04:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072216374094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제4회 76FESTIVAL <밀정리스트> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43701</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43701</guid>
-            <pubDate>Mon, 25 Jul 2022 04:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.25
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009187_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[블록버스터 영화음악 콘서트_성남 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43700</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43700</guid>
-            <pubDate>Mon, 25 Jul 2022 02:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072212161460.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
