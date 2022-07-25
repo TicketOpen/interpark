@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 07:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 08:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <라흐마니노프> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43709</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43709</guid>
+            <pubDate>Mon, 25 Jul 2022 08:46:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009490_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[메가필드뮤직페스티벌2022 일반티켓 오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43708</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43708</guid>
+            <pubDate>Mon, 25 Jul 2022 08:46:07 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.25
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009201_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[인공지능 시극 <파포스> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43707</link>
@@ -14,7 +32,7 @@
             <pubDate>Mon, 25 Jul 2022 07:37:25 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.26
                                     <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072116552178.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009385_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 전국투어 콘서트 <박창근> - 부산 티켓오픈 안내]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.07.28
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072212161460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구름닮은-라이브 VOL.6 라쿠나&맥거핀 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43699</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43699</guid>
-            <pubDate>Mon, 25 Jul 2022 02:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시크릿쥬쥬 별의여신 뮤지컬 시즌3 : 마지막콘서트 - 창원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43698</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43698</guid>
-            <pubDate>Mon, 25 Jul 2022 02:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022071209354578.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
