@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 05:54:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 06:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43728</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43728</guid>
+            <pubDate>Tue, 26 Jul 2022 06:46:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008657_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 재즈 쿼텟 재결성 공연 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43727</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43727</guid>
+            <pubDate>Tue, 26 Jul 2022 06:46:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.27
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009552_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 삼총사 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43726</link>
@@ -59,7 +77,7 @@
             <pubDate>Tue, 26 Jul 2022 03:05:46 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.05
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220726030109.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <미아 파밀리아> 마지막 티켓오픈 안내]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.07.29
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007400_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[리슨어게인 페스티벌 2022 〈Listen Again Festival 2022〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43718</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43718</guid>
-            <pubDate>Tue, 26 Jul 2022 03:05:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.04
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008994_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[매직드로잉 가족극 〈두들팝〉 8차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43717</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43717</guid>
-            <pubDate>Tue, 26 Jul 2022 03:05:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21013289_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
