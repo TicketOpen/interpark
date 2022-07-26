@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 03:06:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 04:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 장우혁 팬콘서트 [ECHO] 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43725</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43725</guid>
+            <pubDate>Tue, 26 Jul 2022 04:49:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072611335143.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어린이가족공연 류엘의 매직콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43724</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.07.28
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로디드 모먼트 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43715</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43715</guid>
-            <pubDate>Tue, 26 Jul 2022 03:05:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009495_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
