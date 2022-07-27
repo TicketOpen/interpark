@@ -4,9 +4,63 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 04:33:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 05:48:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈더 헬멧〉 추가 공연 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43743</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43743</guid>
+            <pubDate>Wed, 27 Jul 2022 05:48:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.01
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005131_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈번지점프를 하다〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43742</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43742</guid>
+            <pubDate>Wed, 27 Jul 2022 05:48:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.02
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006051_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 렛츠락 페스티벌 - 블라인드 티켓 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43741</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43741</guid>
+            <pubDate>Wed, 27 Jul 2022 05:48:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220727020240.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈어차피 혼자〉 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43740</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43740</guid>
+            <pubDate>Wed, 27 Jul 2022 05:48:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008345_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[베어 더 뮤지컬(bare the musical) 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43739</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43739</guid>
+            <pubDate>Wed, 27 Jul 2022 05:48:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004644_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_성남 앙코르 추가티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43738</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43738</guid>
+            <pubDate>Wed, 27 Jul 2022 05:48:11 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008439_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 시데레우스- 이천 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43737</link>
@@ -42,60 +96,6 @@
             <content:encoded><![CDATA[2022.07.29
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072114290286.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 인천 ] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43733</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43733</guid>
-            <pubDate>Wed, 27 Jul 2022 02:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.29
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072510403418.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈V 에버 애프터〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43731</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43731</guid>
-            <pubDate>Wed, 27 Jul 2022 02:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.29
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007433_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[당 타이 손 피아노 리사이틀 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43730</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43730</guid>
-            <pubDate>Tue, 26 Jul 2022 08:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22005468_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다(대구) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43729</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43729</guid>
-            <pubDate>Tue, 26 Jul 2022 07:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.02
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072114505670.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43728</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43728</guid>
-            <pubDate>Tue, 26 Jul 2022 06:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008657_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 재즈 쿼텟 재결성 공연 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43727</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43727</guid>
-            <pubDate>Tue, 26 Jul 2022 06:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.27
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009552_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
