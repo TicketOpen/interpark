@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 06:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 07:38:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬<잠시, 후> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43745</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43745</guid>
+            <pubDate>Wed, 27 Jul 2022 07:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072012230288.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈라흐마니노프〉 - 여주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43744</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43744</guid>
+            <pubDate>Wed, 27 Jul 2022 07:37:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009346_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연극 〈더 헬멧〉 추가 공연 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43743</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.08.02
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072514582192.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_김해 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43735</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43735</guid>
-            <pubDate>Wed, 27 Jul 2022 02:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.01
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072615140450.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 안산 ] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43734</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43734</guid>
-            <pubDate>Wed, 27 Jul 2022 02:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.29
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072114290286.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
