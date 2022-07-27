@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 02:59:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 04:33:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 시데레우스- 이천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43737</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43737</guid>
+            <pubDate>Wed, 27 Jul 2022 04:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.28
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이해원&박기훈 듀오콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43736</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43736</guid>
+            <pubDate>Wed, 27 Jul 2022 04:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072514582192.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2022_김해 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43735</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.07.27
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009552_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 삼총사 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43726</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43726</guid>
-            <pubDate>Tue, 26 Jul 2022 05:53:23 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072611534513.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 장우혁 팬콘서트 [ECHO] 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43725</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43725</guid>
-            <pubDate>Tue, 26 Jul 2022 04:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.29
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009572_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
