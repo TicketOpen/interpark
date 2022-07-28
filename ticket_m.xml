@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 02:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 04:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다(광주) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43750</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43750</guid>
+            <pubDate>Thu, 28 Jul 2022 04:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.04
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072213381130.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라이브가족뮤지컬 '인어공주' - 부천 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43749</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.07.29
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220727020240.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈어차피 혼자〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43740</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43740</guid>
-            <pubDate>Wed, 27 Jul 2022 05:48:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.02
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008345_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
