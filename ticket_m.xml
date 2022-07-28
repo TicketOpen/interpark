@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 23:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 02:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라이브가족뮤지컬 '인어공주' - 부천 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43749</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43749</guid>
+            <pubDate>Thu, 28 Jul 2022 02:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.07.29
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072622292882.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <트루웨스트> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43748</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43748</guid>
+            <pubDate>Thu, 28 Jul 2022 02:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.08
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072716101330.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어린이가족뮤지컬 '로봇똥'-용산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43747</link>
@@ -14,7 +32,7 @@
             <pubDate>Wed, 27 Jul 2022 08:44:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.29
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072620124099.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009624_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[유러피안 재즈 트리오 디즈니 VS 지브리 티켓오픈 안내]]></title>
@@ -23,7 +41,7 @@
             <pubDate>Wed, 27 Jul 2022 08:44:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.29
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072110422356.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009619_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬<잠시, 후> 티켓오픈 안내]]></title>
@@ -32,7 +50,7 @@
             <pubDate>Wed, 27 Jul 2022 07:37:53 GMT</pubDate>
             <content:encoded><![CDATA[2022.07.29
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072012230288.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008654_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈라흐마니노프〉 - 여주 티켓오픈 안내]]></title>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.08.02
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008345_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[베어 더 뮤지컬(bare the musical) 마지막 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43739</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43739</guid>
-            <pubDate>Wed, 27 Jul 2022 05:48:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22004644_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_성남 앙코르 추가티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43738</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43738</guid>
-            <pubDate>Wed, 27 Jul 2022 05:48:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.28
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008439_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
