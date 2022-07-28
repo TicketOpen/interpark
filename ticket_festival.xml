@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA</id>
     <title>인터파크 티켓 ─ 페스티벌</title>
-    <updated>2022-07-28T04:23:29.588Z</updated>
+    <updated>2022-07-28T05:04:15.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/webzine/paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울숲재즈페스티벌2022 - 공식 티켓 서울숲재즈페스티벌 2022 - 공..]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43751&amp;groupno=43751&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43751&amp;groupno=43751&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-07-28T05:04:14.945Z</updated>
+        <content type="html"><![CDATA[22.08.02(화)&nbsp;18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 렛츠락 페스티벌 - 블라인드 티켓 티켓오픈 안내]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43741&amp;groupno=43741&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -123,12 +130,5 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=907&amp;groupno=907&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-07-07T23:38:39.793Z</updated>
         <content type="html"><![CDATA[22.07.01(금)&nbsp;10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022메가썸머페스티벌 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43394&amp;groupno=43394&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43394&amp;groupno=43394&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-07-07T23:38:39.794Z</updated>
-        <content type="html"><![CDATA[22.07.01(금)&nbsp;18:00]]></content>
     </entry>
 </feed>
