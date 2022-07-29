@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 14:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 15:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,15 +15,6 @@
             <content:encoded><![CDATA[2022.08.03
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007536_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 얼리버드 ] 장 줄리앙 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=913</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=913</guid>
-            <pubDate>Fri, 29 Jul 2022 07:35:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.07.29
-                                    <span>00:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009656_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈배니싱〉 프리뷰 티켓오픈 안내]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2022.08.04
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072518220338.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Another Nice Day  #30 - 백아, kohyo 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43752</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43752</guid>
+            <pubDate>Fri, 29 Jul 2022 15:44:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.04
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072518165562.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
