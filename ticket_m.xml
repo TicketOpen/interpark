@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 04:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:05:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 렛츠락 페스티벌 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43773</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43773</guid>
+            <pubDate>Mon, 01 Aug 2022 06:04:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009774_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[조항조＆진성 <앙상블콘서트> - 광주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43772</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43772</guid>
+            <pubDate>Mon, 01 Aug 2022 06:04:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.03
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080110474053.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈미세스 다웃파이어〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43771</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43771</guid>
+            <pubDate>Mon, 01 Aug 2022 06:04:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008449_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다(천안) 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43770</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.08.03
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007536_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈배니싱〉 프리뷰 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43761</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43761</guid>
-            <pubDate>Fri, 29 Jul 2022 06:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.02
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[성남] 추석맞이 남진 빅쇼 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43760</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43760</guid>
-            <pubDate>Fri, 29 Jul 2022 05:44:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.04
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220729032527.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈82년생 김지영〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43759</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43759</guid>
-            <pubDate>Fri, 29 Jul 2022 05:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.03
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009390_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
