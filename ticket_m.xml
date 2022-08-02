@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 08:47:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 설운도 데뷔40주년 콘서트 - 보라빛 엽서 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43788</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43788</guid>
+            <pubDate>Tue, 02 Aug 2022 08:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.10
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080210331408.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 어쿠스틱 루프탑 콘서트- 구리 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43787</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.09
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008801_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 캐치! 티니핑 <프린세스 다이어리> - 여수 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43777</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43777</guid>
-            <pubDate>Tue, 02 Aug 2022 07:37:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.09
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022072912583695.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
