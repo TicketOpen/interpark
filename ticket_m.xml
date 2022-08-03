@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 08:47:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 09:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어썸뮤직 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43805</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43805</guid>
+            <pubDate>Wed, 03 Aug 2022 09:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.05
+                                    <span>17:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220803055946.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <헤르츠클란> 1차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43804</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.05
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080218441483.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_대전 앙코르 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43795</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43795</guid>
-            <pubDate>Wed, 03 Aug 2022 02:55:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022073011452913.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
