@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:45:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 07:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 <헤르츠클란> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43804</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43804</guid>
+            <pubDate>Wed, 03 Aug 2022 07:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.10
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080314132560.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈터칭 더 보이드〉 : 연극열전9_세 번째 작품 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43803</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43803</guid>
+            <pubDate>Wed, 03 Aug 2022 07:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.10
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22006446_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연극〈늘근도둑이야기〉 9월 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43802</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.08.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022073011452913.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 대구 ] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43794</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43794</guid>
-            <pubDate>Wed, 03 Aug 2022 02:55:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.05
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080110141458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <고고다이노 우리동네공룡> - 천안 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43793</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43793</guid>
-            <pubDate>Wed, 03 Aug 2022 02:55:45 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.05
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080216335724.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
