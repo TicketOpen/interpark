@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 05:08:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 05:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극 〈빈센트 리버〉 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43818</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43818</guid>
+            <pubDate>Thu, 04 Aug 2022 05:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.09
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007406_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[장사익소리판 '사람이 사람을 만나' 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43817</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.11
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080115580037.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리처드 용재 오닐과 함께하는 타카치 콰르텟 내한공연 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43808</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43808</guid>
-            <pubDate>Thu, 04 Aug 2022 02:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
