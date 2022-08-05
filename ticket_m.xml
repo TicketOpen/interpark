@@ -4,9 +4,72 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 04:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 05:07:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 롯데워터파크 풀파티 - 김해 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43835</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43835</guid>
+            <pubDate>Fri, 05 Aug 2022 05:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.09
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220805020407.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제4회 76 FESTIVAL <나의전쟁> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43834</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43834</guid>
+            <pubDate>Fri, 05 Aug 2022 05:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.08
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080311273661.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STAGE X 온라인 뮤지컬 〈박열〉 (8.29 ~ 9.19) - 공연 실황 녹화 중계 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43833</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43833</guid>
+            <pubDate>Fri, 05 Aug 2022 05:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080216482661.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원더티켓 - 수호나무의 부활 (파주) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43832</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43832</guid>
+            <pubDate>Fri, 05 Aug 2022 05:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080417273705.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원더티켓 - 수호나무의 부활 (인제) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43831</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43831</guid>
+            <pubDate>Fri, 05 Aug 2022 05:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080417220349.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈아일랜더〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43830</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43830</guid>
+            <pubDate>Fri, 05 Aug 2022 05:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008910_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[한국-오스트리아 수교 130주년 기념 : 브루크너 오케스트라 린츠 내한공연 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43829</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43829</guid>
+            <pubDate>Fri, 05 Aug 2022 05:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009986_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022 LEO 3rd CONCERT PIANO MAN Op.9 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43828</link>
@@ -33,69 +96,6 @@
             <content:encoded><![CDATA[2022.08.09
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080415560902.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <나는나비> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43825</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43825</guid>
-            <pubDate>Fri, 05 Aug 2022 02:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.09
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080315514122.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다나카 팬미팅 [We Love TANAKA] 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43824</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43824</guid>
-            <pubDate>Fri, 05 Aug 2022 02:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.08
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010124_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[블랙 미디 내한공연 (black midi live in seoul) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43823</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43823</guid>
-            <pubDate>Fri, 05 Aug 2022 02:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.17
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220805090428.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 송골매 전국 투어 콘서트 : 열망(熱望) - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43822</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43822</guid>
-            <pubDate>Thu, 04 Aug 2022 09:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.11
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080321024258.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[명품악극<불효자는 웁니다>-울산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43821</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43821</guid>
-            <pubDate>Thu, 04 Aug 2022 08:47:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.10
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080413160644.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기획초청]반쪼가리 자작 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43820</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43820</guid>
-            <pubDate>Thu, 04 Aug 2022 08:47:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.11
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080110340871.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜든 리 뮤지컬 심포니 콘서트 <프랑켄슈타인&벤허> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43819</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43819</guid>
-            <pubDate>Thu, 04 Aug 2022 08:47:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.11
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080410444185.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

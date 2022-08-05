@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%BF%C2%B6%F3%C0%CE</id>
     <title>인터파크 티켓 ─ 온라인</title>
-    <updated>2022-08-05T04:26:38.443Z</updated>
+    <updated>2022-08-05T05:07:58.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/webzine/paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[STAGE X 온라인 뮤지컬 〈박열〉 (8.29 ~ 9.19) - 공연 실황 녹화 중..]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=43833&amp;groupno=43833&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=43833&amp;groupno=43833&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-08-05T05:07:22.505Z</updated>
+        <content type="html"><![CDATA[22.08.08(월)&nbsp;14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘2022 임영웅 콘서트 [IM HERO] - 서울’ 온라인 라이브 스트리밍 ..]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=43424&amp;groupno=43424&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -123,12 +130,5 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41097&amp;groupno=41097&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-07-07T23:38:05.264Z</updated>
         <content type="html"><![CDATA[21.10.29(금)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온스타인웨이 Vol.8 〈박소은〉 - 온라인 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41085&amp;groupno=41085&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41085&amp;groupno=41085&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-07-07T23:38:05.265Z</updated>
-        <content type="html"><![CDATA[21.10.28(목)&nbsp;11:00]]></content>
     </entry>
 </feed>
