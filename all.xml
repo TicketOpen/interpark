@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:48:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <content:encoded><![CDATA[22.08.11(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 정성하 단독 콘서트  티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[2022 정성하 단독 콘서트 〈POETRY〉 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43851&amp;groupno=43851&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43851&amp;groupno=43851&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 08 Aug 2022 05:39:30 GMT</pubDate>
@@ -161,7 +161,7 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080516235668.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022 정성하 단독 콘서트 <POETRY> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[2022 정성하 단독 콘서트 〈POETRY〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43851</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43851</guid>
             <pubDate>Mon, 08 Aug 2022 05:39:41 GMT</pubDate>
