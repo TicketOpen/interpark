@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 04:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 04:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
             <content:encoded><![CDATA[22.08.08(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 <러브레터 LOVE LETTERS> 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[연극 <러브레터> LOVE LETTERS 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43842&amp;groupno=43842&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43842&amp;groupno=43842&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 05 Aug 2022 08:42:07 GMT</pubDate>
@@ -185,10 +185,10 @@
             <pubDate>Sat, 06 Aug 2022 05:35:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.08
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080612441805.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010101_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[연극 <러브레터 LOVE LETTERS> 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[연극 <러브레터> LOVE LETTERS 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43842</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43842</guid>
             <pubDate>Fri, 05 Aug 2022 08:42:19 GMT</pubDate>
