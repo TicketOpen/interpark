@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 08:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <오션스> 쇼케이스 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43857&amp;groupno=43857&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43857&amp;groupno=43857&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 08 Aug 2022 09:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.10(수)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－화성 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43856&amp;groupno=43856&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.08.11(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 AUTUMN 노들 노을 페스타 (NODEUL NOEUL FESTA) 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43839&amp;groupno=43839&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43839&amp;groupno=43839&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 05 Aug 2022 07:35:36 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.10(수)&nbsp;12:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <오션스> 쇼케이스 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43857</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43857</guid>
+            <pubDate>Mon, 08 Aug 2022 09:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.10
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080817044938.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－화성 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.08.16
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080515492659.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 〈적벽〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43847</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43847</guid>
-            <pubDate>Mon, 08 Aug 2022 02:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011991_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -350,6 +350,13 @@
             <content:encoded><![CDATA[21.11.01(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <오션스> 쇼케이스 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43857&amp;groupno=43857&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43857&amp;groupno=43857&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 08 Aug 2022 09:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.10(수)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－화성 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43856&amp;groupno=43856&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43856&amp;groupno=43856&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -467,13 +474,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43794&amp;groupno=43794&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 03 Aug 2022 02:56:00 GMT</pubDate>
             <content:encoded><![CDATA[22.08.05(금)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <고고다이노 우리동네공룡> - 천안 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43793&amp;groupno=43793&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43793&amp;groupno=43793&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 03 Aug 2022 02:56:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.05(금)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유주(YUJU) 공식 팬클럽 'LUVU' 1기 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
