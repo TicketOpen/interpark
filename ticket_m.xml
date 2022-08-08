@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 07:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 08:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－화성 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43856</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43856</guid>
+            <pubDate>Mon, 08 Aug 2022 08:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.11
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080719460621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 전국투어 콘서트 <박창근> - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43855</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43855</guid>
+            <pubDate>Mon, 08 Aug 2022 08:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220808044448.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추억의 콘서트 <어떤가요 #2> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43854</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.08.16
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21011991_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈엉덩이 탐정〉 - 서울마포 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43846</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43846</guid>
-            <pubDate>Mon, 08 Aug 2022 02:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.08
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010041_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[Lilly feat Gilad Hekselman (대구) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43845</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43845</guid>
-            <pubDate>Mon, 08 Aug 2022 02:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.09
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010088_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
