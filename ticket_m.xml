@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 02:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 04:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사계 2050, 잃어버린 계절 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43848</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43848</guid>
+            <pubDate>Mon, 08 Aug 2022 04:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080515492659.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 〈적벽〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43847</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.10
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080420531936.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민형의 FAQ 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43838</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43838</guid>
-            <pubDate>Fri, 05 Aug 2022 07:35:47 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080215030198.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
