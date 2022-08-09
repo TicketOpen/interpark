@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 02:53:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다(부산).. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43871&amp;groupno=43871&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43871&amp;groupno=43871&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 09 Aug 2022 04:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.16(화)&nbsp;12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 송가인 전국투어 콘서트 - 강릉 공연 취소 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43870&amp;groupno=43870&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.08.10(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022이승환 콘서트 〈우리 그때〉 - 창원 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43853&amp;groupno=43853&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43853&amp;groupno=43853&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 08 Aug 2022 05:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.10(수)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다(부산) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43871</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43871</guid>
+            <pubDate>Tue, 09 Aug 2022 04:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080414430359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 최현우 <THE BRAIN> - 청주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.08.09
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010093_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[KBS교향악단과 함께하는 제6회 여수음악제 체임버연주회 1 With 기타리스트 박규희 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43860</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43860</guid>
-            <pubDate>Tue, 09 Aug 2022 02:52:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.09
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010115_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리.. (인터파크 티켓 ─ 온라인)]]></title>
