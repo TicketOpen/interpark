@@ -4,15 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 05:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 06:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <볼륨업> 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43877&amp;groupno=43877&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43877&amp;groupno=43877&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 09 Aug 2022 06:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.12(금)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[라포엠과 함께하는 세계가곡의 밤 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43876&amp;groupno=43876&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43876&amp;groupno=43876&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 09 Aug 2022 05:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.10(수)&nbsp;16:00]]></content:encoded>
+            <content:encoded><![CDATA[22.08.16(화)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈안나, 차이코프스키〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -127,18 +134,20 @@
             <content:encoded><![CDATA[22.08.09(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KBS교향악단과 함께하는 제6회 여수음악제 폐막연주회 - 여섯 번째 .. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43859&amp;groupno=43859&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43859&amp;groupno=43859&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 09 Aug 2022 02:52:21 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.09(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 <볼륨업> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43877</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43877</guid>
+            <pubDate>Tue, 09 Aug 2022 06:46:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080517080631.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라포엠과 함께하는 세계가곡의 밤 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43876</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43876</guid>
             <pubDate>Tue, 09 Aug 2022 05:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.10
+            <content:encoded><![CDATA[2022.08.16
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080815310082.jpg" length="0" type="image/jpg"/>
         </item>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.08.11
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080814483489.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉－광주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43866</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43866</guid>
-            <pubDate>Tue, 09 Aug 2022 02:52:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.11
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080816353797.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -350,6 +350,13 @@
             <content:encoded><![CDATA[21.11.01(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 <볼륨업> 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43877&amp;groupno=43877&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43877&amp;groupno=43877&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 09 Aug 2022 06:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.12(금)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈안나, 차이코프스키〉 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43875&amp;groupno=43875&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43875&amp;groupno=43875&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -467,13 +474,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43810&amp;groupno=43810&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Thu, 04 Aug 2022 04:12:11 GMT</pubDate>
             <content:encoded><![CDATA[22.08.09(화)&nbsp;11:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－인천 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43807&amp;groupno=43807&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43807&amp;groupno=43807&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 04 Aug 2022 02:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.08(월)&nbsp;10:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유주(YUJU) 공식 팬클럽 'LUVU' 1기 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>

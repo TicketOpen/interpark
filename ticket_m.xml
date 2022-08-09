@@ -4,15 +4,24 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 05:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 06:47:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <볼륨업> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43877</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43877</guid>
+            <pubDate>Tue, 09 Aug 2022 06:46:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080517080631.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[라포엠과 함께하는 세계가곡의 밤 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43876</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43876</guid>
             <pubDate>Tue, 09 Aug 2022 05:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.10
+            <content:encoded><![CDATA[2022.08.16
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080815310082.jpg" length="0" type="image/jpg"/>
         </item>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.11
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080814483489.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉－광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43866</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43866</guid>
-            <pubDate>Tue, 09 Aug 2022 02:52:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.11
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080816353797.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
