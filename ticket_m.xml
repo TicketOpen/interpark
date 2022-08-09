@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 07:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 08:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NELL’S SEASON 2022 ‘The Great Escape’ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43878</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43878</guid>
+            <pubDate>Tue, 09 Aug 2022 08:42:41 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220809045936.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <볼륨업> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43877</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.12
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080516285373.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(2022 부산) 밥벌레 장군과 호랑이 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43867</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43867</guid>
-            <pubDate>Tue, 09 Aug 2022 02:52:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.11
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080814483489.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
