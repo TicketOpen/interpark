@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 08:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 09:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LUCY 세 번째 단독 콘서트 〈Childhood〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43900&amp;groupno=43900&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43900&amp;groupno=43900&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 10 Aug 2022 09:38:20 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.16(화)&nbsp;20:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[한국-오스트리아 수교 130주년 기념 :  브루크너 오케스트라 린츠 내.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43899&amp;groupno=43899&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.08.12(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 캐치! 티니핑 <프린세스 다이어리> - 대구앵콜 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43882&amp;groupno=43882&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43882&amp;groupno=43882&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 10 Aug 2022 02:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.12(금)&nbsp;09:00]]></content:encoded>
+            <title><![CDATA[LUCY 세 번째 단독 콘서트 〈Childhood〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43900</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43900</guid>
+            <pubDate>Wed, 10 Aug 2022 09:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220810054642.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국-오스트리아 수교 130주년 기념 :  브루크너 오케스트라 린츠 내한공연 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.08.12
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080516001865.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[As always, Summer like U 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43890</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43890</guid>
-            <pubDate>Wed, 10 Aug 2022 02:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080814592881.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리.. (인터파크 티켓 ─ 온라인)]]></title>
