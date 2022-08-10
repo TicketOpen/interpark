@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 02:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 03:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘서트 브랜디드 포커시드 VOL.1 <헤르쯔 아날로그> 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43891&amp;groupno=43891&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43891&amp;groupno=43891&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 10 Aug 2022 03:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.12(금)&nbsp;12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[As always, Summer like U 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43890&amp;groupno=43890&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.08.18(목)&nbsp;13:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022 이미자 노래인생 60년 기념 음악회  - 전주 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43873&amp;groupno=43873&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43873&amp;groupno=43873&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 09 Aug 2022 05:41:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.11(목)&nbsp;15:00]]></content:encoded>
+            <title><![CDATA[콘서트 브랜디드 포커시드 VOL.1 <헤르쯔 아날로그> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43891</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43891</guid>
+            <pubDate>Wed, 10 Aug 2022 03:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080516001865.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[As always, Summer like U 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.08.12
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080909245845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 부산 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43881</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43881</guid>
-            <pubDate>Wed, 10 Aug 2022 02:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080909291320.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리.. (인터파크 티켓 ─ 온라인)]]></title>
