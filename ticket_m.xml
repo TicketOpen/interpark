@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 23:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 02:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 송골매 전국 투어 콘서트:열망(熱望)-대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43901</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43901</guid>
+            <pubDate>Thu, 11 Aug 2022 02:30:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081011302610.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[LUCY 세 번째 단독 콘서트 〈Childhood〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43900</link>
@@ -50,7 +59,7 @@
             <pubDate>Wed, 10 Aug 2022 05:35:55 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.12
                                     <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081012174354.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010400_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 티켓오픈 안내]]></title>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.12
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080516001865.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[As always, Summer like U 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43890</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43890</guid>
-            <pubDate>Wed, 10 Aug 2022 15:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080814592881.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
