@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 08:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 09:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그랜드 민트 페스티벌 2022 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43910</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43910</guid>
+            <pubDate>Thu, 11 Aug 2022 09:39:27 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.23
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081018492335.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연극 <여자의 평화:리시스트라테> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43909</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.18
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081011302610.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LUCY 세 번째 단독 콘서트 〈Childhood〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43900</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43900</guid>
-            <pubDate>Wed, 10 Aug 2022 09:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220810054642.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
