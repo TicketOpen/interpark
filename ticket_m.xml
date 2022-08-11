@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 04:50:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 05:37:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 창원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43907</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43907</guid>
+            <pubDate>Thu, 11 Aug 2022 05:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080917220747.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 장윤정 라이브 콘서트 - 제주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43906</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43906</guid>
+            <pubDate>Thu, 11 Aug 2022 05:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.17
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081015394532.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 춘천 팸팸 페스타 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43905</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43905</guid>
+            <pubDate>Thu, 11 Aug 2022 05:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <디어 마이 라이카> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43904</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43904</guid>
+            <pubDate>Thu, 11 Aug 2022 05:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080911265326.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로맨틱 코믹 체력극 〈신바람 삼대〉 9월 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43903</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.08.16
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈서편제〉 OP석 추가 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43896</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43896</guid>
-            <pubDate>Wed, 10 Aug 2022 06:46:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.11
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007536_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 박은빈 1st FAN MEETING <은빈노트 : 빈(斌)칸> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43895</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43895</guid>
-            <pubDate>Wed, 10 Aug 2022 05:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010400_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[예측불허 실전로맨스♥〈극적인 하룻밤〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43894</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43894</guid>
-            <pubDate>Wed, 10 Aug 2022 05:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007810_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈라흐 헤스트〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43893</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43893</guid>
-            <pubDate>Wed, 10 Aug 2022 05:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009235_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
