@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 03:35:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 04:50:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로맨틱 코믹 체력극 〈신바람 삼대〉 9월 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43903</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43903</guid>
+            <pubDate>Thu, 11 Aug 2022 04:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.12
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/20/20009530_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-지브리, 재즈를 만나다(성남) 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43902</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43902</guid>
+            <pubDate>Thu, 11 Aug 2022 04:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080813512148.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 송골매 전국 투어 콘서트:열망(熱望)-대구 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43901</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.08.17
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009235_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[명품악극〈불효자는 웁니다〉 - 창원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43892</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43892</guid>
-            <pubDate>Wed, 10 Aug 2022 05:35:55 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080917394213.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘서트 브랜디드 포커시드 VOL.1 <헤르쯔 아날로그> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43891</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43891</guid>
-            <pubDate>Wed, 10 Aug 2022 03:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080516001865.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
