@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 08:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 09:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만 알고싶은 인디 Ep.16 조제 (Josee) 단독 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43922</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43922</guid>
+            <pubDate>Fri, 12 Aug 2022 09:38:23 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.16
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080819440508.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몬스타엑스（MONSTA X）공식팬클럽 ‘MONBEBE’ 7기 모집 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43921</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.18
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081209563083.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심포니 오브 메이플스토리 전국투어 - 대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43911</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43911</guid>
-            <pubDate>Fri, 12 Aug 2022 02:37:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.17
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081011374373.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
