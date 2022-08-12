@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 02:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 04:06:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈시데레우스〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43916&amp;groupno=43916&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43916&amp;groupno=43916&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 12 Aug 2022 04:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.17(수)&nbsp;15:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[연극 〈트루웨스트〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43914&amp;groupno=43914&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.08.12(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[시를 노래하다 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43897&amp;groupno=43897&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43897&amp;groupno=43897&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 10 Aug 2022 06:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16(화)&nbsp;09:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈시데레우스〉 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43916</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43916</guid>
+            <pubDate>Fri, 12 Aug 2022 04:05:44 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.17
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007400_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 〈트루웨스트〉 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -185,7 +194,7 @@
             <pubDate>Thu, 11 Aug 2022 08:42:16 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.16
                                     <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081023315036.JPG" length="0" type="image/JPG"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010312_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 이적 소극장 콘서트 〈흔적〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -203,7 +212,7 @@
             <pubDate>Thu, 11 Aug 2022 05:36:21 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.16
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080917220747.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010481_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 장윤정 라이브 콘서트 - 제주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.08.17
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081015394532.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 춘천 팸팸 페스타 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43905</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43905</guid>
-            <pubDate>Thu, 11 Aug 2022 05:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.12
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010427_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -350,6 +350,13 @@
             <content:encoded><![CDATA[21.11.01(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈시데레우스〉 3차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43916&amp;groupno=43916&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43916&amp;groupno=43916&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 12 Aug 2022 04:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.17(수)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 창원 티켓오픈 안.. (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43907&amp;groupno=43907&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43907&amp;groupno=43907&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -467,13 +474,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43856&amp;groupno=43856&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 08 Aug 2022 08:45:45 GMT</pubDate>
             <content:encoded><![CDATA[22.08.11(목)&nbsp;10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <브론테> 프리뷰 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43852&amp;groupno=43852&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43852&amp;groupno=43852&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 08 Aug 2022 05:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.11(목)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유주(YUJU) 공식 팬클럽 'LUVU' 1기 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
