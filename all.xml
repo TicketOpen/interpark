@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 04:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 04:58:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43921&amp;groupno=43921&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 16 Aug 2022 02:54:05 GMT</pubDate>
             <content:encoded><![CDATA[22.08.16(화)&nbsp;10:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[김호중 展: 별의 노래 티켓 오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=915&amp;groupno=915&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=915&amp;groupno=915&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 16 Aug 2022 04:58:06 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.19(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 〈장수상회〉 추석맞이 특별공연 스페셜 패키지 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -134,11 +141,13 @@
             <content:encoded><![CDATA[22.08.16(화)&nbsp;17:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[가족뮤지컬 〈급식왕 - 발가락 떡볶이의 비밀〉 - 창원 티켓오픈 안.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43907&amp;groupno=43907&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43907&amp;groupno=43907&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 11 Aug 2022 05:36:12 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.16(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[김호중 展: 별의 노래 티켓 오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=915</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=915</guid>
+            <pubDate>Tue, 16 Aug 2022 04:58:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 〈장수상회〉 추석맞이 특별공연 스페셜 패키지 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2022.08.18
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081117595867.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 Just One 10 Minute In SEOUL <Starry Caravan> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43917</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43917</guid>
-            <pubDate>Fri, 12 Aug 2022 04:55:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010407_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리.. (인터파크 티켓 ─ 온라인)]]></title>
