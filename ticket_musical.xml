@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%B9%C2%C1%F6%C4%C3</id>
     <title>인터파크 티켓 ─ 뮤지컬</title>
-    <updated>2022-08-16T04:58:55.271Z</updated>
+    <updated>2022-08-16T05:35:49.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/webzine/paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 수원 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43932&amp;groupno=43932&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43932&amp;groupno=43932&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-08-16T05:35:22.778Z</updated>
+        <content type="html"><![CDATA[22.08.18(목)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <수박수영장> 인천 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43929&amp;groupno=43929&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43929&amp;groupno=43929&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-08-16T05:35:22.785Z</updated>
+        <content type="html"><![CDATA[22.08.19(금)&nbsp;14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <홀연했던 사나이> - The Last Session 녹화 중계 (MD패키지)..]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43919&amp;groupno=43919&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -116,19 +130,5 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43875&amp;groupno=43875&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-08-09T05:41:54.468Z</updated>
         <content type="html"><![CDATA[22.08.10(수)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌6 〈흔들흔들 댄스파티〉－광주 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43866&amp;groupno=43866&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43866&amp;groupno=43866&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-08-09T02:52:49.050Z</updated>
-        <content type="html"><![CDATA[22.08.11(목)&nbsp;10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <오션스> 쇼케이스 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43857&amp;groupno=43857&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43857&amp;groupno=43857&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-08-08T09:39:45.254Z</updated>
-        <content type="html"><![CDATA[22.08.10(수)&nbsp;14:00]]></content>
     </entry>
 </feed>
