@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 14:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 15:44:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,15 +24,6 @@
             <content:encoded><![CDATA[2022.08.19
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <에드거 앨런 포의 불안> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43939</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43939</guid>
-            <pubDate>Tue, 16 Aug 2022 06:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.16
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010493_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[생각지도 못한 만남, 그리고 티켓오픈 안내]]></title>
@@ -96,6 +87,15 @@
             <content:encoded><![CDATA[2022.08.19
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081012133981.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 브레드이발소 <대결! 최고의 이발사> - 수원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43932</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43932</guid>
+            <pubDate>Tue, 16 Aug 2022 15:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081113221682.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
