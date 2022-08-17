@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 07:36:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 08:44:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 시스템 정기점검 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43956&amp;groupno=43956&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43956&amp;groupno=43956&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 17 Aug 2022 08:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈배니싱〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43955&amp;groupno=43955&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -19,7 +26,7 @@
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43954&amp;groupno=43954&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43954&amp;groupno=43954&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 17 Aug 2022 07:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.19(금)&nbsp;14:00]]></content:encoded>
+            <content:encoded><![CDATA[22.08.19(금)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -127,13 +134,6 @@
             <content:encoded><![CDATA[22.08.18(목)&nbsp;00:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[크레디아 클래식 클럽 - 홍진호, 김재원 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43937&amp;groupno=43937&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43937&amp;groupno=43937&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 16 Aug 2022 06:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.17(수)&nbsp;16:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[뮤지컬 〈배니싱〉 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43955</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43955</guid>
@@ -148,7 +148,7 @@
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43954</guid>
             <pubDate>Wed, 17 Aug 2022 07:36:04 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.19
-                                    <span>14:00</span>]]></content:encoded>
+                                    <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007433_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
@@ -361,7 +361,7 @@
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43954&amp;groupno=43954&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43954&amp;groupno=43954&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 17 Aug 2022 07:36:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.19(금)&nbsp;14:00]]></content:encoded>
+            <content:encoded><![CDATA[22.08.19(금)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈사의찬미 - 10th Anniversary〉 3차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
