@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 03:02:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 04:49:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이머시브공연 <금란방>_창작가무극 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43945&amp;groupno=43945&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43945&amp;groupno=43945&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 17 Aug 2022 04:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.02(금)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[콘서트 브랜디드 포커시드 VOL.2 <디어클라우드> 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43944&amp;groupno=43944&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43944&amp;groupno=43944&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 17 Aug 2022 04:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.19(금)&nbsp;12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[연극 〈러브레터〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43943&amp;groupno=43943&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[22.08.19(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈쉬어매드니스〉 9월 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43928&amp;groupno=43928&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43928&amp;groupno=43928&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 16 Aug 2022 05:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.19(금)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[이머시브공연 <금란방>_창작가무극 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43945</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43945</guid>
+            <pubDate>Wed, 17 Aug 2022 04:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.02
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220817124014.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BLACKPINK WORLD TOUR [BORN PINK] SEOUL 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43927&amp;groupno=43927&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43927&amp;groupno=43927&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 16 Aug 2022 05:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.31(수)&nbsp;20:00]]></content:encoded>
+            <title><![CDATA[콘서트 브랜디드 포커시드 VOL.2 <디어클라우드> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43944</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43944</guid>
+            <pubDate>Wed, 17 Aug 2022 04:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081215212750.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[연극 〈러브레터〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -176,7 +194,7 @@
             <pubDate>Tue, 16 Aug 2022 06:45:53 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.18
                                     <span>00:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010575_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[크레디아 클래식 클럽 - 홍진호, 김재원 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2022.08.18
                                     <span>16:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010532_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[늦여름의 기차여행: September Train 2DM - 투 데이 올드 스니커즈, 문없는집, 모스크바서핑클럽 티켓오픈 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43934</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43934</guid>
-            <pubDate>Tue, 16 Aug 2022 06:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.17
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081117124436.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김호중 展 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=916</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=53&amp;no=916</guid>
-            <pubDate>Tue, 16 Aug 2022 05:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.19
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리.. (인터파크 티켓 ─ 온라인)]]></title>
