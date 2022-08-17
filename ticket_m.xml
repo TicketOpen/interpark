@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 08:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 09:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만 알고싶은 인디 Ep.18 서온 단독 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43957</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43957</guid>
+            <pubDate>Wed, 17 Aug 2022 09:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.18
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022080819590756.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈배니싱〉 1차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43955</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.19
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220817022414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이머시브공연 <금란방>_창작가무극 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43945</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43945</guid>
-            <pubDate>Wed, 17 Aug 2022 04:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.02
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220817124014.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
