@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 04:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 05:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지브리 페스티벌 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43949</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43949</guid>
+            <pubDate>Wed, 17 Aug 2022 05:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081616253019.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 우아한 클래식 <클래식 타임머신> - 김해 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43948</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43948</guid>
+            <pubDate>Wed, 17 Aug 2022 05:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081616555919.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 박은빈 1st FAN MEETING <은빈노트 : 빈(斌)칸> 추가티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43947</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43947</guid>
+            <pubDate>Wed, 17 Aug 2022 05:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010400_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[올 댓 라흐마니노프 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43946</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43946</guid>
+            <pubDate>Wed, 17 Aug 2022 05:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220817022414.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이머시브공연 <금란방>_창작가무극 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43945</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.08.19
                                     <span>09:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생각지도 못한 만남, 그리고 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43938</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43938</guid>
-            <pubDate>Tue, 16 Aug 2022 06:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.18
-                                    <span>00:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010575_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[크레디아 클래식 클럽 - 홍진호, 김재원 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43937</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43937</guid>
-            <pubDate>Tue, 16 Aug 2022 06:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.17
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081117382422.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 장윤정 라이브 콘서트 - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43936</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43936</guid>
-            <pubDate>Tue, 16 Aug 2022 05:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081216082475.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백건우와 그라나도스-고예스카스 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43935</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43935</guid>
-            <pubDate>Tue, 16 Aug 2022 05:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.18
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010532_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
