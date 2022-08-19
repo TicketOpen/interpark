@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 08:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 09:40:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컨템포러리 S Ⅱ 이희문 쏭폼스토리즈 <강남오아시스> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43994</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43994</guid>
+            <pubDate>Fri, 19 Aug 2022 09:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220819055453.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TIMF앙상블 2022 사운드 온 디 엣지 III - 업데이티드 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43993</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43993</guid>
+            <pubDate>Fri, 19 Aug 2022 09:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.25
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081816170530.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈서편제〉 3차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43992</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.08.24
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081816274956.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이은결 [더 일루션 - 마스터피스] - 안산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43984</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43984</guid>
-            <pubDate>Fri, 19 Aug 2022 05:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.23
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081219063460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이은결 [더 일루션 - 마스터피스] - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43983</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43983</guid>
-            <pubDate>Fri, 19 Aug 2022 05:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081219254923.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
