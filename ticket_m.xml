@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 02:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 04:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연 3차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44001</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44001</guid>
+            <pubDate>Mon, 22 Aug 2022 04:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008801_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[어벤져스 히어로즈 VS 빌런즈 영화음악 콘서트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44000</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.24
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007536_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈안나, 차이코프스키〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43991</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43991</guid>
-            <pubDate>Fri, 19 Aug 2022 08:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008759_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

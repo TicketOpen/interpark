@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 02:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 04:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44001&amp;groupno=44001&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44001&amp;groupno=44001&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 22 Aug 2022 04:49:15 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.30(화)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[어벤져스 히어로즈 VS 빌런즈 영화음악 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44000&amp;groupno=44000&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.08.23(화)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이은결 [더 일루션 - 마스터피스] - 대구 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43983&amp;groupno=43983&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43983&amp;groupno=43983&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 19 Aug 2022 05:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.23(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연 3차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44001</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44001</guid>
+            <pubDate>Mon, 22 Aug 2022 04:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008801_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[어벤져스 히어로즈 VS 빌런즈 영화음악 콘서트 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.08.24
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007536_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈안나, 차이코프스키〉 1차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43991</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43991</guid>
-            <pubDate>Fri, 19 Aug 2022 08:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008759_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -350,6 +350,13 @@
             <content:encoded><![CDATA[21.11.01(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈엘리자벳〉 10주년 기념공연 3차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44001&amp;groupno=44001&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44001&amp;groupno=44001&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 22 Aug 2022 04:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.30(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[가족뮤지컬 <미니특공대 : 애니멀트론> - 부산 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43997&amp;groupno=43997&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43997&amp;groupno=43997&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -467,13 +474,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43932&amp;groupno=43932&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Tue, 16 Aug 2022 05:35:22 GMT</pubDate>
             <content:encoded><![CDATA[22.08.18(목)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 <수박수영장> 인천 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43929&amp;groupno=43929&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43929&amp;groupno=43929&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 16 Aug 2022 05:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.19(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[몬스타엑스（MONSTA X）공식팬클럽 ‘MONBEBE’ 7기 모집 티켓오픈 .. (인터파크 티켓 ─ 팬클럽)]]></title>
