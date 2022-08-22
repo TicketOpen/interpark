@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:40:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제이유나(J.UNA) 1st Concert [Natural] 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44009&amp;groupno=44009&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44009&amp;groupno=44009&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 22 Aug 2022 09:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.29(월)&nbsp;18:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[베어 더 뮤지컬(bare the musical) 추가 공연 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44008&amp;groupno=44008&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[22.08.24(수)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 〈안나, 차이코프스키〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43991&amp;groupno=43991&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=43991&amp;groupno=43991&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 19 Aug 2022 08:45:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.22(월)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[제이유나(J.UNA) 1st Concert [Natural] 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44009</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44009</guid>
+            <pubDate>Mon, 22 Aug 2022 09:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.29
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220822054820.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베어 더 뮤지컬(bare the musical) 추가 공연 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.08.25
                                     <span>13:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220822100500.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 변진섭 전국투어 콘서트 : 변천사 - 성남 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43998</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=43998</guid>
-            <pubDate>Mon, 22 Aug 2022 02:58:29 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081717103915.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리.. (인터파크 티켓 ─ 온라인)]]></title>
