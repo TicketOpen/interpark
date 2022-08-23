@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 06:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 06:56:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,6 +20,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43927&amp;groupno=43927&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 22 Aug 2022 14:35:54 GMT</pubDate>
             <content:encoded><![CDATA[22.08.31(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[정동하&알리 콘체르토 <불후의 클래식> 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44030&amp;groupno=44030&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44030&amp;groupno=44030&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 23 Aug 2022 06:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.26(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사이먼 래틀 & 런던 심포니 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -141,11 +148,13 @@
             <content:encoded><![CDATA[22.08.24(수)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[이은결 [더 일루션 - 마스터피스] - 천안 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44011&amp;groupno=44011&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44011&amp;groupno=44011&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Tue, 23 Aug 2022 03:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.26(금)&nbsp;09:00]]></content:encoded>
+            <title><![CDATA[정동하&알리 콘체르토 <불후의 클래식> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44030</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44030</guid>
+            <pubDate>Tue, 23 Aug 2022 06:55:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082314565881.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이먼 래틀 & 런던 심포니 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -227,15 +236,6 @@
             <content:encoded><![CDATA[2022.08.24
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008832_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[아버지와 살면 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44019</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44019</guid>
-            <pubDate>Tue, 23 Aug 2022 04:59:15 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.25
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[육군 창작 뮤지컬 <블루헬멧 : 메이사의 노래> 온라인 라이브 스트리.. (인터파크 티켓 ─ 온라인)]]></title>
