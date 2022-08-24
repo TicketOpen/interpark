@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 05:56:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 06:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -174,7 +174,7 @@
             <pubDate>Wed, 24 Aug 2022 05:55:32 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220824020403.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010276_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[윤짱과 황지니의 첫번째 팬미팅 ‘ 가야 한다면’ 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
