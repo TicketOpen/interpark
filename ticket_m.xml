@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 23:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 03:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 토요키즈클래식 - 9월 KPOP으로 듣는 클래식 - 용인 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44039</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44039</guid>
+            <pubDate>Wed, 24 Aug 2022 03:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010694_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 최현우 〈THE BRAIN〉 - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44038</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44038</guid>
+            <pubDate>Wed, 24 Aug 2022 03:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 주현미 콘서트 - 서울 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44037</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44037</guid>
+            <pubDate>Wed, 24 Aug 2022 03:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082318013194.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김용준 단독콘서트 〈처음〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44036</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44036</guid>
+            <pubDate>Wed, 24 Aug 2022 03:03:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220824100151.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lacuna (라쿠나) 단독 콘서트 'Lovers' 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44035</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.08.26
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082314565881.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사이먼 래틀 & 런던 심포니 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44028</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44028</guid>
-            <pubDate>Tue, 23 Aug 2022 06:06:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.24
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010885_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈브론테〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44027</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44027</guid>
-            <pubDate>Tue, 23 Aug 2022 06:06:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.26
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010373_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[남산타워 벚꽃은 4월에 진다 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44026</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44026</guid>
-            <pubDate>Tue, 23 Aug 2022 06:06:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.24
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011066_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[연극〈오만과 편견〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44025</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44025</guid>
-            <pubDate>Tue, 23 Aug 2022 06:06:08 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.25
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009475_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
