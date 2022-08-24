@@ -1,8 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://mticket.interpark.com/Notice/</id>
-    <title>인터파크 티켓 모바일</title>
-    <updated>2022-08-24T21:36:55.682Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://mticket.interpark.com/Notice/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>인터파크 티켓 모바일</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 24 Aug 2022 22:40:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘도 딴딴 - 대구 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44049</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44049</guid>
+            <pubDate>Wed, 24 Aug 2022 22:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26
+                                    <span>18:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082216085777.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이라이브뮤지컬 '사운드 오브 뮤직'-목동 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44047</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44047</guid>
+            <pubDate>Wed, 24 Aug 2022 22:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082319101485.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ 2022 Theatre 이문세 ] - 제주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44046</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44046</guid>
+            <pubDate>Wed, 24 Aug 2022 22:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220824035818.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김혁 색소폰 콘서트 2022: 재즈 읽어주는 남자 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44045</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44045</guid>
+            <pubDate>Wed, 24 Aug 2022 22:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.25
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011151_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 조항조＆진성 <앙상블콘서트> - 천안 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44044</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44044</guid>
+            <pubDate>Wed, 24 Aug 2022 22:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081714305184.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조항조＆진성 〈앙상블콘서트〉 - 전주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44043</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44043</guid>
+            <pubDate>Wed, 24 Aug 2022 22:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022081714520545.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 푸에르자 부르타 웨이라 인 서울 [2022 FUERZA BRUTA WAYRA IN SEOUL] 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44042</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44042</guid>
+            <pubDate>Wed, 24 Aug 2022 22:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010276_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[윤짱과 황지니의 첫번째 팬미팅 ‘ 가야 한다면’ 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44041</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44041</guid>
+            <pubDate>Wed, 24 Aug 2022 22:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082216075301.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 〈82년생 김지영〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44040</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44040</guid>
+            <pubDate>Wed, 24 Aug 2022 22:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009390_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 토요키즈클래식 - 9월 KPOP으로 듣는 클래식 - 용인 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44039</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44039</guid>
+            <pubDate>Wed, 24 Aug 2022 22:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.02
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010694_p.gif" length="0" type="image/gif"/>
+        </item>
+    </channel>
+</rss>
