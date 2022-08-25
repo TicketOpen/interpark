@@ -4,7 +4,7 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 06:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 06:59:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -50,7 +50,7 @@
             <pubDate>Thu, 25 Aug 2022 03:07:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26
                                     <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082321160942.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011232_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <트레드밀> 티켓오픈 안내]]></title>
@@ -68,7 +68,7 @@
             <pubDate>Thu, 25 Aug 2022 03:07:02 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26
                                     <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082311485929.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011208_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[한음오페라단의 추월동락 〈섶〉 티켓오픈 안내]]></title>
@@ -80,22 +80,22 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082214122677.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이성종 DOLJANCHI (이성종 돌잔치) 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44050</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44050</guid>
-            <pubDate>Thu, 25 Aug 2022 03:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.26
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082120091620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오늘도 딴딴 - 대구 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44049</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44049</guid>
             <pubDate>Wed, 24 Aug 2022 22:39:20 GMT</pubDate>
             <content:encoded><![CDATA[2022.08.26
                                     <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082216085777.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011256_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이라이브뮤지컬 '사운드 오브 뮤직'-목동 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44047</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44047</guid>
+            <pubDate>Thu, 25 Aug 2022 06:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.26
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011156_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
