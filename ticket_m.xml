@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 06:59:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 07:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈어차피 혼자〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44059</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44059</guid>
+            <pubDate>Thu, 25 Aug 2022 07:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008345_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[연극 <그녀를 용서할 수 있을까> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44058</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.26
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011256_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이라이브뮤지컬 '사운드 오브 뮤직'-목동 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44047</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44047</guid>
-            <pubDate>Thu, 25 Aug 2022 06:58:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.26
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011156_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

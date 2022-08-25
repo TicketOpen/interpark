@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 06:59:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 07:41:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43927&amp;groupno=43927&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 24 Aug 2022 22:39:10 GMT</pubDate>
             <content:encoded><![CDATA[22.08.31(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈어차피 혼자〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44059&amp;groupno=44059&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44059&amp;groupno=44059&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 25 Aug 2022 07:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.30(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[연극 <그녀를 용서할 수 있을까> 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -134,11 +141,13 @@
             <content:encoded><![CDATA[22.08.26(금)&nbsp;12:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[연극 〈82년생 김지영〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44040&amp;groupno=44040&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44040&amp;groupno=44040&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 25 Aug 2022 06:58:38 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.30(화)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈어차피 혼자〉 2차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44059</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44059</guid>
+            <pubDate>Thu, 25 Aug 2022 07:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008345_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[연극 <그녀를 용서할 수 있을까> 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2022.08.26
                                     <span>18:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011256_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[어린이라이브뮤지컬 '사운드 오브 뮤직'-목동 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44047</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44047</guid>
-            <pubDate>Thu, 25 Aug 2022 06:58:48 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.26
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011156_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 박은빈 1st FAN MEETING 〈은빈노트 : 빈(斌)칸〉 - 온라인 라.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -357,6 +357,13 @@
             <content:encoded><![CDATA[21.11.02(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈어차피 혼자〉 2차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44059&amp;groupno=44059&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44059&amp;groupno=44059&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Thu, 25 Aug 2022 07:41:08 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.30(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 <트레드밀> 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44053&amp;groupno=44053&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44053&amp;groupno=44053&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -474,13 +481,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43973&amp;groupno=43973&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 24 Aug 2022 22:39:37 GMT</pubDate>
             <content:encoded><![CDATA[22.08.24(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈킹키부츠〉 3차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43972&amp;groupno=43972&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43972&amp;groupno=43972&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 24 Aug 2022 22:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.23(화)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[몬스타엑스（MONSTA X）공식팬클럽 ‘MONBEBE’ 7기 모집 티켓오픈 .. (인터파크 티켓 ─ 팬클럽)]]></title>
