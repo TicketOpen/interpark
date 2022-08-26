@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 06:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 07:40:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈백만송이의 사랑〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44074</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44074</guid>
+            <pubDate>Fri, 26 Aug 2022 07:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011312_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[2022이승환 콘서트 〈우리 그때〉 - 고양 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44073</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.09.02
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008627_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 13차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44064</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44064</guid>
-            <pubDate>Fri, 26 Aug 2022 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.30
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007832_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>

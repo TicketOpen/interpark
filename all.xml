@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 06:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 07:40:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,13 @@
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=43927&amp;groupno=43927&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 24 Aug 2022 22:39:10 GMT</pubDate>
             <content:encoded><![CDATA[22.08.31(수)&nbsp;20:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈백만송이의 사랑〉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44074&amp;groupno=44074&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44074&amp;groupno=44074&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 26 Aug 2022 07:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.30(화)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2022이승환 콘서트 〈우리 그때〉 - 고양 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -134,11 +141,13 @@
             <content:encoded><![CDATA[22.08.30(화)&nbsp;15:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[누군가의 플레이리스트 Track. 53 오왠x홈존 콜라보 콘서트 티켓오픈.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44056&amp;groupno=44056&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44056&amp;groupno=44056&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Thu, 25 Aug 2022 06:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.29(월)&nbsp;18:00]]></content:encoded>
+            <title><![CDATA[뮤지컬 〈백만송이의 사랑〉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44074</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44074</guid>
+            <pubDate>Fri, 26 Aug 2022 07:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.30
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011312_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022이승환 콘서트 〈우리 그때〉 - 고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -220,15 +229,6 @@
             <content:encoded><![CDATA[2022.09.02
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22008627_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈알사탕〉 - 서울숲 13차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44064</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44064</guid>
-            <pubDate>Fri, 26 Aug 2022 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.30
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007832_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 박은빈 1st FAN MEETING 〈은빈노트 : 빈(斌)칸〉 - 온라인 라.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -357,6 +357,13 @@
             <content:encoded><![CDATA[21.11.02(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[뮤지컬 〈백만송이의 사랑〉 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44074&amp;groupno=44074&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44074&amp;groupno=44074&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Fri, 26 Aug 2022 07:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[22.08.30(화)&nbsp;15:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[2022 웰컴대학로-웰컴씨어터 뮤지컬 <미아 파밀리아> 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44071&amp;groupno=44071&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44071&amp;groupno=44071&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -472,13 +479,6 @@
             <title><![CDATA[가족뮤지컬 <미니특공대 : 애니멀트론> - 부산 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43997&amp;groupno=43997&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43997&amp;groupno=43997&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 24 Aug 2022 22:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[22.08.24(수)&nbsp;10:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬 <미니특공대 : 애니멀트론> -  대전 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43996&amp;groupno=43996&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=43996&amp;groupno=43996&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Wed, 24 Aug 2022 22:39:37 GMT</pubDate>
             <content:encoded><![CDATA[22.08.24(수)&nbsp;10:00]]></content:encoded>
         </item>
