@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 05:04:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 06:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022이승환 콘서트 〈우리 그때〉 - 고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44073</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44073</guid>
+            <pubDate>Fri, 26 Aug 2022 06:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.08.29
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082314455412.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 주현미 콘서트 - 부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44072</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.08.30
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/21/21007832_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈테레즈 라캥〉 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44063</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44063</guid>
-            <pubDate>Fri, 26 Aug 2022 03:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22010019_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
