@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 06:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 07:52:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가족뮤지컬 <드래곤하이> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44120</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44120</guid>
+            <pubDate>Wed, 31 Aug 2022 07:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.05
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022083113510481.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈배니싱〉 2차 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44119</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.09.01
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082817215600.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIF 케이팝 아이돌 페스티벌 송도 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44109</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44109</guid>
-            <pubDate>Tue, 30 Aug 2022 06:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.02
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022083014324443.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
