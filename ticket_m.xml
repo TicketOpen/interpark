@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 07:52:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 08:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022월드오케스트라시리즈 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44121</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44121</guid>
+            <pubDate>Wed, 31 Aug 2022 08:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022083016530326.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가족뮤지컬 <드래곤하이> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44120</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.09.02
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082412215630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 송골매 전국 투어 콘서트:열망(熱望)-광주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44110</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44110</guid>
-            <pubDate>Wed, 31 Aug 2022 03:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.01
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082817215600.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
