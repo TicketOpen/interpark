@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 23:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 03:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 송가인 전국투어 콘서트 - 목포 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44112</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44112</guid>
+            <pubDate>Wed, 31 Aug 2022 03:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022083017200175.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ 익산 ] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44111</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44111</guid>
+            <pubDate>Wed, 31 Aug 2022 03:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.02
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082412215630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 송골매 전국 투어 콘서트:열망(熱望)-광주 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44110</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44110</guid>
+            <pubDate>Wed, 31 Aug 2022 03:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.01
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082817215600.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KIF 케이팝 아이돌 페스티벌 송도 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44109</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.09.07
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <가면산장 살인사건> 한국 초연 1차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44103</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44103</guid>
-            <pubDate>Tue, 30 Aug 2022 05:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.06
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082415325154.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈갈매기〉 - 전주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44102</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44102</guid>
-            <pubDate>Tue, 30 Aug 2022 05:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.31
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011412_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[히사이시 조 OST 콘서트 : 디 오케스트라 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44101</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44101</guid>
-            <pubDate>Tue, 30 Aug 2022 05:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.08.31
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082415454638.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
