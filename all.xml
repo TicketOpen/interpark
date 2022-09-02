@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 05:04:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 06:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -15,7 +15,7 @@
             <content:encoded><![CDATA[22.09.05(월)&nbsp;16:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KIM HO JOONG CONCERT  [ ARISTRA ] 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <title><![CDATA[2022 KIM HO JOONG CONCERT TOUR [ ARISTRA ] 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44151&amp;groupno=44151&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44151&amp;groupno=44151&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Fri, 02 Sep 2022 05:03:07 GMT</pubDate>
@@ -143,13 +143,13 @@
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022083018030713.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KIM HO JOONG CONCERT  [ ARISTRA ] 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <title><![CDATA[2022 KIM HO JOONG CONCERT TOUR [ ARISTRA ] 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44151</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44151</guid>
             <pubDate>Fri, 02 Sep 2022 05:03:17 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.13
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220902015345.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220902022001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 자이브 슈퍼라이브 페스티벌 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
