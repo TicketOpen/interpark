@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 03:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 05:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 뮤지컬 <빨래> - 대전 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44161</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44161</guid>
+            <pubDate>Mon, 05 Sep 2022 05:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022083116394241.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 은가은 첫번째 단독 콘서트 “첫만남 EUN” 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44160</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44160</guid>
+            <pubDate>Mon, 05 Sep 2022 05:04:33 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정태춘 박은옥 콘서트 <아치의 노래> - 전주 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44159</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.09.08
                                     <span>17:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220902015244.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 BEST LINE-UP CONCERT 1010 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44149</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44149</guid>
-            <pubDate>Fri, 02 Sep 2022 05:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090114560458.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <히스토리 보이즈> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44148</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44148</guid>
-            <pubDate>Fri, 02 Sep 2022 05:03:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090118202023.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
