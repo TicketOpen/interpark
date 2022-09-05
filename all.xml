@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 23:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 03:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정태춘 박은옥 콘서트 <아치의 노래> - 전주 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44159&amp;groupno=44159&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44159&amp;groupno=44159&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 05 Sep 2022 03:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.08(목)&nbsp;09:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[ 세종 ] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44158&amp;groupno=44158&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44158&amp;groupno=44158&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 05 Sep 2022 03:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.08(목)&nbsp;11:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 〈쓰릴 미〉 4차 티켓오픈 안내 (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44157&amp;groupno=44157&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -120,18 +134,22 @@
             <content:encoded><![CDATA[22.09.05(월)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 캐치! 티니핑 <프린세스 다이어리> - 김해 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44142&amp;groupno=44142&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44142&amp;groupno=44142&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 02 Sep 2022 03:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.07(수)&nbsp;14:00]]></content:encoded>
+            <title><![CDATA[정태춘 박은옥 콘서트 <아치의 노래> - 전주 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44159</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44159</guid>
+            <pubDate>Mon, 05 Sep 2022 03:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090215473602.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모차르트의 <마술피리> - 부산 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44141&amp;groupno=44141&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44141&amp;groupno=44141&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 02 Sep 2022 03:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.06(화)&nbsp;09:00]]></content:encoded>
+            <title><![CDATA[[ 세종 ] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44158</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44158</guid>
+            <pubDate>Mon, 05 Sep 2022 03:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082417131061.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 〈쓰릴 미〉 4차 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -204,24 +222,6 @@
             <content:encoded><![CDATA[2022.09.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090118202023.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사라 브라이트만 내한공연 (Sarah Brightman Live in Seoul) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44147</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44147</guid>
-            <pubDate>Fri, 02 Sep 2022 03:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.16
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090112123844.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE GREATEST : 전율 정동하 X 소향 - 고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44146</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44146</guid>
-            <pubDate>Fri, 02 Sep 2022 03:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.06
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 박은빈 1st FAN MEETING 〈은빈노트 : 빈(斌)칸〉 - 온라인 라.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -350,6 +350,13 @@
             <content:encoded><![CDATA[21.11.02(화)&nbsp;11:00]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[ 세종 ] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44158&amp;groupno=44158&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44158&amp;groupno=44158&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Mon, 05 Sep 2022 03:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.08(목)&nbsp;11:00]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[뮤지컬 〈쓰릴 미〉 4차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44157&amp;groupno=44157&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44157&amp;groupno=44157&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
@@ -452,7 +459,7 @@
             <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44089&amp;groupno=44089&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44089&amp;groupno=44089&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 29 Aug 2022 06:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.05(월)&nbsp;14:00]]></content:encoded>
+            <content:encoded><![CDATA[22.09.15(목)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[팬텀 카니발 2022: 더 뮤지컬 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
@@ -467,13 +474,6 @@
             <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44083&amp;groupno=44083&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
             <pubDate>Mon, 29 Aug 2022 05:05:00 GMT</pubDate>
             <content:encoded><![CDATA[22.08.31(수)&nbsp;14:00]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가족뮤지컬［바다탐험대 옥토넛 시즌2］－창원앵콜 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-            <link>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44082&amp;groupno=44082&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44082&amp;groupno=44082&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Mon, 29 Aug 2022 05:05:00 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.02(금)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[몬스타엑스（MONSTA X）공식팬클럽 ‘MONBEBE’ 7기 모집 티켓오픈 .. (인터파크 티켓 ─ 팬클럽)]]></title>
