@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 05:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 M인디열전 〈#4. 로맨틱 펀치〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44175</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44175</guid>
+            <pubDate>Tue, 06 Sep 2022 06:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090614005418.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈라흐 헤스트〉 2차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44174</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44174</guid>
+            <pubDate>Tue, 06 Sep 2022 06:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009235_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[더 키드 라로이 내한공연 (The Kid LAROI Live in Seoul) 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44173</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.09.08
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090515000920.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 송가인 전국투어 콘서트 - 천안 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44162</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44162</guid>
-            <pubDate>Mon, 05 Sep 2022 07:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090514421849.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 뮤지컬 <빨래> - 대전 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44161</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44161</guid>
-            <pubDate>Mon, 05 Sep 2022 05:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022083116394241.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
