@@ -4,9 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 03:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 05:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 〈킹키부츠〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=44117&amp;groupno=44117&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=44117&amp;groupno=44117&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 06 Sep 2022 05:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.06(화)&nbsp;14:00]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[더 키드 라로이 내한공연 (The Kid LAROI Live in Seoul) 티켓오픈 .. (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44173&amp;groupno=44173&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44173&amp;groupno=44173&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Tue, 06 Sep 2022 05:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.14(수)&nbsp;12:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-크리스마스, 재즈를 만나다- .. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44171&amp;groupno=44171&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +141,13 @@
             <content:encoded><![CDATA[22.09.07(수)&nbsp;14:00]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 임재범 전국투어 콘서트 서울<집으로 돌아 가는길...> 티켓오.. (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44153&amp;groupno=44153&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44153&amp;groupno=44153&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Fri, 02 Sep 2022 07:00:50 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.08(목)&nbsp;11:00]]></content:encoded>
+            <title><![CDATA[더 키드 라로이 내한공연 (The Kid LAROI Live in Seoul) 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44173</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44173</guid>
+            <pubDate>Tue, 06 Sep 2022 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.14
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011682_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-크리스마스, 재즈를 만나다- 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +229,6 @@
             <content:encoded><![CDATA[2022.09.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022083116394241.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 은가은 첫번째 단독 콘서트 “첫만남 EUN” 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44160</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44160</guid>
-            <pubDate>Mon, 05 Sep 2022 05:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220905032454.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 박은빈 1st FAN MEETING 〈은빈노트 : 빈(斌)칸〉 - 온라인 라.. (인터파크 티켓 ─ 온라인)]]></title>
