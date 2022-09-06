@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2022-09-06T08:48:46.267Z</updated>
+    <updated>2022-09-06T09:40:59.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=44117&amp;groupno=44117&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-09-06T05:10:02.516Z</updated>
         <content type="html"><![CDATA[22.09.06(화)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 AWESOME MUSIC FESTIVAL - 할인티켓 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44181&amp;groupno=44181&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44181&amp;groupno=44181&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-09-06T09:40:00.505Z</updated>
+        <content type="html"><![CDATA[22.09.08(목)&nbsp;19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 부정 (DENIAL) 티켓오픈 안내]]></title>
@@ -46,13 +53,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44176&amp;groupno=44176&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-09-06T07:52:48.011Z</updated>
         <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 M인디열전 〈#4. 로맨틱 펀치〉 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44175&amp;groupno=44175&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44175&amp;groupno=44175&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-09-06T06:41:25.661Z</updated>
-        <content type="html"><![CDATA[22.09.15(목)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈라흐 헤스트〉 2차 티켓오픈 안내]]></title>
