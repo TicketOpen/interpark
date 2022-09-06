@@ -4,9 +4,44 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:53:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이정석 콘서트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44179</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44179</guid>
+            <pubDate>Tue, 06 Sep 2022 07:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2030 부산세계박람회 유치 기원 콘서트 BTS 〈Yet To Come〉 in BUSAN 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44178</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44178</guid>
+            <pubDate>Tue, 06 Sep 2022 07:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.19
+                                    <span>20:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011461_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[DEEPLY,<하림,정인,곽진언> - 울산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44177</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44177</guid>
+            <pubDate>Tue, 06 Sep 2022 07:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090515310759.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노을 20주년 전국투어 콘서트 <스물> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44176</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44176</guid>
+            <pubDate>Tue, 06 Sep 2022 07:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span>추후공지</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090614571275.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 M인디열전 〈#4. 로맨틱 펀치〉 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44175</link>
@@ -60,42 +95,6 @@
             <content:encoded><![CDATA[2022.09.08
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022083112265423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬텀 듀오 김성식 김바울 콘서트 [ man to man ] - 인천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44166</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44166</guid>
-            <pubDate>Mon, 05 Sep 2022 09:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08
-                                    <span>12:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090515510591.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 TOP6 전국투어 콘서트 〈The Original〉 - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44165</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44165</guid>
-            <pubDate>Mon, 05 Sep 2022 07:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.15
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090223274569.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싱어게인2 TOP6 전국투어 콘서트 〈The Original〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44164</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44164</guid>
-            <pubDate>Mon, 05 Sep 2022 07:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.15
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090223254609.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 송가인 전국투어 콘서트 - 부천 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44163</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44163</guid>
-            <pubDate>Mon, 05 Sep 2022 07:05:18 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090515000920.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
