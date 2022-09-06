@@ -4,9 +4,36 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 23:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 03:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 카즈미 타테이시 트리오 내한공연-크리스마스, 재즈를 만나다- 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44171</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44171</guid>
+            <pubDate>Tue, 06 Sep 2022 03:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.13
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082917514900.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세인트 조앤 Saint Joan 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44169</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44169</guid>
+            <pubDate>Tue, 06 Sep 2022 03:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.07
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011748_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 최현우 <THE BRAIN> - 익산 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44168</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44168</guid>
+            <pubDate>Tue, 06 Sep 2022 03:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022083112265423.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬텀 듀오 김성식 김바울 콘서트 [ man to man ] - 인천 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44166</link>
@@ -69,33 +96,6 @@
             <content:encoded><![CDATA[2022.09.08
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220905032454.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정태춘 박은옥 콘서트 <아치의 노래> - 전주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44159</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44159</guid>
-            <pubDate>Mon, 05 Sep 2022 03:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08
-                                    <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090215473602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ 세종 ] 번개맨 뮤지컬 : 우주최강 번개삼총사 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44158</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44158</guid>
-            <pubDate>Mon, 05 Sep 2022 03:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022082417131061.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈쓰릴 미〉 4차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44157</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44157</guid>
-            <pubDate>Fri, 02 Sep 2022 08:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.08
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22007353_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
