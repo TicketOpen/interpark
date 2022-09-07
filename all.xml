@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 14:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 15:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -188,15 +188,6 @@
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011381_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[베이스 연광철 리사이틀 -고양 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44197</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44197</guid>
-            <pubDate>Wed, 07 Sep 2022 05:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.07
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011859_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
             <title><![CDATA[2022 김창옥 토크콘서트 시즌3-순천 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44196</link>
             <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44196</guid>
@@ -222,6 +213,15 @@
             <content:encoded><![CDATA[2022.09.21
                                     <span>15:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011875_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <킹키부츠> - 대구 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44193</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44193</guid>
+            <pubDate>Wed, 07 Sep 2022 15:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.14
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220907125548.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 박은빈 1st FAN MEETING 〈은빈노트 : 빈(斌)칸〉 - 온라인 라.. (인터파크 티켓 ─ 온라인)]]></title>
