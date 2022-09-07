@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 08:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 09:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -149,7 +149,7 @@
             <pubDate>Wed, 07 Sep 2022 06:41:10 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.08
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090710533339.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011914_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> (Musical Jesus Christ Superstar) 50주년 기념 한국 공연 티켓오픈 (인터파크 티켓 모바일)]]></title>
@@ -203,7 +203,7 @@
             <pubDate>Wed, 07 Sep 2022 05:14:59 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.08
                                     <span>09:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011931_p.gif" length="0" type="image/gif"/>
         </item>
         <item>
             <title><![CDATA[히사이시 조 영화음악 콘서트 2022_대전 앙코르 오피석 추가 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
