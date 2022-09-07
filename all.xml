@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 05:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 06:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포르테 디 콰트로 언플러그드 콘서트: 메타포닉 티켓오픈 안내 (인터파크 티켓)]]></title>
+            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44200&amp;groupno=44200&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
+            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44200&amp;groupno=44200&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
+            <pubDate>Wed, 07 Sep 2022 06:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[22.09.08(목)&nbsp;14:00]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> (Musical Jesus Christ Supers.. (인터파크 티켓)]]></title>
             <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44199&amp;groupno=44199&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
@@ -127,11 +134,13 @@
             <content:encoded><![CDATA[&nbsp;]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[제 몫 티켓오픈 안내 (인터파크 티켓)]]></title>
-            <link>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44182&amp;groupno=44182&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</link>
-            <guid>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44182&amp;groupno=44182&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</guid>
-            <pubDate>Wed, 07 Sep 2022 03:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[22.09.07(수)&nbsp;09:00]]></content:encoded>
+            <title><![CDATA[포르테 디 콰트로 언플러그드 콘서트: 메타포닉 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44200</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44200</guid>
+            <pubDate>Wed, 07 Sep 2022 06:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.08
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090710533339.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뮤지컬 <지저스 크라이스트 수퍼스타> (Musical Jesus Christ Superstar) 50주년 기념 한국 공연 티켓오픈 (인터파크 티켓 모바일)]]></title>
@@ -213,15 +222,6 @@
             <content:encoded><![CDATA[2022.09.14
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220907125548.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GLOBAL OFFICIAL FANCLUB 'GLASSY' 1기 티켓오픈 안내 (인터파크 티켓 모바일)]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44192</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44192</guid>
-            <pubDate>Wed, 07 Sep 2022 03:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.13
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220907013011.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 박은빈 1st FAN MEETING 〈은빈노트 : 빈(斌)칸〉 - 온라인 라.. (인터파크 티켓 ─ 온라인)]]></title>
