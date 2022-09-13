@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 06:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 07:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 jun p <Interlude> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44251</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44251</guid>
+            <pubDate>Tue, 13 Sep 2022 07:52:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.16
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091311253667.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베로나의 두 신사 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44250</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44250</guid>
+            <pubDate>Tue, 13 Sep 2022 07:52:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.14
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012095_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[세계로 날으샤! 풍류재즈 [NARSHA] 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44249</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.09.15
                                     <span>10:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090715353644.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈트루웨스트〉 2차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44240</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44240</guid>
-            <pubDate>Tue, 13 Sep 2022 03:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.15
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009662_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[그레이트 서울 인베이전 전국투어 콘서트 - 서울 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44239</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44239</guid>
-            <pubDate>Thu, 08 Sep 2022 09:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.13
-                                    <span>18:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011919_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
