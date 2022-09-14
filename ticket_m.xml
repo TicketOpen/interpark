@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 06:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 07:51:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연극<눈을 뜻하는 수백 가지 단어들> 앵콜 공연 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44278</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44278</guid>
+            <pubDate>Wed, 14 Sep 2022 07:50:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.21
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091411574937.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[햄릿광대 난장 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44277</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44277</guid>
+            <pubDate>Wed, 14 Sep 2022 07:50:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.19
+                                    <span>09:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091315013193.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로맨틱 코믹 체력극 〈신바람 삼대〉 10월 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44276</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.09.28
                                     <span>20:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220914021745.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘서트 오페라 < 피가로의 결혼 > 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44268</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44268</guid>
-            <pubDate>Wed, 14 Sep 2022 05:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.14
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김두민 첼로 리사이틀_바흐 무반주 첼로 모음곡 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44267</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44267</guid>
-            <pubDate>Wed, 14 Sep 2022 05:02:40 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.14
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
