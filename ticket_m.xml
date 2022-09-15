@@ -4,9 +4,45 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 05:03:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 06:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국립오페라단 <라 트라비아타> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44294</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44294</guid>
+            <pubDate>Thu, 15 Sep 2022 06:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.20
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[히사이시 조 영화음악 콘서트 2022_서울 파이널 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44293</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44293</guid>
+            <pubDate>Thu, 15 Sep 2022 06:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091413031270.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겹괴기담 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44292</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44292</guid>
+            <pubDate>Thu, 15 Sep 2022 06:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091415512923.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 가을페스티벌 〈정희정〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44291</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44291</guid>
+            <pubDate>Thu, 15 Sep 2022 06:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.15
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012081_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[이은결 〈Magic & Illusion〉 - 강동 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44290</link>
@@ -60,42 +96,6 @@
             <content:encoded><![CDATA[2022.09.19
                                     <span>12:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022090815150942.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안드라스 쉬프 피아노 리사이틀 - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44284</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44284</guid>
-            <pubDate>Wed, 14 Sep 2022 09:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.15
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091317452496.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안드라스 쉬프 피아노 리사이틀 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44283</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44283</guid>
-            <pubDate>Wed, 14 Sep 2022 09:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.15
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091317383356.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거미 20주년 전국투어 콘서트 〈BE ORIGIN〉 - 울산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44282</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44282</guid>
-            <pubDate>Wed, 14 Sep 2022 08:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.19
-                                    <span>17:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091410494547.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거미 20주년 전국투어 콘서트 〈BE ORIGIN〉 - 대구 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44281</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44281</guid>
-            <pubDate>Wed, 14 Sep 2022 08:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.19
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091410480847.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
