@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 08:52:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 09:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[바로크 투게더 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44299</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44299</guid>
+            <pubDate>Thu, 15 Sep 2022 09:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.28
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220915060255.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한강노들섬오페라 [마술피리] 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44298</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44298</guid>
+            <pubDate>Thu, 15 Sep 2022 09:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.19
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091318201666.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022-23 YB TOUR LIGHTS - 부산 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44297</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.09.22
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091410131904.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 전국투어 콘서트 <박창근> - 청주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44289</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44289</guid>
-            <pubDate>Thu, 15 Sep 2022 05:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2030 부산세계박람회 유치 기원 콘서트 BTS 〈Yet To Come〉 in BUSAN 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44288</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44288</guid>
-            <pubDate>Thu, 15 Sep 2022 03:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.19
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22011461_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
