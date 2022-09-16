@@ -4,9 +4,81 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 03:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 05:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뮤지컬 <랭보> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44312</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44312</guid>
+            <pubDate>Fri, 16 Sep 2022 05:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.22
+                                    <span>11:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091519341760.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <빨래> - 고양 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44311</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44311</guid>
+            <pubDate>Fri, 16 Sep 2022 05:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.20
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091416190815.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스탠딩에그 단독 콘서트 - 창원 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44310</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44310</guid>
+            <pubDate>Fri, 16 Sep 2022 05:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.19
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 〈사랑의 불시착〉 마지막 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44309</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44309</guid>
+            <pubDate>Fri, 16 Sep 2022 05:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009050_p.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 코요태 콘서트 투어 〈LET's KOYOTE!〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44308</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44308</guid>
+            <pubDate>Fri, 16 Sep 2022 05:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220916013946.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팝페라테너 임형주&코리아 내셔널필 평화콘서트 〈Lost In Memory〉 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44307</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44307</guid>
+            <pubDate>Fri, 16 Sep 2022 05:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.20
+                                    <span>10:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091523202696.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뮤지컬 <브로드웨이 42번가> 1차 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44306</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44306</guid>
+            <pubDate>Fri, 16 Sep 2022 05:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.23
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091610592090.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬란하고 찬란한 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44305</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44305</guid>
+            <pubDate>Fri, 16 Sep 2022 05:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022.10.04
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091410325399.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OHM NANON 1st Fan Meeting in Korea 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44304</link>
@@ -24,78 +96,6 @@
             <content:encoded><![CDATA[2022.09.20
                                     <span>11:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091414480328.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[［창원］싱어롱 콘서트 뮤지컬 ‘Live Show’ 〈무지개 물고기〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44302</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44302</guid>
-            <pubDate>Fri, 16 Sep 2022 03:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.20
-                                    <span>11:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091415353406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐리TV 러브콘서트 KPOP - 서울 앵콜! 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44301</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44301</guid>
-            <pubDate>Fri, 16 Sep 2022 03:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.23
-                                    <span>10:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091515440191.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[별은 단독공연 〈 Star is.. 〉 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44300</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44300</guid>
-            <pubDate>Fri, 16 Sep 2022 03:24:36 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.22
-                                    <span>20:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바로크 투게더 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44299</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44299</guid>
-            <pubDate>Thu, 15 Sep 2022 09:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.28
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220915060255.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강노들섬오페라 [마술피리] 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44298</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44298</guid>
-            <pubDate>Thu, 15 Sep 2022 09:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.19
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091318201666.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022-23 YB TOUR LIGHTS - 부산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44297</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44297</guid>
-            <pubDate>Thu, 15 Sep 2022 07:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.22
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091416593721.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022-23 YB TOUR LIGHTS - 안산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44296</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44296</guid>
-            <pubDate>Thu, 15 Sep 2022 07:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.22
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091416342620.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극〈오만과 편견〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44295</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44295</guid>
-            <pubDate>Thu, 15 Sep 2022 07:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.20
-                                    <span>16:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009475_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
