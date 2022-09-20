@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 06:33:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 07:48:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최고다 호기심딱지 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44340</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44340</guid>
+            <pubDate>Tue, 20 Sep 2022 07:47:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.22
+                                    <span>14:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022092016235695.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 AWESOME MUSIC FESTIVAL - 공식티켓 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44339</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44339</guid>
+            <pubDate>Tue, 20 Sep 2022 07:47:24 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.22
+                                    <span>19:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091916491664.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS THE CITY in BUSAN - 전야 이벤트 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44338</link>
@@ -77,25 +95,7 @@
             <pubDate>Mon, 19 Sep 2022 05:10:39 GMT</pubDate>
             <content:encoded><![CDATA[2022.09.21
                                     <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022이승환 콘서트 <우리 그때>-경주 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44330</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44330</guid>
-            <pubDate>Mon, 19 Sep 2022 05:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022이승환 콘서트 <우리 그때>-울산 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44329</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44329</guid>
-            <pubDate>Mon, 19 Sep 2022 05:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.21
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012615_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
