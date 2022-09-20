@@ -4,9 +4,27 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 05:06:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 06:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BTS THE CITY in BUSAN - 전야 이벤트 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44338</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44338</guid>
+            <pubDate>Tue, 20 Sep 2022 06:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.22
+                                    <span>15:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091917523992.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 현대카드 다빈치모텔 예약권 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44337</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44337</guid>
+            <pubDate>Tue, 20 Sep 2022 06:32:19 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.23
+                                    <span>12:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22012024_p.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[대학로 1위 연극 〈쉬어매드니스〉 10월 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44336</link>
@@ -78,24 +96,6 @@
             <content:encoded><![CDATA[2022.09.21
                                     <span>14:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/main/common/mobile/noimage_vtc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 〈82년생 김지영〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44328</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44328</guid>
-            <pubDate>Mon, 19 Sep 2022 05:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.23
-                                    <span>14:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009390_p.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 〈배니싱〉 3차 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44327</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44327</guid>
-            <pubDate>Mon, 19 Sep 2022 05:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.23
-                                    <span>15:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/Play/image/large/22/22009711_p.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
