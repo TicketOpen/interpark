@@ -4,9 +4,18 @@
         <title>인터파크 티켓 모바일</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 23:47:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 03:14:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 임재범 전국투어 콘서트 일산<집으로 돌아 가는길...> 티켓오픈 안내]]></title>
+            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44333</link>
+            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44333</guid>
+            <pubDate>Tue, 20 Sep 2022 03:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022.09.23
+                                    <span>16:00</span>]]></content:encoded>
+            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/2022091921402568.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다니엘&첼리 <석양의 마티네> 티켓오픈 안내]]></title>
             <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44332</link>
@@ -87,15 +96,6 @@
             <content:encoded><![CDATA[2022.09.23
                                     <span>19:00</span>]]></content:encoded>
             <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220919010317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타코미디 오리지널 만담 시리즈 <빵송국> 티켓오픈 안내]]></title>
-            <link>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44323</link>
-            <guid>http://mticket.interpark.com/Notice/NoticeView?bn=34&amp;no=44323</guid>
-            <pubDate>Mon, 19 Sep 2022 03:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022.09.23
-                                    <span>19:00</span>]]></content:encoded>
-            <enclosure url="http://ticketimage.interpark.com/TicketImage/notice_poster/20/20220919010300.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
