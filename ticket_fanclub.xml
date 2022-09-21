@@ -2,7 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%C5%AC%B7%B4</id>
     <title>인터파크 티켓 ─ 팬클럽</title>
-    <updated>2022-09-21T15:46:04.400Z</updated>
+    <updated>2022-09-21T17:05:14.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/webzine/paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%C5%AC%B7%B4</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%C5%AC%B7%B4"/>
+        <updated>2022-09-21T17:05:05.111Z</updated>
+        <content type="html"><![CDATA[<td>쇼핑 서비스</td>
+                  <td>2022-09-22 02:00 ~ 07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%C5%AC%B7%B4</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%C5%AC%B7%B4"/>
+        <updated>2022-09-21T17:05:05.113Z</updated>
+        <content type="html"><![CDATA[<td>도서 서비스</td>
+                  <td>2022-09-22 02:00 ~ 07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%C5%AC%B7%B4</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%C5%AC%B7%B4"/>
+        <updated>2022-09-21T17:05:05.119Z</updated>
+        <content type="html"><![CDATA[<td>티켓 서비스</td>
+                  <td>2022-09-22 02:00 ~ 07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%C5%AC%B7%B4</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%C5%AC%B7%B4"/>
+        <updated>2022-09-21T17:05:05.121Z</updated>
+        <content type="html"><![CDATA[<td>투어 서비스</td>
+                  <td>2022-09-22 02:00 ~ 07:00 AM (KST)</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%C5%AC%B7%B4</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%C6%D2%C5%AC%B7%B4"/>
+        <updated>2022-09-21T17:05:05.121Z</updated>
+        <content type="html"><![CDATA[<td>글로벌 서비스</td>
+                  <td>2022-09-22 02:00 ~ 07:00 AM (KST)</td>]]></content>
+    </entry>
 </feed>
