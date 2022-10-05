@@ -2,384 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-05T10:48:59.218Z</updated>
+    <updated>2022-10-05T11:40:59.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[WITH US Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44528&amp;groupno=44528&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44528&amp;groupno=44528&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.919Z</updated>
-        <content type="html"><![CDATA[22.10.12(¼ö)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[°¡Á·¹ÂÁöÄÃ ¡´±Þ½Ä¿Õ - ¹ß°¡¶ô ¶±ººÀÌÀÇ ºñ¹Ð¡µ - Ã»ÁÖ Æ¼ÄÏ¿ÀÇÂ ¾È.. (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44527&amp;groupno=44527&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44527&amp;groupno=44527&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.919Z</updated>
+        <title type="html"><![CDATA[°¡Á·¹ÂÁöÄÃ ¡´±Þ½Ä¿Õ - ¹ß°¡¶ô ¶±ººÀÌÀÇ ºñ¹Ð¡µ - Ã»ÁÖ Æ¼ÄÏ¿ÀÇÂ ¾È.. (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44527&amp;groupno=44527&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44527&amp;groupno=44527&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.860Z</updated>
         <content type="html"><![CDATA[22.10.12(¼ö)&nbsp;09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´¹é¸¸¼ÛÀÌÀÇ »ç¶û¡µ - ±ºÆ÷ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44526&amp;groupno=44526&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44526&amp;groupno=44526&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.919Z</updated>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´¹é¸¸¼ÛÀÌÀÇ »ç¶û¡µ - ±ºÆ÷ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44526&amp;groupno=44526&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44526&amp;groupno=44526&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.861Z</updated>
         <content type="html"><![CDATA[22.10.06(¸ñ)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´¹é¸¸¼ÛÀÌÀÇ »ç¶û¡µ - °æ±â Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44525&amp;groupno=44525&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44525&amp;groupno=44525&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.921Z</updated>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´¹é¸¸¼ÛÀÌÀÇ »ç¶û¡µ - °æ±â Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44525&amp;groupno=44525&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44525&amp;groupno=44525&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.861Z</updated>
         <content type="html"><![CDATA[22.10.06(¸ñ)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´¹é¸¸¼ÛÀÌÀÇ »ç¶û¡µ - ÇÏ³² Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44524&amp;groupno=44524&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44524&amp;groupno=44524&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.921Z</updated>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´¹é¸¸¼ÛÀÌÀÇ »ç¶û¡µ - ÇÏ³² Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44524&amp;groupno=44524&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44524&amp;groupno=44524&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.864Z</updated>
         <content type="html"><![CDATA[22.10.06(¸ñ)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´¹é¸¸¼ÛÀÌÀÇ »ç¶û¡µ - À½¼º Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44523&amp;groupno=44523&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44523&amp;groupno=44523&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.921Z</updated>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´¹é¸¸¼ÛÀÌÀÇ »ç¶û¡µ - À½¼º Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44523&amp;groupno=44523&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44523&amp;groupno=44523&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.868Z</updated>
         <content type="html"><![CDATA[22.10.06(¸ñ)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´ºê·ÐÅ×¡µ 3Â÷ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44522&amp;groupno=44522&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44522&amp;groupno=44522&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.928Z</updated>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´ºê·ÐÅ×¡µ 3Â÷ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44522&amp;groupno=44522&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44522&amp;groupno=44522&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.868Z</updated>
         <content type="html"><![CDATA[22.10.11(È­)&nbsp;15:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022³â ¿¬±Ø < Ä£Á¤¾ö¸¶¿Í 2¹Ú3ÀÏ > - ´ëÀü Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44521&amp;groupno=44521&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44521&amp;groupno=44521&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.928Z</updated>
+        <title type="html"><![CDATA[2022 ¹ÂÁöÄÃ »ïÃÑ»ç - ´ëÀü Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44519&amp;groupno=44519&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44519&amp;groupno=44519&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.868Z</updated>
         <content type="html"><![CDATA[22.10.07(±Ý)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[¼Õ¿­À½ÀÇ <Ä¿Æ°ÄÝ> Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44520&amp;groupno=44520&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44520&amp;groupno=44520&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.930Z</updated>
-        <content type="html"><![CDATA[22.10.06(¸ñ)&nbsp;16:00]]></content>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´¿þ½ºÆ® »çÀÌµå ½ºÅä¸®¡µ 1Â÷ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44490&amp;groupno=44490&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44490&amp;groupno=44490&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.873Z</updated>
+        <content type="html"><![CDATA[22.10.12(¼ö)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 ¹ÂÁöÄÃ »ïÃÑ»ç - ´ëÀü Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44519&amp;groupno=44519&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44519&amp;groupno=44519&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.931Z</updated>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ <¼ö¹Ú¼ö¿µÀå> Ã»ÁÖ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44485&amp;groupno=44485&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44485&amp;groupno=44485&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.874Z</updated>
+        <content type="html"><![CDATA[22.10.06(¸ñ)&nbsp;10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ <¿ëÀÇÀÚXÀÇ Çå½Å> Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44476&amp;groupno=44476&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44476&amp;groupno=44476&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.874Z</updated>
         <content type="html"><![CDATA[22.10.07(±Ý)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[±¹¹Î¿¬±Ø <¶óÀÌ¾î 1Åº> - ÀüÁÖ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44518&amp;groupno=44518&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44518&amp;groupno=44518&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.932Z</updated>
-        <content type="html"><![CDATA[22.10.07(±Ý)&nbsp;15:00]]></content>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ <ÀÌ»óÇÑ ¾ö¸¶> Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44471&amp;groupno=44471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44471&amp;groupno=44471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.877Z</updated>
+        <content type="html"><![CDATA[22.10.06(¸ñ)&nbsp;11:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 Á¶¸í¼· ÂüÁÁÀº ¡®´Þ¹ãÀ½¾ÇÈ¸¡® - ÃáÃµ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44517&amp;groupno=44517&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44517&amp;groupno=44517&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.932Z</updated>
-        <content type="html"><![CDATA[22.10.07(±Ý)&nbsp;12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ÄÜ¼­Æ® ºê·£µðµå Æ÷Ä¿½Ãµå VOL.3 <ÄïµðÆÇ´Ù, ½ºÅ°´Ïºê¶ó¿î, ÀçÇÏ> Æ¼.. (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44516&amp;groupno=44516&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44516&amp;groupno=44516&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.933Z</updated>
-        <content type="html"><![CDATA[22.10.07(±Ý)&nbsp;12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[LOVE IN SEOUL 2022 - Á¸ ÄÉÀÌ(John K)] Ãß°¡°ø¿¬ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44515&amp;groupno=44515&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44515&amp;groupno=44515&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.934Z</updated>
-        <content type="html"><![CDATA[22.10.11(È­)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[LOVE IN SEOUL 2022 - °­½ÂÀ±] Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44514&amp;groupno=44514&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44514&amp;groupno=44514&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.935Z</updated>
-        <content type="html"><![CDATA[22.10.11(È­)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PEAKBOX 22-03 Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44513&amp;groupno=44513&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44513&amp;groupno=44513&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.936Z</updated>
-        <content type="html"><![CDATA[22.10.07(±Ý)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ÀÌ¸Ó½Ãºê ´ÙÀÌ´× ¡´±×·£µå ¿¢½ºÆäµð¼Ç¡µ 2Â÷ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44512&amp;groupno=44512&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44512&amp;groupno=44512&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.937Z</updated>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ, ¿ì¸®µéÀÇ »ç¶û Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44469&amp;groupno=44469&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44469&amp;groupno=44469&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.877Z</updated>
         <content type="html"><![CDATA[22.10.07(±Ý)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[¿¬±Ø <ÃáÃµ °Å±â> Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44511&amp;groupno=44511&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44511&amp;groupno=44511&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:11.938Z</updated>
-        <content type="html"><![CDATA[22.10.07(±Ý)&nbsp;16:00]]></content>
+        <title type="html"><![CDATA[ÇÁ·©Å© ¿ÍÀÏµåÈ¥ÀÇ ¹ÂÁöÄÃÄÜ¼­Æ® ¡´ONLY LOVE¡µ in ´ë±¸ Æ¼ÄÏ¿ÀÇÂ ¾È.. (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44466&amp;groupno=44466&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44466&amp;groupno=44466&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.877Z</updated>
+        <content type="html"><![CDATA[22.10.06(¸ñ)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[¸ó½ºÅ¸¿¢½º£¨MONSTA X£©°ø½ÄÆÒÅ¬·´ ¡®MONBEBE¡¯ 7±â Ãß°¡¸ðÁý Æ¼ÄÏ¿À.. (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=44398&amp;groupno=44398&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=44398&amp;groupno=44398&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.911Z</updated>
-        <content type="html"><![CDATA[22.09.28(¼ö)&nbsp;10:00]]></content>
+        <title type="html"><![CDATA[½Åºñ¾ÆÆÄÆ® ¹ÂÁöÄÃ ½ÃÁð5 : °¨¿°µÈ µµ½ÃÀÇ ºñ¹Ð - ´ë±¸¾ÞÄÝ Æ¼ÄÏ¿ÀÇÂ.. (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44464&amp;groupno=44464&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44464&amp;groupno=44464&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.877Z</updated>
+        <content type="html"><![CDATA[22.10.05(¼ö)&nbsp;09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[¸ó½ºÅ¸¿¢½º£¨MONSTA X£©°ø½ÄÆÒÅ¬·´ ¡®MONBEBE¡¯ 7±â ¸ðÁý Æ¼ÄÏ¿ÀÇÂ .. (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=43921&amp;groupno=43921&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=43921&amp;groupno=43921&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.912Z</updated>
-        <content type="html"><![CDATA[22.08.16(È­)&nbsp;10:00]]></content>
+        <title type="html"><![CDATA[Äá¼øÀÌ ¹ÂÁöÄÃ ½ÃÁð2 <¿ì¸®µé À½¾ÇÈ¸> - ´ë±¸¾ÞÄÝ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44462&amp;groupno=44462&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44462&amp;groupno=44462&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.879Z</updated>
+        <content type="html"><![CDATA[22.10.05(¼ö)&nbsp;09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[À¯ÁÖ(YUJU) °ø½Ä ÆÒÅ¬·´ 'LUVU' 1±â ¸ðÁý Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=43395&amp;groupno=43395&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=43395&amp;groupno=43395&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.913Z</updated>
-        <content type="html"><![CDATA[22.07.01(±Ý)&nbsp;14:00]]></content>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ <½ºÀ§´ÏÅäµå> ÇÁ¸®ºä Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44453&amp;groupno=44453&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44453&amp;groupno=44453&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.880Z</updated>
+        <content type="html"><![CDATA[22.10.06(¸ñ)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Á¤½ÂÈ¯ °ø½Ä ÆÒÅ¬·´ US(¾î½º) 2±â ÆÒ¹ÌÆÃ 'LET US MEET' Æ¼ÄÏ¿ÀÇÂ ¾È.. (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=42592&amp;groupno=42592&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=42592&amp;groupno=42592&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.915Z</updated>
-        <content type="html"><![CDATA[22.04.18(¿ù)&nbsp;20:00]]></content>
+        <title type="html"><![CDATA[¾Ø¼­´Ïºê¶ó¿î°¡Á·¹ÂÁöÄÃ <¿ì¸® ¾Æºü°¡ ÃÖ°í¾ß> - ¿ë»ê Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44451&amp;groupno=44451&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44451&amp;groupno=44451&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.881Z</updated>
+        <content type="html"><![CDATA[22.09.29(¸ñ)&nbsp;09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[¼º½Ã°æ °ø½Ä ÆÒÅ¬·´ £ÛPURPLE OCEAN KOREA£ÝÃß°¡ ¸ðÁý ¾È³» Æ¼ÄÏ¿ÀÇÂ.. (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41505&amp;groupno=41505&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41505&amp;groupno=41505&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.916Z</updated>
-        <content type="html"><![CDATA[21.12.06(¿ù)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ºê·¹ÀÌºê°É½º(Brave Girls) °ø½Ä ÆÒÅ¬·´ £§Fearless£§ 1±â ¸ðÁý Æ¼ÄÏ.. (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41179&amp;groupno=41179&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41179&amp;groupno=41179&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.917Z</updated>
-        <content type="html"><![CDATA[21.11.08(¿ù)&nbsp;17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[¼º½Ã°æ °ø½Ä ÆÒÅ¬·´ £ÛPURPLE OCEAN KOREA£Ý ¸ðÁý Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41102&amp;groupno=41102&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=41102&amp;groupno=41102&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.919Z</updated>
-        <content type="html"><![CDATA[21.11.01(¿ù)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnlyOneOf (¿Â¸®¿ø¿Àºê) °ø½Ä ÆÒÅ¬·´ ¡®ultra lyOn¡¯ 1±â º»¸ðÁý Æ¼.. (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39699&amp;groupno=39699&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39699&amp;groupno=39699&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.920Z</updated>
-        <content type="html"><![CDATA[21.04.22(¸ñ)&nbsp;12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[¸ó½ºÅ¸¿¢½º£¨MONSTA X£©°ø½ÄÆÒÅ¬·´ ¡®MONBEBE¡¯ 6±â Ãß°¡¸ðÁý Æ¼ÄÏ¿À.. (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39674&amp;groupno=39674&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39674&amp;groupno=39674&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.921Z</updated>
-        <content type="html"><![CDATA[21.04.19(¿ù)&nbsp;17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[°­´Ù´Ï¿¤(KANGDANIEL) °ø½Ä ÆÒÅ¬·´ ¡®DANITY¡¯ 2±â ¸ðÁý Æ¼ÄÏ¿ÀÇÂ ¾È.. (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39603&amp;groupno=39603&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39603&amp;groupno=39603&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.923Z</updated>
-        <content type="html"><![CDATA[21.04.05(¿ù)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnlyOneOf (¿Â¸®¿ø¿Àºê) °ø½Ä ÆÒÅ¬·´ ¡®ultra lyOn£§1±â ¸ðÁý Æ¼ÄÏ¿À.. (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39476&amp;groupno=39476&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39476&amp;groupno=39476&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.924Z</updated>
-        <content type="html"><![CDATA[21.03.19(±Ý)&nbsp;12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[¸ó½ºÅ¸¿¢½º£¨MONSTA X£©°ø½ÄÆÒÅ¬·´ ¡®MONBEBE¡¯ 6±â ¸ðÁý Æ¼ÄÏ¿ÀÇÂ .. (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39443&amp;groupno=39443&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=39443&amp;groupno=39443&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.925Z</updated>
-        <content type="html"><![CDATA[21.03.15(¿ù)&nbsp;17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ÆúÅ´ °ø½Ä ÆÒÅ¬·´ - ÆúÀÎ·´'21 ¸ðÁý Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=38961&amp;groupno=38961&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=38961&amp;groupno=38961&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.927Z</updated>
-        <content type="html"><![CDATA[20.11.30(¿ù)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[±èÀçÈ¯ °ø½Ä ÆÒÅ¬·´ WIN:D 2±â ¸ðÁý ¾È³» (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=37614&amp;groupno=37614&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=37614&amp;groupno=37614&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.934Z</updated>
-        <content type="html"><![CDATA[20.02.17(¿ù)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X1 °ø½Ä À¯·á ÆÒÅ¬·´ °¡ÀÔºñ È¯ºÒ ¾È³» (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=37502&amp;groupno=37502&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=37502&amp;groupno=37502&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.937Z</updated>
-        <content type="html"><![CDATA[ÃßÈÄ°øÁö]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[À±ÇÏ °ø½Ä ÆÒÅ¬·´ ¡´Y.HOLICS 4±â¡µ ¸ðÁý Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=36557&amp;groupno=36557&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=36557&amp;groupno=36557&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.941Z</updated>
-        <content type="html"><![CDATA[19.10.28(¿ù)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019 Á¤½ÂÈ¯ ÆÒÅ¬·´ Ã¢´Ü½Ä - FIND US! Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=35781&amp;groupno=35781&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=35781&amp;groupno=35781&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.941Z</updated>
-        <content type="html"><![CDATA[19.08.28(¼ö)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X1 °ø½Ä ÆÒÅ¬·´ 1±â ¸ðÁý °øÁö ¾È³» (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=35529&amp;groupno=35529&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=35529&amp;groupno=35529&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T09:48:19.942Z</updated>
-        <content type="html"><![CDATA[19.07.22(¿ù)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[À±Â¯°ú È²Áö´ÏÀÇ Ã¹¹øÂ° ÆÒ¹ÌÆÃ ¡® °¡¾ß ÇÑ´Ù¸é¡¯ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=44041&amp;groupno=44041&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=44041&amp;groupno=44041&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.222Z</updated>
-        <content type="html"><![CDATA[22.08.26(±Ý)&nbsp;12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Á¶¸í¼· ÆÒ¹ÌÆÃ ¡®´Þ¹ã ´ã¼ÒÈ¸ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=44002&amp;groupno=44002&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=44002&amp;groupno=44002&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.222Z</updated>
-        <content type="html"><![CDATA[22.08.24(¼ö)&nbsp;12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 ÀÌÁ¾¼® ÆÒ¹ÌÆÃ IN SEOUL ¡´RE, JONG SUK¡µ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43978&amp;groupno=43978&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43978&amp;groupno=43978&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.225Z</updated>
-        <content type="html"><![CDATA[22.08.19(±Ý)&nbsp;19:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 ÀÌÁ¦ÈÆ ÆÒ¹ÌÆÃ [ Greetings to you ] Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43850&amp;groupno=43850&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43850&amp;groupno=43850&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.225Z</updated>
-        <content type="html"><![CDATA[22.08.19(±Ý)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[´Ù³ªÄ« ÆÒ¹ÌÆÃ [We Love TANAKA] Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43824&amp;groupno=43824&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43824&amp;groupno=43824&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.226Z</updated>
-        <content type="html"><![CDATA[22.08.08(¿ù)&nbsp;10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Çã±¤ÇÑ ÆÒ¹ÌÆÃ Present in Seoul Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43769&amp;groupno=43769&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43769&amp;groupno=43769&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.226Z</updated>
-        <content type="html"><![CDATA[22.08.05(±Ý)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[È²¹ÎÇö ÆÒ¹ÌÆÃ <³ªÀÇ ¿©¸§> Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43624&amp;groupno=43624&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43624&amp;groupno=43624&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.228Z</updated>
-        <content type="html"><![CDATA[22.08.05(±Ý)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[À¯¹Î Ã¹ ¹øÂ° ÆÒ¹ÌÆÃ 'YOU are on my MIND' Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43300&amp;groupno=43300&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43300&amp;groupno=43300&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.229Z</updated>
-        <content type="html"><![CDATA[22.06.23(¸ñ)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ÆúÅ´ ÆÒ¹ÌÆÃ ¡´2022 ¢ßP.I.L °ø°³Ã¤¿ë¡µ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43046&amp;groupno=43046&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=43046&amp;groupno=43046&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.230Z</updated>
-        <content type="html"><![CDATA[22.06.07(È­)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 À±ÇÏ(YOUNHA) È¦¸¯½º 6±â ÆÒ¹ÌÆÃ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42911&amp;groupno=42911&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42911&amp;groupno=42911&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.231Z</updated>
-        <content type="html"><![CDATA[22.05.12(¸ñ)&nbsp;16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Á¤½ÂÈ¯ °ø½Ä ÆÒÅ¬·´ US(¾î½º) 2±â ÆÒ¹ÌÆÃ 'LET US MEET' Æ¼ÄÏ¿ÀÇÂ ¾È.. (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42592&amp;groupno=42592&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42592&amp;groupno=42592&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.231Z</updated>
-        <content type="html"><![CDATA[22.04.18(¿ù)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 ¼º½Ã°æ ÆÒ¹ÌÆÃ £¢»ç¿ù£¢ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42331&amp;groupno=42331&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42331&amp;groupno=42331&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.232Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[¿¡³ì ÆÒ¹ÌÆÃ ¡´È­±â¿¡¿¡¡µ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42328&amp;groupno=42328&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42328&amp;groupno=42328&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.233Z</updated>
-        <content type="html"><![CDATA[22.03.14(¿ù)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[¿Ë¼º¿ì 2022 ±¹³» ÆÒ¹ÌÆÃ ¡´RE:MEET¡µ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42065&amp;groupno=42065&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=42065&amp;groupno=42065&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.233Z</updated>
-        <content type="html"><![CDATA[22.02.18(±Ý)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ã¤º¸ÈÆ Ã¹¹øÂ° ÆÒ¹ÌÆÃ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41971&amp;groupno=41971&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41971&amp;groupno=41971&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.237Z</updated>
-        <content type="html"><![CDATA[22.01.28(±Ý)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 ³²¿ìÇö ÆÒ¹ÌÆÃ £Û³ª¹«ÄÄÆÛ´Ï ½Å³â¿öÅ©¼¥£Ý Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41689&amp;groupno=41689&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41689&amp;groupno=41689&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.240Z</updated>
-        <content type="html"><![CDATA[21.12.27(¿ù)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 Áø¿µ ÆÒ¹ÌÆÃ £ÛStay, Jinyoung£Ý Ãß°¡ È¸Â÷ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41452&amp;groupno=41452&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41452&amp;groupno=41452&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.240Z</updated>
-        <content type="html"><![CDATA[21.11.29(¿ù)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 ±èÇüÁØ ÆÒ¹ÌÆÃ £ÛDiary£Ý Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 팬미팅)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41390&amp;groupno=41390&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%B9%CC%C6%C3&amp;no=41390&amp;groupno=41390&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-05T10:48:52.241Z</updated>
-        <content type="html"><![CDATA[21.11.26(±Ý)&nbsp;18:00]]></content>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ Å·Å°ºÎÃ÷ -ÀÌÃµ Æ¼ÄÏ¿ÀÇÂ ¾È³» (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44450&amp;groupno=44450&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44450&amp;groupno=44450&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-05T11:40:35.882Z</updated>
+        <content type="html"><![CDATA[22.09.29(¸ñ)&nbsp;14:00]]></content>
     </entry>
 </feed>
