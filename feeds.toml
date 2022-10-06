@@ -18,7 +18,6 @@ entrySelector = "div[class='list'] div.item"
 titleSelector = "p[class='label']"
 linkSelector = "a"
 contentSelector = "dl[class='ticketOpen'] > dd"
-imageSelector = "span img"
 waitForSelector = "div[class='list'] div.item"
 onFail = "stale"
 
