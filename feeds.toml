@@ -19,7 +19,7 @@ titleSelector = "p[class='label']"
 linkSelector = "a"
 contentSelector = "dl[class='ticketOpen'] > dd"
 imageSelector = "span img"
-waitForSelector = "td[class='subject']"
+waitForSelector = "div[class='list'] div.item"
 onFail = "stale"
 
 [ticket_online]
