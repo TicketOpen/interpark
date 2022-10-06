@@ -11,16 +11,6 @@ contentSelector = "td[class='date']"
 waitForSelector = "td[class='subject']"
 onFail = "stale"
 
-[ticket_m]
-title = "인터파크 티켓 모바일"
-url = "http://mticket.interpark.com/Notice/"
-entrySelector = "div[class='list'] div.item"
-titleSelector = "p[class='label']"
-linkSelector = "a"
-contentSelector = "dl[class='ticketOpen'] > dd"
-waitForSelector = "div[class='list'] div.item"
-onFail = "stale"
-
 [ticket_online]
 title = "인터파크 티켓 ─ 온라인"
 url = "http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&pageno=1&KindOfGoods=TICKET&Genre=&sort=WriteDate&stext=%BF%C2%B6%F3%C0%CE"
