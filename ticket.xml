@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2022-10-06T05:08:22.410Z</updated>
+    <updated>2022-10-06T06:00:01.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[¹ÂÁöÄÃ ¡´ÀÎ°£ÀÇ ¹ýÁ¤¡µ 2Â÷ Æ¼ÄÏ¿ÀÇÂ ¾È³»]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44537&amp;groupno=44537&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44537&amp;groupno=44537&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-06T05:59:16.340Z</updated>
+        <content type="html"><![CDATA[22.10.11(È­)&nbsp;16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[¹ÂÁöÄÃ£¼Å·Å°ºÎÃ÷£¾ - ¿ëÀÎ Æ¼ÄÏ¿ÀÇÂ ¾È³»]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44536&amp;groupno=44536&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -123,12 +130,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44519&amp;groupno=44519&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-06T05:07:27.753Z</updated>
         <content type="html"><![CDATA[22.10.07(±Ý)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[±¹¹Î¿¬±Ø <¶óÀÌ¾î 1Åº> - ÀüÁÖ Æ¼ÄÏ¿ÀÇÂ ¾È³»]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44518&amp;groupno=44518&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44518&amp;groupno=44518&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-06T05:07:27.754Z</updated>
-        <content type="html"><![CDATA[22.10.07(±Ý)&nbsp;15:00]]></content>
     </entry>
 </feed>
