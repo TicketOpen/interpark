@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-25T23:44:08.676Z</updated>
+    <updated>2022-10-26T02:53:11.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022 god [ON] - 서울 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -10,6 +10,20 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=44662&amp;groupno=44662&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-25T11:41:36.317Z</updated>
         <content type="html"><![CDATA[22.10.28(금)&nbsp;19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 10th Anniversary 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44775&amp;groupno=44775&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44775&amp;groupno=44775&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-26T02:52:38.799Z</updated>
+        <content type="html"><![CDATA[22.10.28(금)&nbsp;16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이겨울뮤지컬 '산타와 루돌프' - 목동 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44774&amp;groupno=44774&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44774&amp;groupno=44774&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-26T02:52:38.799Z</updated>
+        <content type="html"><![CDATA[22.10.26(수)&nbsp;09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누군가의 플레이리스트 Track. 57 PL(피엘) 단독 콘서트 티켓오픈 안.. (인터파크 티켓)]]></title>
@@ -122,20 +136,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44758&amp;groupno=44758&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-24T09:01:44.624Z</updated>
         <content type="html"><![CDATA[22.10.31(월)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모아기타앙상블 정기연주회 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44757&amp;groupno=44757&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44757&amp;groupno=44757&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-24T08:01:20.367Z</updated>
-        <content type="html"><![CDATA[22.10.26(수)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첼로투첼로 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44756&amp;groupno=44756&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44756&amp;groupno=44756&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-24T08:01:20.368Z</updated>
-        <content type="html"><![CDATA[22.10.27(목)&nbsp;12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[STAGE X 온라인 뮤지컬 〈팬레터〉 (11.14) - 공연 실황 녹화 중계 .. (인터파크 티켓 ─ 온라인)]]></title>
@@ -264,6 +264,20 @@
         <content type="html"><![CDATA[21.11.03(수)&nbsp;14:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 〈여신님이 보고 계셔〉 10th Anniversary 2차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44775&amp;groupno=44775&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44775&amp;groupno=44775&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-26T02:52:52.037Z</updated>
+        <content type="html"><![CDATA[22.10.28(금)&nbsp;16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이겨울뮤지컬 '산타와 루돌프' - 목동 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44774&amp;groupno=44774&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44774&amp;groupno=44774&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-26T02:52:52.037Z</updated>
+        <content type="html"><![CDATA[22.10.26(수)&nbsp;09:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(2022 울산) 크리스마스특집 가족뮤지컬 〈루돌프와 산타클로스〉 - .. (인터파크 티켓 ─ 뮤지컬)]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44770&amp;groupno=44770&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44770&amp;groupno=44770&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -289,7 +303,7 @@
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44755&amp;groupno=44755&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44755&amp;groupno=44755&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-24T06:43:11.530Z</updated>
-        <content type="html"><![CDATA[추후공지]]></content>
+        <content type="html"><![CDATA[22.11.01(화)&nbsp;11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오페레타 뮤지컬 판타지아 시즌2 - 특명! 음치 대마왕으로부터 엄마.. (인터파크 티켓 ─ 뮤지컬)]]></title>
@@ -374,20 +388,6 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44712&amp;groupno=44712&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-20T03:15:23.678Z</updated>
         <content type="html"><![CDATA[22.10.24(월)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 인천 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44711&amp;groupno=44711&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44711&amp;groupno=44711&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-20T03:15:23.682Z</updated>
-        <content type="html"><![CDATA[22.10.24(월)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 〈푸른 잿빛 밤〉 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44705&amp;groupno=44705&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=44705&amp;groupno=44705&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-19T08:00:19.794Z</updated>
-        <content type="html"><![CDATA[22.10.26(수)&nbsp;11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[폴킴 공식 팬클럽 〈폴인럽’23〉 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
