@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-31T08:51:45.617Z</updated>
+    <updated>2022-10-31T09:42:47.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022 윤하 연말 콘서트 〈c/2022YH〉 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -12,14 +12,28 @@
         <content type="html"><![CDATA[22.10.31(월)&nbsp;18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 멜로망스 전국투어 콘서트 〈Festival〉 - 광주 티켓오픈 연기 .. (인터파크 티켓)]]></title>
+        <title type="html"><![CDATA[SING 4 U 6 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44845&amp;groupno=44845&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44845&amp;groupno=44845&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-31T09:42:11.296Z</updated>
+        <content type="html"><![CDATA[22.11.02(수)&nbsp;13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[티켓오픈연기] 2022 멜로망스 전국투어 콘서트 〈Festival〉 - 대구.. (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44844&amp;groupno=44844&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44844&amp;groupno=44844&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-10-31T09:42:11.296Z</updated>
+        <content type="html"><![CDATA[22.11.08(화)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[티켓오픈연기] 2022 멜로망스 전국투어 콘서트 〈Festival〉 - 광주.. (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44843&amp;groupno=44843&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44843&amp;groupno=44843&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-31T08:51:11.796Z</updated>
         <content type="html"><![CDATA[22.11.09(수)&nbsp;20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 멜로망스 전국투어 콘서트 〈Festival〉 - 부산 티켓오픈 연기 .. (인터파크 티켓)]]></title>
+        <title type="html"><![CDATA[[티켓오픈연기] 2022 멜로망스 전국투어 콘서트 〈Festival〉 - 부산.. (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44842&amp;groupno=44842&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44842&amp;groupno=44842&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-31T08:51:11.797Z</updated>
@@ -122,20 +136,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44827&amp;groupno=44827&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-31T03:00:07.714Z</updated>
         <content type="html"><![CDATA[22.11.08(화)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈이상한 엄마〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44826&amp;groupno=44826&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44826&amp;groupno=44826&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-31T03:00:07.714Z</updated>
-        <content type="html"><![CDATA[22.11.03(목)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<브로콜리너마저 크리스마스 콘서트> - 안양 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44825&amp;groupno=44825&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44825&amp;groupno=44825&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-31T03:00:07.714Z</updated>
-        <content type="html"><![CDATA[22.11.07(월)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 지소울 콘서트 IN SEOUL : 온라인 스트리밍 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
