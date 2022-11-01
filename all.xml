@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-01T03:11:50.608Z</updated>
+    <updated>2022-11-01T04:55:22.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[엄지애화이트콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44848&amp;groupno=44848&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44848&amp;groupno=44848&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-11-01T04:54:37.683Z</updated>
+        <content type="html"><![CDATA[22.11.03(목)&nbsp;00:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <장수탕 선녀님> - 용인 티켓오픈 안내 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44847&amp;groupno=44847&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -122,13 +129,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44830&amp;groupno=44830&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-31T05:11:23.344Z</updated>
         <content type="html"><![CDATA[22.11.02(수)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 박재정 콘서트 - 편지 2 티켓오픈 연기 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44829&amp;groupno=44829&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44829&amp;groupno=44829&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-31T04:30:34.088Z</updated>
-        <content type="html"><![CDATA[22.11.07(월)&nbsp;19:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 지소울 콘서트 IN SEOUL : 온라인 스트리밍 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
