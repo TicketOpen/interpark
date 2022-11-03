@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-03T07:37:21.718Z</updated>
+    <updated>2022-11-03T08:48:25.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022 성시경 연말 콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -10,6 +10,20 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=44749&amp;groupno=44749&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-11-01T06:01:13.952Z</updated>
         <content type="html"><![CDATA[22.11.10(목)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[헥토파이낸셜] 광주은행 VPN 장비 교체 작업 안내 (2022.11.24.목) (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44889&amp;groupno=44889&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44889&amp;groupno=44889&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-11-03T08:47:42.948Z</updated>
+        <content type="html"><![CDATA[&nbsp;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[헥토파이낸셜] 하나은행 VPN 장비 교체 작업 안내 (2022.11.16.수) (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44888&amp;groupno=44888&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44888&amp;groupno=44888&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-11-03T08:47:42.953Z</updated>
+        <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈이프덴〉 1차 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -122,20 +136,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44872&amp;groupno=44872&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-11-02T05:57:12.260Z</updated>
         <content type="html"><![CDATA[22.11.04(금)&nbsp;12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 콘서트  <김소현, 손준호,웅산,서도밴드> - 진주 티켓오.. (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44871&amp;groupno=44871&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44871&amp;groupno=44871&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-11-02T05:57:12.261Z</updated>
-        <content type="html"><![CDATA[22.11.04(금)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈스위니토드〉 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44870&amp;groupno=44870&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=44870&amp;groupno=44870&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-11-02T05:57:12.263Z</updated>
-        <content type="html"><![CDATA[22.11.08(화)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[티켓오픈취소] 2022 지소울 콘서트 IN SEOUL : 온라인 스트리밍 (인터파크 티켓 ─ 온라인)]]></title>
