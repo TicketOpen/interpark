@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2022-11-22T06:46:07.490Z</updated>
+    <updated>2022-11-22T07:35:11.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=45043&amp;groupno=45043&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-11-22T05:35:59.634Z</updated>
         <content type="html"><![CDATA[22.11.22(화)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈온 더 비트〉 3차 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45146&amp;groupno=45146&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45146&amp;groupno=45146&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-11-22T07:34:34.288Z</updated>
+        <content type="html"><![CDATA[22.11.25(금)&nbsp;15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안톤 체홉 4대 희곡 번안 프로젝트 - <종로 갈매기>, <쯔루하시 세자..]]></title>
@@ -62,7 +69,7 @@
         <content type="html"><![CDATA[22.11.28(월)&nbsp;12:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이뮤지컬 <다이노파워즈-그린에저지를 지켜라!>-전주 티켓오픈 ..]]></title>
+        <title type="html"><![CDATA[어린이뮤지컬 <다이노파워즈-그린에너지를 지켜라!>-전주 티켓오픈 ..]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45138&amp;groupno=45138&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45138&amp;groupno=45138&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-11-22T02:25:08.647Z</updated>
@@ -130,12 +137,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45129&amp;groupno=45129&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-11-21T03:32:48.932Z</updated>
         <content type="html"><![CDATA[22.12.02(금)&nbsp;12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 뮤지컬 〈미드나잇 : 액터뮤지션〉 - THE DAY 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45128&amp;groupno=45128&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45128&amp;groupno=45128&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-11-21T03:32:48.932Z</updated>
-        <content type="html"><![CDATA[22.11.25(금)&nbsp;14:00]]></content>
     </entry>
 </feed>
