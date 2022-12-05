@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2022-12-05T04:40:08.493Z</updated>
+    <updated>2022-12-05T05:33:39.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해피버스데이 쇼팽 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45266&amp;groupno=45266&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45266&amp;groupno=45266&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-12-05T05:33:05.082Z</updated>
+        <content type="html"><![CDATA[22.12.07(수)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이클 리&라민 카림루 콘서트 온라인 중계 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45265&amp;groupno=45265&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45265&amp;groupno=45265&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-12-05T05:33:05.083Z</updated>
+        <content type="html"><![CDATA[22.12.06(화)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 P1Harmony LIVE TOUR [P1ustage H : P1oneer] IN SEOUL 티켓오..]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45264&amp;groupno=45264&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45264&amp;groupno=45264&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-12-05T05:33:05.083Z</updated>
+        <content type="html"><![CDATA[22.12.12(월)&nbsp;18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 어쿠스틱카페 콘서트 내한공연 - 서울 with,지브리스튜디오OST ..]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45263&amp;groupno=45263&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -13,7 +34,7 @@
         <content type="html"><![CDATA[22.12.09(금)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정준일 소극장 콘서트 <2022 겨울> 티켓오픈 안내]]></title>
+        <title type="html"><![CDATA[정준일 소극장 콘서트 <2023 겨울> 티켓오픈 안내]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45262&amp;groupno=45262&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45262&amp;groupno=45262&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-12-05T04:39:31.368Z</updated>
@@ -109,26 +130,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45249&amp;groupno=45249&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-12-05T01:57:15.676Z</updated>
         <content type="html"><![CDATA[22.12.08(목)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손민수 Curated 01 김도현 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45248&amp;groupno=45248&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45248&amp;groupno=45248&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-12-02T09:33:17.050Z</updated>
-        <content type="html"><![CDATA[22.12.05(월)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디자인 가구 컬렉션 “어반베이스전(展)＂ 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=934&amp;groupno=934&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=934&amp;groupno=934&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-12-02T08:37:26.681Z</updated>
-        <content type="html"><![CDATA[22.12.01(목)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈늘근도둑이야기〉 1월 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45247&amp;groupno=45247&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45247&amp;groupno=45247&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-12-02T08:37:26.692Z</updated>
-        <content type="html"><![CDATA[22.12.09(금)&nbsp;14:00]]></content>
     </entry>
 </feed>
