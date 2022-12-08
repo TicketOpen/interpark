@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%BF%C2%B6%F3%C0%CE</id>
     <title>인터파크 티켓 ─ 온라인</title>
-    <updated>2022-12-08T07:33:55.075Z</updated>
+    <updated>2022-12-08T08:38:53.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/webzine/paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[STAGE X 온라인 뮤지컬 〈웨스턴 스토리〉 - 공연 실황 녹화 중계 2..]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=45326&amp;groupno=45326&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=45326&amp;groupno=45326&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-12-08T08:38:23.320Z</updated>
+        <content type="html"><![CDATA[22.12.12(월)&nbsp;14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이클 리&라민 카림루 콘서트 온라인 중계 티켓오픈 안내]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=45265&amp;groupno=45265&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -123,12 +130,5 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41396&amp;groupno=41396&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-06T12:22:45.698Z</updated>
         <content type="html"><![CDATA[21.11.23(화)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창작뮤지컬 〈메이사의 노래〉 마지막 공연 _ 온라인 생중계 티켓 오..]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41339&amp;groupno=41339&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%BF%C2%B6%F3%C0%CE&amp;no=41339&amp;groupno=41339&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-06T12:22:45.698Z</updated>
-        <content type="html"><![CDATA[21.11.18(목)&nbsp;15:00]]></content>
     </entry>
 </feed>
