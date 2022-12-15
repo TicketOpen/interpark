@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-15T02:03:55.196Z</updated>
+    <updated>2022-12-15T03:00:44.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제15회 서울재즈페스티벌 2023 블라인드 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45396&amp;groupno=45396&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45396&amp;groupno=45396&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-12-15T03:00:08.579Z</updated>
+        <content type="html"><![CDATA[22.12.22(목)&nbsp;12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 오펀스(Orphans) 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45395&amp;groupno=45395&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -122,13 +129,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45377&amp;groupno=45377&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-12-13T09:33:25.439Z</updated>
         <content type="html"><![CDATA[22.12.19(월)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈범옹〉 마지막 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45376&amp;groupno=45376&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45376&amp;groupno=45376&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-12-13T08:38:38.625Z</updated>
-        <content type="html"><![CDATA[22.12.19(월)&nbsp;11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[STAGE X 온라인 뮤지컬 〈웨스턴 스토리〉 - 공연 실황 녹화 중계 2.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[제15회 서울재즈페스티벌 2023 블라인드 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=45396&amp;groupno=45396&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=45396&amp;groupno=45396&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2022-12-15T03:00:44.273Z</updated>
+        <content type="html"><![CDATA[22.12.22(목)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지브리 페스티벌 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=45187&amp;groupno=45187&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=45187&amp;groupno=45187&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -752,12 +759,5 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43773&amp;groupno=43773&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-06T12:23:13.366Z</updated>
         <content type="html"><![CDATA[22.08.02(화)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울숲재즈페스티벌 2022 - 공식 티켓 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43751&amp;groupno=43751&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=43751&amp;groupno=43751&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-06T12:23:13.368Z</updated>
-        <content type="html"><![CDATA[22.08.02(화)&nbsp;18:00]]></content>
     </entry>
 </feed>
