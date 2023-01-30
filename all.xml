@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-30T02:51:21.262Z</updated>
+    <updated>2023-01-30T03:34:47.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제15회 서울재즈페스티벌 2023 3일권 정가 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45807&amp;groupno=45807&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45807&amp;groupno=45807&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-01-30T03:34:11.867Z</updated>
+        <content type="html"><![CDATA[23.01.31(화)&nbsp;12:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[［부산］싱어롱 콘서트 뮤지컬 ‘Live Show’ 〈무지개 물고기〉 티.. (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45806&amp;groupno=45806&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -122,13 +129,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45790&amp;groupno=45790&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-01-27T05:32:57.605Z</updated>
         <content type="html"><![CDATA[23.01.31(화)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈데미안〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45789&amp;groupno=45789&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=45789&amp;groupno=45789&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-01-27T05:32:57.614Z</updated>
-        <content type="html"><![CDATA[23.02.03(금)&nbsp;16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[STAGE X 온라인 뮤지컬 〈웨스턴 스토리〉 - 공연 실황 녹화 중계 2.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -635,6 +635,13 @@
         <content type="html"><![CDATA[22.06.07(화)&nbsp;14:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[제15회 서울재즈페스티벌 2023 3일권 정가 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=45807&amp;groupno=45807&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=45807&amp;groupno=45807&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-01-30T03:34:46.757Z</updated>
+        <content type="html"><![CDATA[23.01.31(화)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2023 일상으로의 초대(실내 뮤직 페스티벌) - 광주 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=45803&amp;groupno=45803&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=45803&amp;groupno=45803&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -752,12 +759,5 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=44966&amp;groupno=44966&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-11-08T07:36:25.253Z</updated>
         <content type="html"><![CDATA[22.11.11(금)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두드림 페스티벌 2022 클럽GWEN 티켓오픈 안내 (인터파크 티켓 ─ 페스티벌)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=44901&amp;groupno=44901&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%E4%BD%BA%C6%BC%B9%FA&amp;no=44901&amp;groupno=44901&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-11-11T02:35:26.527Z</updated>
-        <content type="html"><![CDATA[22.11.07(월)&nbsp;09:00]]></content>
     </entry>
 </feed>
