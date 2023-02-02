@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/webzine/paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=1&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate&amp;stext=%B9%C2%C1%F6%C4%C3</id>
     <title>인터파크 티켓 ─ 뮤지컬</title>
-    <updated>2023-02-02T03:34:30.129Z</updated>
+    <updated>2023-02-02T04:38:48.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/webzine/paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈비밀의 화원〉 1차 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=45844&amp;groupno=45844&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=45844&amp;groupno=45844&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-02-02T04:38:25.799Z</updated>
+        <content type="html"><![CDATA[23.02.09(목)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이뮤지컬 〈티티체리 - 용의 생일파티를 도와라〉 - 대전 티켓오..]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=45843&amp;groupno=45843&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=45843&amp;groupno=45843&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-02-02T04:38:25.800Z</updated>
+        <content type="html"><![CDATA[23.02.06(월)&nbsp;10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어린이 베스트셀러 뮤지컬 <누가 내머리에 똥쌌어?>－오산 티켓오픈 ..]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=45839&amp;groupno=45839&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -116,19 +130,5 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=45789&amp;groupno=45789&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-01-27T05:33:12.906Z</updated>
         <content type="html"><![CDATA[23.02.03(금)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 민쩌미 〈사랑해요 엄마!〉 - 용인 첫공연!! 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=45788&amp;groupno=45788&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=45788&amp;groupno=45788&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-01-27T04:37:33.921Z</updated>
-        <content type="html"><![CDATA[23.02.03(금)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <이상한 엄마> - 용인 티켓오픈 안내]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=45785&amp;groupno=45785&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=45785&amp;groupno=45785&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-01-27T01:59:06.364Z</updated>
-        <content type="html"><![CDATA[23.01.31(화)&nbsp;11:00]]></content>
     </entry>
 </feed>
