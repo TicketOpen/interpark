@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-02T07:33:34.803Z</updated>
+    <updated>2023-03-02T08:41:23.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 〈프린세스공주〉 - 대전 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46226&amp;groupno=46226&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46226&amp;groupno=46226&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-03-02T08:40:44.537Z</updated>
+        <content type="html"><![CDATA[23.03.07(화)&nbsp;09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 Coomo 소극장 공연 : Warm Up 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46225&amp;groupno=46225&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46225&amp;groupno=46225&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-03-02T08:40:44.544Z</updated>
+        <content type="html"><![CDATA[23.03.03(금)&nbsp;18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 Soundberry Theater 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46224&amp;groupno=46224&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46224&amp;groupno=46224&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-03-02T08:40:44.549Z</updated>
+        <content type="html"><![CDATA[23.03.06(월)&nbsp;18:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이 베스트셀러 뮤지컬 <누가 내머리에 똥쌌어?>－안성 티켓오픈 .. (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46223&amp;groupno=46223&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46223&amp;groupno=46223&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-03-02T08:40:44.549Z</updated>
+        <content type="html"><![CDATA[23.03.13(월)&nbsp;10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유니버설발레단 <심청> 티켓오픈 안내 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46222&amp;groupno=46222&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -101,34 +129,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46209&amp;groupno=46209&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-03-02T02:11:15.357Z</updated>
         <content type="html"><![CDATA[23.03.08(수)&nbsp;15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 [ 누가 내 머리에 똥 쌌어? ] - 인천 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46208&amp;groupno=46208&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46208&amp;groupno=46208&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-03-02T02:11:15.358Z</updated>
-        <content type="html"><![CDATA[23.03.07(화)&nbsp;10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈결투〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46207&amp;groupno=46207&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46207&amp;groupno=46207&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-03-02T02:11:15.361Z</updated>
-        <content type="html"><![CDATA[23.03.06(월)&nbsp;15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 나쁜자석 - OUR BAD MAGNET 2차 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46206&amp;groupno=46206&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46206&amp;groupno=46206&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-03-02T02:11:15.361Z</updated>
-        <content type="html"><![CDATA[23.03.09(목)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉 - 대구 티켓오.. (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46205&amp;groupno=46205&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46205&amp;groupno=46205&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-03-02T02:11:15.364Z</updated>
-        <content type="html"><![CDATA[23.03.07(화)&nbsp;09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[STAGE X 온라인 뮤지컬 〈웨스턴 스토리〉 - 공연 실황 녹화 중계 2.. (인터파크 티켓 ─ 온라인)]]></title>
@@ -257,6 +257,13 @@
         <content type="html"><![CDATA[21.11.23(화)&nbsp;14:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2023 라이브 가족뮤지컬 〈프린세스공주〉 - 대전 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=46226&amp;groupno=46226&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=46226&amp;groupno=46226&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-03-02T08:40:57.421Z</updated>
+        <content type="html"><![CDATA[23.03.07(화)&nbsp;09:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[어린이 베스트셀러 뮤지컬 <누가 내머리에 똥쌌어?>－안성 티켓오픈 .. (인터파크 티켓 ─ 뮤지컬)]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=46223&amp;groupno=46223&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=46223&amp;groupno=46223&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -374,13 +381,6 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=46176&amp;groupno=46176&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-02-27T03:02:23.203Z</updated>
         <content type="html"><![CDATA[23.03.02(목)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 <엄마까투리는 수퍼맘> 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=46174&amp;groupno=46174&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=46174&amp;groupno=46174&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-02-24T08:39:23.683Z</updated>
-        <content type="html"><![CDATA[23.03.03(금)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 성시경 공식 팬클럽 [PURPLEOCEAN KOREA] 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
