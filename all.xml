@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-24T02:45:40.607Z</updated>
+    <updated>2023-03-24T03:33:52.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 남진 콘서트 - 평택 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46542&amp;groupno=46542&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46542&amp;groupno=46542&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-03-24T03:33:08.568Z</updated>
+        <content type="html"><![CDATA[23.03.29(수)&nbsp;17:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이큐(I.Q) 직관 앵콜콘서트 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46541&amp;groupno=46541&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46541&amp;groupno=46541&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-03-24T03:33:08.568Z</updated>
+        <content type="html"><![CDATA[23.03.27(월)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crush 공식 팬클럽 ‘CrushBomb (크러쉬밤)’ 모집 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46540&amp;groupno=46540&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46540&amp;groupno=46540&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-03-24T03:33:08.568Z</updated>
+        <content type="html"><![CDATA[23.03.27(월)&nbsp;18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리말로 부르는 베토벤 9번 교향곡 <합창> 티켓오픈 안내 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46539&amp;groupno=46539&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -108,27 +129,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46525&amp;groupno=46525&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-03-23T06:36:15.915Z</updated>
         <content type="html"><![CDATA[23.03.30(목)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈해적〉 3차 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46523&amp;groupno=46523&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46523&amp;groupno=46523&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-03-23T05:33:14.666Z</updated>
-        <content type="html"><![CDATA[23.03.28(화)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 라이브 가족뮤지컬〈신데렐라〉-수원 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46522&amp;groupno=46522&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46522&amp;groupno=46522&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-03-23T05:33:14.667Z</updated>
-        <content type="html"><![CDATA[23.03.27(월)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김태연 단독콘서트 꽃구경 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46521&amp;groupno=46521&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=46521&amp;groupno=46521&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-03-23T05:33:14.670Z</updated>
-        <content type="html"><![CDATA[23.03.24(금)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 가호(Gaho) 단독 콘서트 〈Diamond〉 온라인 생중계 티켓오픈 .. (인터파크 티켓 ─ 온라인)]]></title>
@@ -383,6 +383,13 @@
         <content type="html"><![CDATA[23.03.23(목)&nbsp;10:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crush 공식 팬클럽 ‘CrushBomb (크러쉬밤)’ 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=46540&amp;groupno=46540&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=46540&amp;groupno=46540&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-03-24T03:33:34.767Z</updated>
+        <content type="html"><![CDATA[23.03.27(월)&nbsp;18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2023 성시경 공식 팬클럽 [PURPLEOCEAN KOREA] 모집 티켓오픈 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=45052&amp;groupno=45052&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=45052&amp;groupno=45052&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -500,13 +507,6 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=37614&amp;groupno=37614&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2022-10-06T12:22:59.437Z</updated>
         <content type="html"><![CDATA[20.02.17(월)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X1 공식 유료 팬클럽 가입비 환불 안내 (인터파크 티켓 ─ 팬클럽)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=37502&amp;groupno=37502&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%C6%D2%C5%AC%B7%B4&amp;no=37502&amp;groupno=37502&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2022-10-06T12:22:59.438Z</updated>
-        <content type="html"><![CDATA[추후공지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 이석훈 팬미팅 티켓오픈 안내 (인터파크 티켓 ─ 팬미팅)]]></title>
