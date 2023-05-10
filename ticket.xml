@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2023-05-10T02:43:22.230Z</updated>
+    <updated>2023-05-10T03:33:51.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<미스터트롯2> 전국투어 콘서트 - 수원 티켓오픈 안내]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47039&amp;groupno=47039&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47039&amp;groupno=47039&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-05-10T03:33:16.314Z</updated>
+        <content type="html"><![CDATA[23.05.15(월)&nbsp;16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2023_인천 앙코르 추가좌석(합창석) 오..]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47038&amp;groupno=47038&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -121,13 +128,6 @@
         <title type="html"><![CDATA[[헥토파이낸셜] 기업은행 작업 일정 안내 (2023.05.23.화)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47023&amp;groupno=47023&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47023&amp;groupno=47023&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-05-09T07:33:10.112Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하나은행 네트워크 작업 안내 (2023.05.19.금 - 05.20.토)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47022&amp;groupno=47022&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47022&amp;groupno=47022&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-05-09T07:33:10.112Z</updated>
         <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
