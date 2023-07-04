@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-04T06:40:42.573Z</updated>
+    <updated>2023-07-04T07:34:03.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SEVENTEEN TOUR ‘FOLLOW’ TO SEOUL 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -10,6 +10,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=47203&amp;groupno=47203&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-06-28T05:35:30.377Z</updated>
         <content type="html"><![CDATA[23.07.05(수)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈히스토리 보이즈〉 10주년 기념 ‘셰필드 마을잔치’ 티켓오.. (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47615&amp;groupno=47615&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47615&amp;groupno=47615&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-07-04T07:33:28.280Z</updated>
+        <content type="html"><![CDATA[23.07.07(금)&nbsp;16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극〈늘근도둑이야기〉 8월 티켓오픈 안내 (인터파크 티켓)]]></title>
@@ -129,13 +136,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47597&amp;groupno=47597&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-07-03T02:13:48.681Z</updated>
         <content type="html"><![CDATA[23.07.05(수)&nbsp;15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 가족어린이공연 〈공룡애니멀쇼〉 - 청주 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47596&amp;groupno=47596&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47596&amp;groupno=47596&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-07-03T02:13:48.689Z</updated>
-        <content type="html"><![CDATA[23.07.06(목)&nbsp;09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프 팬미팅 〈BE HERE NOW〉 -온라인 생중계 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
@@ -352,7 +352,7 @@
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=47565&amp;groupno=47565&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=47565&amp;groupno=47565&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-06-29T05:41:26.989Z</updated>
-        <content type="html"><![CDATA[23.07.05(수)&nbsp;10:00]]></content>
+        <content type="html"><![CDATA[23.07.05(수)&nbsp;11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈멤피스〉 2차 티켓오픈 안내 (인터파크 티켓 ─ 뮤지컬)]]></title>
