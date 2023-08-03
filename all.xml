@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-03T08:34:58.047Z</updated>
+    <updated>2023-08-03T09:36:54.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 CassCool Festival 티켓오픈 안내 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48000&amp;groupno=48000&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48000&amp;groupno=48000&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-08-03T09:36:17.163Z</updated>
+        <content type="html"><![CDATA[23.08.07(월)&nbsp;10:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부천문화재단 판타지아극장 어린이공연 티켓오픈 안내 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47998&amp;groupno=47998&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -122,13 +129,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47980&amp;groupno=47980&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-08-02T05:33:27.885Z</updated>
         <content type="html"><![CDATA[23.08.07(월)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오라토리오 마르티레스 세계 초연 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47979&amp;groupno=47979&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=47979&amp;groupno=47979&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-08-02T04:32:39.546Z</updated>
-        <content type="html"><![CDATA[23.08.04(금)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프 팬미팅 〈BE HERE NOW〉 -온라인 생중계 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
