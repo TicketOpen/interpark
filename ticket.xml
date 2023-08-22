@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2023-08-22T05:33:43.466Z</updated>
+    <updated>2023-08-22T06:33:29.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈그날들〉 10주년 기념 공연 - 대구]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48201&amp;groupno=48201&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48201&amp;groupno=48201&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-08-22T06:32:54.350Z</updated>
+        <content type="html"><![CDATA[23.08.28(월)&nbsp;16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈구텐버그〉 싱어롱 찍먹 데이]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48194&amp;groupno=48194&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -116,13 +123,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48175&amp;groupno=48175&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-08-18T08:33:06.232Z</updated>
         <content type="html"><![CDATA[23.08.25(금)&nbsp;17:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVECONNECT STAGE with 시소 'Blacksheep Day']]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48174&amp;groupno=48174&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48174&amp;groupno=48174&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-08-18T06:32:36.602Z</updated>
-        <content type="html"><![CDATA[23.08.22(화)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jazz de Ananti]]></title>
