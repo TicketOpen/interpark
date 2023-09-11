@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-11T05:33:57.897Z</updated>
+    <updated>2023-09-11T06:35:00.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[임영웅 콘서트 IM HERO TOUR 2023 - 서울 (인터파크 티켓)]]></title>
@@ -54,13 +54,6 @@
         <content type="html"><![CDATA[23.09.15(금)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연극 <운빨로맨스> - 대전 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48415&amp;groupno=48415&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48415&amp;groupno=48415&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-09-11T05:33:18.096Z</updated>
-        <content type="html"><![CDATA[23.09.15(금)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[9월 시스템 정기점검 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48414&amp;groupno=48414&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48414&amp;groupno=48414&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -75,7 +68,7 @@
         <content type="html"><![CDATA[23.09.11(월)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 양파 소극장 콘서트 〈AWAKENING〉 (인터파크 티켓)]]></title>
+        <title type="html"><![CDATA[2023 양파 콘서트 〈AWAKENING〉 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48413&amp;groupno=48413&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48413&amp;groupno=48413&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-09-11T02:33:23.575Z</updated>
@@ -122,6 +115,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48412&amp;groupno=48412&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-09-11T01:31:59.239Z</updated>
         <content type="html"><![CDATA[23.09.11(월)&nbsp;11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤직드라마 당신만이 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48404&amp;groupno=48404&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48404&amp;groupno=48404&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-09-11T06:34:26.646Z</updated>
+        <content type="html"><![CDATA[23.09.13(수)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[수원] 월트디즈니 100주년 기념 콘서트 - 디즈니 인 콘서트 : 더 사.. (인터파크 티켓)]]></title>
