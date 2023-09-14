@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-14T02:33:27.005Z</updated>
+    <updated>2023-09-14T03:33:34.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[임영웅 콘서트 IM HERO TOUR 2023 - 서울 (인터파크 티켓)]]></title>
@@ -10,6 +10,41 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48349&amp;groupno=48349&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-09-07T04:33:20.705Z</updated>
         <content type="html"><![CDATA[23.09.14(목)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오토보케 비버 내한공연 (Otoboke Beaver Live in Seoul) (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48480&amp;groupno=48480&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48480&amp;groupno=48480&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-09-14T03:32:57.229Z</updated>
+        <content type="html"><![CDATA[23.09.21(목)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOVE IN SEOUL 2023 - SAM RYDER (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48474&amp;groupno=48474&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48474&amp;groupno=48474&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-09-14T03:32:57.232Z</updated>
+        <content type="html"><![CDATA[23.09.21(목)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOVE IN SEOUL 2023 - 권진아 X 샘김 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48473&amp;groupno=48473&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48473&amp;groupno=48473&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-09-14T03:32:57.234Z</updated>
+        <content type="html"><![CDATA[23.09.21(목)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOVE IN SEOUL - 이자람 판소리 갈라 시리즈 : 작창 2007/2011 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48471&amp;groupno=48471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48471&amp;groupno=48471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-09-14T03:32:57.235Z</updated>
+        <content type="html"><![CDATA[23.09.21(목)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOVE IN SEOUL 2023 - 라라랜드 인 콘서트 (지휘 : 저스틴 허위츠) (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48469&amp;groupno=48469&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48469&amp;groupno=48469&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-09-14T03:32:57.236Z</updated>
+        <content type="html"><![CDATA[23.09.21(목)&nbsp;12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈셜록홈즈 : 앤더슨가의 비밀〉 (인터파크 티켓)]]></title>
@@ -40,13 +75,6 @@
         <content type="html"><![CDATA[23.09.21(목)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 이승환 콘서트 <이상한 이승환> - 여수 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48456&amp;groupno=48456&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48456&amp;groupno=48456&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-09-13T07:33:02.034Z</updated>
-        <content type="html"><![CDATA[23.09.15(금)&nbsp;16:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유니버설발레단 <호두까기인형> - 고양 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48470&amp;groupno=48470&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48470&amp;groupno=48470&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -61,13 +89,6 @@
         <content type="html"><![CDATA[23.09.19(화)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2023 노을 연말 투어 콘서트 <노을이 내린 밤> (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48459&amp;groupno=48459&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48459&amp;groupno=48459&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-09-13T06:34:05.214Z</updated>
-        <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I BISLACCHI OMAGGIO A FELLINI［괴짜들 : 페데리코 펠리니를 향한 .. (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48464&amp;groupno=48464&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48464&amp;groupno=48464&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -80,20 +101,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48463&amp;groupno=48463&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-09-13T05:32:53.138Z</updated>
         <content type="html"><![CDATA[23.09.15(금)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <빨래> - 대구 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48461&amp;groupno=48461&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48461&amp;groupno=48461&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-09-13T05:32:53.138Z</updated>
-        <content type="html"><![CDATA[23.09.20(수)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUMMY Tour Concert 2023 〈LOVE〉 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48458&amp;groupno=48458&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48458&amp;groupno=48458&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-09-13T05:32:53.139Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 이은미 LIVE TOUR 콘서트 〈녹턴〉 순천 (인터파크 티켓)]]></title>
@@ -115,13 +122,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48466&amp;groupno=48466&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-09-13T05:32:53.155Z</updated>
         <content type="html"><![CDATA[추후공지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <마리 퀴리> (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48460&amp;groupno=48460&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48460&amp;groupno=48460&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-09-13T02:33:02.326Z</updated>
-        <content type="html"><![CDATA[23.09.22(금)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 이승철 전국투어 콘서트: RETRO Night - 안산 (인터파크 티켓)]]></title>
