@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-04T22:33:36.364Z</updated>
+    <updated>2023-10-04T23:34:19.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[임영웅 콘서트 IM HERO TOUR 2023 - 부산 (인터파크 티켓)]]></title>
@@ -131,11 +131,11 @@
         <content type="html"><![CDATA[23.10.10(화)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two Guitars : 박규희 X 박주원 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48676&amp;groupno=48676&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48676&amp;groupno=48676&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-10-04T05:33:01.411Z</updated>
-        <content type="html"><![CDATA[23.10.06(금)&nbsp;14:00]]></content>
+        <title type="html"><![CDATA[햄릿:소리의심리학 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48695&amp;groupno=48695&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48695&amp;groupno=48695&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-10-04T23:33:31.364Z</updated>
+        <content type="html"><![CDATA[23.10.04(수)&nbsp;11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조성모,김원준 콘서트 - 전주 (인터파크 티켓)]]></title>
