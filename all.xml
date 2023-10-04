@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-04T01:34:45.020Z</updated>
+    <updated>2023-10-04T02:35:42.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[임영웅 콘서트 IM HERO TOUR 2023 - 부산 (인터파크 티켓)]]></title>
@@ -17,6 +17,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48350&amp;groupno=48350&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-09-14T14:33:02.131Z</updated>
         <content type="html"><![CDATA[23.10.05(목)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 HAPPY LEO DAY '퇴근 후 택운할레오?' (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48670&amp;groupno=48670&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48670&amp;groupno=48670&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-10-04T02:35:04.896Z</updated>
+        <content type="html"><![CDATA[23.10.11(수)&nbsp;20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[피아니스트 임동혁 초청 〈라흐마니노프3 VS 브람스4〉 (인터파크 티켓)]]></title>
@@ -129,13 +136,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48653&amp;groupno=48653&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-09-27T05:33:28.602Z</updated>
         <content type="html"><![CDATA[23.10.05(목)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 <스모크> (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48652&amp;groupno=48652&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48652&amp;groupno=48652&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-09-27T05:33:28.605Z</updated>
-        <content type="html"><![CDATA[23.10.05(목)&nbsp;16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023 샘 스미스 내한공연 GLORIA the tour 추가오픈 (인터파크 티켓)]]></title>
