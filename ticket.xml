@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2023-10-30T06:35:30.952Z</updated>
+    <updated>2023-10-30T07:34:05.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48352&amp;groupno=48352&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-10-06T16:37:29.014Z</updated>
         <content type="html"><![CDATA[23.11.02(목)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 Colde Concert 'Blue Room']]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48988&amp;groupno=48988&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48988&amp;groupno=48988&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-10-30T07:33:27.773Z</updated>
+        <content type="html"><![CDATA[23.11.06(월)&nbsp;16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[청소년극 99%천재일기]]></title>
@@ -48,7 +55,7 @@
         <content type="html"><![CDATA[23.11.03(금)&nbsp;15:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[23' Merry christmas & Farewell]]></title>
+        <title type="html"><![CDATA[디어클라우드 소극장 콘서트 23' Merry Christmas & Farewell]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48982&amp;groupno=48982&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48982&amp;groupno=48982&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-10-30T03:33:01.775Z</updated>
@@ -130,13 +137,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48986&amp;groupno=48986&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-10-30T05:32:42.472Z</updated>
         <content type="html"><![CDATA[23.11.03(금)&nbsp;16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AKMU 2023~2024 CONCERT TOUR IN 수원 [AKMUTOPIA]]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48968&amp;groupno=48968&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48968&amp;groupno=48968&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-10-27T05:33:15.805Z</updated>
-        <content type="html"><![CDATA[23.11.01(수)&nbsp;16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[송영훈의 4 첼리스트 - 부에노스 아이레스 겨울]]></title>
