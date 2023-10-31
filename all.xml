@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-31T01:33:13.711Z</updated>
+    <updated>2023-10-31T02:35:00.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[임영웅 콘서트 IM HERO TOUR 2023 - 광주 (인터파크 티켓)]]></title>
@@ -17,6 +17,20 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48352&amp;groupno=48352&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-10-06T16:37:29.014Z</updated>
         <content type="html"><![CDATA[23.11.02(목)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11월 시스템 정기점검 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48995&amp;groupno=48995&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48995&amp;groupno=48995&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-10-31T02:34:20.989Z</updated>
+        <content type="html"><![CDATA[&nbsp;]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고은성 콘서트 My Favorite Things (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48994&amp;groupno=48994&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48994&amp;groupno=48994&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-10-31T02:34:20.998Z</updated>
+        <content type="html"><![CDATA[23.11.03(금)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박윤미의 춤愛 반하다 (인터파크 티켓)]]></title>
@@ -124,25 +138,11 @@
         <content type="html"><![CDATA[23.11.01(수)&nbsp;16:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 신년맞이 어떤가요 #7 ＂다짐＂ (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48977&amp;groupno=48977&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48977&amp;groupno=48977&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-10-27T09:33:06.977Z</updated>
-        <content type="html"><![CDATA[23.10.31(화)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[그랜드마스터클래스 2024 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48986&amp;groupno=48986&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48986&amp;groupno=48986&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-10-30T05:32:42.472Z</updated>
         <content type="html"><![CDATA[23.11.03(금)&nbsp;16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송영훈의 4 첼리스트 - 부에노스 아이레스 겨울 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48978&amp;groupno=48978&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=48978&amp;groupno=48978&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-10-29T23:33:11.436Z</updated>
-        <content type="html"><![CDATA[23.10.31(화)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프 팬미팅 〈BE HERE NOW〉 -온라인 생중계 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
