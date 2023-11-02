@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-02T14:33:37.191Z</updated>
+    <updated>2023-11-02T15:34:10.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023 성시경 연말 콘서트 〈성시경〉 (인터파크 티켓)]]></title>
@@ -17,13 +17,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48353&amp;groupno=48353&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-10-19T12:50:10.531Z</updated>
         <content type="html"><![CDATA[23.11.16(목)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 콘서트 IM HERO TOUR 2023 - 대전 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48352&amp;groupno=48352&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48352&amp;groupno=48352&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-10-06T16:37:29.014Z</updated>
-        <content type="html"><![CDATA[23.11.02(목)&nbsp;20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[찰리정 라이브 at 웨스트브릿지 (인터파크 티켓)]]></title>
