@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2023-11-03T05:33:46.767Z</updated>
+    <updated>2023-11-03T06:34:57.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -55,7 +55,7 @@
         <content type="html"><![CDATA[23.11.07(화)&nbsp;20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백세모의 Playlist]]></title>
+        <title type="html"><![CDATA[백형훈,기세중,임정모의 뮤지컬콘서트 - [백세모의 Playlist]]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49047&amp;groupno=49047&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49047&amp;groupno=49047&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-11-03T05:33:06.220Z</updated>
