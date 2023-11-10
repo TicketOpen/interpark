@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2023-11-10T05:33:46.180Z</updated>
+    <updated>2023-11-10T06:35:07.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=48353&amp;groupno=48353&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-10-19T12:50:10.531Z</updated>
         <content type="html"><![CDATA[23.11.16(목)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[떠돔 3부작]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49144&amp;groupno=49144&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49144&amp;groupno=49144&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-11-10T06:34:33.643Z</updated>
+        <content type="html"><![CDATA[23.11.14(화)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[〈팬텀싱어4〉 콘서트 Libelante X Fortena - 대전]]></title>
@@ -69,14 +76,14 @@
         <content type="html"><![CDATA[23.11.14(화)&nbsp;16:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이승철 전국투어 콘서트: RETRO Night - 울산]]></title>
+        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트: RETRO Night - 울산]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49130&amp;groupno=49130&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49130&amp;groupno=49130&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-11-10T05:33:08.006Z</updated>
         <content type="html"><![CDATA[23.11.14(화)&nbsp;15:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이승철 전국투어 콘서트: RETRO Night - 목포]]></title>
+        <title type="html"><![CDATA[2024 이승철 전국투어 콘서트: RETRO Night - 목포]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49129&amp;groupno=49129&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49129&amp;groupno=49129&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-11-10T05:33:08.008Z</updated>
@@ -102,13 +109,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49135&amp;groupno=49135&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-11-10T05:33:08.018Z</updated>
         <content type="html"><![CDATA[23.11.14(화)&nbsp;10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNOOPY JAZZ CHRISTMAS]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49125&amp;groupno=49125&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49125&amp;groupno=49125&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-11-10T04:32:42.247Z</updated>
-        <content type="html"><![CDATA[23.11.15(수)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[〈베르사유의 장미〉 뮤지컬 콘서트]]></title>
