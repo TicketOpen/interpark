@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2023-12-04T06:36:34.637Z</updated>
+    <updated>2023-12-04T07:33:13.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 장윤정 라이브 콘서트 - 남양주]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49415&amp;groupno=49415&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49415&amp;groupno=49415&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-12-04T07:32:41.238Z</updated>
+        <content type="html"><![CDATA[23.12.08(금)&nbsp;16:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈GLORY(글로리)〉]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49416&amp;groupno=49416&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -18,6 +25,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49406&amp;groupno=49406&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-12-04T05:32:42.285Z</updated>
         <content type="html"><![CDATA[23.12.08(금)&nbsp;11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 - 천안]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49417&amp;groupno=49417&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49417&amp;groupno=49417&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-12-04T07:32:41.240Z</updated>
+        <content type="html"><![CDATA[23.12.06(수)&nbsp;10:10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈달 샤베트〉]]></title>
@@ -102,20 +116,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49399&amp;groupno=49399&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-12-01T05:32:32.100Z</updated>
         <content type="html"><![CDATA[23.12.07(목)&nbsp;13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈행복을 찾아서〉 3차 오픈]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49395&amp;groupno=49395&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49395&amp;groupno=49395&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-12-01T05:32:32.100Z</updated>
-        <content type="html"><![CDATA[23.12.07(목)&nbsp;15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈템플〉 : 공연배달서비스 간다 20주년 퍼레이드]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49394&amp;groupno=49394&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49394&amp;groupno=49394&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-12-01T05:32:32.103Z</updated>
-        <content type="html"><![CDATA[23.12.08(금)&nbsp;15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리베란테 1st Concert ‘La Liberta']]></title>
