@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2023-12-11T02:41:09.519Z</updated>
+    <updated>2023-12-11T03:33:19.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 PARK SEO HAM FANMEETING 〈POSTBOXHAM : 서로, 함께〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49471&amp;groupno=49471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49471&amp;groupno=49471&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-12-11T03:32:47.409Z</updated>
+        <content type="html"><![CDATA[23.12.15(금)&nbsp;20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고은성 콘서트 My Favorite Things 앙코르]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49469&amp;groupno=49469&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -116,13 +123,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49454&amp;groupno=49454&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-12-08T03:32:40.413Z</updated>
         <content type="html"><![CDATA[23.12.12(화)&nbsp;12:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족뮤지컬 〈로보카폴리 - 잡아라! 황금트로피!〉 - 부산]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49453&amp;groupno=49453&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49453&amp;groupno=49453&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-12-08T01:37:22.440Z</updated>
-        <content type="html"><![CDATA[23.12.12(화)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈이기동 체육관〉]]></title>
