@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-20T08:33:12.079Z</updated>
+    <updated>2023-12-20T09:33:05.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 PARK SEO HAM FANMEETING 〈POSTBOXHAM : 서로, 함께〉 추가 좌.. (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49591&amp;groupno=49591&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49591&amp;groupno=49591&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-12-20T09:32:34.351Z</updated>
+        <content type="html"><![CDATA[23.12.22(금)&nbsp;20:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈프린세스공주〉 - 대구 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49580&amp;groupno=49580&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -122,13 +129,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49573&amp;groupno=49573&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-12-19T08:34:53.433Z</updated>
         <content type="html"><![CDATA[23.12.22(금)&nbsp;10:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이나믹 K 심포니 시리즈 3 - 베를리오즈 환상교향곡 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49572&amp;groupno=49572&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49572&amp;groupno=49572&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-12-19T06:34:49.485Z</updated>
-        <content type="html"><![CDATA[23.12.21(목)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프 팬미팅 〈BE HERE NOW〉 -온라인 생중계 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
