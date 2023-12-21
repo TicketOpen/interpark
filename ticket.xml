@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2023-12-21T04:35:18.668Z</updated>
+    <updated>2023-12-21T05:32:55.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 하현상 콘서트 〈With All My Heart〉 추가 좌석 오픈]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49600&amp;groupno=49600&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49600&amp;groupno=49600&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-12-21T05:32:22.187Z</updated>
+        <content type="html"><![CDATA[23.12.27(수)&nbsp;19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 박재정 콘서트 〈AND〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49598&amp;groupno=49598&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49598&amp;groupno=49598&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-12-21T05:32:22.188Z</updated>
+        <content type="html"><![CDATA[23.12.27(수)&nbsp;19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피지컬 시어터 〈네이처 오브 포겟팅〉 2023]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49597&amp;groupno=49597&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49597&amp;groupno=49597&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-12-21T05:32:22.188Z</updated>
+        <content type="html"><![CDATA[23.12.28(목)&nbsp;15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024  이은미 LIVE TOUR "녹턴" 목포공연]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49596&amp;groupno=49596&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49596&amp;groupno=49596&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2023-12-21T05:32:22.189Z</updated>
+        <content type="html"><![CDATA[23.12.27(수)&nbsp;14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 이승철 콘서트 RETRO NIGHT - 이천]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49595&amp;groupno=49595&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -48,13 +76,6 @@
         <content type="html"><![CDATA[23.12.22(금)&nbsp;20:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈프린세스공주〉 - 대구]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49580&amp;groupno=49580&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49580&amp;groupno=49580&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-12-20T08:32:33.597Z</updated>
-        <content type="html"><![CDATA[23.12.26(화)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 - 고고킹의 귀환〉 - 여주]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49590&amp;groupno=49590&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49590&amp;groupno=49590&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -83,25 +104,11 @@
         <content type="html"><![CDATA[23.12.22(금)&nbsp;09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뮤지컬 드라큘라 (Dracula：The Musical)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49581&amp;groupno=49581&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49581&amp;groupno=49581&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-12-20T06:32:45.720Z</updated>
-        <content type="html"><![CDATA[23.12.29(금)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뮤지컬 〈렌트〉]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49585&amp;groupno=49585&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49585&amp;groupno=49585&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-12-20T05:32:21.445Z</updated>
         <content type="html"><![CDATA[23.12.27(수)&nbsp;15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 통영국제음악제]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49582&amp;groupno=49582&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49582&amp;groupno=49582&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-12-20T05:32:21.446Z</updated>
-        <content type="html"><![CDATA[23.12.22(금)&nbsp;11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 봄에 내리는 젠틀레인 - We Get Requests]]></title>
@@ -111,18 +118,11 @@
         <content type="html"><![CDATA[23.12.22(금)&nbsp;13:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다이나믹 K 심포니 시리즈 1 - 로드리고 아랑후에스 기타 협주곡]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49583&amp;groupno=49583&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49583&amp;groupno=49583&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-12-20T05:32:21.456Z</updated>
-        <content type="html"><![CDATA[23.12.21(목)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈슈퍼히어로의 똥 닦는 법〉]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49589&amp;groupno=49589&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49589&amp;groupno=49589&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-12-20T08:32:33.626Z</updated>
-        <content type="html"><![CDATA[23.12.22(금)&nbsp;10:00]]></content>
+        <content type="html"><![CDATA[23.12.29(금)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지브리&히사이시 조 : 디 오케스트라]]></title>
