@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-01-02T07:33:18.607Z</updated>
+    <updated>2024-01-02T08:34:08.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 〈아기돼지삼형제〉 - 대전]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49668&amp;groupno=49668&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49668&amp;groupno=49668&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-02T08:33:33.515Z</updated>
+        <content type="html"><![CDATA[24.01.08(월)&nbsp;09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 가족버블콘서트 〈일루젼버블쇼 시즌2〉 - 광주]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49659&amp;groupno=49659&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49659&amp;groupno=49659&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-02T08:33:33.515Z</updated>
+        <content type="html"><![CDATA[24.01.05(금)&nbsp;09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문준호의 슈퍼매직쇼 '서울']]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49667&amp;groupno=49667&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -80,7 +94,7 @@
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49653&amp;groupno=49653&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49653&amp;groupno=49653&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-01-02T01:36:37.991Z</updated>
-        <content type="html"><![CDATA[24.01.05(금)&nbsp;14:00]]></content>
+        <content type="html"><![CDATA[24.01.05(금)&nbsp;15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트..]]></title>
@@ -88,13 +102,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49651&amp;groupno=49651&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-12-29T07:32:25.366Z</updated>
         <content type="html"><![CDATA[24.01.04(목)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽀로로 20주년 스페셜 매직 싱어롱쇼 〈슈퍼스타 뽀로로 드림콘서트..]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49647&amp;groupno=49647&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49647&amp;groupno=49647&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-12-29T07:32:25.366Z</updated>
-        <content type="html"><![CDATA[24.01.02(화)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 안동]]></title>
@@ -116,13 +123,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49649&amp;groupno=49649&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2023-12-29T05:32:29.052Z</updated>
         <content type="html"><![CDATA[24.01.03(수)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 더데빌：파우스트]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49648&amp;groupno=49648&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49648&amp;groupno=49648&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2023-12-29T05:32:29.055Z</updated>
-        <content type="html"><![CDATA[24.01.04(목)&nbsp;11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박진수 무반주 바이올린 리사이틀 - Bach to Bartok]]></title>
