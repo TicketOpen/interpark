@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-01-04T04:34:24.158Z</updated>
+    <updated>2024-01-04T05:33:05.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 Whee In 1ST CONCERT : WHEE IN THE MOOD]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49706&amp;groupno=49706&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49706&amp;groupno=49706&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-04T05:32:38.353Z</updated>
+        <content type="html"><![CDATA[24.01.10(수)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈은하철도의 밤〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49704&amp;groupno=49704&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49704&amp;groupno=49704&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-04T05:32:38.357Z</updated>
+        <content type="html"><![CDATA[24.01.11(목)&nbsp;11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피지컬 시어터 〈네이처 오브 포겟팅〉 2023]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49702&amp;groupno=49702&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49702&amp;groupno=49702&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-04T05:32:38.358Z</updated>
+        <content type="html"><![CDATA[24.01.05(금)&nbsp;15:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 영탁 단독 콘서트 〈TAK SHOW2: TAK'S WORLD〉 - 앵콜]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49699&amp;groupno=49699&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49699&amp;groupno=49699&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-04T05:32:38.361Z</updated>
+        <content type="html"><![CDATA[24.01.09(화)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 〈행복을 찾아서〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49698&amp;groupno=49698&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49698&amp;groupno=49698&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-04T05:32:38.363Z</updated>
+        <content type="html"><![CDATA[24.01.11(목)&nbsp;16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손민수 Curated 13 김세일]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49697&amp;groupno=49697&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49697&amp;groupno=49697&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-04T05:32:38.366Z</updated>
+        <content type="html"><![CDATA[24.01.05(금)&nbsp;18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아니메 OST 콘서트 〈원피스, 나루토, 귀멸의칼날〉]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49696&amp;groupno=49696&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -76,53 +118,11 @@
         <content type="html"><![CDATA[24.01.12(금)&nbsp;18:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지브리&히사이시 조 : 디 오케스트라 - 부산]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49685&amp;groupno=49685&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49685&amp;groupno=49685&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-03T06:35:05.679Z</updated>
-        <content type="html"><![CDATA[24.01.09(화)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지브리&히사이시 조 : 디 오케스트라 - 대구]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49684&amp;groupno=49684&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49684&amp;groupno=49684&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-03T06:35:05.680Z</updated>
-        <content type="html"><![CDATA[24.01.09(화)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지브리&히사이시 조 : 디 오케스트라 - 광주]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49683&amp;groupno=49683&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49683&amp;groupno=49683&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-03T06:35:05.680Z</updated>
-        <content type="html"><![CDATA[24.01.09(화)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈엘리펀트 송〉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49686&amp;groupno=49686&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49686&amp;groupno=49686&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-03T05:32:43.279Z</updated>
-        <content type="html"><![CDATA[24.01.09(화)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 빅3"행복한만남"〈강진,김용임,신승태〉-당진]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49682&amp;groupno=49682&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49682&amp;groupno=49682&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-03T03:32:33.752Z</updated>
-        <content type="html"><![CDATA[24.01.10(수)&nbsp;13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한스 짐머 영화음악 콘서트 WITH 라포엠]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49681&amp;groupno=49681&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49681&amp;groupno=49681&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-03T02:38:02.232Z</updated>
-        <content type="html"><![CDATA[24.01.04(목)&nbsp;15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 의정부]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49687&amp;groupno=49687&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49687&amp;groupno=49687&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-03T02:38:02.233Z</updated>
-        <content type="html"><![CDATA[24.01.05(금)&nbsp;14:00]]></content>
+        <title type="html"><![CDATA[대한민국뮤지컬페스티벌 - 제8회 한국뮤지컬어워즈]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49703&amp;groupno=49703&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49703&amp;groupno=49703&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-04T05:32:38.387Z</updated>
+        <content type="html"><![CDATA[24.01.08(월)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한수진과 브리티시 오리지널]]></title>
