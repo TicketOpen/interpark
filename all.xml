@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-10T23:33:18.052Z</updated>
+    <updated>2024-01-11T01:38:22.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈메리셸리〉 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49808&amp;groupno=49808&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49808&amp;groupno=49808&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-11T01:37:56.564Z</updated>
+        <content type="html"><![CDATA[24.01.18(목)&nbsp;13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024라이브가족뮤지컬 〈프린세스공주〉 - 부산 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49800&amp;groupno=49800&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -108,13 +115,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49791&amp;groupno=49791&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-01-10T01:37:50.698Z</updated>
         <content type="html"><![CDATA[24.01.18(목)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헥토파이낸셜] 한국씨티은행 작업 안내 (2024.01.10.수) (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49790&amp;groupno=49790&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49790&amp;groupno=49790&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-10T01:37:50.707Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 마포문화재단 신춘음악회 (인터파크 티켓)]]></title>
@@ -257,6 +257,13 @@
         <content type="html"><![CDATA[22.06.17(금)&nbsp;14:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뮤지컬 〈메리셸리〉 (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=49808&amp;groupno=49808&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=49808&amp;groupno=49808&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-11T01:38:06.702Z</updated>
+        <content type="html"><![CDATA[24.01.18(목)&nbsp;13:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024라이브가족뮤지컬 〈프린세스공주〉 - 부산 (인터파크 티켓 ─ 뮤지컬)]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=49800&amp;groupno=49800&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=49800&amp;groupno=49800&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -374,13 +381,6 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=49752&amp;groupno=49752&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-01-09T01:38:13.407Z</updated>
         <content type="html"><![CDATA[24.01.11(목)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브 가족뮤지컬 〈라푼젤〉 - 부산 (인터파크 티켓 ─ 뮤지컬)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=49751&amp;groupno=49751&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=49751&amp;groupno=49751&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-08T09:32:49.993Z</updated>
-        <content type="html"><![CDATA[24.01.12(금)&nbsp;09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 성시경 공식 팬클럽 [PURPLEOCEAN KOREA] (인터파크 티켓 ─ 팬클럽)]]></title>

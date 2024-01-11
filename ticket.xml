@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-01-10T23:33:18.042Z</updated>
+    <updated>2024-01-11T01:38:22.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈메리셸리〉]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49808&amp;groupno=49808&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49808&amp;groupno=49808&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-11T01:37:56.564Z</updated>
+        <content type="html"><![CDATA[24.01.18(목)&nbsp;13:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024라이브가족뮤지컬 〈프린세스공주〉 - 부산]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49800&amp;groupno=49800&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -109,13 +116,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49791&amp;groupno=49791&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-01-10T01:37:50.698Z</updated>
         <content type="html"><![CDATA[24.01.18(목)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[헥토파이낸셜] 한국씨티은행 작업 안내 (2024.01.10.수)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49790&amp;groupno=49790&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49790&amp;groupno=49790&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-10T01:37:50.707Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 마포문화재단 신춘음악회]]></title>
