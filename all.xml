@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-11T05:33:25.269Z</updated>
+    <updated>2024-01-11T06:36:10.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈겨울나그네〉 (인터파크 티켓)]]></title>
@@ -68,13 +68,6 @@
         <content type="html"><![CDATA[24.01.16(화)&nbsp;09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마술사 최형배의 〈오리지널 과학마술콘서트 시즌1〉-청주 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49799&amp;groupno=49799&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49799&amp;groupno=49799&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-10T09:33:00.173Z</updated>
-        <content type="html"><![CDATA[24.01.16(화)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[THE GREATEST : 전율 정동하X소향 - 경주 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49814&amp;groupno=49814&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49814&amp;groupno=49814&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -108,6 +101,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49802&amp;groupno=49802&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-01-10T05:33:12.656Z</updated>
         <content type="html"><![CDATA[24.01.15(월)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWESOME 팝소프라노 한아름 콘서트 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49817&amp;groupno=49817&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49817&amp;groupno=49817&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-11T06:35:39.393Z</updated>
+        <content type="html"><![CDATA[24.01.12(금)&nbsp;12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족어린이공연 〈버블버블쇼〉 - 수원 (인터파크 티켓)]]></title>
