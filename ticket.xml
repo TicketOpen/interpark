@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-01-18T23:33:05.106Z</updated>
+    <updated>2024-01-19T01:39:07.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 - 여수]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49916&amp;groupno=49916&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49916&amp;groupno=49916&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-19T01:38:35.682Z</updated>
+        <content type="html"><![CDATA[24.01.22(월)&nbsp;13:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 - 청주]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49915&amp;groupno=49915&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49915&amp;groupno=49915&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-19T01:38:35.683Z</updated>
+        <content type="html"><![CDATA[24.01.22(월)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헬로카봇 뮤지컬 시즌7 〈웰컴 투 파라다이스〉 - 울산]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49914&amp;groupno=49914&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49914&amp;groupno=49914&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-19T01:38:35.684Z</updated>
+        <content type="html"><![CDATA[24.01.23(화)&nbsp;14:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 YB TOUR LIGHTS : INFINITY - 대구]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49912&amp;groupno=49912&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -90,13 +111,6 @@
         <content type="html"><![CDATA[24.01.24(수)&nbsp;14:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2024_안산]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49899&amp;groupno=49899&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49899&amp;groupno=49899&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-18T02:41:47.309Z</updated>
-        <content type="html"><![CDATA[24.01.24(수)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈급식걸즈 - 뿌슝빠슝 깨져버린 우정〉 - 인천]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49905&amp;groupno=49905&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49905&amp;groupno=49905&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -109,20 +123,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49903&amp;groupno=49903&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-01-18T01:37:18.960Z</updated>
         <content type="html"><![CDATA[24.01.25(목)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학로 1위 연극 〈쉬어매드니스〉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49898&amp;groupno=49898&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49898&amp;groupno=49898&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-17T05:32:59.963Z</updated>
-        <content type="html"><![CDATA[24.01.19(금)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손열음 스베틀린 루세브 듀오 리사이틀]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49897&amp;groupno=49897&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49897&amp;groupno=49897&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-17T05:32:59.974Z</updated>
-        <content type="html"><![CDATA[24.01.19(금)&nbsp;15:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JUST DANCE 14주년 콘서트]]></title>
