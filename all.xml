@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-23T01:40:08.731Z</updated>
+    <updated>2024-01-23T02:43:11.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연극 〈행복을 찾아서〉 추가 회차 오픈 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49951&amp;groupno=49951&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49951&amp;groupno=49951&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-01-23T02:42:39.076Z</updated>
+        <content type="html"><![CDATA[24.01.26(금)&nbsp;15:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족뮤지컬 〈꼬마버스 타요 - 용감한 구조대 레스큐 타요〉 - 부산 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49950&amp;groupno=49950&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -108,13 +115,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49937&amp;groupno=49937&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-01-22T02:44:36.076Z</updated>
         <content type="html"><![CDATA[24.01.23(화)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종문화회관 〈2024 세종시즌〉 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49934&amp;groupno=49934&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=49934&amp;groupno=49934&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-01-22T01:42:00.810Z</updated>
-        <content type="html"><![CDATA[24.01.24(수)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[두드림페스티벌 2024 깐돌이와 친구들 (인터파크 티켓)]]></title>
