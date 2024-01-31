@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-31T05:33:13.391Z</updated>
+    <updated>2024-01-31T06:33:12.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2024 라비던스 단독 콘서트 〈SUDDENLY FESTIVAL〉 - 성남 (인터파크 티켓)]]></title>
@@ -103,7 +103,7 @@
         <content type="html"><![CDATA[24.02.05(월)&nbsp;13:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fortena concert ‘Empire in Daegu’ (인터파크 티켓)]]></title>
+        <title type="html"><![CDATA[포르테나 콘서트 ‘Empire in Daegu’ (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50028&amp;groupno=50028&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50028&amp;groupno=50028&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-01-30T06:32:43.537Z</updated>
