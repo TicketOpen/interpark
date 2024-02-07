@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-02-07T07:33:07.043Z</updated>
+    <updated>2024-02-07T08:33:24.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가최고야〉 - 울산]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50146&amp;groupno=50146&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50146&amp;groupno=50146&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-02-07T08:32:48.823Z</updated>
+        <content type="html"><![CDATA[24.02.14(수)&nbsp;09:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 글렌체크 x 솔루션스 〈 SUDDENLY FESTIVAL 〉 - 부산]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50145&amp;groupno=50145&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -116,13 +123,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50133&amp;groupno=50133&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-02-07T04:32:47.960Z</updated>
         <content type="html"><![CDATA[24.02.14(수)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 케니 지(Kenny G) 월드투어 내한공연 - 서울]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50132&amp;groupno=50132&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50132&amp;groupno=50132&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-02-07T02:32:22.047Z</updated>
-        <content type="html"><![CDATA[24.02.14(수)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈마리 앙투아네트〉 10주년 기념공연]]></title>
