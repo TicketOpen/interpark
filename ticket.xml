@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-02-13T06:34:47.975Z</updated>
+    <updated>2024-02-13T07:33:03.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[24.02.19(월)&nbsp;09:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 JUNG YONG HWA LIVE ‘D-FREE’]]></title>
+        <title type="html"><![CDATA[2024 JUNG YONG HWA 'D-FREE' LIVE]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50200&amp;groupno=50200&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50200&amp;groupno=50200&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-02-13T04:32:31.014Z</updated>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[24.02.16(금)&nbsp;17:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대전] 2024 김범수 25주년 기념 콘서트 〈여행, The Original〉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50188&amp;groupno=50188&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50188&amp;groupno=50188&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-02-08T09:32:47.142Z</updated>
-        <content type="html"><![CDATA[24.02.16(금)&nbsp;18:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4D공포연극 〈스위치〉]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50191&amp;groupno=50191&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50191&amp;groupno=50191&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-02-13T01:30:41.762Z</updated>
         <content type="html"><![CDATA[24.02.15(목)&nbsp;09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강릉 처음처럼＆새로 브랜드 체험관 얼리버드]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=976&amp;groupno=976&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=976&amp;groupno=976&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-02-13T07:32:20.892Z</updated>
+        <content type="html"><![CDATA[24.02.08(목)&nbsp;12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[［11시＆브런치］Vol.1 이지혜X김성식 뮤지컬 콘서트 - 구리]]></title>
