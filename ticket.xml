@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-02-14T07:33:09.262Z</updated>
+    <updated>2024-02-14T08:33:26.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[24.02.14(수)&nbsp;12:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[강릉 처음처럼＆새로 브랜드 체험관]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=977&amp;groupno=977&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=977&amp;groupno=977&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-02-14T08:32:58.001Z</updated>
+        <content type="html"><![CDATA[24.02.15(목)&nbsp;12:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 〈미스트〉 1차]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50237&amp;groupno=50237&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50237&amp;groupno=50237&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-02-14T08:32:58.004Z</updated>
+        <content type="html"><![CDATA[24.02.16(금)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[자우림 팬 콘서트 '러브공작단 시크릿 쥬-주 총회']]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50234&amp;groupno=50234&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50234&amp;groupno=50234&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-02-14T07:32:37.787Z</updated>
-        <content type="html"><![CDATA[24.02.16(금)&nbsp;16:00]]></content>
+        <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈넥스트 투 노멀〉 2차]]></title>
@@ -125,24 +139,10 @@
         <content type="html"><![CDATA[24.02.16(금)&nbsp;19:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지브리 디즈니 마블 OST 재즈오케스트라 대전콘서트]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50217&amp;groupno=50217&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50217&amp;groupno=50217&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-02-14T03:32:43.817Z</updated>
-        <content type="html"><![CDATA[24.02.20(화)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[한국 영화음악 콘서트 WITH 리베란테]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50219&amp;groupno=50219&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50219&amp;groupno=50219&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-02-14T02:03:21.885Z</updated>
         <content type="html"><![CDATA[24.02.22(목)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2월 시스템 점검 공지_20240228]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50218&amp;groupno=50218&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50218&amp;groupno=50218&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-02-14T02:03:21.887Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
 </feed>
