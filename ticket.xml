@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-02-16T08:33:02.180Z</updated>
+    <updated>2024-02-16T09:33:15.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 Soundberry Theater]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50278&amp;groupno=50278&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50278&amp;groupno=50278&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-02-16T09:32:47.645Z</updated>
+        <content type="html"><![CDATA[24.02.19(월)&nbsp;18:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈아기돼지삼형제〉 - 인천]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50270&amp;groupno=50270&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
@@ -108,21 +115,14 @@
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50263&amp;groupno=50263&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50263&amp;groupno=50263&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-02-16T01:30:46.412Z</updated>
-        <content type="html"><![CDATA[24.02.20(화)&nbsp;00:00]]></content>
+        <content type="html"><![CDATA[24.02.20(화)&nbsp;11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈달 샤베트〉 - 창원]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50262&amp;groupno=50262&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50262&amp;groupno=50262&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-02-16T01:30:46.412Z</updated>
-        <content type="html"><![CDATA[24.02.20(화)&nbsp;00:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100% 무한 애드리브 코믹 누와르, 〈킬러가온다〉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50260&amp;groupno=50260&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50260&amp;groupno=50260&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-02-16T01:30:46.418Z</updated>
-        <content type="html"><![CDATA[24.02.20(화)&nbsp;10:00]]></content>
+        <content type="html"><![CDATA[24.02.20(화)&nbsp;11:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 한글용사 아이야 〈사라진 한글을 찾아라!〉 - 고양]]></title>
