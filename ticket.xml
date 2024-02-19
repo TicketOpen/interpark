@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-02-19T02:33:42.832Z</updated>
+    <updated>2024-02-19T03:33:32.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50281&amp;groupno=50281&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-02-19T02:33:15.187Z</updated>
         <content type="html"><![CDATA[24.02.22(목)&nbsp;09:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[히사이시 조 영화음악 콘서트 2024_서울]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50285&amp;groupno=50285&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50285&amp;groupno=50285&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-02-19T03:32:57.802Z</updated>
+        <content type="html"><![CDATA[24.02.23(금)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지브리 페스티벌]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50284&amp;groupno=50284&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50284&amp;groupno=50284&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-02-19T03:32:57.807Z</updated>
+        <content type="html"><![CDATA[24.02.22(목)&nbsp;16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 〈플레이백〉 - 대구]]></title>
@@ -123,19 +137,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50283&amp;groupno=50283&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-02-19T02:33:15.210Z</updated>
         <content type="html"><![CDATA[24.02.21(수)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 싱어게인3 TOP10 전국투어 - 울산]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50267&amp;groupno=50267&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50267&amp;groupno=50267&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-02-16T02:02:27.152Z</updated>
-        <content type="html"><![CDATA[24.02.22(목)&nbsp;16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 싱어게인3 TOP10 전국투어 - 고양]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50266&amp;groupno=50266&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50266&amp;groupno=50266&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-02-16T02:02:27.153Z</updated>
-        <content type="html"><![CDATA[24.02.22(목)&nbsp;15:00]]></content>
     </entry>
 </feed>
