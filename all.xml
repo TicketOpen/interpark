@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-07T02:33:09.128Z</updated>
+    <updated>2024-03-07T03:33:02.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SEVENTEEN TOUR 'FOLLOW' AGAIN TO INCHEON (인터파크 티켓)]]></title>
@@ -10,6 +10,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50286&amp;groupno=50286&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-03-05T10:35:18.806Z</updated>
         <content type="html"><![CDATA[24.03.08(금)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jesse+Albert 내한공연 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50568&amp;groupno=50568&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50568&amp;groupno=50568&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-07T03:32:26.899Z</updated>
+        <content type="html"><![CDATA[24.03.14(목)&nbsp;12:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 <친구의 전설> - 하남 (인터파크 티켓)]]></title>
@@ -122,13 +129,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50551&amp;groupno=50551&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-03-06T06:33:55.728Z</updated>
         <content type="html"><![CDATA[24.03.12(화)&nbsp;13:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 온앤오프(ONF) CONCERT [SPOTLIGHT] IN SEOUL (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50550&amp;groupno=50550&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50550&amp;groupno=50550&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-06T05:33:02.715Z</updated>
-        <content type="html"><![CDATA[24.03.15(금)&nbsp;20:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바이올리니스트 김계희 & 피아니스트 조지 할리오노 듀오 콘서트 (인터파크 티켓)]]></title>
