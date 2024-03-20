@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-03-20T08:33:34.214Z</updated>
+    <updated>2024-03-20T09:33:03.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -20,10 +20,24 @@
         <content type="html"><![CDATA[24.03.20(수)&nbsp;20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SURL concert '?YRU?']]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50751&amp;groupno=50751&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50751&amp;groupno=50751&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-20T09:32:34.372Z</updated>
+        <content type="html"><![CDATA[24.03.27(수)&nbsp;19:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PEAK FESTIVAL 2024 얼리버드]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50750&amp;groupno=50750&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50750&amp;groupno=50750&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-20T09:32:34.374Z</updated>
+        <content type="html"><![CDATA[24.03.21(목)&nbsp;18:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 앤서니브라운 가족뮤지컬 〈우리아빠가 최고야〉 - 파주]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50749&amp;groupno=50749&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50749&amp;groupno=50749&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-20T08:33:03.732Z</updated>
+        <updated>2024-03-20T09:32:34.380Z</updated>
         <content type="html"><![CDATA[24.03.26(화)&nbsp;09:00]]></content>
     </entry>
     <entry>
@@ -130,19 +144,5 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50734&amp;groupno=50734&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-03-20T01:29:40.639Z</updated>
         <content type="html"><![CDATA[24.03.25(월)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미스터트롯2 진선미 콘서트 [트롯트립] - 대구]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50732&amp;groupno=50732&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50732&amp;groupno=50732&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-20T01:29:40.639Z</updated>
-        <content type="html"><![CDATA[24.03.25(월)&nbsp;15:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미스터트롯2 진선미 콘서트 [트롯트립] - 춘천]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50731&amp;groupno=50731&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50731&amp;groupno=50731&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-20T01:29:40.642Z</updated>
-        <content type="html"><![CDATA[24.03.25(월)&nbsp;16:00]]></content>
     </entry>
 </feed>
