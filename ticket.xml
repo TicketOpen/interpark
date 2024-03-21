@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-03-21T07:33:04.719Z</updated>
+    <updated>2024-03-21T08:33:35.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -20,11 +20,18 @@
         <content type="html"><![CDATA[24.03.21(목)&nbsp;20:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈캣프렌즈〉 - 인천]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50768&amp;groupno=50768&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50768&amp;groupno=50768&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-21T08:33:02.799Z</updated>
+        <content type="html"><![CDATA[24.03.27(수)&nbsp;09:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[연극 〈스카팽〉 - 군포]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50766&amp;groupno=50766&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50766&amp;groupno=50766&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-03-21T07:32:34.049Z</updated>
-        <content type="html"><![CDATA[24.03.29(금)&nbsp;14:00]]></content>
+        <content type="html"><![CDATA[24.03.29(금)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 가족어린이공연 〈공룡애니멀쇼〉 - 울산]]></title>
@@ -123,13 +130,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50745&amp;groupno=50745&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-03-20T05:32:52.594Z</updated>
         <content type="html"><![CDATA[24.03.27(수)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손태진 ＆ 에녹 디너콘서트]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50744&amp;groupno=50744&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50744&amp;groupno=50744&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-20T05:32:52.594Z</updated>
-        <content type="html"><![CDATA[24.03.25(월)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 짬뽕]]></title>
