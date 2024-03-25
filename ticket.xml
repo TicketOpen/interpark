@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-03-25T07:32:59.346Z</updated>
+    <updated>2024-03-25T08:34:36.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50796&amp;groupno=50796&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50796&amp;groupno=50796&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-03-25T05:32:27.354Z</updated>
-        <content type="html"><![CDATA[&nbsp;]]></content>
+        <content type="html"><![CDATA[추후공지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈헤드윅〉]]></title>
@@ -32,13 +32,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50793&amp;groupno=50793&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-03-25T05:32:27.355Z</updated>
         <content type="html"><![CDATA[24.03.28(목)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 스카 페스티벌<창원> - Back to the 90's Fever]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50792&amp;groupno=50792&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50792&amp;groupno=50792&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-25T04:33:25.623Z</updated>
-        <content type="html"><![CDATA[24.03.28(목)&nbsp;13:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연극 <존경하는 엘레나 선생님>]]></title>
@@ -123,6 +116,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50782&amp;groupno=50782&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-03-22T07:32:35.208Z</updated>
         <content type="html"><![CDATA[24.03.27(수)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈고고다이노 - 고고킹의 귀환〉 - 울산]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50780&amp;groupno=50780&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50780&amp;groupno=50780&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-25T08:34:00.112Z</updated>
+        <content type="html"><![CDATA[추후공지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엔젤 콘서트 (Angel Concert)]]></title>
