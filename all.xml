@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-24T23:33:11.247Z</updated>
+    <updated>2024-03-25T01:32:53.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SEVENTEEN TOUR 'FOLLOW' AGAIN TO SEOUL (인터파크 티켓)]]></title>
@@ -10,6 +10,41 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;sflag=T&amp;no=50587&amp;groupno=50587&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-03-24T01:36:39.202Z</updated>
         <content type="html"><![CDATA[24.03.29(금)&nbsp;20:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코믹 뮤지컬  <5! 해피맨> (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50787&amp;groupno=50787&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50787&amp;groupno=50787&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-25T01:32:23.236Z</updated>
+        <content type="html"><![CDATA[24.04.12(금)&nbsp;10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈인어공주〉 안산 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50786&amp;groupno=50786&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50786&amp;groupno=50786&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-25T01:32:23.238Z</updated>
+        <content type="html"><![CDATA[24.03.27(수)&nbsp;10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 변진섭 전국투어 콘서트 : 변천사 - 전주 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50785&amp;groupno=50785&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50785&amp;groupno=50785&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-25T01:32:23.238Z</updated>
+        <content type="html"><![CDATA[24.03.28(목)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김정민 전국투어 콘서트 : LIVE STAR - 전주 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50784&amp;groupno=50784&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50784&amp;groupno=50784&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-25T01:32:23.242Z</updated>
+        <content type="html"><![CDATA[24.03.28(목)&nbsp;16:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「오얏꽃등 밝힌 창덕궁의 밤」 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=982&amp;groupno=982&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=982&amp;groupno=982&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-25T01:32:23.243Z</updated>
+        <content type="html"><![CDATA[24.03.28(목)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈인어공주〉 - 안양 (인터파크 티켓)]]></title>
@@ -101,41 +136,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50771&amp;groupno=50771&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-03-22T01:29:36.508Z</updated>
         <content type="html"><![CDATA[&nbsp;]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넌버벌 코미디 <옹알스> 티켓오픈 안내 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50770&amp;groupno=50770&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50770&amp;groupno=50770&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-22T01:29:36.512Z</updated>
-        <content type="html"><![CDATA[24.03.22(금)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［피크닉#1] 연극 〈엠. 버터플라이〉 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50769&amp;groupno=50769&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50769&amp;groupno=50769&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-21T09:32:30.301Z</updated>
-        <content type="html"><![CDATA[24.03.26(화)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 〈파가니니〉 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50767&amp;groupno=50767&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50767&amp;groupno=50767&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-21T09:32:30.301Z</updated>
-        <content type="html"><![CDATA[24.03.28(목)&nbsp;16:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈캣프렌즈〉 - 인천 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50768&amp;groupno=50768&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50768&amp;groupno=50768&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-21T08:33:02.799Z</updated>
-        <content type="html"><![CDATA[24.03.27(수)&nbsp;09:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연극 〈스카팽〉 - 군포 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50766&amp;groupno=50766&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50766&amp;groupno=50766&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-21T07:32:34.049Z</updated>
-        <content type="html"><![CDATA[24.04.29(월)&nbsp;10:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[온앤오프 팬미팅 〈BE HERE NOW〉 -온라인 생중계 티켓오픈 안내 (인터파크 티켓 ─ 온라인)]]></title>
@@ -264,6 +264,20 @@
         <content type="html"><![CDATA[22.06.17(금)&nbsp;14:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[코믹 뮤지컬  <5! 해피맨> (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=50787&amp;groupno=50787&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=50787&amp;groupno=50787&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-25T01:32:35.350Z</updated>
+        <content type="html"><![CDATA[24.04.12(금)&nbsp;10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족뮤지컬 〈인어공주〉 안산 (인터파크 티켓 ─ 뮤지컬)]]></title>
+        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=50786&amp;groupno=50786&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=50786&amp;groupno=50786&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-03-25T01:32:35.350Z</updated>
+        <content type="html"><![CDATA[24.03.27(수)&nbsp;10:00]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈인어공주〉 - 안양 (인터파크 티켓 ─ 뮤지컬)]]></title>
         <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=50783&amp;groupno=50783&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=50783&amp;groupno=50783&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -367,20 +381,6 @@
         <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=50739&amp;groupno=50739&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-03-20T02:01:40.451Z</updated>
         <content type="html"><![CDATA[24.03.26(화)&nbsp;11:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬〈데미안〉 (인터파크 티켓 ─ 뮤지컬)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=50719&amp;groupno=50719&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=50719&amp;groupno=50719&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-19T05:32:40.223Z</updated>
-        <content type="html"><![CDATA[24.03.26(화)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2024) 뮤지컬 〈아기돼지 삼형제〉 - 광주 (인터파크 티켓 ─ 뮤지컬)]]></title>
-        <id>http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=50716&amp;groupno=50716&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/webzine/paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=%B9%C2%C1%F6%C4%C3&amp;no=50716&amp;groupno=50716&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-19T01:30:34.365Z</updated>
-        <content type="html"><![CDATA[24.03.21(목)&nbsp;09:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뮤지컬 〈미스트〉 (인터파크 티켓 ─ 뮤지컬)]]></title>
