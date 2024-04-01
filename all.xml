@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TicketOpen.github.io/interpark/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-01T22:32:50.090Z</updated>
+    <updated>2024-04-01T23:33:42.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2024 YB TOUR LIGHTS ; INFINITY - 서울 (인터파크 티켓)]]></title>
@@ -103,13 +103,6 @@
         <content type="html"><![CDATA[24.04.11(목)&nbsp;10:00]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 실리카겔 단독공연 〈Syn.THE.Size Ⅲ〉 (인터파크 티켓)]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50852&amp;groupno=50852&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50852&amp;groupno=50852&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-03-29T09:32:24.703Z</updated>
-        <content type="html"><![CDATA[24.04.05(금)&nbsp;20:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뮤지컬 〈낭만별곡〉 (인터파크 티켓)]]></title>
         <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50853&amp;groupno=50853&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50853&amp;groupno=50853&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
@@ -122,6 +115,13 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50854&amp;groupno=50854&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-04-01T01:38:13.428Z</updated>
         <content type="html"><![CDATA[24.04.04(목)&nbsp;11:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재능 혜화 마티네 (인터파크 티켓)]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50871&amp;groupno=50871&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50871&amp;groupno=50871&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-04-01T23:33:04.655Z</updated>
+        <content type="html"><![CDATA[24.04.18(목)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쁘띠꼬숑 클래식 그리다 콘서트 (인터파크 티켓)]]></title>
