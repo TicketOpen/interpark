@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeList_iFrame.asp?bbsno=34&amp;pageno=0&amp;stext=&amp;KindOfGoods=&amp;Genre=&amp;sort=</id>
     <title>인터파크 티켓</title>
-    <updated>2024-04-02T03:33:00.899Z</updated>
+    <updated>2024-04-02T04:35:51.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://ticket.interpark.com/Webzine/Paper/favicon.ico</icon>
     <entry>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[&nbsp;]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 라이브가족뮤지컬 〈브레멘음악대〉 - 수원]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50861&amp;groupno=50861&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50861&amp;groupno=50861&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-04-01T06:34:00.990Z</updated>
-        <content type="html"><![CDATA[24.04.04(목)&nbsp;09:00]]></content>
+        <title type="html"><![CDATA[아디오스 피아졸라, 라이브 탱고 - 서울]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50878&amp;groupno=50878&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50878&amp;groupno=50878&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-04-02T04:35:12.894Z</updated>
+        <content type="html"><![CDATA[24.04.04(목)&nbsp;14:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SAL Artists 〈크로스오버 스탠딩 콘서트 "N-ART"〉]]></title>
@@ -109,13 +109,6 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50865&amp;groupno=50865&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-04-01T07:33:02.885Z</updated>
         <content type="html"><![CDATA[24.04.05(금)&nbsp;14:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악극 〈섬:1933~2019〉]]></title>
-        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50860&amp;groupno=50860&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
-        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50860&amp;groupno=50860&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
-        <updated>2024-04-01T05:33:14.315Z</updated>
-        <content type="html"><![CDATA[24.04.04(목)&nbsp;16:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나폴리탄 악몽 산책]]></title>
@@ -130,5 +123,12 @@
         <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=34&amp;pageno=1&amp;stext=&amp;no=50871&amp;groupno=50871&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
         <updated>2024-04-01T23:33:04.655Z</updated>
         <content type="html"><![CDATA[24.04.18(목)&nbsp;14:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 (제 31회) 연천 구석기 축제]]></title>
+        <id>http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=986&amp;groupno=986&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate</id>
+        <link href="http://ticket.interpark.com/Webzine/Paper/TPNoticeView.asp?bbsno=53&amp;pageno=1&amp;stext=&amp;no=986&amp;groupno=986&amp;seq=0&amp;KindOfGoods=TICKET&amp;Genre=&amp;sort=WriteDate"/>
+        <updated>2024-04-02T04:35:12.900Z</updated>
+        <content type="html"><![CDATA[24.03.29(금)&nbsp;14:00]]></content>
     </entry>
 </feed>
